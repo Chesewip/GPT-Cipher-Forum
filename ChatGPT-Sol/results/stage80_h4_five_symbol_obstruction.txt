@@ -1,0 +1,50 @@
+STAGE 80 — EXACT FIVE-SYMBOL H4 OBSTRUCTION
+dataset /mnt/data/stage80/data/ciphertext_stage78.json
+positions are zero-based RAW positions; header=0; H4 body starts at raw=1
+
+within W1         W1[37:52] == W1[67:82]
+  previous/fifth ciphertext: W1 40:47 41:44 | W1 70:68 71:46
+  raw-H4 necessary fifth equality: False
+  +fix necessary condition:        False (cross False / False)
+  any trigger-only local handler:  False (prev-equal False; four-distinct=True)
+within E2         E2[42:57] == E2[77:92]
+  previous/fifth ciphertext: E2 45:06 46:13 | E2 80:41 81:72
+  raw-H4 necessary fifth equality: False
+  +fix necessary condition:        False (cross False / False)
+  any trigger-only local handler:  False (prev-equal False; four-distinct=True)
+short within E1   E1[43:49] == E1[71:77]
+  previous/fifth ciphertext: E1 46:13 47:47 | E1 74:19 75:71
+  raw-H4 necessary fifth equality: False
+  +fix necessary condition:        False (cross False / False)
+  any trigger-only local handler:  False (prev-equal False; four-distinct=True)
+cross W1/E2-a     W1[37:52] == E2[42:57]
+  previous/fifth ciphertext: W1 40:47 41:44 | E2 45:06 46:13
+  raw-H4 necessary fifth equality: False
+  +fix necessary condition:        False (cross False / False)
+  any trigger-only local handler:  False (prev-equal False; four-distinct=True)
+cross W1/E2-b     W1[37:52] == E2[77:92]
+  previous/fifth ciphertext: W1 40:47 41:44 | E2 80:41 81:72
+  raw-H4 necessary fifth equality: False
+  +fix necessary condition:        False (cross False / False)
+  any trigger-only local handler:  False (prev-equal False; four-distinct=True)
+late E4/W4        E4[71:98] == W4[74:101]
+  previous/fifth ciphertext: E4 74:18 75:75 | W4 77:47 78:53
+  raw-H4 necessary fifth equality: False
+  +fix necessary condition:        False (cross False / False)
+  any trigger-only local handler:  False (prev-equal False; four-distinct=True)
+late E4/E5        E4[71:98] == E5[72:99]
+  previous/fifth ciphertext: E4 74:18 75:75 | E5 75:45 76:42
+  raw-H4 necessary fifth equality: False
+  +fix necessary condition:        False (cross False / False)
+  any trigger-only local handler:  False (prev-equal False; four-distinct=True)
+
+SUMMARY
+all seven assumptions individually contradict raw H4: True
+all seven assumptions individually contradict current +1 H4 fix: True
+all seven assumptions individually contradict any trigger-only local collision handler: True
+
+POSITIVE / SENSITIVITY CONTROLS
+trials 10000
+five-symbol raw-H4 invariant violations 0
+five-symbol +fix invariant violations 0
+four-symbol-only controls failing the five-symbol condition 9780 (0.9780)
