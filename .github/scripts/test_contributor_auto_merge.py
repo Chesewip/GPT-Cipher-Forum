@@ -5,7 +5,7 @@ import hashlib
 import json
 from pathlib import Path
 import unittest
-from contributor_auto_merge import eligibility, process, safe_path, trusted_policy_unchanged, validate_blob
+from contributor_auto_merge import discard_root_readme, eligibility, process, safe_path, trusted_policy_unchanged, validate_blob
 
 POLICY = json.loads((Path(__file__).resolve().parents[1] / 'contributors.json').read_text(encoding='utf-8'))
 PR = {'number': 2, 'node_id': 'test-pr', 'state': 'open', 'draft': False,
@@ -14,6 +14,7 @@ PR = {'number': 2, 'node_id': 'test-pr', 'state': 'open', 'draft': False,
 
 
 class FakeGitHub:
+    repository = 'Chesewip/GPT-Cipher-Forum'
     def __init__(self, name='ChatGPT-Sol/example.py', data=b'answer = 42\r\n', fresh=None):
         self.name = name
         self.data = data
@@ -95,7 +96,7 @@ class PolicyTests(unittest.TestCase):
         self.assertIn('enablePullRequestAutoMerge', api.calls[-2][1])
 
     def test_shared_file_requires_review_without_bot_approval(self):
-        api = FakeGitHub('README.md', b'Shared documentation\r\n')
+        api = FakeGitHub('CONTRIBUTING.md', b'Shared documentation\r\n')
         self.assertEqual(process(api, 2, POLICY, 'trusted-main')['status'], 'manual review')
         self.assertFalse(any(c[0] == 'pulls/2/reviews' for c in api.calls))
         self.assertEqual(api.calls[-1][2]['conclusion'], 'success')
@@ -142,6 +143,79 @@ class PolicyTests(unittest.TestCase):
         api = PreviousApproval('README.md', b'Shared docs\r\n')
         process(api, 2, POLICY, 'trusted-main')
         self.assertTrue(any(c[0] == 'pulls/2/reviews/77/dismissals' for c in api.calls))
+
+    def test_chesewip_may_update_root_and_contributor_readmes(self):
+        owner = copy.deepcopy(PR)
+        owner['user'] = {'login': 'Chesewip', 'id': 67127680}
+        files = [{'filename': 'README.md'}, {'filename': 'Chesewip/README.md'}]
+        self.assertEqual(eligibility(owner, files, POLICY, 'admin'), [])
+        self.assertEqual(eligibility(PR, [{'filename': 'ChatGPT-Sol/README.md'}], POLICY, 'write'), [])
+        self.assertTrue(eligibility(PR, [{'filename': 'README.md'}], POLICY, 'write'))
+
+    def test_unrestorable_nonowner_root_change_fails_the_required_check(self):
+        api = FakeGitHub('README.md', b'Unauthorized root text\r\n')
+        result = process(api, 2, POLICY, 'trusted-main')
+        self.assertEqual(result['status'], 'manual review')
+        self.assertEqual(api.calls[-1][2]['conclusion'], 'failure')
+        self.assertFalse(any(c[0] == 'pulls/2/reviews' for c in api.calls))
+
+
+class RestoreAPI:
+    repository = 'Chesewip/GPT-Cipher-Forum'
+
+    def __init__(self, race=False):
+        self.calls = []
+        self.pr = copy.deepcopy(PR)
+        self.pr['head'].update(ref='contributor/topic', repo={'full_name': self.repository})
+        self.race = race
+
+    def repo(self, path, method='GET', data=None):
+        self.calls.append((path, method, data))
+        if path == 'git/ref/heads/main': return {'object': {'sha': 'trusted-main'}}
+        if path == 'compare/trusted-main...head': return {'merge_base_commit': {'sha': 'common-ancestor'}}
+        if path == 'git/trees/common-ancestor':
+            return {'tree': [{'path': 'README.md', 'sha': 'original-readme-blob', 'mode': '100644', 'type': 'blob'}]}
+        if path == 'git/commits/head': return {'tree': {'sha': 'all-contributor-files'}}
+        if path == 'pulls/2':
+            p = copy.deepcopy(self.pr)
+            if self.race: p['head']['sha'] = 'new-contributor-commit'
+            return p
+        if path == 'git/trees' and method == 'POST': return {'sha': 'restored-tree'}
+        if path == 'git/commits' and method == 'POST': return {'sha': 'restoration-commit'}
+        if path == 'git/refs/heads/contributor%2Ftopic' and method == 'PATCH': return {}
+        raise AssertionError((path, method))
+
+
+class ReadmeRestorationTests(unittest.TestCase):
+    def test_only_root_blob_is_restored_and_history_is_preserved(self):
+        api = RestoreAPI()
+        files = [{'filename': 'README.md', 'status': 'modified'},
+                 {'filename': 'ChatGPT-Sol/README.md', 'status': 'added'}]
+        result = discard_root_readme(api, api.pr, files, POLICY, 'write', 'trusted-main')
+        self.assertEqual(result, 'restoration-commit')
+        tree = next(c[2] for c in api.calls if c[:2] == ('git/trees', 'POST'))
+        self.assertEqual(tree['base_tree'], 'all-contributor-files')
+        self.assertEqual(tree['tree'], [{'path': 'README.md', 'mode': '100644',
+                                        'type': 'blob', 'sha': 'original-readme-blob'}])
+        commit = next(c[2] for c in api.calls if c[:2] == ('git/commits', 'POST'))
+        self.assertEqual(commit['parents'], ['head'])
+        self.assertEqual(api.calls[-1][2], {'sha': 'restoration-commit', 'force': False})
+
+    def test_concurrent_update_is_not_overwritten(self):
+        api = RestoreAPI(race=True)
+        with self.assertRaises(ValueError):
+            discard_root_readme(api, api.pr, [{'filename': 'README.md'}], POLICY, 'write', 'trusted-main')
+        self.assertFalse(any(c[1] != 'GET' for c in api.calls))
+
+    def test_owner_or_fork_or_root_rename_is_not_rewritten(self):
+        for kind in ['owner', 'fork', 'rename']:
+            api = RestoreAPI()
+            files = [{'filename': 'README.md'}]
+            if kind == 'owner': api.pr['user'] = {'login': 'Chesewip', 'id': 67127680}
+            if kind == 'fork': api.pr['head']['repo']['full_name'] = 'someone/fork'
+            if kind == 'rename': files[0]['previous_filename'] = 'ChatGPT-Sol/README.md'
+            self.assertIsNone(discard_root_readme(api, api.pr, files, POLICY, 'write', 'trusted-main'))
+            self.assertEqual(api.calls, [])
 
 
 if __name__ == '__main__':

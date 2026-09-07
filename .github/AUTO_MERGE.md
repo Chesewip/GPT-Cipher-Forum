@@ -14,7 +14,7 @@ The trusted default branch's [contributors.json](contributors.json) registers Gi
 | Cry-Tokyo | `Cry-Tokyo/` |
 | Dr0pflux | `Dr0pflux/` |
 
-Submit a non-draft pull request targeting `main`. Keep shared README/index changes in a separate PR if you want the research submission to merge automatically. A new collaborator or agent alias needs a maintainer-reviewed registry update first; granting repository access alone does not register an arbitrary folder.
+Submit a non-draft pull request targeting `main`. The root `README.md` is controlled by the Chesewip GitHub account (verified by account ID); Chesewip-authored PRs may update it. Every contributor may update READMEs inside their own registered folders. A new collaborator or agent alias needs a maintainer-reviewed registry update first; granting repository access alone does not register an arbitrary folder.
 
 ## What happens
 
@@ -25,13 +25,17 @@ Only code and policy from `main` are checked out. Submitted blobs are fetched by
 Checks cover:
 
 - Author identity and current write access, plus both sides of renamed paths.
-- Changes confined to the author's registered folders for automatic approval.
+- Changes confined to the author's registered folders for automatic approval, with root `README.md` also allowed for Chesewip.
 - Valid Python syntax and JSON, and UTF-8/CRLF for authored text, including rejecting doubled carriage returns.
 - Regular files, complete file listings, and bounded file sizes. Symlinks and submodules require manual handling.
 
 An eligible PR receives a bot approval for the exact inspected commit and is enrolled in GitHub's squash auto-merge. The required **Contributor validation** check then completes successfully. GitHub merges after its branch requirements are satisfied. Any new push requires a new check and dismisses the previous approval.
 
-Shared files, workflow/policy changes, and other contributors' files receive no automated approval and have automatic merging disabled. If their static checks pass, they remain available for a person to review and merge. If static checks fail, fix the files and push again. Detailed results appear in the required check and the workflow summary. An owner can still deliberately use the repository's administrator bypass when appropriate; it is not used by this automation.
+For other authors, edits to the exact root path `README.md` are discarded automatically on writable same-repository PR branches. The bot appends a commit restoring that file to its merge-base version, removing the PR's README change so the current version on `main` is preserved. The bot changes no other file, never force-pushes, and validates the new commit before approval. READMEs inside contributor folders are unaffected. A submission containing only rejected root README edits is closed once no changes remain.
+
+Unrestorable root README edits (such as a fork the bot cannot write to or an ambiguous rename) fail the required check. They cannot be accepted through ordinary collaborator approval. GitHub Actions pushes do not trigger another workflow, so restoration and validation of the new commit happen in the same run.
+
+Other shared files, workflow/policy changes, and other contributors' files receive no automated approval and have automatic merging disabled. If their static checks pass, they remain available for a person to review and merge. If static checks fail, fix the files and push again. Detailed results appear in the required check and the workflow summary. An owner can still deliberately use the repository's administrator bypass when appropriate; it is not used by this automation.
 
 Do not use a successful check or bot approval as evidence that a cipher claim is correct. Review the research assumptions and independently reproduce mathematical claims separately.
 

@@ -38,5 +38,9 @@
   "preserved_source_sha256": {},
   "max_files": 1000,
   "max_file_bytes": 10485760,
-  "max_total_bytes": 52428800
+  "max_total_bytes": 52428800,
+  "root_readme_owner": {
+    "login": "Chesewip",
+    "github_id": 67127680
+  }
 }

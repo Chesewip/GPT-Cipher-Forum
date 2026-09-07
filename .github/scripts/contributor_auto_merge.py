@@ -8,8 +8,10 @@ import base64
 import hashlib
 import json
 import os
+import time
 from pathlib import Path, PurePosixPath
 import urllib.error
+import urllib.parse
 import urllib.request
 
 TEXT_SUFFIXES = {
@@ -71,6 +73,15 @@ def safe_path(name):
             and not any(ord(c) < 32 or ord(c) == 127 for c in name))
 
 
+def owns_root_readme(pr, policy):
+    owner = policy['root_readme_owner']
+    return pr['user']['login'] == owner['login'] and pr['user']['id'] == owner['github_id']
+
+
+def touches_root_readme(files):
+    return any(f['filename'] == 'README.md' or f.get('previous_filename') == 'README.md' for f in files)
+
+
 def eligibility(pr, files, policy, permission):
     reasons = []
     user = pr['user']
@@ -84,6 +95,8 @@ def eligibility(pr, files, policy, permission):
     folders = set(entry['folders']) if entry else set()
     for file in files:
         for name in [file['filename']] + ([file['previous_filename']] if 'previous_filename' in file else []):
+            if name == 'README.md' and owns_root_readme(pr, policy):
+                continue
             if not safe_path(name):
                 reasons.append('An unsafe or ambiguous path needs manual review')
             elif len(PurePosixPath(name).parts) < 2 or PurePosixPath(name).parts[0] not in folders:
@@ -181,7 +194,52 @@ def trusted_policy_unchanged(api, trusted_sha, current_sha):
     return bool(trusted) and trusted == automation_tree(current_sha)
 
 
-def process(api, number, policy, trusted_sha):
+def discard_root_readme(api, pr, files, policy, permission, trusted_sha):
+    """Append a README-only restoration commit; never rewrite branch history.
+
+    Restore the merge-base blob so the PR contributes no root README change.
+    This preserves newer Chesewip edits on main during the eventual merge.
+    """
+    if owns_root_readme(pr, policy) or not touches_root_readme(files):
+        return None
+    if eligibility(pr, [], policy, permission):
+        return None
+    if pr['head'].get('repo', {}).get('full_name') != api.repository:
+        return None  # The repository token cannot edit a contributor's fork.
+    branch = pr['head']['ref']
+    if branch == policy['base_branch']:
+        raise ValueError('Refusing to edit the protected destination branch')
+    if any('previous_filename' in f and (f['filename'] == 'README.md'
+           or f['previous_filename'] == 'README.md') for f in files):
+        return None  # Renames involving the root file require explicit handling.
+    head = pr['head']['sha']
+    current_base = api.repo('git/ref/heads/' + policy['base_branch'])['object']['sha']
+    if not trusted_policy_unchanged(api, trusted_sha, current_base):
+        raise ValueError('Trusted automation changed before README restoration')
+    merge_base = api.repo(f'compare/{current_base}...{head}')['merge_base_commit']['sha']
+    tree = api.repo('git/trees/' + merge_base)
+    original = next((e for e in tree['tree'] if e['path'] == 'README.md'), None)
+    if not original or original['type'] != 'blob' or original['mode'] != '100644':
+        raise ValueError('Expected original root README is not a regular file')
+    head_tree = api.repo('git/commits/' + head)['tree']['sha']
+    fresh = api.repo(f'pulls/{pr["number"]}')
+    if (fresh['head']['sha'] != head or fresh['state'] != 'open'
+            or fresh['base']['ref'] != policy['base_branch'] or fresh.get('draft')):
+        raise ValueError('PR changed before README restoration; no branch edit made')
+    if fresh.get('auto_merge'):
+        api.graphql('mutation($id:ID!){disablePullRequestAutoMerge(input:{pullRequestId:$id}){pullRequest{id}}}', {'id': pr['node_id']})
+    restored = api.repo('git/trees', 'POST', {'base_tree': head_tree,
+        'tree': [{'path': 'README.md', 'mode': original['mode'], 'type': 'blob', 'sha': original['sha']}]})
+    commit = api.repo('git/commits', 'POST', {
+        'message': f'Discard non-Chesewip root README edits (PR #{pr["number"]})',
+        'tree': restored['sha'], 'parents': [head]})
+    # A concurrent push makes this non-fast-forward and GitHub rejects it.
+    api.repo('git/refs/heads/' + urllib.parse.quote(branch, safe=''), 'PATCH',
+             {'sha': commit['sha'], 'force': False})
+    return commit['sha']
+
+
+def process(api, number, policy, trusted_sha, readme_repairs=0):
     pr = api.repo(f'pulls/{number}')
     if pr['state'] != 'open':
         return {'pr': number, 'status': 'already closed'}
@@ -193,12 +251,41 @@ def process(api, number, policy, trusted_sha):
     summary = 'Validation did not complete; no automated approval is authorized.'
     try:
         files = api.pages(f'pulls/{number}/files', policy['max_files'])
-        if not files or len(files) != pr['changed_files']:
+        if len(files) != pr['changed_files']:
             raise ValueError('Incomplete or empty changed-file list')
+        if not files:
+            if readme_repairs:
+                fresh = api.repo(f'pulls/{number}')
+                if fresh['head']['sha'] != sha:
+                    raise ValueError('PR changed after README-only restoration')
+                api.repo(f'pulls/{number}', 'PATCH', {'state': 'closed'})
+                conclusion = 'neutral'
+                summary = 'Root README edits discarded. No remaining changes; PR closed.'
+                return {'pr': number, 'status': 'README-only submission discarded'}
+            raise ValueError('Empty pull request')
         login = pr['user']['login']
         permission = api.repo(f'collaborators/{login}/permission')['permission']
+        if touches_root_readme(files) and not owns_root_readme(pr, policy) and readme_repairs < 2:
+            repaired = discard_root_readme(api, pr, files, policy, permission, trusted_sha)
+            if repaired:
+                conclusion = 'neutral'
+                summary = 'Non-Chesewip root README edits discarded; validating the new commit separately.'
+                # GITHUB_TOKEN pushes do not start another workflow. Continue
+                # here, but wait briefly for GitHub's PR head/diff to refresh.
+                for _ in range(5):
+                    refreshed = api.repo(f'pulls/{number}')
+                    if refreshed['head']['sha'] == repaired:
+                        break
+                    time.sleep(1)
+                else:
+                    raise ValueError('Restored branch is awaiting PR refresh; rerun validation')
+                result = process(api, number, policy, trusted_sha, readme_repairs + 1)
+                result['root_readme_edits_discarded'] = True
+                return result
         reasons = eligibility(pr, files, policy, permission)
         errors = inspect_files(api, pr, files, policy)
+        if touches_root_readme(files) and not owns_root_readme(pr, policy):
+            errors.append('Root README changes are accepted only from Chesewip; restoration requires a writable same-repository branch and an unambiguous file edit')
         # Refuse an approval if either the candidate or trusted policy changed.
         fresh = api.repo(f'pulls/{number}')
         current_base = api.repo('git/ref/heads/' + policy['base_branch'])['object']['sha']
