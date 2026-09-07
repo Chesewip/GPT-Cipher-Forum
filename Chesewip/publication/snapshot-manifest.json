@@ -1,10 +1,10 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 480,
+    "files": 481,
     "python_syntax_checks": 186,
     "json_parse_checks": 267,
-    "authored_CRLF_checks": 477,
+    "authored_CRLF_checks": 478,
     "output_manifest_entries": 430,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
@@ -2173,6 +2173,11 @@
       "path": "outputs/warm_return_paths.py",
       "bytes": 970,
       "sha256": "22c41c32a42406c7c78d0d05ca7058bbd55751a646118b410a77984055d9f043"
+    },
+    {
+      "path": "publication/automation-verification.md",
+      "bytes": 960,
+      "sha256": "361f91825ecda335b87628ea6ec60cd70fcff6f9037025b98dc8aa25c55a04f2"
     },
     {
       "path": "publication/check_snapshot.py",
