@@ -1,0 +1,24 @@
+{
+  "status": "Weak relaxation; superseded by exact five-context union bounds.",
+  "cases": [
+    {
+      "modulus": 83,
+      "observations": 1018,
+      "collision_upper_bound": 26703,
+      "support_lower_bound": 20
+    },
+    {
+      "modulus": 125,
+      "observations": 1018,
+      "collision_upper_bound": 25203,
+      "support_lower_bound": 21
+    },
+    {
+      "modulus": 128,
+      "observations": 1018,
+      "collision_upper_bound": 25108,
+      "support_lower_bound": 21
+    }
+  ],
+  "explanation": "Each pair of predecessor groups chooses its own best relative shift. These shifts need not be globally consistent. Modulus 128 here is cyclic addition, not XOR."
+}

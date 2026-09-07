@@ -40,3 +40,7 @@ No repository-wide license has been chosen for the original research in this ini
 ## Phase-switch continuation
 
 The E4/W4/E5 bridge and adjacent late-phase observations come from [mvelzel/eye-vibe, synchronizing-bridge analysis](https://github.com/mvelzel/eye-vibe/blob/main/docs/thirty-second-synchronizing-bridge-results-2026-07-26.md). Our `outputs/phase-switch-findings.md` independently reconstructs the relevant maps and derives a conditional small-update obstruction. It does not replicate that source's statistical controls or adopt its broader interpretation.
+
+## Arbitrary-feedback continuation
+
+The [GarethLowe/Noita-Eyes research overview](https://github.com/GarethLowe/Noita-Eyes/blob/claude/bootstrap-files-extract-myxfgl/CLAUDE.md), accessed 2026-09-07, identifies nonlinear ciphertext-autokey feedback as open beyond affine tests. Our [five-context certificate](outputs/lookup-feedback-findings.md) addresses the stated shared-table additive family with a small encoded alphabet. The source is prior-work context; its other cipher exclusions are not adopted as independently verified.

@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `nondeck-screen-findings.md`. A bounded comparison tests numerical feedback, position-dependent substitution and fixed homophony. Exact support bounds and conditional table contradictions are independently checked; an assumption-free English homophonic search recovers over 99% on three generated controls but no coherent text from the eyes. No replacement family is identified.
+Latest: see `lookup-feedback-findings.md`. Five observed predecessor contexts force at least 43 encoded input symbols for arbitrary shared lookup-table feedback modulo 83, with no guessed plaintext. Reverse reading and other translation groups also need more than 40. All quinary linear feedback matrices require at least 72; independent verification included.
+
+Previous: see `nondeck-screen-findings.md`. A bounded comparison tests numerical feedback, position-dependent substitution and fixed homophony. Exact support bounds and conditional table contradictions are independently checked; an assumption-free English homophonic search recovers over 99% on three generated controls but no coherent text from the eyes. No replacement family is identified.
 
 Previous: see `fixed-pivot-findings.md`. The constant-pivot three-card escape requires at least 35 input selections from ciphertext alone; either of two separately stated plaintext equalities excludes it for every common fixed bottom shuffle. Exact first-return certificates and independent checks are included. Nonconstant, noninjective third-position rules remain open.
 
@@ -27,6 +29,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_feedback_bounds.py
 python verify_nondeck_screen.py
 python verify_cycle_bounds.py
 python check_single_cycle_certificate.py

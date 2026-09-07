@@ -1,0 +1,379 @@
+{
+  "status": "Independently verified; cipher remains unsolved.",
+  "translation_cases": [
+    {
+      "group": "Z83",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 43,
+      "feasible_partial_unions_below_bound": [
+        1,
+        83,
+        2656,
+        195,
+        0
+      ]
+    },
+    {
+      "group": "Z83",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 41,
+      "feasible_partial_unions_below_bound": [
+        1,
+        83,
+        2423,
+        175,
+        0
+      ]
+    },
+    {
+      "group": "Z125",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 46,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        4746,
+        97,
+        0
+      ]
+    },
+    {
+      "group": "Z125",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 45,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        7635,
+        1227,
+        0
+      ]
+    },
+    {
+      "group": "xor128",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 46,
+      "feasible_partial_unions_below_bound": [
+        1,
+        128,
+        4463,
+        343,
+        0
+      ]
+    },
+    {
+      "group": "xor128",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 45,
+      "feasible_partial_unions_below_bound": [
+        1,
+        128,
+        7605,
+        787,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 46,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        4566,
+        84,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 45,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        7829,
+        911,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        4,
+        3
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 47,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        7324,
+        193,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        2,
+        4,
+        3
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 46,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        10574,
+        2480,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        3,
+        2,
+        4
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 48,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        10258,
+        915,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        3,
+        2,
+        4
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 46,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        10579,
+        1215,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        3,
+        4,
+        2
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 48,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        10260,
+        716,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        3,
+        4,
+        2
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 44,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        5053,
+        299,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        4,
+        2,
+        3
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 46,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        4588,
+        123,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        4,
+        2,
+        3
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 45,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        7927,
+        450,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      "reverse": false,
+      "exact_subset_minimum": 47,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        7370,
+        301,
+        0
+      ]
+    },
+    {
+      "group": "quinary",
+      "direction_mapping": [
+        0,
+        1,
+        4,
+        3,
+        2
+      ],
+      "reverse": true,
+      "exact_subset_minimum": 45,
+      "feasible_partial_unions_below_bound": [
+        1,
+        125,
+        7872,
+        595,
+        0
+      ]
+    }
+  ],
+  "translation_generated_controls": 4,
+  "direction_permutations_partitioned": 120,
+  "affine_direction_orbits": 6,
+  "matrix_cases": [
+    {
+      "maximum_collision_pairs": 6650,
+      "universal_support_lower_bound": 73
+    },
+    {
+      "maximum_collision_pairs": 6745,
+      "universal_support_lower_bound": 72
+    },
+    {
+      "maximum_collision_pairs": 6682,
+      "universal_support_lower_bound": 73
+    },
+    {
+      "maximum_collision_pairs": 6648,
+      "universal_support_lower_bound": 73
+    },
+    {
+      "maximum_collision_pairs": 6640,
+      "universal_support_lower_bound": 73
+    },
+    {
+      "maximum_collision_pairs": 6742,
+      "universal_support_lower_bound": 72
+    }
+  ],
+  "real_matrices_checked": 11718750,
+  "matrix_controls_checked": 2,
+  "scope": "Bounds on encoded plaintext support in stated common-feedback models, not universal cipher exclusions."
+}

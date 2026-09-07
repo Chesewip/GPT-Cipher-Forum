@@ -282,6 +282,11 @@
       "bytes": 1261
     },
     {
+      "name": "checked_feedback_bounds.json",
+      "sha256": "029b88e4c61d258a28e4c563510f3bb4234d20bdc2fa06c0ce71e31a01d95515",
+      "bytes": 6833
+    },
+    {
       "name": "checked_first_step_fixed_points.json",
       "sha256": "a7a4d23d4b6aa6942263850c9e771b74ae8029aace2624e46520405949dff8b9",
       "bytes": 357
@@ -852,6 +857,16 @@
       "bytes": 2618
     },
     {
+      "name": "feedback_collision_relaxation.json",
+      "sha256": "7203793ca02aa199442bb3aa647500f816a3b35a33ba30dc546b9c41dbd8514e",
+      "bytes": 702
+    },
+    {
+      "name": "feedback_collision_relaxation.py",
+      "sha256": "dcf2497399bd34db909227d8b7eabb7b0fede61de58cbb9e97bc8508de4f4df1",
+      "bytes": 1559
+    },
+    {
       "name": "first_step_fixed_points.py",
       "sha256": "77fdaffcd0f1831b0f98e037267181c634520211a615861183a14246c95f2bc4",
       "bytes": 3984
@@ -1202,6 +1217,11 @@
       "bytes": 7485
     },
     {
+      "name": "lookup-feedback-findings.md",
+      "sha256": "36336d06043ef9b0885a74e521e8b5a11e68ec122839f4dd00595f2c303c2830",
+      "bytes": 10983
+    },
+    {
       "name": "mead-candidate-review.md",
       "sha256": "a1453c8d5cfdd3493de95e3f4adfaf39dbedc0fe080d10d9fcdab4c7a16b5341",
       "bytes": 8709
@@ -1377,6 +1397,16 @@
       "bytes": 535
     },
     {
+      "name": "quinary_feedback_screen.json",
+      "sha256": "9b6491a0e4322f8a4d8ab4e1b26724ea75e57f65b6fc2e52aebd567320f6371a",
+      "bytes": 945898
+    },
+    {
+      "name": "quinary_feedback_screen.py",
+      "sha256": "1b5eac6a975b14dc6df7d74a0ba61631eb5072849736c32ca8730eb7165ab7b6",
+      "bytes": 5408
+    },
+    {
       "name": "quotient_phase_audit.json",
       "sha256": "973806820d689c9ec32c1a62d575edaf63b202e961894475383e5d665f515ff1",
       "bytes": 1129019
@@ -1388,8 +1418,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "06d7cacca6eee59a8fe76e963450f9cc740bc7df24ff157f2680db597099452d",
-      "bytes": 6986
+      "sha256": "2c9f652735ef496e98f5dfd2005c15449bdc8d98277d43cd991ecb8352a2bf0a",
+      "bytes": 7386
     },
     {
       "name": "reconvergence_controls.json",
@@ -1857,6 +1887,16 @@
       "bytes": 6027
     },
     {
+      "name": "translation_set_bound.json",
+      "sha256": "555f669fe0a069eab6d67f1c10d2b3af4cc25903666750d37bb7162478cd032b",
+      "bytes": 246276
+    },
+    {
+      "name": "translation_set_bound.py",
+      "sha256": "b64f51c3ff8381036c7e1855519284ed75d7a105f622cccdce69e53e26a17a91",
+      "bytes": 5131
+    },
+    {
       "name": "trigram_key_control.json",
       "sha256": "fc0a7ee9c471cd89d7330c35c83a888036802c180814f2af7f63de347b6c51c1",
       "bytes": 1275
@@ -1985,6 +2025,11 @@
       "name": "verify_entry_change_timing.py",
       "sha256": "77b30fcef1265290ff847c05fc356db95cdc9d758847f914c2790820b734c215",
       "bytes": 2364
+    },
+    {
+      "name": "verify_feedback_bounds.py",
+      "sha256": "53ae938b8220bf575f7dc1eef8c9bf1925929acf8a8b23ea6122cc57b03339c8",
+      "bytes": 6841
     },
     {
       "name": "verify_fixed_pivot_returns.py",
