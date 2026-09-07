@@ -340,6 +340,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_feedback_bounds.json",
+      "source_sha256": "029b88e4c61d258a28e4c563510f3bb4234d20bdc2fa06c0ce71e31a01d95515",
+      "published_sha256": "029b88e4c61d258a28e4c563510f3bb4234d20bdc2fa06c0ce71e31a01d95515",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_first_step_fixed_points.json",
       "source_sha256": "a7a4d23d4b6aa6942263850c9e771b74ae8029aace2624e46520405949dff8b9",
       "published_sha256": "a7a4d23d4b6aa6942263850c9e771b74ae8029aace2624e46520405949dff8b9",
@@ -1024,6 +1030,18 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/feedback_collision_relaxation.json",
+      "source_sha256": "7203793ca02aa199442bb3aa647500f816a3b35a33ba30dc546b9c41dbd8514e",
+      "published_sha256": "7203793ca02aa199442bb3aa647500f816a3b35a33ba30dc546b9c41dbd8514e",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/feedback_collision_relaxation.py",
+      "source_sha256": "dcf2497399bd34db909227d8b7eabb7b0fede61de58cbb9e97bc8508de4f4df1",
+      "published_sha256": "dcf2497399bd34db909227d8b7eabb7b0fede61de58cbb9e97bc8508de4f4df1",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/first_step_fixed_points.py",
       "source_sha256": "77fdaffcd0f1831b0f98e037267181c634520211a615861183a14246c95f2bc4",
       "published_sha256": "77fdaffcd0f1831b0f98e037267181c634520211a615861183a14246c95f2bc4",
@@ -1444,6 +1462,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/lookup-feedback-findings.md",
+      "source_sha256": "36336d06043ef9b0885a74e521e8b5a11e68ec122839f4dd00595f2c303c2830",
+      "published_sha256": "36336d06043ef9b0885a74e521e8b5a11e68ec122839f4dd00595f2c303c2830",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/mead-candidate-review.md",
       "source_sha256": "a1453c8d5cfdd3493de95e3f4adfaf39dbedc0fe080d10d9fcdab4c7a16b5341",
       "published_sha256": "a1453c8d5cfdd3493de95e3f4adfaf39dbedc0fe080d10d9fcdab4c7a16b5341",
@@ -1654,6 +1678,18 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/quinary_feedback_screen.json",
+      "source_sha256": "9b6491a0e4322f8a4d8ab4e1b26724ea75e57f65b6fc2e52aebd567320f6371a",
+      "published_sha256": "9b6491a0e4322f8a4d8ab4e1b26724ea75e57f65b6fc2e52aebd567320f6371a",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/quinary_feedback_screen.py",
+      "source_sha256": "1b5eac6a975b14dc6df7d74a0ba61631eb5072849736c32ca8730eb7165ab7b6",
+      "published_sha256": "1b5eac6a975b14dc6df7d74a0ba61631eb5072849736c32ca8730eb7165ab7b6",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/quotient_phase_audit.json",
       "source_sha256": "973806820d689c9ec32c1a62d575edaf63b202e961894475383e5d665f515ff1",
       "published_sha256": "973806820d689c9ec32c1a62d575edaf63b202e961894475383e5d665f515ff1",
@@ -1667,8 +1703,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "06d7cacca6eee59a8fe76e963450f9cc740bc7df24ff157f2680db597099452d",
-      "published_sha256": "06d7cacca6eee59a8fe76e963450f9cc740bc7df24ff157f2680db597099452d",
+      "source_sha256": "2c9f652735ef496e98f5dfd2005c15449bdc8d98277d43cd991ecb8352a2bf0a",
+      "published_sha256": "2c9f652735ef496e98f5dfd2005c15449bdc8d98277d43cd991ecb8352a2bf0a",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2230,6 +2266,18 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/translation_set_bound.json",
+      "source_sha256": "555f669fe0a069eab6d67f1c10d2b3af4cc25903666750d37bb7162478cd032b",
+      "published_sha256": "555f669fe0a069eab6d67f1c10d2b3af4cc25903666750d37bb7162478cd032b",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/translation_set_bound.py",
+      "source_sha256": "b64f51c3ff8381036c7e1855519284ed75d7a105f622cccdce69e53e26a17a91",
+      "published_sha256": "b64f51c3ff8381036c7e1855519284ed75d7a105f622cccdce69e53e26a17a91",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/trigram_key_control.json",
       "source_sha256": "fc0a7ee9c471cd89d7330c35c83a888036802c180814f2af7f63de347b6c51c1",
       "published_sha256": "fc0a7ee9c471cd89d7330c35c83a888036802c180814f2af7f63de347b6c51c1",
@@ -2383,6 +2431,12 @@
       "path": "outputs/verify_entry_change_timing.py",
       "source_sha256": "77b30fcef1265290ff847c05fc356db95cdc9d758847f914c2790820b734c215",
       "published_sha256": "77b30fcef1265290ff847c05fc356db95cdc9d758847f914c2790820b734c215",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_feedback_bounds.py",
+      "source_sha256": "53ae938b8220bf575f7dc1eef8c9bf1925929acf8a8b23ea6122cc57b03339c8",
+      "published_sha256": "53ae938b8220bf575f7dc1eef8c9bf1925929acf8a8b23ea6122cc57b03339c8",
       "publication_action": "byte-for-byte copy"
     },
     {

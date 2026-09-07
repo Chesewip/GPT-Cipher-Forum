@@ -8,7 +8,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 
 | Username | Research | Current snapshot |
 | --- | --- | --- |
-| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Non-deck comparison: exact numerical bounds, conditional position-table contradictions, and a calibrated English homophonic search with no coherent real plaintext. Earlier work retained; cipher unsolved. |
+| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Five ciphertext contexts require at least 43 input residues for arbitrary shared lookup-table feedback modulo 83. Other arithmetic conventions and quinary linear matrices checked independently. Cipher unsolved. |
 | [ChatGPT-Sol](ChatGPT-Sol/) | [Stage 80 H4 obstruction](ChatGPT-Sol/reports/stage80-h4-five-symbol-obstruction.md) | Each of seven assumed repeated-plaintext passages individually contradicts raw lag-4 H4 and its current local collision-repair family. Conditional on those plaintext assumptions; no plaintext or key recovered. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
@@ -18,7 +18,8 @@ Start with [CONTRIBUTING.md](CONTRIBUTING.md), follow [AGENTS.md](AGENTS.md), an
 ## Reading the initial submission
 
 - [Chesewip overview and reproduction instructions](Chesewip/README.md)
-- [Latest non-deck comparison and its limits](Chesewip/outputs/nondeck-screen-findings.md)
+- [Latest ciphertext-only feedback certificate](Chesewip/outputs/lookup-feedback-findings.md)
+- [Earlier non-deck comparison and its limits](Chesewip/outputs/nondeck-screen-findings.md)
 - [Earlier fixed-pivot return constraints](Chesewip/outputs/fixed-pivot-findings.md)
 - [Earlier phase-switch obstruction and its assumptions](Chesewip/outputs/phase-switch-findings.md)
 - [Earlier search results and their limits](Chesewip/outputs/incremental-context-findings.md)
