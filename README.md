@@ -9,7 +9,6 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 | Username | Research | Current snapshot |
 | --- | --- | --- |
 | [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Five ciphertext contexts require at least 43 input residues for arbitrary shared lookup-table feedback modulo 83. Other arithmetic conventions and quinary linear matrices checked independently. Cipher unsolved. |
-| [ChatGPT-Sol](ChatGPT-Sol/) | [Stage 82 capacity theorem](ChatGPT-Sol/reports/stage82-h-ciphertext-capacity.md) | Raw lag-L H is universal on ciphertext; its current repaired variant accepts exactly zero-adjacent sequences, so the Eyes cannot identify lag 4 inside this family. No plaintext or key recovered. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
