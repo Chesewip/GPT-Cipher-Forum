@@ -406,6 +406,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_nondeck_screen.json",
+      "source_sha256": "de5878a063e8cf96011c14d8fb0601550bdec407e17bdd8ec3f3eff3a3bae0ec",
+      "published_sha256": "de5878a063e8cf96011c14d8fb0601550bdec407e17bdd8ec3f3eff3a3bae0ec",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_nonreturn_refinement.json",
       "source_sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7",
       "published_sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7",
@@ -1090,6 +1096,30 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/homophonic_language_extended.json",
+      "source_sha256": "af4a4daa474be23256e43fed1addbf51faee72d677b0510c0509f59e1cf38df4",
+      "published_sha256": "af4a4daa474be23256e43fed1addbf51faee72d677b0510c0509f59e1cf38df4",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/homophonic_language_extension.py",
+      "source_sha256": "d1cfe3ef0d5f9e544183b79fe4d72cb9075cf925cc1c67416f1f28350ddb0fd4",
+      "published_sha256": "d1cfe3ef0d5f9e544183b79fe4d72cb9075cf925cc1c67416f1f28350ddb0fd4",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/homophonic_language_probe.json",
+      "source_sha256": "1f396f9a317bdfd0619529025860b45a4a31beec2cfc68c55a0ae1192638ac4f",
+      "published_sha256": "1f396f9a317bdfd0619529025860b45a4a31beec2cfc68c55a0ae1192638ac4f",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/homophonic_language_probe.py",
+      "source_sha256": "bd7c117e68e0f003822c54c482964138b8187388ce2acc1e510ff3e22fbf8e11",
+      "published_sha256": "bd7c117e68e0f003822c54c482964138b8187388ce2acc1e510ff3e22fbf8e11",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/identity_common_prefix_16.json",
       "source_sha256": "1c429ba9bd0efd28b090bb4ef84b95469d30bd46410e45b61729f976b67fb199",
       "published_sha256": "1c429ba9bd0efd28b090bb4ef84b95469d30bd46410e45b61729f976b67fb199",
@@ -1498,6 +1528,24 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/nondeck-screen-findings.md",
+      "source_sha256": "cdb9859618de2900a9a03805494daccaa74e8c2ec12693aea441ad2ecca2417f",
+      "published_sha256": "cdb9859618de2900a9a03805494daccaa74e8c2ec12693aea441ad2ecca2417f",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/nondeck_screen.json",
+      "source_sha256": "d422fd12756c99db826dca9de4fc9684a87cf15f76d7e60d15763b35582a7a66",
+      "published_sha256": "d422fd12756c99db826dca9de4fc9684a87cf15f76d7e60d15763b35582a7a66",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/nondeck_screen.py",
+      "source_sha256": "6c6fb1ed597b83b6639d6161b0bd5ac6c7b698bafa00b6a7b78576df3e96f239",
+      "published_sha256": "6c6fb1ed597b83b6639d6161b0bd5ac6c7b698bafa00b6a7b78576df3e96f239",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/partial_phrase_results.json",
       "source_sha256": "320ecae2edfee99892d1531dd28807c75e3a1f115a406707327b03f0ce7a3c36",
       "published_sha256": "320ecae2edfee99892d1531dd28807c75e3a1f115a406707327b03f0ce7a3c36",
@@ -1619,8 +1667,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "1371f98ac6f1048f5a820f4d1b8d423eafe5df8968d2fb9d9a7e0d119ef7a976",
-      "published_sha256": "1371f98ac6f1048f5a820f4d1b8d423eafe5df8968d2fb9d9a7e0d119ef7a976",
+      "source_sha256": "06d7cacca6eee59a8fe76e963450f9cc740bc7df24ff157f2680db597099452d",
+      "published_sha256": "06d7cacca6eee59a8fe76e963450f9cc740bc7df24ff157f2680db597099452d",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2395,6 +2443,12 @@
       "path": "outputs/verify_nine_slot_exclusion.py",
       "source_sha256": "8ae354fce77d12d4993a17ac8076536ac51777035a92a3de6806ef1b55058b62",
       "published_sha256": "8ae354fce77d12d4993a17ac8076536ac51777035a92a3de6806ef1b55058b62",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_nondeck_screen.py",
+      "source_sha256": "12729168f9a0b00fdff2ee7690ea49ab9cee194f4310546f2861cef1284f505a",
+      "published_sha256": "12729168f9a0b00fdff2ee7690ea49ab9cee194f4310546f2861cef1284f505a",
       "publication_action": "byte-for-byte copy"
     },
     {

@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 462,
-    "python_syntax_checks": 178,
-    "json_parse_checks": 259,
-    "authored_CRLF_checks": 459,
-    "output_manifest_entries": 412,
+    "files": 471,
+    "python_syntax_checks": 182,
+    "json_parse_checks": 263,
+    "authored_CRLF_checks": 468,
+    "output_manifest_entries": 421,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 453,
+    "imported_research_files": 462,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -348,6 +348,11 @@
       "path": "outputs/checked_nine_slot_exclusion.json",
       "bytes": 436,
       "sha256": "894d1dbb877aa092fd3996d9c3f0ec5436fe836586f7883fc5452509c5f2424b"
+    },
+    {
+      "path": "outputs/checked_nondeck_screen.json",
+      "bytes": 1771,
+      "sha256": "de5878a063e8cf96011c14d8fb0601550bdec407e17bdd8ec3f3eff3a3bae0ec"
     },
     {
       "path": "outputs/checked_nonreturn_refinement.json",
@@ -920,6 +925,26 @@
       "sha256": "c3d5c8d858f23355433a5c98405c764c6040c31a532c97ca8d20f6b7e78e5d5a"
     },
     {
+      "path": "outputs/homophonic_language_extended.json",
+      "bytes": 63208,
+      "sha256": "af4a4daa474be23256e43fed1addbf51faee72d677b0510c0509f59e1cf38df4"
+    },
+    {
+      "path": "outputs/homophonic_language_extension.py",
+      "bytes": 2798,
+      "sha256": "d1cfe3ef0d5f9e544183b79fe4d72cb9075cf925cc1c67416f1f28350ddb0fd4"
+    },
+    {
+      "path": "outputs/homophonic_language_probe.json",
+      "bytes": 151467,
+      "sha256": "1f396f9a317bdfd0619529025860b45a4a31beec2cfc68c55a0ae1192638ac4f"
+    },
+    {
+      "path": "outputs/homophonic_language_probe.py",
+      "bytes": 7812,
+      "sha256": "bd7c117e68e0f003822c54c482964138b8187388ce2acc1e510ff3e22fbf8e11"
+    },
+    {
       "path": "outputs/identity_common_prefix_16.json",
       "bytes": 5757,
       "sha256": "1c429ba9bd0efd28b090bb4ef84b95469d30bd46410e45b61729f976b67fb199"
@@ -1191,8 +1216,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 69430,
-      "sha256": "4640957a7b89c46a0bef7c705f5a9f096fc5f036a2b3182708219ba55d6e4bf1"
+      "bytes": 70934,
+      "sha256": "6017cf9334d853bb46749c6ec5041bd599e6deab5bced64bb81333b93034fff8"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1266,8 +1291,23 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 1794731,
-      "sha256": "9d0a7af77c8402af49bcaf600af3e73f732e2add40dfc2534449065cece47a30"
+      "bytes": 1860076,
+      "sha256": "c5c49bbe0aa567934a9b29b649db4155690bb5658a5099e6a5648462fd3d493a"
+    },
+    {
+      "path": "outputs/nondeck-screen-findings.md",
+      "bytes": 11020,
+      "sha256": "cdb9859618de2900a9a03805494daccaa74e8c2ec12693aea441ad2ecca2417f"
+    },
+    {
+      "path": "outputs/nondeck_screen.json",
+      "bytes": 1104124,
+      "sha256": "d422fd12756c99db826dca9de4fc9684a87cf15f76d7e60d15763b35582a7a66"
+    },
+    {
+      "path": "outputs/nondeck_screen.py",
+      "bytes": 11899,
+      "sha256": "6c6fb1ed597b83b6639d6161b0bd5ac6c7b698bafa00b6a7b78576df3e96f239"
     },
     {
       "path": "outputs/partial_phrase_results.json",
@@ -1371,8 +1411,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 6570,
-      "sha256": "1371f98ac6f1048f5a820f4d1b8d423eafe5df8968d2fb9d9a7e0d119ef7a976"
+      "bytes": 6986,
+      "sha256": "06d7cacca6eee59a8fe76e963450f9cc740bc7df24ff157f2680db597099452d"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2020,6 +2060,11 @@
       "sha256": "8ae354fce77d12d4993a17ac8076536ac51777035a92a3de6806ef1b55058b62"
     },
     {
+      "path": "outputs/verify_nondeck_screen.py",
+      "bytes": 8684,
+      "sha256": "12729168f9a0b00fdff2ee7690ea49ab9cee194f4310546f2861cef1284f505a"
+    },
+    {
       "path": "outputs/verify_nonreturn_refinement.py",
       "bytes": 2335,
       "sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34"
@@ -2091,8 +2136,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 139448,
-      "sha256": "940136f8a5d4480fcf7c2b8d4dad9c72b5ea87cf082de53ff8cbdd02a5dce247"
+      "bytes": 142195,
+      "sha256": "3ebd1db1658e64111f8fd44e2277d3430f14379e052a2bf1029e8854412ac8bd"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2106,8 +2151,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5408,
-      "sha256": "3a7887168b9551a4e7d1a6fc6fe348ba7296924152baae9445afab5174da1c8b"
+      "bytes": 5722,
+      "sha256": "d3dbe9fa2a1a82482908b46f2e23eed60172acbf3e2c948db39098f58aa6f776"
     },
     {
       "path": "REFERENCES.md",
