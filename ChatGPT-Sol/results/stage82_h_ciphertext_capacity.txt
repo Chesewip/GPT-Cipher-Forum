@@ -1,0 +1,60 @@
+STAGE 82 — H_L CIPHERTEXT CAPACITY / IDENTIFIABILITY
+dataset /mnt/data/noita_stage78/ciphertext_stage78.json
+messages {'E1': 98, 'W1': 102, 'E2': 117, 'W2': 101, 'E3': 136, 'W3': 123, 'E4': 118, 'W4': 119, 'E5': 113}
+observed adjacent repeats {'E1': 0, 'W1': 0, 'E2': 0, 'W2': 0, 'E3': 0, 'W3': 0, 'E4': 0, 'W4': 0, 'E5': 0}
+L=01 raw_exact=True fix_exact=True repairs=0
+L=02 raw_exact=True fix_exact=True repairs=0
+L=03 raw_exact=True fix_exact=True repairs=0
+L=04 raw_exact=True fix_exact=True repairs=0
+L=05 raw_exact=True fix_exact=True repairs=0
+L=06 raw_exact=True fix_exact=True repairs=0
+L=07 raw_exact=True fix_exact=True repairs=0
+L=08 raw_exact=True fix_exact=True repairs=0
+L=09 raw_exact=True fix_exact=True repairs=0
+L=10 raw_exact=True fix_exact=True repairs=0
+L=11 raw_exact=True fix_exact=True repairs=0
+L=12 raw_exact=True fix_exact=True repairs=0
+L=13 raw_exact=True fix_exact=True repairs=0
+L=14 raw_exact=True fix_exact=True repairs=0
+L=15 raw_exact=True fix_exact=True repairs=0
+L=16 raw_exact=True fix_exact=True repairs=0
+L=17 raw_exact=True fix_exact=True repairs=0
+L=18 raw_exact=True fix_exact=True repairs=0
+L=19 raw_exact=True fix_exact=True repairs=0
+L=20 raw_exact=True fix_exact=True repairs=0
+L=21 raw_exact=True fix_exact=True repairs=0
+L=22 raw_exact=True fix_exact=True repairs=0
+L=23 raw_exact=True fix_exact=True repairs=0
+L=24 raw_exact=True fix_exact=True repairs=0
+L=25 raw_exact=True fix_exact=True repairs=0
+L=26 raw_exact=True fix_exact=True repairs=0
+L=27 raw_exact=True fix_exact=True repairs=0
+L=28 raw_exact=True fix_exact=True repairs=0
+L=29 raw_exact=True fix_exact=True repairs=0
+L=30 raw_exact=True fix_exact=True repairs=0
+L=31 raw_exact=True fix_exact=True repairs=0
+L=32 raw_exact=True fix_exact=True repairs=0
+L=33 raw_exact=True fix_exact=True repairs=0
+L=34 raw_exact=True fix_exact=True repairs=0
+L=35 raw_exact=True fix_exact=True repairs=0
+L=36 raw_exact=True fix_exact=True repairs=0
+L=37 raw_exact=True fix_exact=True repairs=0
+L=38 raw_exact=True fix_exact=True repairs=0
+L=39 raw_exact=True fix_exact=True repairs=0
+L=40 raw_exact=True fix_exact=True repairs=0
+
+ADJACENT-REPEAT SENSITIVITY CONTROL
+forced E1 adjacent repeats 1
+raw H4 construction exact on mutated stream True
+fixed H4 same construction exact False
+fixed H4 repairs 1
+
+THEOREM CHECK SUMMARY
+lags tested 40 range 1 40
+all raw exact True
+all fixed exact on Eye corpus True
+all fixed repairs on Eye corpus 0
+ciphertext-only fixed-family invariant: adjacent ciphertext repeats must be zero
+Eye corpus satisfies that invariant, so every tested lag 1..40 has an exact construction.
+Algebra proves the same for every L>=1; ciphertext alone cannot select lag 4.
+saved /mnt/data/stage82/results/stage82_h_ciphertext_capacity.json
