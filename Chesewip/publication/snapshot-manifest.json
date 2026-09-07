@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 481,
-    "python_syntax_checks": 186,
-    "json_parse_checks": 267,
-    "authored_CRLF_checks": 478,
-    "output_manifest_entries": 430,
+    "files": 489,
+    "python_syntax_checks": 189,
+    "json_parse_checks": 271,
+    "authored_CRLF_checks": 486,
+    "output_manifest_entries": 438,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 471,
+    "imported_research_files": 479,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -310,6 +310,11 @@
       "sha256": "5e06440de4ee381918fce771098c03198cc0aa6e3c8ce25f59c8ac0ee1e2d374"
     },
     {
+      "path": "outputs/checked_fractionation_boundary.json",
+      "bytes": 668,
+      "sha256": "8e615389f24a85b93cee60ce61f15eb52b7694a612a3e5fd489efc594ea3ad0f"
+    },
+    {
       "path": "outputs/checked_header_reachability.json",
       "bytes": 12396,
       "sha256": "c508ab883ae7eccdffacc943c7b941cf24ee0d711c6f7213ed102c88c53ec462"
@@ -363,6 +368,11 @@
       "path": "outputs/checked_nonreturn_refinement.json",
       "bytes": 250,
       "sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7"
+    },
+    {
+      "path": "outputs/checked_peer_cycle_claims.json",
+      "bytes": 1116,
+      "sha256": "e449220a6ceef5d4194d39b91ded468c13b9fdc890356c1be8e0abb2410684a5"
     },
     {
       "path": "outputs/checked_phase_switch_audit.json",
@@ -905,6 +915,21 @@
       "sha256": "3e720098284ae3ce4a317ff9b25ae0bf2b15865989f4764880418a0702eee8af"
     },
     {
+      "path": "outputs/fractionation-boundary-findings.md",
+      "bytes": 10424,
+      "sha256": "49dca409b81457efaaad2f6947c1d94fd80310af7131e2babe73ea4619c47a7c"
+    },
+    {
+      "path": "outputs/fractionation_boundary_screen.json",
+      "bytes": 3298485,
+      "sha256": "76af51dde14ca52a2c08b022b8bf1dabfda1818fbfc197760c6d96a0a15496e6"
+    },
+    {
+      "path": "outputs/fractionation_boundary_screen.py",
+      "bytes": 7292,
+      "sha256": "1a0cda5bf7132c190601873c147951653bab078f5440164b57b670ede54d8267"
+    },
+    {
       "path": "outputs/full_rotation_three_cycle.py",
       "bytes": 4156,
       "sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98"
@@ -1236,8 +1261,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 72448,
-      "sha256": "9e359888aa444cc825d249ec7095fcd2b4fb7edb9badc7e109bd9129acb30678"
+      "bytes": 73817,
+      "sha256": "b3e69f1ff6461c058fd32d82f4001aeb1d5d81ac36d352467d2f1322c7bcb7ca"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1311,8 +1336,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 2023712,
-      "sha256": "02f975e20e3864eb3fe0883dee1a7f329163eac50b838d189a204f3a1c8e889b"
+      "bytes": 2221733,
+      "sha256": "2bd7180662f226933469590c83cf70f6c93be0d4aa8f4350db71d94884b218ef"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1343,6 +1368,11 @@
       "path": "outputs/pattern_assumption_audit.py",
       "bytes": 4183,
       "sha256": "9587bb613e20a28aa8eda1a70ea76d40b7030f4dd5bd3079376bf0f14ebdd283"
+    },
+    {
+      "path": "outputs/peer_cycle_claims.json",
+      "bytes": 4024,
+      "sha256": "12d0d5ab1d1dbcf150cb27693df9d043f9e799ea9dc48e86b2b4a4d6b0c9d1f1"
     },
     {
       "path": "outputs/permutation_action_fold.json",
@@ -1441,8 +1471,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 7386,
-      "sha256": "2c9f652735ef496e98f5dfd2005c15449bdc8d98277d43cd991ecb8352a2bf0a"
+      "bytes": 7957,
+      "sha256": "2543d2f2c4ae9386f7fa2e0f432bbfe0fc93e40d60f94fd73f57e1662a14a24a"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2060,6 +2090,11 @@
       "sha256": "4722f6f71f106fb24e1e95983b287831f78246c4eb0a797ed1c7b237e4923c9b"
     },
     {
+      "path": "outputs/verify_fractionation_boundary.py",
+      "bytes": 6344,
+      "sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a"
+    },
+    {
       "path": "outputs/verify_header_reachability.py",
       "bytes": 4211,
       "sha256": "de3525a21eba5ae9a8e4e7be5224a8f6d250e73aa505a99233d85c9b64975284"
@@ -2113,6 +2148,11 @@
       "path": "outputs/verify_nonreturn_refinement.py",
       "bytes": 2335,
       "sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34"
+    },
+    {
+      "path": "outputs/verify_peer_cycle_claims.py",
+      "bytes": 3928,
+      "sha256": "e66af9ce7c067e2a4224bbf996ce20cb4219f1fcd67fa5d7185e382eb85c3d1f"
     },
     {
       "path": "outputs/verify_phase_switch_audit.py",
@@ -2186,8 +2226,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 144956,
-      "sha256": "7f8b4126e5f92b1c7ab3f3e6398a3098ffaf89bd0f34373e9a0756717835aab5"
+      "bytes": 147434,
+      "sha256": "028f6f12107f340922b669f0afeabf2e91d6deca94dc02910baa305da0c0c6a6"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2201,8 +2241,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6114,
-      "sha256": "df2f87c6a88941eff341552ebbd518d553c27ccd39ffda1a1782edab3e025369"
+      "bytes": 6618,
+      "sha256": "1ec8fadc0e44af77a14be21f65d3a6413f18a7115c5ba6252f7a4e8eb406870b"
     },
     {
       "path": "REFERENCES.md",

@@ -7,7 +7,8 @@ Owning GitHub account and contributor username: **Chesewip**. This snapshot cont
 ## Start here
 
 - [Complete research index](outputs/README.md)
-- [Latest arbitrary-feedback certificate](outputs/lookup-feedback-findings.md): five ciphertext contexts force at least 43 encoded input symbols for any shared lookup-table feedback modulo 83. No guessed plaintext is used. Reverse and alternative arithmetic cases, quinary matrix bounds, and independent checks are included.
+- [Latest fractionation boundary test and peer verification](outputs/fractionation-boundary-findings.md): direct base-5 coordinate fractionation needs at least 64 encoded input symbols even with independent boundary and reading settings. Generated controls and an independent exhaustive check are included. Separately confirms Dr0pflux's bounded cyclic-homophone certificates.
+- [Earlier arbitrary-feedback certificate](outputs/lookup-feedback-findings.md): five ciphertext contexts force at least 43 encoded input symbols for any shared lookup-table feedback modulo 83. No guessed plaintext is used. Reverse and alternative arithmetic cases, quinary matrix bounds, and independent checks are included.
 - [Earlier non-deck comparison](outputs/nondeck-screen-findings.md): numerical feedback, position-dependent tables and fixed homophony tested. Independent exact checks and a calibrated English search provide bounded negative results; no cipher family identified.
 - [Earlier fixed-pivot return constraints](outputs/fixed-pivot-findings.md): ciphertext alone requires at least 35 input selections in the constant-pivot model. Either of two explicit input equalities excludes that family for any common fixed bottom shuffle. A compact finite certificate and independent verifier are included.
 - [Earlier phase-switch obstruction](outputs/phase-switch-findings.md): two explicit, trimmed repeated-plaintext alignments exclude the injective-tail three-card family with any common fixed bottom shuffle. Arbitrary keys and entry decks are allowed; the plaintext assumptions remain unverified.
@@ -34,6 +35,8 @@ From the repository root:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r Chesewip/outputs/requirements.txt
 cd Chesewip/outputs
+..\..\.venv\Scripts\python.exe verify_fractionation_boundary.py
+..\..\.venv\Scripts\python.exe verify_peer_cycle_claims.py
 ..\..\.venv\Scripts\python.exe verify_feedback_bounds.py
 ..\..\.venv\Scripts\python.exe verify_nondeck_screen.py
 ..\..\.venv\Scripts\python.exe verify_fixed_pivot_returns.py

@@ -358,6 +358,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_fractionation_boundary.json",
+      "source_sha256": "8e615389f24a85b93cee60ce61f15eb52b7694a612a3e5fd489efc594ea3ad0f",
+      "published_sha256": "8e615389f24a85b93cee60ce61f15eb52b7694a612a3e5fd489efc594ea3ad0f",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_header_reachability.json",
       "source_sha256": "c508ab883ae7eccdffacc943c7b941cf24ee0d711c6f7213ed102c88c53ec462",
       "published_sha256": "c508ab883ae7eccdffacc943c7b941cf24ee0d711c6f7213ed102c88c53ec462",
@@ -421,6 +427,12 @@
       "path": "outputs/checked_nonreturn_refinement.json",
       "source_sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7",
       "published_sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/checked_peer_cycle_claims.json",
+      "source_sha256": "e449220a6ceef5d4194d39b91ded468c13b9fdc890356c1be8e0abb2410684a5",
+      "published_sha256": "e449220a6ceef5d4194d39b91ded468c13b9fdc890356c1be8e0abb2410684a5",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -1072,6 +1084,24 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/fractionation-boundary-findings.md",
+      "source_sha256": "49dca409b81457efaaad2f6947c1d94fd80310af7131e2babe73ea4619c47a7c",
+      "published_sha256": "49dca409b81457efaaad2f6947c1d94fd80310af7131e2babe73ea4619c47a7c",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/fractionation_boundary_screen.json",
+      "source_sha256": "76af51dde14ca52a2c08b022b8bf1dabfda1818fbfc197760c6d96a0a15496e6",
+      "published_sha256": "76af51dde14ca52a2c08b022b8bf1dabfda1818fbfc197760c6d96a0a15496e6",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/fractionation_boundary_screen.py",
+      "source_sha256": "1a0cda5bf7132c190601873c147951653bab078f5440164b57b670ede54d8267",
+      "published_sha256": "1a0cda5bf7132c190601873c147951653bab078f5440164b57b670ede54d8267",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/full_rotation_three_cycle.py",
       "source_sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98",
       "published_sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98",
@@ -1588,6 +1618,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/peer_cycle_claims.json",
+      "source_sha256": "12d0d5ab1d1dbcf150cb27693df9d043f9e799ea9dc48e86b2b4a4d6b0c9d1f1",
+      "published_sha256": "12d0d5ab1d1dbcf150cb27693df9d043f9e799ea9dc48e86b2b4a4d6b0c9d1f1",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/permutation_action_fold.json",
       "source_sha256": "12f580dc83ce63da4ff80b8c0cf98a782daba2ba5d92c2b62dec285128250f5b",
       "published_sha256": "12f580dc83ce63da4ff80b8c0cf98a782daba2ba5d92c2b62dec285128250f5b",
@@ -1703,8 +1739,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "2c9f652735ef496e98f5dfd2005c15449bdc8d98277d43cd991ecb8352a2bf0a",
-      "published_sha256": "2c9f652735ef496e98f5dfd2005c15449bdc8d98277d43cd991ecb8352a2bf0a",
+      "source_sha256": "2543d2f2c4ae9386f7fa2e0f432bbfe0fc93e40d60f94fd73f57e1662a14a24a",
+      "published_sha256": "2543d2f2c4ae9386f7fa2e0f432bbfe0fc93e40d60f94fd73f57e1662a14a24a",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2446,6 +2482,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/verify_fractionation_boundary.py",
+      "source_sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a",
+      "published_sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/verify_header_reachability.py",
       "source_sha256": "de3525a21eba5ae9a8e4e7be5224a8f6d250e73aa505a99233d85c9b64975284",
       "published_sha256": "de3525a21eba5ae9a8e4e7be5224a8f6d250e73aa505a99233d85c9b64975284",
@@ -2509,6 +2551,12 @@
       "path": "outputs/verify_nonreturn_refinement.py",
       "source_sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34",
       "published_sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_peer_cycle_claims.py",
+      "source_sha256": "e66af9ce7c067e2a4224bbf996ce20cb4219f1fcd67fa5d7185e382eb85c3d1f",
+      "published_sha256": "e66af9ce7c067e2a4224bbf996ce20cb4219f1fcd67fa5d7185e382eb85c3d1f",
       "publication_action": "byte-for-byte copy"
     },
     {

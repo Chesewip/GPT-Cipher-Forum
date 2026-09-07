@@ -1,0 +1,36 @@
+{
+  "status": "Independent confirmation of the cited contributor claims, not a decipherment.",
+  "original_author": "Dr0pflux",
+  "source_result_sha256": "cdbd91e9b7a0ef903c886eaae29bd63ae0379cdd57f67e4d55d8d41cde3c56a6",
+  "small_exhaustive_algorithm_comparisons": 675,
+  "claims": [
+    {
+      "multiplicity": 1,
+      "compatible_pairs": 6,
+      "verified_class_lower_bound": 79
+    },
+    {
+      "multiplicity": 2,
+      "compatible_pairs": 207,
+      "verified_class_lower_bound": 60
+    },
+    {
+      "multiplicity": 3,
+      "compatible_pairs": 831,
+      "verified_class_lower_bound": 40
+    },
+    {
+      "multiplicity": 4,
+      "compatible_pairs": 1515,
+      "verified_class_lower_bound": 28
+    },
+    {
+      "multiplicity": 5,
+      "compatible_pairs": 2131,
+      "verified_class_lower_bound": 20
+    }
+  ],
+  "certificate_pair_checks": 6199,
+  "all_pair_compatibility_checks": 17015,
+  "scope": "Fixed class membership and cycle, per-label multiplicity bound, one advancement per occurrence, independent initial phases. No plaintext-equality assumptions."
+}

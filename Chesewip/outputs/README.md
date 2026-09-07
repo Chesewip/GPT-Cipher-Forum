@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `lookup-feedback-findings.md`. Five observed predecessor contexts force at least 43 encoded input symbols for arbitrary shared lookup-table feedback modulo 83, with no guessed plaintext. Reverse reading and other translation groups also need more than 40. All quinary linear feedback matrices require at least 72; independent verification included.
+Latest: see `fractionation-boundary-findings.md`. Direct base-5 coordinate fractionation requires at least 64 encoded input symbols despite independently variable message periods, short boundary blocks and reading conventions. Generated prime-length controls recover their planted settings up to reversal; the decisive bound is independently exhaustive-checked. A separate implementation confirms Dr0pflux's bounded cyclic-homophone certificates, with attribution. No plaintext recovered.
+
+Previous: see `lookup-feedback-findings.md`. Five observed predecessor contexts force at least 43 encoded input symbols for arbitrary shared lookup-table feedback modulo 83, with no guessed plaintext. Reverse reading and other translation groups also need more than 40. All quinary linear feedback matrices require at least 72; independent verification included.
 
 Previous: see `nondeck-screen-findings.md`. A bounded comparison tests numerical feedback, position-dependent substitution and fixed homophony. Exact support bounds and conditional table contradictions are independently checked; an assumption-free English homophonic search recovers over 99% on three generated controls but no coherent text from the eyes. No replacement family is identified.
 
@@ -29,6 +31,8 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_fractionation_boundary.py
+python verify_peer_cycle_claims.py
 python verify_feedback_bounds.py
 python verify_nondeck_screen.py
 python verify_cycle_bounds.py

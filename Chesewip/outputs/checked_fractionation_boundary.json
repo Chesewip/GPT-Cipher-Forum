@@ -1,0 +1,12 @@
+{
+  "status": "Verified ciphertext-only bound; no plaintext recovered.",
+  "decisive_message": "East 3",
+  "independent_message_support_lower_bound": 64,
+  "decisive_message_configurations_reenumerated": 225228,
+  "all_real_view_witnesses_redecoded": 216,
+  "standard_shared_configurations_reenumerated": 3276,
+  "standard_shared_minimum_support": 83,
+  "generated_control_encodings_replayed": 3,
+  "generated_direction_renumberings_verified": 360,
+  "scope": "All critical-message configurations and standard shared configurations independently reenumerated; other message/control minima have witness checks, not a second exhaustive optimality search."
+}

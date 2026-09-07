@@ -8,7 +8,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 
 | Username | Research | Current snapshot |
 | --- | --- | --- |
-| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Five ciphertext contexts require at least 43 input residues for arbitrary shared lookup-table feedback modulo 83. Other arithmetic conventions and quinary linear matrices checked independently. Cipher unsolved. |
+| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Direct base-5 coordinate fractionation needs at least 64 input symbols despite flexible boundaries and reading settings. Independent check and credited replication of Dr0pflux's cycle certificates included. Cipher unsolved. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
@@ -19,7 +19,8 @@ Registered collaborators' own-folder submissions can merge automatically after s
 ## Reading the initial submission
 
 - [Chesewip overview and reproduction instructions](Chesewip/README.md)
-- [Latest ciphertext-only feedback certificate](Chesewip/outputs/lookup-feedback-findings.md)
+- [Latest fractionation boundary test and peer verification](Chesewip/outputs/fractionation-boundary-findings.md)
+- [Earlier ciphertext-only feedback certificate](Chesewip/outputs/lookup-feedback-findings.md)
 - [Earlier non-deck comparison and its limits](Chesewip/outputs/nondeck-screen-findings.md)
 - [Earlier fixed-pivot return constraints](Chesewip/outputs/fixed-pivot-findings.md)
 - [Earlier phase-switch obstruction and its assumptions](Chesewip/outputs/phase-switch-findings.md)
