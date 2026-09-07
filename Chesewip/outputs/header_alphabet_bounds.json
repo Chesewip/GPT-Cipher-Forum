@@ -1,0 +1,102 @@
+[
+  {
+    "alphabet_bound": 27,
+    "shuffle_offset": 0,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 27,
+    "shuffle_offset": 1,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 27,
+    "shuffle_offset": 41,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 27,
+    "shuffle_offset": 81,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 39,
+    "shuffle_offset": 0,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 39,
+    "shuffle_offset": 1,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 39,
+    "shuffle_offset": 41,
+    "root_excluded": false
+  },
+  {
+    "alphabet_bound": 39,
+    "shuffle_offset": 81,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 40,
+    "shuffle_offset": 0,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 40,
+    "shuffle_offset": 1,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 40,
+    "shuffle_offset": 41,
+    "root_excluded": false
+  },
+  {
+    "alphabet_bound": 40,
+    "shuffle_offset": 81,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 41,
+    "shuffle_offset": 0,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 41,
+    "shuffle_offset": 1,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 41,
+    "shuffle_offset": 41,
+    "root_excluded": false
+  },
+  {
+    "alphabet_bound": 41,
+    "shuffle_offset": 81,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 42,
+    "shuffle_offset": 0,
+    "root_excluded": true
+  },
+  {
+    "alphabet_bound": 42,
+    "shuffle_offset": 1,
+    "root_excluded": false
+  },
+  {
+    "alphabet_bound": 42,
+    "shuffle_offset": 41,
+    "root_excluded": false
+  },
+  {
+    "alphabet_bound": 42,
+    "shuffle_offset": 81,
+    "root_excluded": true
+  }
+]

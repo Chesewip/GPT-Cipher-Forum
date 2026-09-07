@@ -1,0 +1,67 @@
+[
+  {
+    "first_included_relative_plaintext_position": 1,
+    "small_top_cycle_statuses": [
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally"
+    ]
+  },
+  {
+    "first_included_relative_plaintext_position": 2,
+    "small_top_cycle_statuses": [
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally"
+    ]
+  },
+  {
+    "first_included_relative_plaintext_position": 3,
+    "small_top_cycle_statuses": [
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally"
+    ]
+  },
+  {
+    "first_included_relative_plaintext_position": 4,
+    "small_top_cycle_statuses": [
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "relaxation_survives",
+      "excluded_conditionally"
+    ]
+  },
+  {
+    "first_included_relative_plaintext_position": 5,
+    "small_top_cycle_statuses": [
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "excluded_conditionally",
+      "relaxation_survives",
+      "relaxation_survives",
+      "relaxation_survives",
+      "relaxation_survives"
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+{
+  "generated_controls": [
+    {
+      "n": 7,
+      "rotation": 4,
+      "status": "sat",
+      "return_intervals": 135,
+      "intermediate_steps": 562,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 7,
+      "rotation": 5,
+      "status": "sat",
+      "return_intervals": 135,
+      "intermediate_steps": 599,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 7,
+      "rotation": 0,
+      "status": "sat",
+      "return_intervals": 135,
+      "intermediate_steps": 581,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 7,
+      "rotation": 1,
+      "status": "sat",
+      "return_intervals": 135,
+      "intermediate_steps": 541,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 7,
+      "rotation": 4,
+      "status": "sat",
+      "return_intervals": 135,
+      "intermediate_steps": 606,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 11,
+      "rotation": 7,
+      "status": "sat",
+      "return_intervals": 123,
+      "intermediate_steps": 870,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 11,
+      "rotation": 4,
+      "status": "sat",
+      "return_intervals": 123,
+      "intermediate_steps": 823,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 11,
+      "rotation": 9,
+      "status": "sat",
+      "return_intervals": 123,
+      "intermediate_steps": 807,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 11,
+      "rotation": 3,
+      "status": "sat",
+      "return_intervals": 124,
+      "intermediate_steps": 736,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 11,
+      "rotation": 9,
+      "status": "sat",
+      "return_intervals": 123,
+      "intermediate_steps": 889,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 83,
+      "rotation": 72,
+      "status": "sat",
+      "return_intervals": 36,
+      "intermediate_steps": 469,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 83,
+      "rotation": 9,
+      "status": "sat",
+      "return_intervals": 37,
+      "intermediate_steps": 526,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 83,
+      "rotation": 35,
+      "status": "sat",
+      "return_intervals": 45,
+      "intermediate_steps": 541,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 83,
+      "rotation": 29,
+      "status": "sat",
+      "return_intervals": 38,
+      "intermediate_steps": 523,
+      "plaintext_variables": 96
+    },
+    {
+      "n": 83,
+      "rotation": 44,
+      "status": "sat",
+      "return_intervals": 28,
+      "intermediate_steps": 488,
+      "plaintext_variables": 96
+    }
+  ],
+  "results": [
+    {
+      "rotation": 0,
+      "status": "unknown",
+      "seconds": 32.93704080581665,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 1,
+      "status": "unknown",
+      "seconds": 17.8314847946167,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 9,
+      "status": "unknown",
+      "seconds": 16.43472671508789,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 17,
+      "status": "unknown",
+      "seconds": 15.714712619781494,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 41,
+      "status": "unknown",
+      "seconds": 14.280641078948975,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 81,
+      "status": "unknown",
+      "seconds": 5.779720783233643,
+      "reason": "timeout"
+    }
+  ],
+  "assumed_equalities": [
+    [
+      1,
+      35,
+      1,
+      65,
+      25
+    ],
+    [
+      2,
+      40,
+      2,
+      75,
+      23
+    ],
+    [
+      0,
+      41,
+      0,
+      69,
+      9
+    ],
+    [
+      1,
+      41,
+      2,
+      46,
+      10
+    ],
+    [
+      1,
+      41,
+      2,
+      81,
+      10
+    ],
+    [
+      3,
+      19,
+      4,
+      25,
+      13
+    ],
+    [
+      3,
+      19,
+      5,
+      24,
+      13
+    ],
+    [
+      6,
+      52,
+      7,
+      54,
+      11
+    ],
+    [
+      6,
+      52,
+      8,
+      53,
+      11
+    ],
+    [
+      6,
+      69,
+      7,
+      72,
+      32
+    ]
+  ],
+  "initial_key_constraints": false,
+  "alphabet_bound": null,
+  "gap": 10000,
+  "return_intervals": 474,
+  "intermediate_steps": 13740,
+  "plaintext_variables": 889,
+  "scope": "Unit-neighbor rotating three-cycle; arbitrary selections; shared plaintext only as explicitly listed. SAT is a relaxation.",
+  "seconds": 113.35910296440125
+}

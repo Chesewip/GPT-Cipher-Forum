@@ -1,0 +1,828 @@
+{
+  "gap": 12,
+  "trim": 1,
+  "assumed_equalities": [
+    [
+      1,
+      35,
+      1,
+      65,
+      25
+    ],
+    [
+      2,
+      40,
+      2,
+      75,
+      23
+    ],
+    [
+      0,
+      41,
+      0,
+      69,
+      9
+    ],
+    [
+      1,
+      41,
+      2,
+      46,
+      10
+    ],
+    [
+      1,
+      41,
+      2,
+      81,
+      10
+    ],
+    [
+      3,
+      19,
+      4,
+      25,
+      13
+    ],
+    [
+      3,
+      19,
+      5,
+      24,
+      13
+    ],
+    [
+      6,
+      52,
+      7,
+      54,
+      11
+    ],
+    [
+      6,
+      52,
+      8,
+      53,
+      11
+    ],
+    [
+      6,
+      69,
+      7,
+      72,
+      32
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      24
+    ],
+    [
+      3,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      4,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      6,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      7,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      8,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      7,
+      1,
+      20
+    ]
+  ],
+  "counts": {
+    "return_intervals": 126,
+    "intermediate_steps": 601,
+    "plaintext_variables": 780
+  },
+  "results": [
+    {
+      "rotation": 0,
+      "status": "unknown",
+      "seconds": 1.5006654262542725,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 1,
+      "status": "unknown",
+      "seconds": 1.0062811374664307,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 2,
+      "status": "unknown",
+      "seconds": 1.0022079944610596,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 3,
+      "status": "unknown",
+      "seconds": 1.0063579082489014,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 4,
+      "status": "unknown",
+      "seconds": 1.0009489059448242,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 5,
+      "status": "unknown",
+      "seconds": 1.0017459392547607,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 6,
+      "status": "unknown",
+      "seconds": 1.0021636486053467,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 7,
+      "status": "unknown",
+      "seconds": 1.0007972717285156,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 8,
+      "status": "unknown",
+      "seconds": 1.0061206817626953,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 9,
+      "status": "unknown",
+      "seconds": 1.0007095336914062,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 10,
+      "status": "unknown",
+      "seconds": 1.0013611316680908,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 11,
+      "status": "unknown",
+      "seconds": 1.0024325847625732,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 12,
+      "status": "unknown",
+      "seconds": 1.0062241554260254,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 13,
+      "status": "unknown",
+      "seconds": 1.0020172595977783,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 14,
+      "status": "unknown",
+      "seconds": 1.0010919570922852,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 15,
+      "status": "unknown",
+      "seconds": 1.0081028938293457,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 16,
+      "status": "unknown",
+      "seconds": 1.0075597763061523,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 17,
+      "status": "unknown",
+      "seconds": 1.00081205368042,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 18,
+      "status": "unknown",
+      "seconds": 1.0085322856903076,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 19,
+      "status": "unknown",
+      "seconds": 1.0006887912750244,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 20,
+      "status": "unknown",
+      "seconds": 1.0025277137756348,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 21,
+      "status": "unknown",
+      "seconds": 1.0070068836212158,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 22,
+      "status": "unknown",
+      "seconds": 1.0074701309204102,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 23,
+      "status": "unknown",
+      "seconds": 1.0078110694885254,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 24,
+      "status": "unknown",
+      "seconds": 1.0015969276428223,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 25,
+      "status": "unknown",
+      "seconds": 1.007333517074585,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 26,
+      "status": "unknown",
+      "seconds": 1.0071766376495361,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 27,
+      "status": "unknown",
+      "seconds": 1.001004695892334,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 28,
+      "status": "unknown",
+      "seconds": 1.0009655952453613,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 29,
+      "status": "unknown",
+      "seconds": 1.0086588859558105,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 30,
+      "status": "unknown",
+      "seconds": 1.0015976428985596,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 31,
+      "status": "unknown",
+      "seconds": 1.008120059967041,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 32,
+      "status": "unknown",
+      "seconds": 1.0024199485778809,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 33,
+      "status": "unknown",
+      "seconds": 1.0022799968719482,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 34,
+      "status": "unknown",
+      "seconds": 1.0010302066802979,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 35,
+      "status": "unknown",
+      "seconds": 1.0023558139801025,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 36,
+      "status": "unknown",
+      "seconds": 1.0077359676361084,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 37,
+      "status": "unknown",
+      "seconds": 1.0015695095062256,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 38,
+      "status": "unknown",
+      "seconds": 1.0014288425445557,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 39,
+      "status": "unknown",
+      "seconds": 1.0012617111206055,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 40,
+      "status": "unknown",
+      "seconds": 1.0089304447174072,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 41,
+      "status": "unknown",
+      "seconds": 1.008922815322876,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 42,
+      "status": "unknown",
+      "seconds": 1.0078480243682861,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 43,
+      "status": "unknown",
+      "seconds": 1.00138258934021,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 44,
+      "status": "unknown",
+      "seconds": 1.0004544258117676,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 45,
+      "status": "unknown",
+      "seconds": 1.0011818408966064,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 46,
+      "status": "unknown",
+      "seconds": 1.0078866481781006,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 47,
+      "status": "unknown",
+      "seconds": 1.0017311573028564,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 48,
+      "status": "unknown",
+      "seconds": 1.0020718574523926,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 49,
+      "status": "unknown",
+      "seconds": 1.0018601417541504,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 50,
+      "status": "unknown",
+      "seconds": 1.0014984607696533,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 51,
+      "status": "unknown",
+      "seconds": 1.0080194473266602,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 52,
+      "status": "unknown",
+      "seconds": 1.001145601272583,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 53,
+      "status": "unknown",
+      "seconds": 1.0028362274169922,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 54,
+      "status": "unknown",
+      "seconds": 1.0014941692352295,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 55,
+      "status": "unknown",
+      "seconds": 1.0088434219360352,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 56,
+      "status": "unknown",
+      "seconds": 1.0088460445404053,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 57,
+      "status": "unknown",
+      "seconds": 1.008004903793335,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 58,
+      "status": "unknown",
+      "seconds": 1.0099222660064697,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 59,
+      "status": "unknown",
+      "seconds": 1.0017552375793457,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 60,
+      "status": "unknown",
+      "seconds": 1.002065896987915,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 61,
+      "status": "unknown",
+      "seconds": 1.0014560222625732,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 62,
+      "status": "unknown",
+      "seconds": 1.0088176727294922,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 63,
+      "status": "unknown",
+      "seconds": 1.011176586151123,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 64,
+      "status": "unknown",
+      "seconds": 1.0098321437835693,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 65,
+      "status": "unknown",
+      "seconds": 1.0101556777954102,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 66,
+      "status": "unknown",
+      "seconds": 1.0105860233306885,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 67,
+      "status": "unknown",
+      "seconds": 1.0098395347595215,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 68,
+      "status": "unknown",
+      "seconds": 1.0119216442108154,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 69,
+      "status": "unknown",
+      "seconds": 1.0009055137634277,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 70,
+      "status": "unknown",
+      "seconds": 1.0009300708770752,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 71,
+      "status": "unknown",
+      "seconds": 1.007951259613037,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 72,
+      "status": "unknown",
+      "seconds": 1.0089492797851562,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 73,
+      "status": "unknown",
+      "seconds": 1.0112519264221191,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 74,
+      "status": "unknown",
+      "seconds": 1.0103449821472168,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 75,
+      "status": "unknown",
+      "seconds": 1.0077190399169922,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 76,
+      "status": "unknown",
+      "seconds": 1.0618019104003906,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 77,
+      "status": "unknown",
+      "seconds": 1.0123658180236816,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 78,
+      "status": "unknown",
+      "seconds": 1.0112237930297852,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 79,
+      "status": "unknown",
+      "seconds": 1.0014281272888184,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 80,
+      "status": "unknown",
+      "seconds": 1.0012876987457275,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 81,
+      "status": "unknown",
+      "seconds": 1.0093977451324463,
+      "reason": "timeout"
+    }
+  ],
+  "warning": "Conditional return-path relaxation. SAT is not a key. Unknown is inconclusive."
+}

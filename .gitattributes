@@ -1,0 +1,6 @@
+# Preserve exact archived bytes, including the CRLF used by authored research.
+# Manifests must remain valid on GitHub and in every checkout.
+* -text
+*.zip binary
+*.pdf binary
+*.png binary

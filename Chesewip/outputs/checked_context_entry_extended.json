@@ -1,0 +1,399 @@
+{
+  "exhaustive_key_equivalence_checks": 624,
+  "solver_fixtures": 40,
+  "full_size_fixed_key_checks": 2,
+  "fixtures": [
+    {
+      "n": 4,
+      "trial": 0,
+      "fixed": null,
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "fixed": null,
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "fixed": {
+        "2": 0,
+        "1": 1
+      },
+      "compact": false,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "fixed": {
+        "2": 0,
+        "1": 1
+      },
+      "compact": true,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "fixed": {
+        "2": 0,
+        "1": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "fixed": {
+        "2": 0,
+        "1": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "fixed": null,
+      "compact": false,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "fixed": null,
+      "compact": true,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "fixed": {
+        "1": 0,
+        "0": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "fixed": {
+        "1": 0,
+        "0": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "fixed": {
+        "3": 0,
+        "0": 1
+      },
+      "compact": false,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "fixed": {
+        "3": 0,
+        "0": 1
+      },
+      "compact": true,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "fixed": null,
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "fixed": null,
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "fixed": {
+        "3": 0,
+        "2": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "fixed": {
+        "3": 0,
+        "2": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 8,
+      "fixed": {
+        "1": 0,
+        "3": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 8,
+      "fixed": {
+        "1": 0,
+        "3": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 9,
+      "fixed": null,
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 9,
+      "fixed": null,
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "fixed": null,
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "fixed": null,
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "fixed": {
+        "4": 0,
+        "0": 1
+      },
+      "compact": false,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "fixed": {
+        "4": 0,
+        "0": 1
+      },
+      "compact": true,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "fixed": {
+        "0": 0,
+        "3": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "fixed": {
+        "0": 0,
+        "3": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "fixed": null,
+      "compact": false,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "fixed": null,
+      "compact": true,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "fixed": {
+        "0": 0,
+        "4": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "fixed": {
+        "0": 0,
+        "4": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "fixed": {
+        "4": 0,
+        "0": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "fixed": {
+        "4": 0,
+        "0": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "fixed": null,
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "fixed": null,
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "fixed": {
+        "1": 0,
+        "3": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "fixed": {
+        "1": 0,
+        "3": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 8,
+      "fixed": {
+        "2": 0,
+        "3": 1
+      },
+      "compact": false,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 8,
+      "fixed": {
+        "2": 0,
+        "3": 1
+      },
+      "compact": true,
+      "has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 9,
+      "fixed": null,
+      "compact": false,
+      "has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 9,
+      "fixed": null,
+      "compact": true,
+      "has_key": false,
+      "status": "unsat"
+    }
+  ]
+}

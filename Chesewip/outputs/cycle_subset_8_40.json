@@ -1,0 +1,1500 @@
+{
+  "seconds": 3.9618277549743652,
+  "results": [
+    {
+      "top": 0,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2535,
+      "shifts": null
+    },
+    {
+      "top": 1,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2614,
+      "shifts": null
+    },
+    {
+      "top": 2,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        36,
+        72
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3404,
+      "shifts": null
+    },
+    {
+      "top": 3,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72,
+        80
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 4,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 5,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 1251,
+      "shifts": null
+    },
+    {
+      "top": 6,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2606,
+      "shifts": null
+    },
+    {
+      "top": 7,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 8,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        17,
+        36,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2547,
+      "shifts": null
+    },
+    {
+      "top": 9,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3427,
+      "shifts": null
+    },
+    {
+      "top": 10,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3394,
+      "shifts": null
+    },
+    {
+      "top": 11,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 12,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 13,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        36,
+        72
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2556,
+      "shifts": null
+    },
+    {
+      "top": 14,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 15,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3436,
+      "shifts": null
+    },
+    {
+      "top": 16,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72,
+        80
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 17,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3436,
+      "shifts": null
+    },
+    {
+      "top": 18,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3404,
+      "shifts": null
+    },
+    {
+      "top": 19,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3480,
+      "shifts": null
+    },
+    {
+      "top": 20,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        36,
+        72
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3427,
+      "shifts": null
+    },
+    {
+      "top": 21,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2580,
+      "shifts": null
+    },
+    {
+      "top": 22,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 23,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2552,
+      "shifts": null
+    },
+    {
+      "top": 24,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 1798,
+      "shifts": null
+    },
+    {
+      "top": 25,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 26,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3412,
+      "shifts": null
+    },
+    {
+      "top": 27,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2226,
+      "shifts": null
+    },
+    {
+      "top": 28,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3488,
+      "shifts": null
+    },
+    {
+      "top": 29,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3412,
+      "shifts": null
+    },
+    {
+      "top": 30,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2585,
+      "shifts": null
+    },
+    {
+      "top": 31,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 32,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2603,
+      "shifts": null
+    },
+    {
+      "top": 33,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2137,
+      "shifts": null
+    },
+    {
+      "top": 34,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2133,
+      "shifts": null
+    },
+    {
+      "top": 35,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 36,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 588,
+      "shifts": null
+    },
+    {
+      "top": 37,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3433,
+      "shifts": null
+    },
+    {
+      "top": 38,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 39,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 40,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 41,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 42,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3473,
+      "shifts": null
+    },
+    {
+      "top": 43,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2571,
+      "shifts": null
+    },
+    {
+      "top": 44,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 1799,
+      "shifts": null
+    },
+    {
+      "top": 45,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 46,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3429,
+      "shifts": null
+    },
+    {
+      "top": 47,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3429,
+      "shifts": null
+    },
+    {
+      "top": 48,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3425,
+      "shifts": null
+    },
+    {
+      "top": 49,
+      "labels": [
+        57,
+        60,
+        36,
+        75,
+        80,
+        8,
+        17,
+        72
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3421,
+      "shifts": null
+    },
+    {
+      "top": 50,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2226,
+      "shifts": null
+    },
+    {
+      "top": 51,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 52,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2551,
+      "shifts": null
+    },
+    {
+      "top": 53,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 54,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 1846,
+      "shifts": null
+    },
+    {
+      "top": 55,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 56,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 57,
+      "labels": [
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 6247,
+      "shifts": null
+    },
+    {
+      "top": 58,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 59,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3422,
+      "shifts": null
+    },
+    {
+      "top": 60,
+      "labels": [
+        57,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 7242,
+      "shifts": null
+    },
+    {
+      "top": 61,
+      "labels": [
+        57,
+        60,
+        36,
+        75,
+        80,
+        8,
+        17,
+        72
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3377,
+      "shifts": null
+    },
+    {
+      "top": 62,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 1843,
+      "shifts": null
+    },
+    {
+      "top": 63,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2226,
+      "shifts": null
+    },
+    {
+      "top": 64,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3481,
+      "shifts": null
+    },
+    {
+      "top": 65,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3473,
+      "shifts": null
+    },
+    {
+      "top": 66,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3400,
+      "shifts": null
+    },
+    {
+      "top": 67,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3411,
+      "shifts": null
+    },
+    {
+      "top": 68,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3417,
+      "shifts": null
+    },
+    {
+      "top": 69,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 70,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 1286,
+      "shifts": null
+    },
+    {
+      "top": 71,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 72,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        5,
+        29
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3422,
+      "shifts": null
+    },
+    {
+      "top": 73,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3419,
+      "shifts": null
+    },
+    {
+      "top": 74,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3749,
+      "shifts": null
+    },
+    {
+      "top": 75,
+      "labels": [
+        80,
+        36,
+        57,
+        60,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 1797,
+      "shifts": null
+    },
+    {
+      "top": 76,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2226,
+      "shifts": null
+    },
+    {
+      "top": 77,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2226,
+      "shifts": null
+    },
+    {
+      "top": 78,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2539,
+      "shifts": null
+    },
+    {
+      "top": 79,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 3431,
+      "shifts": null
+    },
+    {
+      "top": 80,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 2226,
+      "shifts": null
+    },
+    {
+      "top": 81,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2580,
+      "shifts": null
+    },
+    {
+      "top": 82,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5
+      ],
+      "target_alphabet": 40,
+      "identity_selection_cost": 0,
+      "status": "unsat",
+      "nodes": 2564,
+      "shifts": null
+    }
+  ],
+  "all_unsat": true
+}

@@ -1,0 +1,452 @@
+{
+  "passed": true,
+  "generated_repeated_plaintext_controls": 80,
+  "control_details": [
+    {
+      "top_cycle": 1,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 1,
+      "trial": 9,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 2,
+      "trial": 9,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 3,
+      "trial": 9,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 4,
+      "trial": 9,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 5,
+      "trial": 9,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 6,
+      "trial": 9,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 7,
+      "trial": 9,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 0,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 1,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 2,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 3,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 4,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 5,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 6,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 7,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 8,
+      "status": "relaxation_survives"
+    },
+    {
+      "top_cycle": 8,
+      "trial": 9,
+      "status": "relaxation_survives"
+    }
+  ],
+  "small_top_cycle_certificates": [
+    {
+      "top_cycle": 1,
+      "independent_hitting_nodes": 1,
+      "bad_groups": 2
+    },
+    {
+      "top_cycle": 2,
+      "independent_hitting_nodes": 8,
+      "bad_groups": 5
+    },
+    {
+      "top_cycle": 3,
+      "independent_hitting_nodes": 11,
+      "bad_groups": 8
+    },
+    {
+      "top_cycle": 4,
+      "independent_hitting_nodes": 18,
+      "bad_groups": 10
+    },
+    {
+      "top_cycle": 5,
+      "independent_hitting_nodes": 17,
+      "bad_groups": 13
+    },
+    {
+      "top_cycle": 6,
+      "independent_hitting_nodes": 19,
+      "bad_groups": 13
+    },
+    {
+      "top_cycle": 7,
+      "independent_hitting_nodes": 36,
+      "bad_groups": 25
+    },
+    {
+      "top_cycle": 8,
+      "direct_selection_contradiction": true
+    }
+  ],
+  "top_cycles_9_through_83_excluded_by_return_gaps": [
+    8,
+    9
+  ],
+  "conditional_conclusion": "Every fixed positional permutation Q is excluded in the one-swap model under the stated internal-plaintext equalities."
+}

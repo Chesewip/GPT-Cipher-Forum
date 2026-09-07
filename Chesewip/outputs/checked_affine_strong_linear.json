@@ -1,0 +1,29 @@
+{
+  "status": "all_recorded_exclusions_verified",
+  "certificates_checked": 7048,
+  "multiplier_triples_covered": 551368,
+  "stage1_pairs": 6724,
+  "stage1_open_pairs": [
+    [
+      4,
+      24
+    ],
+    [
+      42,
+      30
+    ],
+    [
+      45,
+      7
+    ],
+    [
+      52,
+      32
+    ]
+  ],
+  "stage2_triples": 328,
+  "generated_affine_controls": 150,
+  "independent_corpus_context_extraction": true,
+  "seconds": 1.1830589771270752,
+  "scope": "Exclusion conditional on the three strong passage-context assumptions. The verifier uses direct modular row sums, not a solver verdict."
+}

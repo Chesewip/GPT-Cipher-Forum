@@ -1,0 +1,42 @@
+{
+  "status": "solver_unknown",
+  "solver_encoding": "Boolean membership and unary alphabet budgets",
+  "cycle_partition": [
+    2,
+    54,
+    18,
+    6,
+    1,
+    1,
+    1
+  ],
+  "alphabet_bound": 32,
+  "top_cost": 1,
+  "warmups": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "excluded_prefix_labels": [
+    27,
+    33,
+    34,
+    36,
+    50,
+    63,
+    66,
+    76,
+    77,
+    80
+  ],
+  "bad_groups": [],
+  "subset_checks": 0,
+  "last_relaxation": null,
+  "seconds": 17.424098014831543
+}

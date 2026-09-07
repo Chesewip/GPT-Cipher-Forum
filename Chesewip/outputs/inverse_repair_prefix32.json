@@ -1,0 +1,37 @@
+{
+  "status": "unsat",
+  "rotation": 12,
+  "lengths": [
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32
+  ],
+  "comparisons": 124,
+  "free_key_entries": 9,
+  "encoding_seconds": 6.655050992965698,
+  "solve_seconds": 1.919692039489746,
+  "seconds": 8.574743032455444,
+  "scope": "UNSAT with fixed entries excludes only that restricted key neighborhood. Free-key results remain conditional on the specified update, rotation, and plaintext equalities.",
+  "source": "two_swap_prefix_repair.json",
+  "free_slots": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    16,
+    75
+  ],
+  "observation_reduction": false,
+  "materialized_positions": 0,
+  "bottom_rotation_gauge": false,
+  "maximum_equality_errors": 0
+}

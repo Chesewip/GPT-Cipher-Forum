@@ -1,0 +1,1418 @@
+{
+  "positive_controls_passed": 100,
+  "conclusion": "Conditional exclusion of common-initial-deck top-swap followed by arbitrary top-fixing permutation.",
+  "assumptions": "The 11 internal plaintext transitions at E4[52:63], W4[54:65], E5[53:64] are identical. Indices zero-based, ends excluded.",
+  "certificates": [
+    {
+      "top": 0,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 1,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 2,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 3,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 27,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 4,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 5,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 6,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 7,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 8,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 9,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 10,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 11,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 12,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 13,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 14,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 15,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 16,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 17,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 18,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 19,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 20,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 21,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 22,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 23,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 24,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 25,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 26,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 27,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 28,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 29,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 30,
+      "conflict": [
+        {
+          "source": 19,
+          "target": 29,
+          "relative_position": 0,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 19,
+          "target": 54,
+          "relative_position": 4,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 31,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 32,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 33,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 33,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 34,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 35,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 36,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 37,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 38,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 39,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 40,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 41,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 42,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 43,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 44,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 45,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 46,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 47,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 48,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 49,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 50,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 51,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 52,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 53,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 54,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 55,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 56,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 57,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 58,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 59,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 60,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 61,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 62,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 63,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 64,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 65,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 66,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 67,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 68,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 69,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 70,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 71,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 72,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 73,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 74,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 75,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 76,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 77,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 78,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 79,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 80,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 81,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    },
+    {
+      "top": 82,
+      "conflict": [
+        {
+          "source": 30,
+          "target": 32,
+          "relative_position": 1,
+          "kind": "W4 to E5"
+        },
+        {
+          "source": 30,
+          "target": 3,
+          "relative_position": 2,
+          "kind": "E5 to E4"
+        }
+      ]
+    }
+  ]
+}

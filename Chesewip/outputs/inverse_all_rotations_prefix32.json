@@ -1,0 +1,28 @@
+{
+  "status": "unknown",
+  "rotation": null,
+  "lengths": [
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32
+  ],
+  "comparisons": 124,
+  "free_key_entries": 82,
+  "bottom_rotation_gauge": true,
+  "encoding_seconds": 7.566252946853638,
+  "solve_seconds": 30.095337629318237,
+  "seconds": 37.661590576171875,
+  "reason": "timeout",
+  "scope": "UNSAT with fixed entries excludes only that restricted key neighborhood. Free-key results remain conditional on the specified update, rotation, and plaintext equalities.",
+  "source": null,
+  "free_slots": null,
+  "observation_reduction": false,
+  "materialized_positions": 0,
+  "maximum_equality_errors": 0
+}

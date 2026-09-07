@@ -1,0 +1,351 @@
+{
+  "generated_return_gap_checks_passed": 16140,
+  "lower_bounds": [
+    {
+      "top_cycle_length": 1,
+      "minimum_selection_alphabet": 0
+    },
+    {
+      "top_cycle_length": 2,
+      "minimum_selection_alphabet": 1
+    },
+    {
+      "top_cycle_length": 3,
+      "minimum_selection_alphabet": 2
+    },
+    {
+      "top_cycle_length": 4,
+      "minimum_selection_alphabet": 3
+    },
+    {
+      "top_cycle_length": 5,
+      "minimum_selection_alphabet": 4
+    },
+    {
+      "top_cycle_length": 6,
+      "minimum_selection_alphabet": 5
+    },
+    {
+      "top_cycle_length": 7,
+      "minimum_selection_alphabet": 6
+    },
+    {
+      "top_cycle_length": 8,
+      "minimum_selection_alphabet": 7
+    },
+    {
+      "top_cycle_length": 9,
+      "minimum_selection_alphabet": 8
+    },
+    {
+      "top_cycle_length": 10,
+      "minimum_selection_alphabet": 9
+    },
+    {
+      "top_cycle_length": 11,
+      "minimum_selection_alphabet": 10
+    },
+    {
+      "top_cycle_length": 12,
+      "minimum_selection_alphabet": 11
+    },
+    {
+      "top_cycle_length": 13,
+      "minimum_selection_alphabet": 12
+    },
+    {
+      "top_cycle_length": 14,
+      "minimum_selection_alphabet": 13
+    },
+    {
+      "top_cycle_length": 15,
+      "minimum_selection_alphabet": 14
+    },
+    {
+      "top_cycle_length": 16,
+      "minimum_selection_alphabet": 15
+    },
+    {
+      "top_cycle_length": 17,
+      "minimum_selection_alphabet": 16
+    },
+    {
+      "top_cycle_length": 18,
+      "minimum_selection_alphabet": 17
+    },
+    {
+      "top_cycle_length": 19,
+      "minimum_selection_alphabet": 18
+    },
+    {
+      "top_cycle_length": 20,
+      "minimum_selection_alphabet": 19
+    },
+    {
+      "top_cycle_length": 21,
+      "minimum_selection_alphabet": 20
+    },
+    {
+      "top_cycle_length": 22,
+      "minimum_selection_alphabet": 21
+    },
+    {
+      "top_cycle_length": 23,
+      "minimum_selection_alphabet": 22
+    },
+    {
+      "top_cycle_length": 24,
+      "minimum_selection_alphabet": 23
+    },
+    {
+      "top_cycle_length": 25,
+      "minimum_selection_alphabet": 24
+    },
+    {
+      "top_cycle_length": 26,
+      "minimum_selection_alphabet": 25
+    },
+    {
+      "top_cycle_length": 27,
+      "minimum_selection_alphabet": 26
+    },
+    {
+      "top_cycle_length": 28,
+      "minimum_selection_alphabet": 27
+    },
+    {
+      "top_cycle_length": 29,
+      "minimum_selection_alphabet": 28
+    },
+    {
+      "top_cycle_length": 30,
+      "minimum_selection_alphabet": 29
+    },
+    {
+      "top_cycle_length": 31,
+      "minimum_selection_alphabet": 30
+    },
+    {
+      "top_cycle_length": 32,
+      "minimum_selection_alphabet": 31
+    },
+    {
+      "top_cycle_length": 33,
+      "minimum_selection_alphabet": 32
+    },
+    {
+      "top_cycle_length": 34,
+      "minimum_selection_alphabet": 33
+    },
+    {
+      "top_cycle_length": 35,
+      "minimum_selection_alphabet": 34
+    },
+    {
+      "top_cycle_length": 36,
+      "minimum_selection_alphabet": 35
+    },
+    {
+      "top_cycle_length": 37,
+      "minimum_selection_alphabet": 35
+    },
+    {
+      "top_cycle_length": 38,
+      "minimum_selection_alphabet": 36
+    },
+    {
+      "top_cycle_length": 39,
+      "minimum_selection_alphabet": 37
+    },
+    {
+      "top_cycle_length": 40,
+      "minimum_selection_alphabet": 38
+    },
+    {
+      "top_cycle_length": 41,
+      "minimum_selection_alphabet": 39
+    },
+    {
+      "top_cycle_length": 42,
+      "minimum_selection_alphabet": 40
+    },
+    {
+      "top_cycle_length": 43,
+      "minimum_selection_alphabet": 41
+    },
+    {
+      "top_cycle_length": 44,
+      "minimum_selection_alphabet": 42
+    },
+    {
+      "top_cycle_length": 45,
+      "minimum_selection_alphabet": 43
+    },
+    {
+      "top_cycle_length": 46,
+      "minimum_selection_alphabet": 44
+    },
+    {
+      "top_cycle_length": 47,
+      "minimum_selection_alphabet": 45
+    },
+    {
+      "top_cycle_length": 48,
+      "minimum_selection_alphabet": 46
+    },
+    {
+      "top_cycle_length": 49,
+      "minimum_selection_alphabet": 47
+    },
+    {
+      "top_cycle_length": 50,
+      "minimum_selection_alphabet": 48
+    },
+    {
+      "top_cycle_length": 51,
+      "minimum_selection_alphabet": 49
+    },
+    {
+      "top_cycle_length": 52,
+      "minimum_selection_alphabet": 50
+    },
+    {
+      "top_cycle_length": 53,
+      "minimum_selection_alphabet": 51
+    },
+    {
+      "top_cycle_length": 54,
+      "minimum_selection_alphabet": 52
+    },
+    {
+      "top_cycle_length": 55,
+      "minimum_selection_alphabet": 53
+    },
+    {
+      "top_cycle_length": 56,
+      "minimum_selection_alphabet": 54
+    },
+    {
+      "top_cycle_length": 57,
+      "minimum_selection_alphabet": 55
+    },
+    {
+      "top_cycle_length": 58,
+      "minimum_selection_alphabet": 56
+    },
+    {
+      "top_cycle_length": 59,
+      "minimum_selection_alphabet": 57
+    },
+    {
+      "top_cycle_length": 60,
+      "minimum_selection_alphabet": 58
+    },
+    {
+      "top_cycle_length": 61,
+      "minimum_selection_alphabet": 59
+    },
+    {
+      "top_cycle_length": 62,
+      "minimum_selection_alphabet": 60
+    },
+    {
+      "top_cycle_length": 63,
+      "minimum_selection_alphabet": 61
+    },
+    {
+      "top_cycle_length": 64,
+      "minimum_selection_alphabet": 62
+    },
+    {
+      "top_cycle_length": 65,
+      "minimum_selection_alphabet": 63
+    },
+    {
+      "top_cycle_length": 66,
+      "minimum_selection_alphabet": 64
+    },
+    {
+      "top_cycle_length": 67,
+      "minimum_selection_alphabet": 65
+    },
+    {
+      "top_cycle_length": 68,
+      "minimum_selection_alphabet": 66
+    },
+    {
+      "top_cycle_length": 69,
+      "minimum_selection_alphabet": 66
+    },
+    {
+      "top_cycle_length": 70,
+      "minimum_selection_alphabet": 67
+    },
+    {
+      "top_cycle_length": 71,
+      "minimum_selection_alphabet": 68
+    },
+    {
+      "top_cycle_length": 72,
+      "minimum_selection_alphabet": 69
+    },
+    {
+      "top_cycle_length": 73,
+      "minimum_selection_alphabet": 70
+    },
+    {
+      "top_cycle_length": 74,
+      "minimum_selection_alphabet": 70
+    },
+    {
+      "top_cycle_length": 75,
+      "minimum_selection_alphabet": 71
+    },
+    {
+      "top_cycle_length": 76,
+      "minimum_selection_alphabet": 72
+    },
+    {
+      "top_cycle_length": 77,
+      "minimum_selection_alphabet": 73
+    },
+    {
+      "top_cycle_length": 78,
+      "minimum_selection_alphabet": 74
+    },
+    {
+      "top_cycle_length": 79,
+      "minimum_selection_alphabet": 75
+    },
+    {
+      "top_cycle_length": 80,
+      "minimum_selection_alphabet": 76
+    },
+    {
+      "top_cycle_length": 81,
+      "minimum_selection_alphabet": 77
+    },
+    {
+      "top_cycle_length": 82,
+      "minimum_selection_alphabet": 78
+    },
+    {
+      "top_cycle_length": 83,
+      "minimum_selection_alphabet": 79
+    }
+  ],
+  "conditional_witness": {
+    "message": "West 1",
+    "positions_zero_based": [
+      38,
+      68
+    ],
+    "observed_return_distances": [
+      8,
+      9
+    ],
+    "assumption": "These corresponding internal positions in the published repeated passage represent the same plaintext selection.",
+    "conclusion": "The cycle of Q containing the top position has length at most 8."
+  },
+  "full_83_cycle_minimum_alphabet": 79
+}

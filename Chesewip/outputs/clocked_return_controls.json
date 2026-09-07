@@ -1,0 +1,65 @@
+{
+  "passed": true,
+  "controls": [
+    {
+      "n": 11,
+      "trial": 0,
+      "return_intervals": 177,
+      "intermediate_card_steps": 1249
+    },
+    {
+      "n": 11,
+      "trial": 1,
+      "return_intervals": 177,
+      "intermediate_card_steps": 1318
+    },
+    {
+      "n": 11,
+      "trial": 2,
+      "return_intervals": 177,
+      "intermediate_card_steps": 1236
+    },
+    {
+      "n": 11,
+      "trial": 3,
+      "return_intervals": 177,
+      "intermediate_card_steps": 1328
+    },
+    {
+      "n": 11,
+      "trial": 4,
+      "return_intervals": 177,
+      "intermediate_card_steps": 1401
+    },
+    {
+      "n": 83,
+      "trial": 0,
+      "return_intervals": 69,
+      "intermediate_card_steps": 1271
+    },
+    {
+      "n": 83,
+      "trial": 1,
+      "return_intervals": 68,
+      "intermediate_card_steps": 1414
+    },
+    {
+      "n": 83,
+      "trial": 2,
+      "return_intervals": 65,
+      "intermediate_card_steps": 1373
+    },
+    {
+      "n": 83,
+      "trial": 3,
+      "return_intervals": 63,
+      "intermediate_card_steps": 1284
+    },
+    {
+      "n": 83,
+      "trial": 4,
+      "return_intervals": 65,
+      "intermediate_card_steps": 1201
+    }
+  ]
+}

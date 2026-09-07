@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "small_exhaustive_word_checks": 48,
+  "hall_certificates_rechecked": 98,
+  "contiguous_alphabet_thresholds": [
+    {
+      "shuffle_offset": 0,
+      "minimum_contiguous_alphabet_not_excluded_by_this_relaxation": 81
+    },
+    {
+      "shuffle_offset": 1,
+      "minimum_contiguous_alphabet_not_excluded_by_this_relaxation": 43
+    },
+    {
+      "shuffle_offset": 41,
+      "minimum_contiguous_alphabet_not_excluded_by_this_relaxation": 40
+    },
+    {
+      "shuffle_offset": 81,
+      "minimum_contiguous_alphabet_not_excluded_by_this_relaxation": 43
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "bounded_search_inconclusive",
+  "prefix_length": 32,
+  "rotation": 12,
+  "first_moves_selected": 3,
+  "second_move_candidates_tested": 10209,
+  "best_disagreements": 1,
+  "seconds": 0.4011507034301758,
+  "maximum_first_move_disagreements": 5,
+  "source": "two_swap_prefix_repair.json",
+  "scope": "Two swaps; first move must repair at least one originally failed comparison, obey the recorded error threshold, and rank among at most 100 retained moves. Not an exhaustive two-swap search."
+}

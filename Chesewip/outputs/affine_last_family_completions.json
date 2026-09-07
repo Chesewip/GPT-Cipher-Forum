@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "status": "unknown",
+      "multipliers": [
+        4,
+        24
+      ],
+      "active_free_coordinates": 5,
+      "observed_symbols": 54,
+      "seconds": 10.02445387840271,
+      "reason": "timeout"
+    },
+    {
+      "status": "unknown",
+      "multipliers": [
+        42,
+        30
+      ],
+      "active_free_coordinates": 5,
+      "observed_symbols": 54,
+      "seconds": 10.00978684425354,
+      "reason": "timeout"
+    },
+    {
+      "status": "unknown",
+      "multipliers": [
+        45,
+        7
+      ],
+      "active_free_coordinates": 5,
+      "observed_symbols": 54,
+      "seconds": 10.022216796875,
+      "reason": "timeout"
+    },
+    {
+      "status": "unknown",
+      "multipliers": [
+        52,
+        32
+      ],
+      "active_free_coordinates": 5,
+      "observed_symbols": 54,
+      "seconds": 10.010810136795044,
+      "reason": "timeout"
+    }
+  ],
+  "scope": "Embeddings of two last-family context maps only. Not full-message cipher keys or plaintext."
+}

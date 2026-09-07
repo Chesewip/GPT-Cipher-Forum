@@ -1,0 +1,35 @@
+{
+  "planted_controls": [
+    {
+      "n": 7,
+      "planted_cycle_length": 3,
+      "seconds": 0.05256938934326172
+    },
+    {
+      "n": 7,
+      "planted_cycle_length": 5,
+      "seconds": 0.04005694389343262
+    },
+    {
+      "n": 83,
+      "planted_cycle_length": 3,
+      "seconds": 0.7364075183868408
+    },
+    {
+      "n": 83,
+      "planted_cycle_length": 5,
+      "seconds": 0.545870304107666
+    }
+  ],
+  "previously_timed_out_case": {
+    "status": "unsat",
+    "seconds": 4.095310211181641,
+    "cuts": [
+      0,
+      25,
+      28,
+      36
+    ],
+    "allow_three_cycle": true
+  }
+}

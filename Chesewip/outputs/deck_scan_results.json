@@ -1,0 +1,114 @@
+{
+  "forward_included_ascending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      19,
+      64
+    ],
+    "maximum_normalized_ioc": 1.1238617499487065,
+    "maximum_ioc_parameters": [
+      61,
+      56
+    ],
+    "maximum_ioc_support": 82
+  },
+  "forward_included_descending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      19,
+      54
+    ],
+    "maximum_normalized_ioc": 1.1182026747244138,
+    "maximum_ioc_parameters": [
+      61,
+      64
+    ],
+    "maximum_ioc_support": 82
+  },
+  "forward_excluded_ascending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      19,
+      64
+    ],
+    "maximum_normalized_ioc": 1.1133052798609095,
+    "maximum_ioc_parameters": [
+      61,
+      56
+    ],
+    "maximum_ioc_support": 82
+  },
+  "forward_excluded_descending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      19,
+      54
+    ],
+    "maximum_normalized_ioc": 1.1153286223239587,
+    "maximum_ioc_parameters": [
+      27,
+      28
+    ],
+    "maximum_ioc_support": 82
+  },
+  "reverse_included_ascending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      9,
+      39
+    ],
+    "maximum_normalized_ioc": 1.0493760841586928,
+    "maximum_ioc_parameters": [
+      11,
+      19
+    ],
+    "maximum_ioc_support": 82
+  },
+  "reverse_included_descending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      9,
+      59
+    ],
+    "maximum_normalized_ioc": 1.0550351593829854,
+    "maximum_ioc_parameters": [
+      9,
+      34
+    ],
+    "maximum_ioc_support": 82
+  },
+  "reverse_excluded_ascending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      9,
+      39
+    ],
+    "maximum_normalized_ioc": 1.0508929469622341,
+    "maximum_ioc_parameters": [
+      11,
+      19
+    ],
+    "maximum_ioc_support": 82
+  },
+  "reverse_excluded_descending": {
+    "candidates": 3280,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      9,
+      59
+    ],
+    "maximum_normalized_ioc": 1.0540057815207715,
+    "maximum_ioc_parameters": [
+      9,
+      34
+    ],
+    "maximum_ioc_support": 82
+  }
+}

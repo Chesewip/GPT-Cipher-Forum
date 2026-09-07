@@ -1,0 +1,264 @@
+{
+  "all_possible_body_cut_pairs_enumerated": 1176,
+  "exact_minimum_change_templates": 18,
+  "possible_difference_positions_zero_based": [
+    [
+      0,
+      23,
+      28
+    ],
+    [
+      0,
+      23,
+      29
+    ],
+    [
+      0,
+      23,
+      30
+    ],
+    [
+      0,
+      23,
+      31
+    ],
+    [
+      0,
+      23,
+      32
+    ],
+    [
+      0,
+      23,
+      33
+    ],
+    [
+      0,
+      24,
+      28
+    ],
+    [
+      0,
+      24,
+      29
+    ],
+    [
+      0,
+      24,
+      30
+    ],
+    [
+      0,
+      24,
+      31
+    ],
+    [
+      0,
+      24,
+      32
+    ],
+    [
+      0,
+      24,
+      33
+    ],
+    [
+      0,
+      25,
+      28
+    ],
+    [
+      0,
+      25,
+      29
+    ],
+    [
+      0,
+      25,
+      30
+    ],
+    [
+      0,
+      25,
+      31
+    ],
+    [
+      0,
+      25,
+      32
+    ],
+    [
+      0,
+      25,
+      33
+    ]
+  ],
+  "witnesses_independently_verified": [
+    {
+      "difference_positions": [
+        0,
+        23,
+        28
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        23,
+        29
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        23,
+        30
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        23,
+        31
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        23,
+        32
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        23,
+        33
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        24,
+        28
+      ],
+      "alphabet_size": 22,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        24,
+        29
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        24,
+        30
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        24,
+        31
+      ],
+      "alphabet_size": 22,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        24,
+        32
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        24,
+        33
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        25,
+        28
+      ],
+      "alphabet_size": 22,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        25,
+        29
+      ],
+      "alphabet_size": 22,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        25,
+        30
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        25,
+        31
+      ],
+      "alphabet_size": 22,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        25,
+        32
+      ],
+      "alphabet_size": 22,
+      "exact_replay": true
+    },
+    {
+      "difference_positions": [
+        0,
+        25,
+        33
+      ],
+      "alphabet_size": 23,
+      "exact_replay": true
+    }
+  ],
+  "maximum_constructed_alphabet": 23,
+  "minimum_constructed_alphabet": 22,
+  "scope": "Exactly three aligned plaintext differences, common initial deck, reversible fixed-per-letter positional permutations, first 50 East1/West1 outputs.",
+  "warning": "These synthetic plaintexts are not meaningful language."
+}

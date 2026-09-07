@@ -1,0 +1,52 @@
+{
+  "independent_row_dynamic_programs": 400,
+  "exhaustive_global_permutation_optimizations": 60,
+  "generated_small_update_cipher_fixtures": 300,
+  "unit_neighbor_distinct_selection_pair_types": {
+    "2,2": 164,
+    "5": 6478
+  },
+  "real_prefix_bounds_independently_verified": [
+    {
+      "length": 25,
+      "forward": 2,
+      "inverse": 2
+    },
+    {
+      "length": 29,
+      "forward": 10,
+      "inverse": 9
+    },
+    {
+      "length": 34,
+      "forward": 12,
+      "inverse": 11
+    },
+    {
+      "length": 35,
+      "forward": 14,
+      "inverse": 13
+    },
+    {
+      "length": 36,
+      "forward": 16,
+      "inverse": 15
+    },
+    {
+      "length": 37,
+      "forward": 17,
+      "inverse": 16
+    },
+    {
+      "length": 50,
+      "forward": 17,
+      "inverse": 16
+    },
+    {
+      "length": 99,
+      "forward": 88,
+      "inverse": 87
+    }
+  ],
+  "status": "All checks passed. Bounds are necessary, not plaintext recovery."
+}

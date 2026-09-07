@@ -1,0 +1,39 @@
+{
+  "purpose": "Focused publication verification in a disposable copy; archived research outputs unchanged.",
+  "project_build_run": false,
+  "runtime": {
+    "python": "3.10.0",
+    "numpy": "1.24.3",
+    "z3": "5.1.0"
+  },
+  "checks": [
+    {
+      "script": "outputs/verify_mead_return_certificate.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.281,
+      "stdout": "{\n  \"certificate\": {\n    \"plaintext_block\": \"NO\",\n    \"body_positions_one_based_before_after\": [\n      [\n        7,\n        9\n      ],\n      [\n        27,\n        29\n      ]\n    ],\n    \"ciphertext_before_after\": [\n      [\n        60,\n        40\n      ],\n      [\n        13,\n        13\n      ]\n    ],\n    \"outcome\": \"Impossible under fixed per-character permutations of positions and a fixed output position.\",\n    \"invariance\": \"The contradiction uses only label equality, so arbitrary ciphertext relabeling cannot remove it.\",\n    \"scope\": \"Arbitrary initial state and arbitrary bijective per-character updates. Does not cover every cipher described as stateful, deck-based, feedback-based or time-dependent.\"\n  },\n  \"exhaustive_two_update_deck_checks\": 14040,\n  \"generated_83_card_stream_checks\": 100\n}\n",
+      "stderr": ""
+    },
+    {
+      "script": "outputs/verify_incremental_witnesses.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.281,
+      "stdout": "{\n  \"status\": \"verified\",\n  \"witnesses\": [\n    {\n      \"source\": \"incremental_eyes40_bv.json\",\n      \"stage\": 0,\n      \"control\": false,\n      \"prefix_length\": 32,\n      \"ciphertext_outputs\": 288,\n      \"original_equality_comparisons\": 124,\n      \"prefix_errors\": 0,\n      \"full_corpus_errors\": 129,\n      \"full_corpus_comparisons\": 256,\n      \"full_plaintext_support\": 82,\n      \"exact_planted_prefix_recovered\": null\n    },\n    {\n      \"source\": \"incremental_eyes40_bv.json\",\n      \"stage\": 1,\n      \"control\": false,\n      \"prefix_length\": 33,\n      \"ciphertext_outputs\": 297,\n      \"original_equality_comparisons\": 126,\n      \"prefix_errors\": 0,\n      \"full_corpus_errors\": 127,\n      \"full_corpus_comparisons\": 256,\n      \"full_plaintext_support\": 82,\n      \"exact_planted_prefix_recovered\": null\n    },\n    {\n      \"source\": \"incremental_eyes40_bv.json\",\n      \"stage\": 2,\n      \"control\": false,\n      \"prefix_length\": 34,\n      \"ciphertext_outputs\": 306,\n      \"original_equality_comparisons\": 128,\n      \"prefix_errors\": 0,\n      \"full_corpus_errors\": 122,\n      \"full_corpus_comparisons\": 256,\n      \"full_plaintext_support\": 82,\n      \"exact_planted_prefix_recovered\": null\n    },\n    {\n      \"source\": \"incremental_eyes40_simplified_bv.json\",\n      \"stage\": 0,\n      \"control\": false,\n      \"prefix_length\": 32,\n      \"ciphertext_outputs\": 288,\n      \"original_equality_comparisons\": 124,\n      \"prefix_errors\": 0,\n      \"full_corpus_errors\": 129,\n      \"full_corpus_comparisons\": 256,\n      \"full_plaintext_support\": 82,\n      \"exact_planted_prefix_recovered\": null\n    },\n    {\n      \"source\": \"incremental_eyes40_bv_extended.json\",\n      \"stage\": 0,\n      \"control\": false,\n      \"prefix_length\": 32,\n      \"ciphertext_outputs\": 288,\n      \"original_equality_comparisons\": 124,\n      \"prefix_errors\": 0,\n      \"full_corpus_errors\": 129,\n      \"full_corpus_comparisons\": 256,\n      \"full_plaintext_support\": 82,\n      \"exact_planted_prefix_recovered\": null\n    },\n    {\n      \"source\": \"incremental_eyes40_bv_extended.json\",\n      \"stage\": 1,\n      \"control\": false,\n      \"prefix_length\": 33,\n      \"ciphertext_outputs\": 297,\n      \"original_equality_comparisons\": 126,\n      \"prefix_errors\": 0,\n      \"full_corpus_errors\": 127,\n      \"full_corpus_comparisons\": 256,\n      \"full_plaintext_support\": 82,\n      \"exact_planted_prefix_recovered\": null\n    },\n    {\n      \"source\": \"incremental_eyes40_bv_extended.json\",\n      \"stage\": 2,\n      \"control\": false,\n      \"prefix_length\": 34,\n      \"ciphertext_outputs\": 306,\n      \"original_equality_comparisons\": 128,\n      \"prefix_errors\": 0,\n      \"full_corpus_errors\": 122,\n      \"full_corpus_comparisons\": 256,\n      \"full_plaintext_support\": 82,\n      \"exact_planted_prefix_recovered\": null\n    }\n  ],\n  \"warning\": \"Exact structural fits under the stated equality assumptions. Full-corpus failures and generated controls are reported separately. No authenticated plaintext.\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "script": "outputs/verify_affine_strong_linear.py",
+      "exit_code": 0,
+      "elapsed_seconds": 1.25,
+      "stdout": "{'status': 'all_recorded_exclusions_verified', 'certificates_checked': 7048, 'multiplier_triples_covered': 551368, 'stage1_pairs': 6724, 'stage1_open_pairs': [(4, 24), (42, 30), (45, 7), (52, 32)], 'stage2_triples': 328, 'generated_affine_controls': 150, 'independent_corpus_context_extraction': True, 'seconds': 1.1918678283691406, 'scope': 'Exclusion conditional on the three strong passage-context assumptions. The verifier uses direct modular row sums, not a solver verdict.'}\n",
+      "stderr": ""
+    },
+    {
+      "script": "outputs/verify_affine_last_family_classification.py",
+      "exit_code": 0,
+      "elapsed_seconds": 0.125,
+      "stdout": "{'status': 'three_exact_multiplier_pairs', 'valid_multiplier_pairs': [[4, 24], [42, 30], [45, 7]], 'excluded_linear_survivor': [52, 32], 'coordinate_equations_verified': 38, 'parameter_values_exhausted': 83, 'complete_bijective_embeddings_verified': 3, 'scope': 'Combine with checked_affine_strong_linear.json stage-one coverage. Classification concerns the two last-family partial context maps only, under the recorded affine-coordinate normalization.'}\n",
+      "stderr": ""
+    }
+  ]
+}

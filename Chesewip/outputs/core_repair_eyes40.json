@@ -1,0 +1,959 @@
+{
+  "status": "inconclusive",
+  "rotation": 9,
+  "output_lengths": [
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40
+  ],
+  "seconds": 97.44036102294922,
+  "time_limit": 120,
+  "per_check_timeout_ms": 3000,
+  "seed": 20261128,
+  "history": [
+    {
+      "status": "unsat",
+      "active_pins": 65,
+      "elapsed_seconds": 0.45907020568847656,
+      "conflicting_fixed_cards": [
+        1,
+        5,
+        10,
+        11,
+        13,
+        15,
+        17,
+        19,
+        23,
+        24,
+        26,
+        28,
+        32,
+        34,
+        37,
+        42,
+        46,
+        48,
+        49,
+        54,
+        55,
+        57,
+        60,
+        66,
+        67,
+        69,
+        74,
+        75,
+        76,
+        80
+      ],
+      "released_cards": [
+        66,
+        5
+      ]
+    },
+    {
+      "status": "unsat",
+      "active_pins": 63,
+      "elapsed_seconds": 1.2471086978912354,
+      "conflicting_fixed_cards": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        40,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48,
+        49,
+        54,
+        55,
+        56,
+        57,
+        59,
+        60,
+        62,
+        63,
+        65,
+        67,
+        68,
+        69,
+        70,
+        71,
+        74,
+        75,
+        76,
+        77,
+        78,
+        80,
+        81
+      ],
+      "released_cards": [
+        49,
+        60
+      ]
+    },
+    {
+      "status": "unsat",
+      "active_pins": 61,
+      "elapsed_seconds": 4.15568733215332,
+      "conflicting_fixed_cards": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48,
+        54,
+        55,
+        56,
+        57,
+        59,
+        62,
+        63,
+        65,
+        67,
+        68,
+        69,
+        70,
+        71,
+        74,
+        75,
+        76,
+        77,
+        78,
+        80,
+        81
+      ],
+      "released_cards": [
+        2,
+        54
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 59,
+      "elapsed_seconds": 7.1759443283081055,
+      "reason": "timeout",
+      "released_cards": [
+        29,
+        75
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 57,
+      "elapsed_seconds": 10.182969570159912,
+      "reason": "timeout",
+      "released_cards": [
+        13,
+        48
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 55,
+      "elapsed_seconds": 13.18390154838562,
+      "reason": "timeout",
+      "released_cards": [
+        62,
+        40
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 53,
+      "elapsed_seconds": 16.199015378952026,
+      "reason": "timeout",
+      "released_cards": [
+        81,
+        18
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 51,
+      "elapsed_seconds": 19.214702129364014,
+      "reason": "timeout",
+      "released_cards": [
+        9,
+        15
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 49,
+      "elapsed_seconds": 22.22457766532898,
+      "reason": "timeout",
+      "released_cards": [
+        59,
+        32
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 47,
+      "elapsed_seconds": 25.229564666748047,
+      "reason": "timeout",
+      "released_cards": [
+        80,
+        1
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 45,
+      "elapsed_seconds": 28.235585927963257,
+      "reason": "timeout",
+      "released_cards": [
+        21,
+        14
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 43,
+      "elapsed_seconds": 31.23906970024109,
+      "reason": "timeout",
+      "released_cards": [
+        19,
+        47
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 41,
+      "elapsed_seconds": 34.250152349472046,
+      "reason": "timeout",
+      "released_cards": [
+        55,
+        42
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 39,
+      "elapsed_seconds": 37.26257348060608,
+      "reason": "timeout",
+      "released_cards": [
+        70,
+        78
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 37,
+      "elapsed_seconds": 40.27215218544006,
+      "reason": "timeout",
+      "released_cards": [
+        76,
+        36
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 35,
+      "elapsed_seconds": 43.28228211402893,
+      "reason": "timeout",
+      "released_cards": [
+        34,
+        8
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 33,
+      "elapsed_seconds": 46.29644441604614,
+      "reason": "timeout",
+      "released_cards": [
+        74,
+        3
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 31,
+      "elapsed_seconds": 49.30552530288696,
+      "reason": "timeout",
+      "released_cards": [
+        26,
+        24
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 29,
+      "elapsed_seconds": 52.321908473968506,
+      "reason": "timeout",
+      "released_cards": [
+        63,
+        28
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 27,
+      "elapsed_seconds": 55.32690358161926,
+      "reason": "timeout",
+      "released_cards": [
+        61,
+        12
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 25,
+      "elapsed_seconds": 58.3305869102478,
+      "reason": "timeout",
+      "released_cards": [
+        68,
+        57
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 23,
+      "elapsed_seconds": 61.33154535293579,
+      "reason": "timeout",
+      "released_cards": [
+        17,
+        27
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 21,
+      "elapsed_seconds": 64.34353041648865,
+      "reason": "timeout",
+      "released_cards": [
+        11,
+        69
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 19,
+      "elapsed_seconds": 67.35631728172302,
+      "reason": "timeout",
+      "released_cards": [
+        4,
+        25
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 17,
+      "elapsed_seconds": 70.35853886604309,
+      "reason": "timeout",
+      "released_cards": [
+        33,
+        65
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 15,
+      "elapsed_seconds": 73.36639857292175,
+      "reason": "timeout",
+      "released_cards": [
+        77,
+        39
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 13,
+      "elapsed_seconds": 76.38040494918823,
+      "reason": "timeout",
+      "released_cards": [
+        22,
+        67
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 11,
+      "elapsed_seconds": 79.39008140563965,
+      "reason": "timeout",
+      "released_cards": [
+        46,
+        35
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 9,
+      "elapsed_seconds": 82.40258979797363,
+      "reason": "timeout",
+      "released_cards": [
+        41,
+        37
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 7,
+      "elapsed_seconds": 85.40553092956543,
+      "reason": "timeout",
+      "released_cards": [
+        10,
+        7
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 5,
+      "elapsed_seconds": 88.40658688545227,
+      "reason": "timeout",
+      "released_cards": [
+        43,
+        23
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 3,
+      "elapsed_seconds": 91.41167449951172,
+      "reason": "timeout",
+      "released_cards": [
+        71,
+        56
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 1,
+      "elapsed_seconds": 94.423828125,
+      "reason": "timeout",
+      "released_cards": [
+        45
+      ]
+    },
+    {
+      "status": "unknown",
+      "active_pins": 0,
+      "elapsed_seconds": 97.44036102294922,
+      "reason": "timeout"
+    }
+  ],
+  "normalized_start_key": [
+    0,
+    50,
+    18,
+    11,
+    24,
+    41,
+    22,
+    43,
+    6,
+    35,
+    17,
+    37,
+    62,
+    13,
+    16,
+    28,
+    42,
+    9,
+    4,
+    46,
+    20,
+    55,
+    32,
+    10,
+    48,
+    57,
+    45,
+    7,
+    65,
+    71,
+    67,
+    78,
+    40,
+    29,
+    63,
+    81,
+    19,
+    66,
+    30,
+    31,
+    23,
+    38,
+    39,
+    44,
+    51,
+    52,
+    53,
+    1,
+    54,
+    47,
+    27,
+    58,
+    21,
+    64,
+    56,
+    25,
+    3,
+    72,
+    33,
+    61,
+    69,
+    26,
+    36,
+    76,
+    34,
+    77,
+    8,
+    12,
+    15,
+    70,
+    49,
+    73,
+    79,
+    68,
+    82,
+    59,
+    74,
+    14,
+    60,
+    2,
+    75,
+    5,
+    80
+  ],
+  "released_cards": [
+    66,
+    5,
+    49,
+    60,
+    2,
+    54,
+    29,
+    75,
+    13,
+    48,
+    62,
+    40,
+    81,
+    18,
+    9,
+    15,
+    59,
+    32,
+    80,
+    1,
+    21,
+    14,
+    19,
+    47,
+    55,
+    42,
+    70,
+    78,
+    76,
+    36,
+    34,
+    8,
+    74,
+    3,
+    26,
+    24,
+    63,
+    28,
+    61,
+    12,
+    68,
+    57,
+    17,
+    27,
+    11,
+    69,
+    4,
+    25,
+    33,
+    65,
+    77,
+    39,
+    22,
+    67,
+    46,
+    35,
+    41,
+    37,
+    10,
+    7,
+    43,
+    23,
+    71,
+    56,
+    45
+  ],
+  "remaining_pins": 0,
+  "encoding": {
+    "encoding": "bv",
+    "rotation": 9,
+    "deck_size": 83,
+    "free_key_entries": 65,
+    "materialized_positions": 1340,
+    "encoded_prefix_lengths": [
+      0,
+      0,
+      0,
+      19,
+      25,
+      24,
+      0,
+      0,
+      0
+    ],
+    "unique_entry_constraints": 246,
+    "encoding_seconds": 0.28905391693115234,
+    "fixed_initial_positions": null,
+    "bottom_rotation_gauge": true,
+    "first_step_simplification": true,
+    "simplified_entry_constraints": 222
+  },
+  "equalities": [
+    [
+      3,
+      19,
+      4,
+      25,
+      13
+    ],
+    [
+      3,
+      19,
+      5,
+      24,
+      13
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      24
+    ],
+    [
+      3,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      4,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      6,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      7,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      8,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      7,
+      1,
+      20
+    ]
+  ],
+  "scope": "Candidate-key assumptions guide search and are released using conflicts or on timeout. A fitted key satisfies the complete listed equality problem. Partial repair failure is not a cipher exclusion.",
+  "source": "incremental_eyes40_bv.json",
+  "control": false,
+  "release_policy": "most_seen"
+}

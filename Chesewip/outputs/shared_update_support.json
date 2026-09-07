@@ -1,0 +1,4895 @@
+[
+  {
+    "trim": 1,
+    "seconds": 4.516570329666138,
+    "assumed_equalities": [
+      [
+        1,
+        35,
+        1,
+        65,
+        25
+      ],
+      [
+        2,
+        40,
+        2,
+        75,
+        23
+      ],
+      [
+        0,
+        41,
+        0,
+        69,
+        9
+      ],
+      [
+        1,
+        41,
+        2,
+        46,
+        10
+      ],
+      [
+        1,
+        41,
+        2,
+        81,
+        10
+      ],
+      [
+        3,
+        19,
+        4,
+        25,
+        13
+      ],
+      [
+        3,
+        19,
+        5,
+        24,
+        13
+      ],
+      [
+        6,
+        52,
+        7,
+        54,
+        11
+      ],
+      [
+        6,
+        52,
+        8,
+        53,
+        11
+      ],
+      [
+        6,
+        69,
+        7,
+        72,
+        32
+      ],
+      [
+        1,
+        1,
+        0,
+        1,
+        24
+      ],
+      [
+        2,
+        1,
+        0,
+        1,
+        24
+      ],
+      [
+        2,
+        1,
+        1,
+        1,
+        24
+      ],
+      [
+        3,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        3,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        5,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        5,
+        1,
+        4,
+        1,
+        5
+      ],
+      [
+        6,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        6,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        6,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        7,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        6,
+        1,
+        20
+      ],
+      [
+        8,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        8,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        8,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        8,
+        1,
+        6,
+        1,
+        20
+      ],
+      [
+        8,
+        1,
+        7,
+        1,
+        20
+      ]
+    ],
+    "alignments": [
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          0
+        ],
+        "offset": 28,
+        "starts": [
+          0,
+          28
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 62,
+        "inverse_used": true,
+        "ratio": 0.85,
+        "minimum_entry_changes": 34,
+        "available_differences": 40,
+        "block_indices": [
+          1,
+          41
+        ],
+        "output_window": [
+          1,
+          51
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          1
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 75,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          2
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 75,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 68,
+        "available_differences": 68,
+        "block_indices": [
+          0,
+          68
+        ],
+        "output_window": [
+          0,
+          93
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.8842105263157894,
+        "minimum_entry_changes": 84,
+        "available_differences": 95,
+        "block_indices": [
+          0,
+          95
+        ],
+        "output_window": [
+          0,
+          98
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.9090909090909091,
+        "minimum_entry_changes": 80,
+        "available_differences": 88,
+        "block_indices": [
+          0,
+          88
+        ],
+        "output_window": [
+          0,
+          91
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.875,
+        "minimum_entry_changes": 84,
+        "available_differences": 96,
+        "block_indices": [
+          0,
+          96
+        ],
+        "output_window": [
+          0,
+          99
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          1
+        ],
+        "offset": 30,
+        "starts": [
+          0,
+          30
+        ],
+        "shared_input_positions": 25,
+        "relation_blocks": 48,
+        "inverse_used": true,
+        "ratio": 1.25,
+        "minimum_entry_changes": 5,
+        "available_differences": 4,
+        "block_indices": [
+          30,
+          34
+        ],
+        "output_window": [
+          30,
+          60
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": -25,
+        "starts": [
+          25,
+          0
+        ],
+        "shared_input_positions": 10,
+        "relation_blocks": 68,
+        "inverse_used": true,
+        "ratio": 0.803030303030303,
+        "minimum_entry_changes": 53,
+        "available_differences": 66,
+        "block_indices": [
+          1,
+          67
+        ],
+        "output_window": [
+          1,
+          78
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 79,
+        "inverse_used": true,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 5,
+        "starts": [
+          0,
+          5
+        ],
+        "shared_input_positions": 10,
+        "relation_blocks": 93,
+        "inverse_used": true,
+        "ratio": 0.8901098901098901,
+        "minimum_entry_changes": 81,
+        "available_differences": 91,
+        "block_indices": [
+          0,
+          91
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 10,
+        "starts": [
+          0,
+          10
+        ],
+        "shared_input_positions": 10,
+        "relation_blocks": 93,
+        "inverse_used": true,
+        "ratio": 0.9340659340659341,
+        "minimum_entry_changes": 85,
+        "available_differences": 91,
+        "block_indices": [
+          0,
+          91
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 40,
+        "starts": [
+          0,
+          40
+        ],
+        "shared_input_positions": 10,
+        "relation_blocks": 68,
+        "inverse_used": false,
+        "ratio": 0.8064516129032258,
+        "minimum_entry_changes": 50,
+        "available_differences": 62,
+        "block_indices": [
+          5,
+          67
+        ],
+        "output_window": [
+          5,
+          78
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 100,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.9393939393939394,
+        "minimum_entry_changes": 93,
+        "available_differences": 99,
+        "block_indices": [
+          0,
+          99
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.93,
+        "minimum_entry_changes": 93,
+        "available_differences": 100,
+        "block_indices": [
+          0,
+          100
+        ],
+        "output_window": [
+          0,
+          103
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.9393939393939394,
+        "minimum_entry_changes": 93,
+        "available_differences": 99,
+        "block_indices": [
+          0,
+          99
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          2
+        ],
+        "offset": 35,
+        "starts": [
+          0,
+          35
+        ],
+        "shared_input_positions": 23,
+        "relation_blocks": 60,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 8,
+        "available_differences": 8,
+        "block_indices": [
+          31,
+          39
+        ],
+        "output_window": [
+          31,
+          63
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 100,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": true,
+        "ratio": 0.9130434782608695,
+        "minimum_entry_changes": 105,
+        "available_differences": 115,
+        "block_indices": [
+          0,
+          115
+        ],
+        "output_window": [
+          0,
+          118
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": true,
+        "ratio": 0.9279279279279279,
+        "minimum_entry_changes": 103,
+        "available_differences": 111,
+        "block_indices": [
+          0,
+          111
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 112,
+        "inverse_used": true,
+        "ratio": 0.963963963963964,
+        "minimum_entry_changes": 107,
+        "available_differences": 111,
+        "block_indices": [
+          0,
+          111
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          22,
+          24
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          4
+        ],
+        "offset": 6,
+        "starts": [
+          0,
+          6
+        ],
+        "shared_input_positions": 13,
+        "relation_blocks": 89,
+        "inverse_used": false,
+        "ratio": 0.9770114942528736,
+        "minimum_entry_changes": 85,
+        "available_differences": 87,
+        "block_indices": [
+          0,
+          87
+        ],
+        "output_window": [
+          0,
+          101
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          5
+        ],
+        "offset": 5,
+        "starts": [
+          0,
+          5
+        ],
+        "shared_input_positions": 13,
+        "relation_blocks": 89,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          58,
+          60
+        ],
+        "output_window": [
+          71,
+          74
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          5
+        ],
+        "offset": -1,
+        "starts": [
+          1,
+          0
+        ],
+        "shared_input_positions": 13,
+        "relation_blocks": 111,
+        "inverse_used": true,
+        "ratio": 1.0192307692307692,
+        "minimum_entry_changes": 106,
+        "available_differences": 104,
+        "block_indices": [
+          5,
+          109
+        ],
+        "output_window": [
+          5,
+          123
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 119,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 110,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 111,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 105,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 114,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 115,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 103,
+        "available_differences": 103,
+        "block_indices": [
+          0,
+          103
+        ],
+        "output_window": [
+          0,
+          109
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 109,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 99,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 2,
+        "starts": [
+          0,
+          2
+        ],
+        "shared_input_positions": 11,
+        "relation_blocks": 107,
+        "inverse_used": true,
+        "ratio": 0.9411764705882353,
+        "minimum_entry_changes": 96,
+        "available_differences": 102,
+        "block_indices": [
+          4,
+          106
+        ],
+        "output_window": [
+          4,
+          118
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 3,
+        "starts": [
+          0,
+          3
+        ],
+        "shared_input_positions": 32,
+        "relation_blocks": 85,
+        "inverse_used": true,
+        "ratio": 2.0,
+        "minimum_entry_changes": 4,
+        "available_differences": 2,
+        "block_indices": [
+          66,
+          68
+        ],
+        "output_window": [
+          66,
+          101
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 94,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          8
+        ],
+        "offset": 1,
+        "starts": [
+          0,
+          1
+        ],
+        "shared_input_positions": 11,
+        "relation_blocks": 102,
+        "inverse_used": true,
+        "ratio": 0.8367346938775511,
+        "minimum_entry_changes": 82,
+        "available_differences": 98,
+        "block_indices": [
+          1,
+          99
+        ],
+        "output_window": [
+          1,
+          111
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          7,
+          8
+        ],
+        "offset": -1,
+        "starts": [
+          1,
+          0
+        ],
+        "shared_input_positions": 11,
+        "relation_blocks": 103,
+        "inverse_used": false,
+        "ratio": 0.8529411764705882,
+        "minimum_entry_changes": 87,
+        "available_differences": 102,
+        "block_indices": [
+          0,
+          102
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          7,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 94,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      }
+    ],
+    "excluded_support_5": false
+  },
+  {
+    "trim": 2,
+    "seconds": 4.333969831466675,
+    "assumed_equalities": [
+      [
+        1,
+        36,
+        1,
+        66,
+        24
+      ],
+      [
+        2,
+        41,
+        2,
+        76,
+        22
+      ],
+      [
+        0,
+        42,
+        0,
+        70,
+        8
+      ],
+      [
+        1,
+        42,
+        2,
+        47,
+        9
+      ],
+      [
+        1,
+        42,
+        2,
+        82,
+        9
+      ],
+      [
+        3,
+        20,
+        4,
+        26,
+        12
+      ],
+      [
+        3,
+        20,
+        5,
+        25,
+        12
+      ],
+      [
+        6,
+        53,
+        7,
+        55,
+        10
+      ],
+      [
+        6,
+        53,
+        8,
+        54,
+        10
+      ],
+      [
+        6,
+        70,
+        7,
+        73,
+        31
+      ],
+      [
+        1,
+        1,
+        0,
+        1,
+        24
+      ],
+      [
+        2,
+        1,
+        0,
+        1,
+        24
+      ],
+      [
+        2,
+        1,
+        1,
+        1,
+        24
+      ],
+      [
+        3,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        3,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        5,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        5,
+        1,
+        4,
+        1,
+        5
+      ],
+      [
+        6,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        6,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        6,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        7,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        6,
+        1,
+        20
+      ],
+      [
+        8,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        8,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        8,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        8,
+        1,
+        6,
+        1,
+        20
+      ],
+      [
+        8,
+        1,
+        7,
+        1,
+        20
+      ]
+    ],
+    "alignments": [
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          0
+        ],
+        "offset": 28,
+        "starts": [
+          0,
+          28
+        ],
+        "shared_input_positions": 8,
+        "relation_blocks": 63,
+        "inverse_used": true,
+        "ratio": 0.8292682926829268,
+        "minimum_entry_changes": 34,
+        "available_differences": 41,
+        "block_indices": [
+          1,
+          42
+        ],
+        "output_window": [
+          1,
+          51
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          1
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 75,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          2
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 75,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 68,
+        "available_differences": 68,
+        "block_indices": [
+          0,
+          68
+        ],
+        "output_window": [
+          0,
+          93
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.8842105263157894,
+        "minimum_entry_changes": 84,
+        "available_differences": 95,
+        "block_indices": [
+          0,
+          95
+        ],
+        "output_window": [
+          0,
+          98
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.9090909090909091,
+        "minimum_entry_changes": 80,
+        "available_differences": 88,
+        "block_indices": [
+          0,
+          88
+        ],
+        "output_window": [
+          0,
+          91
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.875,
+        "minimum_entry_changes": 84,
+        "available_differences": 96,
+        "block_indices": [
+          0,
+          96
+        ],
+        "output_window": [
+          0,
+          99
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          1
+        ],
+        "offset": 30,
+        "starts": [
+          0,
+          30
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 49,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 5,
+        "available_differences": 5,
+        "block_indices": [
+          30,
+          35
+        ],
+        "output_window": [
+          30,
+          60
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": -25,
+        "starts": [
+          25,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 69,
+        "inverse_used": true,
+        "ratio": 0.8,
+        "minimum_entry_changes": 8,
+        "available_differences": 10,
+        "block_indices": [
+          15,
+          25
+        ],
+        "output_window": [
+          15,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 79,
+        "inverse_used": true,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 5,
+        "starts": [
+          0,
+          5
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 94,
+        "inverse_used": true,
+        "ratio": 0.8804347826086957,
+        "minimum_entry_changes": 81,
+        "available_differences": 92,
+        "block_indices": [
+          0,
+          92
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 10,
+        "starts": [
+          0,
+          10
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 94,
+        "inverse_used": true,
+        "ratio": 0.9239130434782609,
+        "minimum_entry_changes": 85,
+        "available_differences": 92,
+        "block_indices": [
+          0,
+          92
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 40,
+        "starts": [
+          0,
+          40
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 69,
+        "inverse_used": false,
+        "ratio": 0.8,
+        "minimum_entry_changes": 8,
+        "available_differences": 10,
+        "block_indices": [
+          5,
+          15
+        ],
+        "output_window": [
+          5,
+          16
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 100,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.9393939393939394,
+        "minimum_entry_changes": 93,
+        "available_differences": 99,
+        "block_indices": [
+          0,
+          99
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.93,
+        "minimum_entry_changes": 93,
+        "available_differences": 100,
+        "block_indices": [
+          0,
+          100
+        ],
+        "output_window": [
+          0,
+          103
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.9393939393939394,
+        "minimum_entry_changes": 93,
+        "available_differences": 99,
+        "block_indices": [
+          0,
+          99
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          2
+        ],
+        "offset": 35,
+        "starts": [
+          0,
+          35
+        ],
+        "shared_input_positions": 22,
+        "relation_blocks": 61,
+        "inverse_used": false,
+        "ratio": 0.9655172413793104,
+        "minimum_entry_changes": 56,
+        "available_differences": 58,
+        "block_indices": [
+          0,
+          58
+        ],
+        "output_window": [
+          0,
+          81
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 100,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": true,
+        "ratio": 0.9130434782608695,
+        "minimum_entry_changes": 105,
+        "available_differences": 115,
+        "block_indices": [
+          0,
+          115
+        ],
+        "output_window": [
+          0,
+          118
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": true,
+        "ratio": 0.9279279279279279,
+        "minimum_entry_changes": 103,
+        "available_differences": 111,
+        "block_indices": [
+          0,
+          111
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 112,
+        "inverse_used": true,
+        "ratio": 0.963963963963964,
+        "minimum_entry_changes": 107,
+        "available_differences": 111,
+        "block_indices": [
+          0,
+          111
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          22,
+          24
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          4
+        ],
+        "offset": 6,
+        "starts": [
+          0,
+          6
+        ],
+        "shared_input_positions": 12,
+        "relation_blocks": 90,
+        "inverse_used": false,
+        "ratio": 0.9659090909090909,
+        "minimum_entry_changes": 85,
+        "available_differences": 88,
+        "block_indices": [
+          0,
+          88
+        ],
+        "output_window": [
+          0,
+          101
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          5
+        ],
+        "offset": 5,
+        "starts": [
+          0,
+          5
+        ],
+        "shared_input_positions": 12,
+        "relation_blocks": 90,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          59,
+          61
+        ],
+        "output_window": [
+          71,
+          74
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          5
+        ],
+        "offset": -1,
+        "starts": [
+          1,
+          0
+        ],
+        "shared_input_positions": 12,
+        "relation_blocks": 112,
+        "inverse_used": true,
+        "ratio": 1.0095238095238095,
+        "minimum_entry_changes": 106,
+        "available_differences": 105,
+        "block_indices": [
+          5,
+          110
+        ],
+        "output_window": [
+          5,
+          123
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 119,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 110,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 111,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 105,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 114,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 115,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 103,
+        "available_differences": 103,
+        "block_indices": [
+          0,
+          103
+        ],
+        "output_window": [
+          0,
+          109
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 109,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 99,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 2,
+        "starts": [
+          0,
+          2
+        ],
+        "shared_input_positions": 10,
+        "relation_blocks": 108,
+        "inverse_used": true,
+        "ratio": 0.9320388349514563,
+        "minimum_entry_changes": 96,
+        "available_differences": 103,
+        "block_indices": [
+          4,
+          107
+        ],
+        "output_window": [
+          4,
+          118
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 3,
+        "starts": [
+          0,
+          3
+        ],
+        "shared_input_positions": 31,
+        "relation_blocks": 86,
+        "inverse_used": true,
+        "ratio": 1.3333333333333333,
+        "minimum_entry_changes": 4,
+        "available_differences": 3,
+        "block_indices": [
+          66,
+          69
+        ],
+        "output_window": [
+          66,
+          101
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 94,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          8
+        ],
+        "offset": 1,
+        "starts": [
+          0,
+          1
+        ],
+        "shared_input_positions": 10,
+        "relation_blocks": 103,
+        "inverse_used": true,
+        "ratio": 0.8282828282828283,
+        "minimum_entry_changes": 82,
+        "available_differences": 99,
+        "block_indices": [
+          1,
+          100
+        ],
+        "output_window": [
+          1,
+          111
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          7,
+          8
+        ],
+        "offset": -1,
+        "starts": [
+          1,
+          0
+        ],
+        "shared_input_positions": 10,
+        "relation_blocks": 104,
+        "inverse_used": false,
+        "ratio": 0.8446601941747572,
+        "minimum_entry_changes": 87,
+        "available_differences": 103,
+        "block_indices": [
+          0,
+          103
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          7,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 94,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      }
+    ],
+    "excluded_support_5": false
+  },
+  {
+    "trim": 3,
+    "seconds": 4.311978101730347,
+    "assumed_equalities": [
+      [
+        1,
+        37,
+        1,
+        67,
+        23
+      ],
+      [
+        2,
+        42,
+        2,
+        77,
+        21
+      ],
+      [
+        0,
+        43,
+        0,
+        71,
+        7
+      ],
+      [
+        1,
+        43,
+        2,
+        48,
+        8
+      ],
+      [
+        1,
+        43,
+        2,
+        83,
+        8
+      ],
+      [
+        3,
+        21,
+        4,
+        27,
+        11
+      ],
+      [
+        3,
+        21,
+        5,
+        26,
+        11
+      ],
+      [
+        6,
+        54,
+        7,
+        56,
+        9
+      ],
+      [
+        6,
+        54,
+        8,
+        55,
+        9
+      ],
+      [
+        6,
+        71,
+        7,
+        74,
+        30
+      ],
+      [
+        1,
+        1,
+        0,
+        1,
+        24
+      ],
+      [
+        2,
+        1,
+        0,
+        1,
+        24
+      ],
+      [
+        2,
+        1,
+        1,
+        1,
+        24
+      ],
+      [
+        3,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        3,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        4,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        5,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        5,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        5,
+        1,
+        4,
+        1,
+        5
+      ],
+      [
+        6,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        6,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        6,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        6,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        7,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        7,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        7,
+        1,
+        6,
+        1,
+        20
+      ],
+      [
+        8,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        2,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        3,
+        1,
+        5
+      ],
+      [
+        8,
+        1,
+        4,
+        1,
+        9
+      ],
+      [
+        8,
+        1,
+        5,
+        1,
+        5
+      ],
+      [
+        8,
+        1,
+        6,
+        1,
+        20
+      ],
+      [
+        8,
+        1,
+        7,
+        1,
+        20
+      ]
+    ],
+    "alignments": [
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          0
+        ],
+        "offset": 28,
+        "starts": [
+          0,
+          28
+        ],
+        "shared_input_positions": 7,
+        "relation_blocks": 64,
+        "inverse_used": true,
+        "ratio": 0.8095238095238095,
+        "minimum_entry_changes": 34,
+        "available_differences": 42,
+        "block_indices": [
+          1,
+          43
+        ],
+        "output_window": [
+          1,
+          51
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          1
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 75,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          2
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 75,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 68,
+        "available_differences": 68,
+        "block_indices": [
+          0,
+          68
+        ],
+        "output_window": [
+          0,
+          93
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.8842105263157894,
+        "minimum_entry_changes": 84,
+        "available_differences": 95,
+        "block_indices": [
+          0,
+          95
+        ],
+        "output_window": [
+          0,
+          98
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.9090909090909091,
+        "minimum_entry_changes": 80,
+        "available_differences": 88,
+        "block_indices": [
+          0,
+          88
+        ],
+        "output_window": [
+          0,
+          91
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          0,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 0.875,
+        "minimum_entry_changes": 84,
+        "available_differences": 96,
+        "block_indices": [
+          0,
+          96
+        ],
+        "output_window": [
+          0,
+          99
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          1
+        ],
+        "offset": 30,
+        "starts": [
+          0,
+          30
+        ],
+        "shared_input_positions": 23,
+        "relation_blocks": 50,
+        "inverse_used": false,
+        "ratio": 0.9285714285714286,
+        "minimum_entry_changes": 26,
+        "available_differences": 28,
+        "block_indices": [
+          20,
+          48
+        ],
+        "output_window": [
+          20,
+          72
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": -25,
+        "starts": [
+          25,
+          0
+        ],
+        "shared_input_positions": 8,
+        "relation_blocks": 70,
+        "inverse_used": true,
+        "ratio": 0.8,
+        "minimum_entry_changes": 8,
+        "available_differences": 10,
+        "block_indices": [
+          15,
+          25
+        ],
+        "output_window": [
+          15,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 24,
+        "relation_blocks": 79,
+        "inverse_used": true,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          26
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 5,
+        "starts": [
+          0,
+          5
+        ],
+        "shared_input_positions": 8,
+        "relation_blocks": 95,
+        "inverse_used": true,
+        "ratio": 0.8709677419354839,
+        "minimum_entry_changes": 81,
+        "available_differences": 93,
+        "block_indices": [
+          0,
+          93
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 10,
+        "starts": [
+          0,
+          10
+        ],
+        "shared_input_positions": 8,
+        "relation_blocks": 95,
+        "inverse_used": true,
+        "ratio": 0.9139784946236559,
+        "minimum_entry_changes": 85,
+        "available_differences": 93,
+        "block_indices": [
+          0,
+          93
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          2
+        ],
+        "offset": 40,
+        "starts": [
+          0,
+          40
+        ],
+        "shared_input_positions": 8,
+        "relation_blocks": 70,
+        "inverse_used": false,
+        "ratio": 0.8,
+        "minimum_entry_changes": 8,
+        "available_differences": 10,
+        "block_indices": [
+          5,
+          15
+        ],
+        "output_window": [
+          5,
+          16
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 100,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.9393939393939394,
+        "minimum_entry_changes": 93,
+        "available_differences": 99,
+        "block_indices": [
+          0,
+          99
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.93,
+        "minimum_entry_changes": 93,
+        "available_differences": 100,
+        "block_indices": [
+          0,
+          100
+        ],
+        "output_window": [
+          0,
+          103
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          1,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 101,
+        "inverse_used": true,
+        "ratio": 0.9393939393939394,
+        "minimum_entry_changes": 93,
+        "available_differences": 99,
+        "block_indices": [
+          0,
+          99
+        ],
+        "output_window": [
+          0,
+          102
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          2
+        ],
+        "offset": 35,
+        "starts": [
+          0,
+          35
+        ],
+        "shared_input_positions": 21,
+        "relation_blocks": 62,
+        "inverse_used": false,
+        "ratio": 0.9491525423728814,
+        "minimum_entry_changes": 56,
+        "available_differences": 59,
+        "block_indices": [
+          0,
+          59
+        ],
+        "output_window": [
+          0,
+          81
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          3
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 100,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          19,
+          21
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          25,
+          27
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          24,
+          26
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": true,
+        "ratio": 0.9130434782608695,
+        "minimum_entry_changes": 105,
+        "available_differences": 115,
+        "block_indices": [
+          0,
+          115
+        ],
+        "output_window": [
+          0,
+          118
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 116,
+        "inverse_used": true,
+        "ratio": 0.9279279279279279,
+        "minimum_entry_changes": 103,
+        "available_differences": 111,
+        "block_indices": [
+          0,
+          111
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          2,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 2,
+        "relation_blocks": 112,
+        "inverse_used": true,
+        "ratio": 0.963963963963964,
+        "minimum_entry_changes": 107,
+        "available_differences": 111,
+        "block_indices": [
+          0,
+          111
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          4
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          22,
+          24
+        ],
+        "output_window": [
+          27,
+          30
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          4
+        ],
+        "offset": 6,
+        "starts": [
+          0,
+          6
+        ],
+        "shared_input_positions": 11,
+        "relation_blocks": 91,
+        "inverse_used": false,
+        "ratio": 0.9550561797752809,
+        "minimum_entry_changes": 85,
+        "available_differences": 89,
+        "block_indices": [
+          0,
+          89
+        ],
+        "output_window": [
+          0,
+          101
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          5
+        ],
+        "offset": 5,
+        "starts": [
+          0,
+          5
+        ],
+        "shared_input_positions": 11,
+        "relation_blocks": 91,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          60,
+          62
+        ],
+        "output_window": [
+          71,
+          74
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          3,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 97,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          16,
+          18
+        ],
+        "output_window": [
+          21,
+          24
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          5
+        ],
+        "offset": -1,
+        "starts": [
+          1,
+          0
+        ],
+        "shared_input_positions": 11,
+        "relation_blocks": 113,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          65,
+          67
+        ],
+        "output_window": [
+          76,
+          79
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          5
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 119,
+        "inverse_used": false,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 110,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 111,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          4,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 105,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          11
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          6
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 114,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 115,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 103,
+        "available_differences": 103,
+        "block_indices": [
+          0,
+          103
+        ],
+        "output_window": [
+          0,
+          109
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          5,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 5,
+        "relation_blocks": 109,
+        "inverse_used": true,
+        "ratio": 1.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 2,
+        "block_indices": [
+          21,
+          23
+        ],
+        "output_window": [
+          26,
+          29
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 99,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 2,
+        "starts": [
+          0,
+          2
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 109,
+        "inverse_used": true,
+        "ratio": 0.9230769230769231,
+        "minimum_entry_changes": 96,
+        "available_differences": 104,
+        "block_indices": [
+          4,
+          108
+        ],
+        "output_window": [
+          4,
+          118
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          7
+        ],
+        "offset": 3,
+        "starts": [
+          0,
+          3
+        ],
+        "shared_input_positions": 30,
+        "relation_blocks": 87,
+        "inverse_used": true,
+        "ratio": 1.3333333333333333,
+        "minimum_entry_changes": 4,
+        "available_differences": 3,
+        "block_indices": [
+          70,
+          73
+        ],
+        "output_window": [
+          70,
+          104
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 94,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          6,
+          8
+        ],
+        "offset": 1,
+        "starts": [
+          0,
+          1
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 104,
+        "inverse_used": true,
+        "ratio": 0.82,
+        "minimum_entry_changes": 82,
+        "available_differences": 100,
+        "block_indices": [
+          1,
+          101
+        ],
+        "output_window": [
+          1,
+          111
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          7,
+          8
+        ],
+        "offset": -1,
+        "starts": [
+          1,
+          0
+        ],
+        "shared_input_positions": 9,
+        "relation_blocks": 105,
+        "inverse_used": false,
+        "ratio": 0.8365384615384616,
+        "minimum_entry_changes": 87,
+        "available_differences": 104,
+        "block_indices": [
+          0,
+          104
+        ],
+        "output_window": [
+          0,
+          114
+        ]
+      },
+      {
+        "status": "bound",
+        "messages": [
+          7,
+          8
+        ],
+        "offset": 0,
+        "starts": [
+          0,
+          0
+        ],
+        "shared_input_positions": 20,
+        "relation_blocks": 94,
+        "inverse_used": false,
+        "ratio": 2.0,
+        "minimum_entry_changes": 2,
+        "available_differences": 1,
+        "block_indices": [
+          0,
+          1
+        ],
+        "output_window": [
+          0,
+          22
+        ]
+      }
+    ],
+    "excluded_support_5": false
+  }
+]

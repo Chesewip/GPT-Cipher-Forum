@@ -1,0 +1,1592 @@
+{
+  "seconds": 39.73436713218689,
+  "results": [
+    {
+      "top": 0,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 21117,
+      "shifts": null
+    },
+    {
+      "top": 1,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 20381,
+      "shifts": null
+    },
+    {
+      "top": 2,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        36,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29117,
+      "shifts": null
+    },
+    {
+      "top": 3,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72,
+        80,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46830,
+      "shifts": null
+    },
+    {
+      "top": 4,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 5,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 11438,
+      "shifts": null
+    },
+    {
+      "top": 6,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 21950,
+      "shifts": null
+    },
+    {
+      "top": 7,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 8,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        17,
+        36,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 21120,
+      "shifts": null
+    },
+    {
+      "top": 9,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 30150,
+      "shifts": null
+    },
+    {
+      "top": 10,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29306,
+      "shifts": null
+    },
+    {
+      "top": 11,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 12,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 13,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        36,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 20721,
+      "shifts": null
+    },
+    {
+      "top": 14,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 15,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 30553,
+      "shifts": null
+    },
+    {
+      "top": 16,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72,
+        80,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46839,
+      "shifts": null
+    },
+    {
+      "top": 17,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        72,
+        5,
+        29,
+        44,
+        64
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 30554,
+      "shifts": null
+    },
+    {
+      "top": 18,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29117,
+      "shifts": null
+    },
+    {
+      "top": 19,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 31523,
+      "shifts": null
+    },
+    {
+      "top": 20,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        36,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29210,
+      "shifts": null
+    },
+    {
+      "top": 21,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 22145,
+      "shifts": null
+    },
+    {
+      "top": 22,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 23,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 20577,
+      "shifts": null
+    },
+    {
+      "top": 24,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 14668,
+      "shifts": null
+    },
+    {
+      "top": 25,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 26,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29314,
+      "shifts": null
+    },
+    {
+      "top": 27,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 22287,
+      "shifts": null
+    },
+    {
+      "top": 28,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 31503,
+      "shifts": null
+    },
+    {
+      "top": 29,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        44,
+        64
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29192,
+      "shifts": null
+    },
+    {
+      "top": 30,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 20744,
+      "shifts": null
+    },
+    {
+      "top": 31,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 32,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        34
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 22210,
+      "shifts": null
+    },
+    {
+      "top": 33,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 14569,
+      "shifts": null
+    },
+    {
+      "top": 34,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 14125,
+      "shifts": null
+    },
+    {
+      "top": 35,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 36,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 6005,
+      "shifts": null
+    },
+    {
+      "top": 37,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29884,
+      "shifts": null
+    },
+    {
+      "top": 38,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 39,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 40,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 41,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 42,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 31025,
+      "shifts": null
+    },
+    {
+      "top": 43,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 21999,
+      "shifts": null
+    },
+    {
+      "top": 44,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        64
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 14462,
+      "shifts": null
+    },
+    {
+      "top": 45,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 46,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29662,
+      "shifts": null
+    },
+    {
+      "top": 47,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 30353,
+      "shifts": null
+    },
+    {
+      "top": 48,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29844,
+      "shifts": null
+    },
+    {
+      "top": 49,
+      "labels": [
+        57,
+        60,
+        36,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 28981,
+      "shifts": null
+    },
+    {
+      "top": 50,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 22287,
+      "shifts": null
+    },
+    {
+      "top": 51,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 52,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 20765,
+      "shifts": null
+    },
+    {
+      "top": 53,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 54,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 15460,
+      "shifts": null
+    },
+    {
+      "top": 55,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 56,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 57,
+      "labels": [
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44,
+        64
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 91148,
+      "shifts": null
+    },
+    {
+      "top": 58,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 59,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 30113,
+      "shifts": null
+    },
+    {
+      "top": 60,
+      "labels": [
+        57,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44,
+        64
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 104549,
+      "shifts": null
+    },
+    {
+      "top": 61,
+      "labels": [
+        57,
+        60,
+        36,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29883,
+      "shifts": null
+    },
+    {
+      "top": 62,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 14533,
+      "shifts": null
+    },
+    {
+      "top": 63,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 22287,
+      "shifts": null
+    },
+    {
+      "top": 64,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 30767,
+      "shifts": null
+    },
+    {
+      "top": 65,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 31025,
+      "shifts": null
+    },
+    {
+      "top": 66,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29081,
+      "shifts": null
+    },
+    {
+      "top": 67,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29193,
+      "shifts": null
+    },
+    {
+      "top": 68,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29902,
+      "shifts": null
+    },
+    {
+      "top": 69,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 70,
+      "labels": [
+        80,
+        57,
+        60,
+        75,
+        8,
+        17,
+        36,
+        72,
+        5,
+        29
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 11761,
+      "shifts": null
+    },
+    {
+      "top": 71,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 72,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        5,
+        29,
+        36,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29544,
+      "shifts": null
+    },
+    {
+      "top": 73,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 30052,
+      "shifts": null
+    },
+    {
+      "top": 74,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 46884,
+      "shifts": null
+    },
+    {
+      "top": 75,
+      "labels": [
+        80,
+        36,
+        57,
+        60,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 12224,
+      "shifts": null
+    },
+    {
+      "top": 76,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 22287,
+      "shifts": null
+    },
+    {
+      "top": 77,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        80,
+        5,
+        29,
+        36
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 22287,
+      "shifts": null
+    },
+    {
+      "top": 78,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 21453,
+      "shifts": null
+    },
+    {
+      "top": 79,
+      "labels": [
+        57,
+        60,
+        75,
+        80,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 29554,
+      "shifts": null
+    },
+    {
+      "top": 80,
+      "labels": [
+        57,
+        60,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        36,
+        44
+      ],
+      "target_alphabet": 44,
+      "identity_selection_cost": 1,
+      "status": "unsat",
+      "nodes": 22287,
+      "shifts": null
+    },
+    {
+      "top": 81,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 21327,
+      "shifts": null
+    },
+    {
+      "top": 82,
+      "labels": [
+        57,
+        60,
+        80,
+        75,
+        8,
+        17,
+        72,
+        5,
+        29,
+        44
+      ],
+      "target_alphabet": 44,
+      "status": "unsat",
+      "nodes": 20758,
+      "shifts": null
+    }
+  ],
+  "all_unsat": true
+}

@@ -1,0 +1,51 @@
+{
+  "status": "unknown",
+  "rotation": 9,
+  "lengths": [
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32
+  ],
+  "encoded_lengths": [
+    25,
+    25,
+    25,
+    27,
+    32,
+    32,
+    21,
+    21,
+    21
+  ],
+  "observation_reduction": true,
+  "observed_labels": 63,
+  "comparisons": 124,
+  "maximum_equality_errors": 0,
+  "free_key_entries": 54,
+  "bottom_rotation_gauge": false,
+  "encoding_seconds": 0.6773276329040527,
+  "solve_seconds": 20.039772033691406,
+  "seconds": 20.71709966659546,
+  "reason": "timeout",
+  "scope": "UNSAT with fixed entries excludes only that restricted key neighborhood. Free-key results remain conditional on the specified update, rotation, and plaintext equalities.",
+  "control": true,
+  "numbered_headers": true,
+  "fixed_initial_positions": {
+    "22": 1,
+    "4": 2,
+    "20": 3,
+    "78": 4,
+    "60": 5,
+    "67": 6,
+    "62": 7,
+    "5": 8,
+    "50": 9
+  },
+  "exact_planted_plaintext_recovered": false
+}

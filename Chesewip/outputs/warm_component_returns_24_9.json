@@ -1,0 +1,13 @@
+{
+  "rotation": 9,
+  "gap_limit": 24,
+  "status": "unknown",
+  "seconds": 32.117631673812866,
+  "return_intervals": 193,
+  "hit_steps": 1934,
+  "variables": 515,
+  "components": 1,
+  "eliminated_free_selectors": 38,
+  "reason": "timeout",
+  "initial_values_only_not_pinned": true
+}

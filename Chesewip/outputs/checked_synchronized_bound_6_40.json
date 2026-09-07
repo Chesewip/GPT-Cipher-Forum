@@ -1,0 +1,7 @@
+{
+  "certificate": "synchronized_bound_6_40.json",
+  "bad_groups_rechecked": 302,
+  "independent_hitting_set_nodes": 356,
+  "passed": true,
+  "seconds": 8.798824071884155
+}

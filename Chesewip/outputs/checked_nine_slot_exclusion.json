@@ -1,0 +1,20 @@
+{
+  "status": "restricted_neighborhood_excluded",
+  "permutations_tested": 362880,
+  "minimum_disagreements": 1,
+  "free_slots": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    16,
+    75
+  ],
+  "source": "two_swap_prefix_repair.json",
+  "rotation": 12,
+  "seconds": 7.840378761291504,
+  "scope": "Every permutation of these nine initial slots, with all other entries fixed; not a cipher-family exclusion."
+}

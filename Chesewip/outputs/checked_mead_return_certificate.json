@@ -1,0 +1,72 @@
+{
+  "certificate": {
+    "plaintext_block": "NO",
+    "body_positions_one_based_before_after": [
+      [
+        7,
+        9
+      ],
+      [
+        27,
+        29
+      ]
+    ],
+    "ciphertext_before_after": [
+      [
+        60,
+        40
+      ],
+      [
+        13,
+        13
+      ]
+    ],
+    "outcome": "Impossible under fixed per-character permutations of positions and a fixed output position.",
+    "invariance": "The contradiction uses only label equality, so arbitrary ciphertext relabeling cannot remove it.",
+    "scope": "Arbitrary initial state and arbitrary bijective per-character updates. Does not cover every cipher described as stateful, deck-based, feedback-based or time-dependent."
+  },
+  "exhaustive_two_update_deck_checks": 14040,
+  "generated_83_card_stream_checks": 100,
+  "E3_return_contradictions": [
+    {
+      "word": "NO",
+      "first": [
+        7,
+        8,
+        false
+      ],
+      "second": [
+        27,
+        28,
+        true
+      ]
+    },
+    {
+      "word": "THEY",
+      "first": [
+        64,
+        67,
+        true
+      ],
+      "second": [
+        108,
+        111,
+        false
+      ]
+    },
+    {
+      "word": "EREIS",
+      "first": [
+        2,
+        6,
+        false
+      ],
+      "second": [
+        36,
+        40,
+        true
+      ]
+    }
+  ],
+  "E4_return_contradictions": []
+}

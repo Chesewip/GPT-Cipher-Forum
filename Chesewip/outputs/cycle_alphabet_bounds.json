@@ -1,0 +1,1148 @@
+[
+  {
+    "top": 0,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 1,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 2,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 3,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 4,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 5,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        36,
+        80
+      ],
+      "time_support_sizes": [
+        15,
+        19
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 6,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 7,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 8,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 9,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 10,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 11,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 12,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 13,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 14,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 15,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 16,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 17,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 18,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 19,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 20,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 21,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 22,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 23,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 24,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        18
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 25,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 26,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 27,
+    "invalid_top": true
+  },
+  {
+    "top": 28,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 29,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 30,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 31,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 32,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 33,
+    "invalid_top": true
+  },
+  {
+    "top": 34,
+    "invalid_top": true
+  },
+  {
+    "top": 35,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 36,
+    "invalid_top": true
+  },
+  {
+    "top": 37,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 38,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 39,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 40,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 41,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 42,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 43,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 44,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        18
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 45,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 46,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 47,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 48,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 49,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 50,
+    "invalid_top": true
+  },
+  {
+    "top": 51,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 52,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 53,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 54,
+    "alphabet_lower_bound": 29,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        18
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 55,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 56,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 57,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 58,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 59,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 60,
+    "alphabet_lower_bound": 26,
+    "witness": {
+      "labels": [
+        8,
+        57
+      ],
+      "time_support_sizes": [
+        15,
+        17
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 61,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        36,
+        60
+      ],
+      "time_support_sizes": [
+        16,
+        17
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 62,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        18
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 63,
+    "invalid_top": true
+  },
+  {
+    "top": 64,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 65,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 66,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 67,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 68,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 69,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 70,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        19
+      ],
+      "maximum_overlap": 8
+    }
+  },
+  {
+    "top": 71,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 72,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 73,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 74,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 75,
+    "alphabet_lower_bound": 28,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        18
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 76,
+    "invalid_top": true
+  },
+  {
+    "top": 77,
+    "invalid_top": true
+  },
+  {
+    "top": 78,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 79,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        60,
+        75
+      ],
+      "time_support_sizes": [
+        17,
+        16
+      ],
+      "maximum_overlap": 6
+    }
+  },
+  {
+    "top": 80,
+    "invalid_top": true
+  },
+  {
+    "top": 81,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  },
+  {
+    "top": 82,
+    "alphabet_lower_bound": 27,
+    "witness": {
+      "labels": [
+        57,
+        80
+      ],
+      "time_support_sizes": [
+        17,
+        17
+      ],
+      "maximum_overlap": 7
+    }
+  }
+]

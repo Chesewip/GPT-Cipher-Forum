@@ -1,0 +1,119 @@
+{
+  "pinned_full_return_controls": [
+    {
+      "n": 7,
+      "rotation": 0,
+      "seconds": 0.5087599754333496
+    },
+    {
+      "n": 7,
+      "rotation": 2,
+      "seconds": 0.3313791751861572
+    },
+    {
+      "n": 7,
+      "rotation": 0,
+      "seconds": 0.3710439205169678
+    },
+    {
+      "n": 7,
+      "rotation": 0,
+      "seconds": 0.31797122955322266
+    },
+    {
+      "n": 19,
+      "rotation": 1,
+      "seconds": 0.3690612316131592
+    },
+    {
+      "n": 19,
+      "rotation": 14,
+      "seconds": 0.38489747047424316
+    },
+    {
+      "n": 19,
+      "rotation": 14,
+      "seconds": 0.30206966400146484
+    },
+    {
+      "n": 19,
+      "rotation": 0,
+      "seconds": 0.39523792266845703
+    },
+    {
+      "n": 83,
+      "rotation": 66,
+      "seconds": 0.20303797721862793
+    },
+    {
+      "n": 83,
+      "rotation": 38,
+      "seconds": 0.12827014923095703
+    },
+    {
+      "n": 83,
+      "rotation": 71,
+      "seconds": 0.2234499454498291
+    },
+    {
+      "n": 83,
+      "rotation": 47,
+      "seconds": 0.20989465713500977
+    }
+  ],
+  "unpinned_component_controls": 51,
+  "free_selectors_eliminated_in_controls": 64,
+  "independent_physical_card_return_checks": 4861,
+  "shared_passage_support_controls": [
+    {
+      "n": 7,
+      "alignments": 3
+    },
+    {
+      "n": 7,
+      "alignments": 3
+    },
+    {
+      "n": 7,
+      "alignments": 3
+    },
+    {
+      "n": 7,
+      "alignments": 3
+    },
+    {
+      "n": 19,
+      "alignments": 3
+    },
+    {
+      "n": 19,
+      "alignments": 3
+    },
+    {
+      "n": 19,
+      "alignments": 3
+    },
+    {
+      "n": 19,
+      "alignments": 3
+    },
+    {
+      "n": 83,
+      "alignments": 3
+    },
+    {
+      "n": 83,
+      "alignments": 3
+    },
+    {
+      "n": 83,
+      "alignments": 3
+    },
+    {
+      "n": 83,
+      "alignments": 3
+    }
+  ],
+  "independent_contracted_window_checks": 1200,
+  "status": "All checks passed."
+}

@@ -1,0 +1,10 @@
+{
+  "status": "unknown",
+  "alphabet_bound": 4,
+  "deck_size": 11,
+  "symbols": 160,
+  "build_seconds": 0.12511873245239258,
+  "total_seconds": 30.1536283493042,
+  "plaintext_equality_assumptions": [],
+  "reason": "timeout"
+}

@@ -1,0 +1,21 @@
+{
+  "planted_parameters": [
+    17,
+    9
+  ],
+  "plaintext_alphabet": 27,
+  "result": {
+    "candidates": 3280,
+    "minimum_support": 27,
+    "minimum_support_parameters": [
+      17,
+      9
+    ],
+    "maximum_normalized_ioc": 3.035066762777606,
+    "maximum_ioc_parameters": [
+      17,
+      9
+    ],
+    "maximum_ioc_support": 27
+  }
+}

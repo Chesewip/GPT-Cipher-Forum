@@ -1,0 +1,55 @@
+{
+  "controls": [
+    {
+      "n": 7,
+      "mode": "unknown_key_and_selectors",
+      "seconds": 0.27147531509399414,
+      "exact_replay": true
+    },
+    {
+      "n": 7,
+      "mode": "known_selectors_unknown_key",
+      "seconds": 0.021518707275390625,
+      "exact_replay": true
+    },
+    {
+      "n": 7,
+      "mode": "damaged_output_pinned_key_and_selectors",
+      "status": "unsat"
+    },
+    {
+      "n": 19,
+      "mode": "unknown_key_and_selectors",
+      "seconds": 1.9198172092437744,
+      "exact_replay": true
+    },
+    {
+      "n": 19,
+      "mode": "known_selectors_unknown_key",
+      "seconds": 0.028079748153686523,
+      "exact_replay": true
+    },
+    {
+      "n": 19,
+      "mode": "damaged_output_pinned_key_and_selectors",
+      "status": "unsat"
+    },
+    {
+      "n": 83,
+      "mode": "unknown_key_and_selectors",
+      "seconds": 5.476129055023193,
+      "exact_replay": true
+    },
+    {
+      "n": 83,
+      "mode": "known_selectors_unknown_key",
+      "seconds": 0.30077338218688965,
+      "exact_replay": true
+    },
+    {
+      "n": 83,
+      "mode": "damaged_output_pinned_key_and_selectors",
+      "status": "unsat"
+    }
+  ]
+}

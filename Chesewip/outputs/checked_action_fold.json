@@ -1,0 +1,23 @@
+{
+  "independent_partition_refinement_cases": 300,
+  "outcomes": {
+    "relaxation_survives": 58,
+    "contradiction": 242
+  },
+  "published_waite_certificate_independently_checked": true,
+  "waite_observation_offsets_zero_based": [
+    20,
+    25,
+    64,
+    68,
+    73
+  ],
+  "waite_observation_cards": [
+    10,
+    10,
+    25,
+    44,
+    25
+  ],
+  "source": "https://github.com/mvelzel/eye-vibe/blob/main/docs/waite-sparse-gak-results-2026-07-27.md"
+}

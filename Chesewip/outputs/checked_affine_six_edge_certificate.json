@@ -1,0 +1,93 @@
+{
+  "status": "conditional_affine_exclusion_verified",
+  "chains": [
+    [
+      47,
+      18,
+      47
+    ],
+    [
+      54,
+      42,
+      54
+    ],
+    [
+      21,
+      43,
+      34
+    ]
+  ],
+  "edges": [
+    {
+      "context": "A",
+      "source_message": "West 2",
+      "source_position": 21,
+      "target_message": "West 3",
+      "target_position": 26,
+      "source_label": 47,
+      "target_label": 18
+    },
+    {
+      "context": "A",
+      "source_message": "West 2",
+      "source_position": 26,
+      "target_message": "West 3",
+      "target_position": 31,
+      "source_label": 54,
+      "target_label": 42
+    },
+    {
+      "context": "A",
+      "source_message": "West 2",
+      "source_position": 23,
+      "target_message": "West 3",
+      "target_position": 28,
+      "source_label": 21,
+      "target_label": 43
+    },
+    {
+      "context": "B",
+      "source_message": "East 4",
+      "source_position": 75,
+      "target_message": "West 4",
+      "target_position": 78,
+      "source_label": 18,
+      "target_label": 47
+    },
+    {
+      "context": "B",
+      "source_message": "East 4",
+      "source_position": 82,
+      "target_message": "West 4",
+      "target_position": 85,
+      "source_label": 42,
+      "target_label": 54
+    },
+    {
+      "context": "B",
+      "source_message": "East 4",
+      "source_position": 77,
+      "target_message": "West 4",
+      "target_position": 80,
+      "source_label": 43,
+      "target_label": 34
+    }
+  ],
+  "affine_maps_enumerated": 6806,
+  "fixed_point_histogram": {
+    "83": 1,
+    "0": 82,
+    "1": 6723
+  },
+  "random_relabelled_affine_controls": 100,
+  "random_certificate_relabelings": 100,
+  "trims_verified": [
+    1,
+    2,
+    3
+  ],
+  "published_csv_crosscheck": true,
+  "assumption": "The two aligned passage pairs induce single context permutations in one common conjugate of AGL(1,83). This follows for affine GAK if the selected passages share plaintext. No plaintext equality is authenticated by this certificate.",
+  "conclusion": "B composed with A has two distinct fixed symbols and moves a third, impossible for a nonidentity affine map. This also excludes the order-3403 affine subgroup under the same assumptions.",
+  "novelty": "An independently derived compact certificate. Existing public work already reports affine exclusions; no first-discovery claim."
+}

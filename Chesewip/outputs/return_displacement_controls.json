@@ -1,0 +1,124 @@
+{
+  "controls": [
+    {
+      "rotation": 4,
+      "status": "sat",
+      "seconds": 0.13452363014221191,
+      "active_edges": 82,
+      "variables": 6,
+      "components": 1
+    },
+    {
+      "rotation": 0,
+      "status": "sat",
+      "seconds": 0.043025970458984375,
+      "active_edges": 83,
+      "variables": 6,
+      "components": 1
+    },
+    {
+      "rotation": 2,
+      "status": "sat",
+      "seconds": 0.0346064567565918,
+      "active_edges": 78,
+      "variables": 6,
+      "components": 1
+    },
+    {
+      "rotation": 5,
+      "status": "sat",
+      "seconds": 0.03057098388671875,
+      "active_edges": 84,
+      "variables": 6,
+      "components": 1
+    },
+    {
+      "rotation": 5,
+      "status": "sat",
+      "seconds": 0.03202939033508301,
+      "active_edges": 77,
+      "variables": 6,
+      "components": 1
+    },
+    {
+      "rotation": 4,
+      "status": "sat",
+      "seconds": 0.03910684585571289,
+      "active_edges": 75,
+      "variables": 17,
+      "components": 1
+    },
+    {
+      "rotation": 1,
+      "status": "sat",
+      "seconds": 0.03251910209655762,
+      "active_edges": 71,
+      "variables": 18,
+      "components": 2
+    },
+    {
+      "rotation": 7,
+      "status": "sat",
+      "seconds": 0.03553128242492676,
+      "active_edges": 72,
+      "variables": 18,
+      "components": 1
+    },
+    {
+      "rotation": 4,
+      "status": "sat",
+      "seconds": 0.03602313995361328,
+      "active_edges": 66,
+      "variables": 18,
+      "components": 1
+    },
+    {
+      "rotation": 16,
+      "status": "sat",
+      "seconds": 0.03912234306335449,
+      "active_edges": 72,
+      "variables": 18,
+      "components": 1
+    },
+    {
+      "rotation": 58,
+      "status": "sat",
+      "seconds": 0.022023439407348633,
+      "active_edges": 29,
+      "variables": 33,
+      "components": 13
+    },
+    {
+      "rotation": 25,
+      "status": "sat",
+      "seconds": 0.026508569717407227,
+      "active_edges": 35,
+      "variables": 42,
+      "components": 11
+    },
+    {
+      "rotation": 37,
+      "status": "sat",
+      "seconds": 0.025002241134643555,
+      "active_edges": 37,
+      "variables": 35,
+      "components": 8
+    },
+    {
+      "rotation": 59,
+      "status": "sat",
+      "seconds": 0.01902174949645996,
+      "active_edges": 22,
+      "variables": 28,
+      "components": 6
+    },
+    {
+      "rotation": 30,
+      "status": "sat",
+      "seconds": 0.02351665496826172,
+      "active_edges": 29,
+      "variables": 31,
+      "components": 7
+    }
+  ]
+}

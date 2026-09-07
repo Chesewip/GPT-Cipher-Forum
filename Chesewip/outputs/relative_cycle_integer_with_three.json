@@ -1,0 +1,201 @@
+[
+  {
+    "status": "unsat",
+    "seconds": 1.4609534740447998,
+    "cuts": [
+      0,
+      23,
+      28,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.5731019973754883,
+    "cuts": [
+      0,
+      23,
+      29,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.9417712688446045,
+    "cuts": [
+      0,
+      23,
+      30,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 1.2863569259643555,
+    "cuts": [
+      0,
+      23,
+      31,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.6083617210388184,
+    "cuts": [
+      0,
+      23,
+      32,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 1.0161471366882324,
+    "cuts": [
+      0,
+      23,
+      33,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 2.548516273498535,
+    "cuts": [
+      0,
+      24,
+      28,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.5401244163513184,
+    "cuts": [
+      0,
+      24,
+      29,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.8951897621154785,
+    "cuts": [
+      0,
+      24,
+      30,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.7189080715179443,
+    "cuts": [
+      0,
+      24,
+      31,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.5513105392456055,
+    "cuts": [
+      0,
+      24,
+      32,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.7092959880828857,
+    "cuts": [
+      0,
+      24,
+      33,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unknown",
+    "seconds": 3.2579472064971924,
+    "cuts": [
+      0,
+      25,
+      28,
+      36
+    ],
+    "allow_three_cycle": true,
+    "reason": "timeout"
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.7462058067321777,
+    "cuts": [
+      0,
+      25,
+      29,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 1.1427063941955566,
+    "cuts": [
+      0,
+      25,
+      30,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 1.0813345909118652,
+    "cuts": [
+      0,
+      25,
+      31,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 0.8260867595672607,
+    "cuts": [
+      0,
+      25,
+      32,
+      36
+    ],
+    "allow_three_cycle": true
+  },
+  {
+    "status": "unsat",
+    "seconds": 1.6280384063720703,
+    "cuts": [
+      0,
+      25,
+      33,
+      36
+    ],
+    "allow_three_cycle": true
+  }
+]

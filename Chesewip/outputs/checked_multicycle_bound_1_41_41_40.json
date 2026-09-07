@@ -1,0 +1,176 @@
+{
+  "certificate": "multicycle_bound_1_41_41_40.json",
+  "bad_groups_rechecked": 30,
+  "alphabet_allocations": [
+    {
+      "budgets": [
+        0,
+        40
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        1,
+        39
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        2,
+        38
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        3,
+        37
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        4,
+        36
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        5,
+        35
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        6,
+        34
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        7,
+        33
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        8,
+        32
+      ],
+      "possible": false,
+      "nodes": 83
+    },
+    {
+      "budgets": [
+        9,
+        31
+      ],
+      "possible": false,
+      "nodes": 499
+    },
+    {
+      "budgets": [
+        10,
+        30
+      ],
+      "possible": false,
+      "nodes": 1661
+    },
+    {
+      "budgets": [
+        11,
+        29
+      ],
+      "possible": false,
+      "nodes": 2159
+    },
+    {
+      "budgets": [
+        12,
+        28
+      ],
+      "possible": false,
+      "nodes": 2823
+    },
+    {
+      "budgets": [
+        13,
+        27
+      ],
+      "possible": false,
+      "nodes": 2906
+    },
+    {
+      "budgets": [
+        14,
+        26
+      ],
+      "possible": false,
+      "nodes": 7
+    },
+    {
+      "budgets": [
+        15,
+        25
+      ],
+      "possible": false,
+      "nodes": 11
+    },
+    {
+      "budgets": [
+        16,
+        24
+      ],
+      "possible": false,
+      "nodes": 20
+    },
+    {
+      "budgets": [
+        17,
+        23
+      ],
+      "possible": false,
+      "nodes": 21
+    },
+    {
+      "budgets": [
+        18,
+        22
+      ],
+      "possible": false,
+      "nodes": 10
+    },
+    {
+      "budgets": [
+        19,
+        21
+      ],
+      "possible": false,
+      "nodes": 10
+    },
+    {
+      "budgets": [
+        20,
+        20
+      ],
+      "possible": false,
+      "nodes": 10
+    }
+  ],
+  "passed": true,
+  "seconds": 10.177120447158813
+}

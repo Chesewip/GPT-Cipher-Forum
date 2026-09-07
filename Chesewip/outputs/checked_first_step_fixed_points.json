@@ -1,0 +1,11 @@
+{
+  "exact_support_checks": 2298,
+  "deck_sizes": [
+    3,
+    4,
+    5,
+    6,
+    83
+  ],
+  "theorem": "After distinct first non-top selections p and q, the labels at differing physical positions are exactly the initial top, the two selected cards and their two bottom-ring successors. The following common rotation does not change the set."
+}

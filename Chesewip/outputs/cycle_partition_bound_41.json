@@ -1,0 +1,6571 @@
+{
+  "seconds": 2.017971992492676,
+  "results": [
+    {
+      "top": 0,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 39
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 1,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 2,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 28,
+          "color_upper_bound": 28
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 39
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 3,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 4,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 55,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 49
+        }
+      ]
+    },
+    {
+      "top": 5,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 19,
+          "color_upper_bound": 19
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 28,
+          "color_upper_bound": 28
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 55,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 19
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 24
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 39
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 49
+        }
+      ]
+    },
+    {
+      "top": 6,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 7,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 8,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 9,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 10,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 11,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 12,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 28,
+          "color_upper_bound": 28
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 13,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 40,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 72,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 39
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 14,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 15,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 16,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 17,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 65,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 73,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 75,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 18,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 58,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 65,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 73,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 19,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 20,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 21,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 40,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 39
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 49
+        }
+      ]
+    },
+    {
+      "top": 22,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 23,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 24,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 78,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 25,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 26,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 27,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 28,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 29,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 28,
+          "color_upper_bound": 28
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 30,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 31,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 32,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 33,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 34,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 22,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 28
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 35,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 36,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 78,
+          "color_upper_bound": 52
+        }
+      ]
+    },
+    {
+      "top": 37,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 38,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 39,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 40,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 41,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 22,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 42,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 43,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 44,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 58,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 73,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 45,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 46,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 47,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 19,
+          "color_upper_bound": 19
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 19
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 48,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 49,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 40,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 72,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 39
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 50,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 51,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 22,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 52,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 53,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 54,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 10,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 70,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 55,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 56,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 57,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 22,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 31,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 73,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 75,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 79,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 58,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 59,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 60,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 19,
+          "color_upper_bound": 19
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 28,
+          "color_upper_bound": 28
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 19
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 24
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 75,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 79,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 80,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 61,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 72,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 62,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 55,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 63,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 64,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 65,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 66,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 28,
+          "color_upper_bound": 28
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 62,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 31
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 67,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 22,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 68,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 69,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 58,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 70,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 72,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 78,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 71,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 72,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 25
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 73,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 51
+        }
+      ]
+    },
+    {
+      "top": 74,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 75,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 76,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 13,
+          "color_upper_bound": 13
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 21,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 16
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 21
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 77,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 71,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 78,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 42,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 63,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 41
+        }
+      ]
+    },
+    {
+      "top": 79,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 5,
+          "color_upper_bound": 5
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 22,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 30,
+          "color_upper_bound": 30
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 10
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 34
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 80,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 14,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 2,
+          "color_upper_bound": 2
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 4,
+          "color_upper_bound": 4
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 11,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 43,
+          "color_upper_bound": 9
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 58,
+          "color_upper_bound": 14
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 73,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 74,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 78,
+          "color_upper_bound": 42
+        }
+      ]
+    },
+    {
+      "top": 81,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 20,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 40,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 57,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 20
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 26
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 32
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 39
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    },
+    {
+      "top": 82,
+      "cycle_length": 41,
+      "cycle_alphabet_lower_bound": 15,
+      "certificates": [
+        {
+          "alphabet": 1,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 2,
+          "eligible_labels": 0,
+          "color_upper_bound": 0
+        },
+        {
+          "alphabet": 3,
+          "eligible_labels": 1,
+          "color_upper_bound": 1
+        },
+        {
+          "alphabet": 4,
+          "eligible_labels": 3,
+          "color_upper_bound": 3
+        },
+        {
+          "alphabet": 5,
+          "eligible_labels": 6,
+          "color_upper_bound": 6
+        },
+        {
+          "alphabet": 6,
+          "eligible_labels": 12,
+          "color_upper_bound": 12
+        },
+        {
+          "alphabet": 7,
+          "eligible_labels": 22,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 8,
+          "eligible_labels": 29,
+          "color_upper_bound": 29
+        },
+        {
+          "alphabet": 9,
+          "eligible_labels": 41,
+          "color_upper_bound": 11
+        },
+        {
+          "alphabet": 10,
+          "eligible_labels": 56,
+          "color_upper_bound": 15
+        },
+        {
+          "alphabet": 11,
+          "eligible_labels": 64,
+          "color_upper_bound": 22
+        },
+        {
+          "alphabet": 12,
+          "eligible_labels": 72,
+          "color_upper_bound": 27
+        },
+        {
+          "alphabet": 13,
+          "eligible_labels": 73,
+          "color_upper_bound": 33
+        },
+        {
+          "alphabet": 14,
+          "eligible_labels": 77,
+          "color_upper_bound": 40
+        },
+        {
+          "alphabet": 15,
+          "eligible_labels": 79,
+          "color_upper_bound": 50
+        }
+      ]
+    }
+  ]
+}

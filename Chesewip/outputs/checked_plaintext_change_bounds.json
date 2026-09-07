@@ -1,0 +1,14 @@
+{
+  "pairwise_bounds_checked_by_independent_dp": 36,
+  "all_disjoint_witnesses_valid": true,
+  "counterexample_ciphertext_replay_verified": true,
+  "reversible_alphabet_size": 53,
+  "plaintext_difference_positions_zero_based": [
+    0,
+    25,
+    33
+  ],
+  "sharp_common_initial_deck_bound": 3,
+  "different_state_positions_during_last_13_matching_outputs": 7,
+  "warning": "The engineered counterexample supplies no meaningful Noita plaintext or key."
+}

@@ -1,0 +1,185 @@
+{
+  "results": [
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        23,
+        28,
+        50
+      ],
+      "seconds": 0.13994169235229492
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        23,
+        29,
+        50
+      ],
+      "seconds": 0.1437056064605713
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        23,
+        30,
+        50
+      ],
+      "seconds": 0.13230562210083008
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        23,
+        31,
+        50
+      ],
+      "seconds": 0.13763737678527832
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        23,
+        32,
+        50
+      ],
+      "seconds": 0.14864039421081543
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        23,
+        33,
+        50
+      ],
+      "seconds": 0.1613929271697998
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        24,
+        28,
+        50
+      ],
+      "seconds": 0.13315749168395996
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        24,
+        29,
+        50
+      ],
+      "seconds": 0.13376736640930176
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        24,
+        30,
+        50
+      ],
+      "seconds": 0.11527180671691895
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        24,
+        31,
+        50
+      ],
+      "seconds": 0.13469266891479492
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        24,
+        32,
+        50
+      ],
+      "seconds": 0.12909960746765137
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        24,
+        33,
+        50
+      ],
+      "seconds": 0.12825655937194824
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        25,
+        28,
+        50
+      ],
+      "seconds": 0.2851693630218506
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        25,
+        29,
+        50
+      ],
+      "seconds": 0.13733577728271484
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        25,
+        30,
+        50
+      ],
+      "seconds": 0.1702899932861328
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        25,
+        31,
+        50
+      ],
+      "seconds": 0.14460277557373047
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        25,
+        32,
+        50
+      ],
+      "seconds": 0.14007806777954102
+    },
+    {
+      "status": "unsat",
+      "cuts_zero_based": [
+        0,
+        25,
+        33,
+        50
+      ],
+      "seconds": 0.14663290977478027
+    }
+  ],
+  "warning": "SAT is only relative-state compatibility. UNSAT excludes exactly the specified change template under the unit-neighbor three-cycle model with a common initial deck."
+}

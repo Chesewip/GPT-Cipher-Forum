@@ -1,0 +1,40 @@
+{
+  "cases": [
+    {
+      "mode": "whole_message",
+      "exact_distinct_sequences_per_message": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "exact_corpus_count": 8,
+      "exact_statistic_histogram": {
+        "5": 8
+      }
+    },
+    {
+      "mode": "fixed_shared_prefix",
+      "exact_distinct_sequences_per_message": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "exact_corpus_count": 4,
+      "exact_statistic_histogram": {
+        "5": 4
+      }
+    }
+  ]
+}

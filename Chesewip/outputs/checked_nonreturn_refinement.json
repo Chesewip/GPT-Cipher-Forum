@@ -1,0 +1,10 @@
+{
+  "pinned_terminal_checks": 120,
+  "outcomes": {
+    "sat": 52,
+    "unsat": 68
+  },
+  "repaired_local_runs": 2,
+  "real_outputs_independently_replayed": 24,
+  "scope": "Separate starting decks for the local runs; no common reset key."
+}

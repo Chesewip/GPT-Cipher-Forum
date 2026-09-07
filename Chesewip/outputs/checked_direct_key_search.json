@@ -1,0 +1,29 @@
+{
+  "all_rotation_vote_checks": 410,
+  "fixed_rotation_profile_checks": 30,
+  "candidate_replays": [
+    {
+      "file": "rotation_vote_eyes.json",
+      "positions_replayed": 1036,
+      "shared_selection_disagreements": 97
+    },
+    {
+      "file": "rotation_vote_eyes_refined.json",
+      "positions_replayed": 1036,
+      "shared_selection_disagreements": 84
+    },
+    {
+      "file": "common_key_prefix_32_refined.json",
+      "positions_replayed": 288,
+      "shared_selection_disagreements": 2
+    },
+    {
+      "file": "two_swap_prefix_repair.json",
+      "positions_replayed": 288,
+      "shared_selection_disagreements": 1
+    }
+  ],
+  "common_24_symbol_prefix_fit_verified": true,
+  "prefix_outputs_verified": 216,
+  "warning": "No tested full-corpus key satisfies all shared-plaintext comparisons."
+}

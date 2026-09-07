@@ -1,0 +1,364 @@
+{
+  "physical_vs_rotating_frame_controls": 60,
+  "results": [
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 7,
+          "whole_deck_rotation": 22
+        },
+        {
+          "neighbor_offset": 17,
+          "whole_deck_rotation": 19
+        },
+        {
+          "neighbor_offset": 23,
+          "whole_deck_rotation": 4
+        },
+        {
+          "neighbor_offset": 27,
+          "whole_deck_rotation": 18
+        },
+        {
+          "neighbor_offset": 30,
+          "whole_deck_rotation": 60
+        },
+        {
+          "neighbor_offset": 37,
+          "whole_deck_rotation": 67
+        },
+        {
+          "neighbor_offset": 38,
+          "whole_deck_rotation": 49
+        },
+        {
+          "neighbor_offset": 42,
+          "whole_deck_rotation": 78
+        },
+        {
+          "neighbor_offset": 46,
+          "whole_deck_rotation": 73
+        },
+        {
+          "neighbor_offset": 48,
+          "whole_deck_rotation": 57
+        },
+        {
+          "neighbor_offset": 49,
+          "whole_deck_rotation": 79
+        },
+        {
+          "neighbor_offset": 52,
+          "whole_deck_rotation": 1
+        },
+        {
+          "neighbor_offset": 59,
+          "whole_deck_rotation": 38
+        },
+        {
+          "neighbor_offset": 64,
+          "whole_deck_rotation": 55
+        },
+        {
+          "neighbor_offset": 72,
+          "whole_deck_rotation": 15
+        },
+        {
+          "neighbor_offset": 72,
+          "whole_deck_rotation": 30
+        },
+        {
+          "neighbor_offset": 72,
+          "whole_deck_rotation": 65
+        },
+        {
+          "neighbor_offset": 73,
+          "whole_deck_rotation": 58
+        },
+        {
+          "neighbor_offset": 78,
+          "whole_deck_rotation": 53
+        }
+      ],
+      "first_omitted": false,
+      "reversed": false,
+      "descending_initial_deck": false
+    },
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 1,
+          "whole_deck_rotation": 77
+        },
+        {
+          "neighbor_offset": 10,
+          "whole_deck_rotation": 45
+        },
+        {
+          "neighbor_offset": 16,
+          "whole_deck_rotation": 44
+        },
+        {
+          "neighbor_offset": 26,
+          "whole_deck_rotation": 41
+        },
+        {
+          "neighbor_offset": 42,
+          "whole_deck_rotation": 11
+        },
+        {
+          "neighbor_offset": 47,
+          "whole_deck_rotation": 73
+        },
+        {
+          "neighbor_offset": 52,
+          "whole_deck_rotation": 24
+        },
+        {
+          "neighbor_offset": 72,
+          "whole_deck_rotation": 27
+        },
+        {
+          "neighbor_offset": 78,
+          "whole_deck_rotation": 70
+        }
+      ],
+      "first_omitted": false,
+      "reversed": false,
+      "descending_initial_deck": true
+    },
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 2,
+          "whole_deck_rotation": 16
+        },
+        {
+          "neighbor_offset": 23,
+          "whole_deck_rotation": 70
+        },
+        {
+          "neighbor_offset": 70,
+          "whole_deck_rotation": 11
+        }
+      ],
+      "first_omitted": false,
+      "reversed": true,
+      "descending_initial_deck": false
+    },
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 63,
+          "whole_deck_rotation": 50
+        }
+      ],
+      "first_omitted": false,
+      "reversed": true,
+      "descending_initial_deck": true
+    },
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 11,
+          "whole_deck_rotation": 36
+        },
+        {
+          "neighbor_offset": 20,
+          "whole_deck_rotation": 53
+        },
+        {
+          "neighbor_offset": 22,
+          "whole_deck_rotation": 49
+        },
+        {
+          "neighbor_offset": 24,
+          "whole_deck_rotation": 61
+        },
+        {
+          "neighbor_offset": 38,
+          "whole_deck_rotation": 61
+        },
+        {
+          "neighbor_offset": 41,
+          "whole_deck_rotation": 63
+        },
+        {
+          "neighbor_offset": 47,
+          "whole_deck_rotation": 6
+        },
+        {
+          "neighbor_offset": 48,
+          "whole_deck_rotation": 60
+        },
+        {
+          "neighbor_offset": 48,
+          "whole_deck_rotation": 72
+        },
+        {
+          "neighbor_offset": 55,
+          "whole_deck_rotation": 24
+        },
+        {
+          "neighbor_offset": 60,
+          "whole_deck_rotation": 21
+        },
+        {
+          "neighbor_offset": 60,
+          "whole_deck_rotation": 31
+        },
+        {
+          "neighbor_offset": 63,
+          "whole_deck_rotation": 72
+        },
+        {
+          "neighbor_offset": 65,
+          "whole_deck_rotation": 59
+        },
+        {
+          "neighbor_offset": 66,
+          "whole_deck_rotation": 72
+        },
+        {
+          "neighbor_offset": 77,
+          "whole_deck_rotation": 56
+        },
+        {
+          "neighbor_offset": 78,
+          "whole_deck_rotation": 22
+        }
+      ],
+      "first_omitted": true,
+      "reversed": false,
+      "descending_initial_deck": false
+    },
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 7,
+          "whole_deck_rotation": 39
+        },
+        {
+          "neighbor_offset": 7,
+          "whole_deck_rotation": 74
+        },
+        {
+          "neighbor_offset": 10,
+          "whole_deck_rotation": 58
+        },
+        {
+          "neighbor_offset": 22,
+          "whole_deck_rotation": 53
+        },
+        {
+          "neighbor_offset": 25,
+          "whole_deck_rotation": 81
+        },
+        {
+          "neighbor_offset": 27,
+          "whole_deck_rotation": 12
+        },
+        {
+          "neighbor_offset": 28,
+          "whole_deck_rotation": 73
+        },
+        {
+          "neighbor_offset": 30,
+          "whole_deck_rotation": 51
+        },
+        {
+          "neighbor_offset": 30,
+          "whole_deck_rotation": 82
+        },
+        {
+          "neighbor_offset": 33,
+          "whole_deck_rotation": 42
+        },
+        {
+          "neighbor_offset": 39,
+          "whole_deck_rotation": 41
+        },
+        {
+          "neighbor_offset": 39,
+          "whole_deck_rotation": 42
+        },
+        {
+          "neighbor_offset": 46,
+          "whole_deck_rotation": 52
+        },
+        {
+          "neighbor_offset": 49,
+          "whole_deck_rotation": 51
+        },
+        {
+          "neighbor_offset": 51,
+          "whole_deck_rotation": 67
+        },
+        {
+          "neighbor_offset": 68,
+          "whole_deck_rotation": 45
+        },
+        {
+          "neighbor_offset": 69,
+          "whole_deck_rotation": 30
+        },
+        {
+          "neighbor_offset": 76,
+          "whole_deck_rotation": 63
+        }
+      ],
+      "first_omitted": true,
+      "reversed": false,
+      "descending_initial_deck": true
+    },
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 2,
+          "whole_deck_rotation": 16
+        },
+        {
+          "neighbor_offset": 23,
+          "whole_deck_rotation": 70
+        },
+        {
+          "neighbor_offset": 70,
+          "whole_deck_rotation": 11
+        }
+      ],
+      "first_omitted": true,
+      "reversed": true,
+      "descending_initial_deck": false
+    },
+    {
+      "configurations": 6723,
+      "minimum_alphabet": 81,
+      "minimizers": [
+        {
+          "neighbor_offset": 63,
+          "whole_deck_rotation": 50
+        }
+      ],
+      "first_omitted": true,
+      "reversed": true,
+      "descending_initial_deck": true
+    }
+  ],
+  "total_configurations": 53784,
+  "scope": "Only the listed initial decks and reading conventions; arbitrary keys remain unexcluded.",
+  "seconds": 9.199634790420532
+}

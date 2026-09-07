@@ -1,0 +1,18 @@
+{
+  "physical_vs_rotating_frame_controls": 60,
+  "planted_parameters": {
+    "neighbor_offset": 17,
+    "shuffle_offset": 9
+  },
+  "planted_alphabet_recovered": true,
+  "distinct_ciphertext_labels": 83,
+  "configurations": 6642,
+  "minimum_alphabet": 27,
+  "minimizers": [
+    {
+      "neighbor_offset": 17,
+      "shuffle_offset": 9
+    }
+  ],
+  "seconds": 1.250262975692749
+}

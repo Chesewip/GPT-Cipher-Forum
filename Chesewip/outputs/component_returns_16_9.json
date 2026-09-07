@@ -1,0 +1,652 @@
+{
+  "gap": 16,
+  "rotation": 9,
+  "components": [
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 2.6119463443756104,
+      "return_intervals": 33,
+      "hit_steps": 245,
+      "variables": 112,
+      "components": 1,
+      "component_index": 0
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 2.134896755218506,
+      "return_intervals": 45,
+      "hit_steps": 280,
+      "variables": 98,
+      "components": 1,
+      "component_index": 1
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.2523536682128906,
+      "return_intervals": 8,
+      "hit_steps": 58,
+      "variables": 36,
+      "components": 1,
+      "component_index": 2
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.07885360717773438,
+      "return_intervals": 4,
+      "hit_steps": 29,
+      "variables": 26,
+      "components": 1,
+      "component_index": 3
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.15192246437072754,
+      "return_intervals": 7,
+      "hit_steps": 51,
+      "variables": 26,
+      "components": 1,
+      "component_index": 4
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.1465003490447998,
+      "return_intervals": 13,
+      "hit_steps": 85,
+      "variables": 26,
+      "components": 1,
+      "component_index": 5
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.06864261627197266,
+      "return_intervals": 5,
+      "hit_steps": 25,
+      "variables": 23,
+      "components": 1,
+      "component_index": 6
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.0576472282409668,
+      "return_intervals": 3,
+      "hit_steps": 23,
+      "variables": 17,
+      "components": 1,
+      "component_index": 7
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.046819448471069336,
+      "return_intervals": 2,
+      "hit_steps": 19,
+      "variables": 16,
+      "components": 1,
+      "component_index": 8
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.03540444374084473,
+      "return_intervals": 3,
+      "hit_steps": 16,
+      "variables": 16,
+      "components": 1,
+      "component_index": 9
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.03586602210998535,
+      "return_intervals": 3,
+      "hit_steps": 15,
+      "variables": 16,
+      "components": 1,
+      "component_index": 10
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.05872797966003418,
+      "return_intervals": 6,
+      "hit_steps": 34,
+      "variables": 16,
+      "components": 1,
+      "component_index": 11
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.0645749568939209,
+      "return_intervals": 3,
+      "hit_steps": 26,
+      "variables": 16,
+      "components": 1,
+      "component_index": 12
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.047000885009765625,
+      "return_intervals": 4,
+      "hit_steps": 21,
+      "variables": 15,
+      "components": 1,
+      "component_index": 13
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.0580594539642334,
+      "return_intervals": 3,
+      "hit_steps": 25,
+      "variables": 15,
+      "components": 1,
+      "component_index": 14
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.026079416275024414,
+      "return_intervals": 2,
+      "hit_steps": 11,
+      "variables": 14,
+      "components": 1,
+      "component_index": 15
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.03485369682312012,
+      "return_intervals": 2,
+      "hit_steps": 14,
+      "variables": 12,
+      "components": 1,
+      "component_index": 16
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.03958535194396973,
+      "return_intervals": 2,
+      "hit_steps": 14,
+      "variables": 11,
+      "components": 1,
+      "component_index": 17
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.023015737533569336,
+      "return_intervals": 2,
+      "hit_steps": 7,
+      "variables": 10,
+      "components": 1,
+      "component_index": 18
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.018110036849975586,
+      "return_intervals": 1,
+      "hit_steps": 7,
+      "variables": 9,
+      "components": 1,
+      "component_index": 19
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.02809286117553711,
+      "return_intervals": 2,
+      "hit_steps": 9,
+      "variables": 9,
+      "components": 1,
+      "component_index": 20
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.01900029182434082,
+      "return_intervals": 1,
+      "hit_steps": 6,
+      "variables": 8,
+      "components": 1,
+      "component_index": 21
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.009997367858886719,
+      "return_intervals": 1,
+      "hit_steps": 3,
+      "variables": 5,
+      "components": 1,
+      "component_index": 22
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.008996725082397461,
+      "return_intervals": 1,
+      "hit_steps": 2,
+      "variables": 4,
+      "components": 1,
+      "component_index": 23
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.011040210723876953,
+      "return_intervals": 2,
+      "hit_steps": 4,
+      "variables": 4,
+      "components": 1,
+      "component_index": 24
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.008001089096069336,
+      "return_intervals": 1,
+      "hit_steps": 2,
+      "variables": 4,
+      "components": 1,
+      "component_index": 25
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.006529808044433594,
+      "return_intervals": 1,
+      "hit_steps": 1,
+      "variables": 3,
+      "components": 1,
+      "component_index": 26
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.006552696228027344,
+      "return_intervals": 1,
+      "hit_steps": 1,
+      "variables": 3,
+      "components": 1,
+      "component_index": 27
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 16,
+      "status": "sat",
+      "seconds": 0.010999917984008789,
+      "return_intervals": 1,
+      "hit_steps": 0,
+      "variables": 2,
+      "components": 1,
+      "component_index": 28
+    }
+  ],
+  "seconds": 6.15485405921936,
+  "assumed_equalities": [
+    [
+      1,
+      35,
+      1,
+      65,
+      25
+    ],
+    [
+      2,
+      40,
+      2,
+      75,
+      23
+    ],
+    [
+      0,
+      41,
+      0,
+      69,
+      9
+    ],
+    [
+      1,
+      41,
+      2,
+      46,
+      10
+    ],
+    [
+      1,
+      41,
+      2,
+      81,
+      10
+    ],
+    [
+      3,
+      19,
+      4,
+      25,
+      13
+    ],
+    [
+      3,
+      19,
+      5,
+      24,
+      13
+    ],
+    [
+      6,
+      52,
+      7,
+      54,
+      11
+    ],
+    [
+      6,
+      52,
+      8,
+      53,
+      11
+    ],
+    [
+      6,
+      69,
+      7,
+      72,
+      32
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      24
+    ],
+    [
+      3,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      4,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      6,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      7,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      8,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      7,
+      1,
+      20
+    ]
+  ],
+  "combined_status": "sat",
+  "warning": "Only selected return paths. No initial-key consistency or alphabet bound."
+}

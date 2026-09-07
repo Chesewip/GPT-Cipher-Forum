@@ -1,0 +1,621 @@
+{
+  "status": "PDF observations partly verified; proposed E3 rejected within fixed-per-letter permutation family",
+  "candidate_texts": {
+    "E3": "THEREISNODIFFERENCEWITHONEANOTHER;THEREISNOPARTIALITYWITHHIM.BUTTHEYAREONEINTHOUGHT.ONEISTHEPRESCIENCEOFALL.THEYHAVEONEMIND-THEIRFATHER.",
+    "E4": "THEREISNOGOODTHATCANBEGOTFROMOBJECTSINTHEWORLD.FORALLTHETHINGSTHATFALLBENEATHTHEEYEAREIMAGE-THINGSANDPICTURESASITWERE;"
+  },
+  "candidate_lengths": {
+    "E3": 136,
+    "E4": 118
+  },
+  "ciphertext_lengths": {
+    "E1": 99,
+    "W1": 103,
+    "E2": 118,
+    "W2": 102,
+    "E3": 137,
+    "W3": 124,
+    "E4": 119,
+    "W4": 120,
+    "E5": 114
+  },
+  "headers": {
+    "E1": 50,
+    "W1": 80,
+    "E2": 36,
+    "W2": 76,
+    "E3": 63,
+    "W3": 34,
+    "E4": 27,
+    "W4": 77,
+    "E5": 33
+  },
+  "prefix_matrix_matches": true,
+  "prefix_matrix": [
+    [
+      0,
+      24,
+      24,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      24,
+      0,
+      24,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      24,
+      24,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      2,
+      0,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    [
+      2,
+      2,
+      2,
+      5,
+      0,
+      5,
+      9,
+      9,
+      9
+    ],
+    [
+      2,
+      2,
+      2,
+      5,
+      5,
+      0,
+      5,
+      5,
+      5
+    ],
+    [
+      2,
+      2,
+      2,
+      5,
+      9,
+      5,
+      0,
+      20,
+      20
+    ],
+    [
+      2,
+      2,
+      2,
+      5,
+      9,
+      5,
+      20,
+      0,
+      20
+    ],
+    [
+      2,
+      2,
+      2,
+      5,
+      9,
+      5,
+      20,
+      20,
+      0
+    ]
+  ],
+  "candidate_common_prefix": 9,
+  "source_comparison": {
+    "url": "https://sacred-texts.com/gno/th2/th235.htm",
+    "source_opening": "With Him, therefore, is there no difference with one another;",
+    "candidate_opening": "There is no difference with one another;",
+    "normalized_source_passage_length": 154,
+    "normalized_candidate_length": 136,
+    "discrepancy": "Opening rewritten, not solely case/space/dash normalization.",
+    "E4_url": "https://sacred-texts.com/chr/herm/hermes6.htm"
+  },
+  "block28": {
+    "verified": true,
+    "raw_indices_are_zero_based": true,
+    "canonical_pattern": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      1,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      17,
+      21,
+      22,
+      11,
+      23,
+      24
+    ],
+    "repetition_pairs_zero_based_with_distance_and_intervening_count": [
+      [
+        1,
+        5,
+        4,
+        3
+      ],
+      [
+        12,
+        25,
+        13,
+        12
+      ],
+      [
+        18,
+        22,
+        4,
+        3
+      ]
+    ],
+    "extension_partitions": {
+      "28": [
+        [
+          "E3",
+          "E4",
+          "W4",
+          "E5"
+        ]
+      ],
+      "29": [
+        [
+          "E3"
+        ],
+        [
+          "E4",
+          "W4"
+        ],
+        [
+          "E5"
+        ]
+      ],
+      "30": [
+        [
+          "E3"
+        ],
+        [
+          "E4",
+          "W4"
+        ],
+        [
+          "E5"
+        ]
+      ],
+      "31": [
+        [
+          "E3"
+        ],
+        [
+          "E4"
+        ],
+        [
+          "W4"
+        ],
+        [
+          "E5"
+        ]
+      ]
+    },
+    "aligned_candidate_E3": "UTTHEYAREONEINTHOUGHT.ONEIST",
+    "aligned_candidate_E4": "ENEATHTHEEYEAREIMAGE-THINGSA",
+    "candidate_passages_equal": false
+  },
+  "E3_E_distinct_ciphertext_values": 16,
+  "periodic_checks": {
+    "plaintext_numeric_encoding": "ASCII ord(character), modulo 83; other non-affine encodings require separate tests",
+    "additive": [
+      {
+        "period": 1,
+        "first_block_key_errors": 133,
+        "best_periodic_key_errors": 130
+      },
+      {
+        "period": 2,
+        "first_block_key_errors": 134,
+        "best_periodic_key_errors": 128
+      },
+      {
+        "period": 3,
+        "first_block_key_errors": 130,
+        "best_periodic_key_errors": 127
+      },
+      {
+        "period": 4,
+        "first_block_key_errors": 132,
+        "best_periodic_key_errors": 124
+      },
+      {
+        "period": 5,
+        "first_block_key_errors": 131,
+        "best_periodic_key_errors": 125
+      },
+      {
+        "period": 6,
+        "first_block_key_errors": 130,
+        "best_periodic_key_errors": 122
+      },
+      {
+        "period": 7,
+        "first_block_key_errors": 127,
+        "best_periodic_key_errors": 121
+      },
+      {
+        "period": 8,
+        "first_block_key_errors": 128,
+        "best_periodic_key_errors": 122
+      },
+      {
+        "period": 9,
+        "first_block_key_errors": 126,
+        "best_periodic_key_errors": 120
+      },
+      {
+        "period": 10,
+        "first_block_key_errors": 126,
+        "best_periodic_key_errors": 120
+      },
+      {
+        "period": 11,
+        "first_block_key_errors": 124,
+        "best_periodic_key_errors": 116
+      },
+      {
+        "period": 12,
+        "first_block_key_errors": 123,
+        "best_periodic_key_errors": 118
+      },
+      {
+        "period": 13,
+        "first_block_key_errors": 122,
+        "best_periodic_key_errors": 116
+      },
+      {
+        "period": 14,
+        "first_block_key_errors": 122,
+        "best_periodic_key_errors": 116
+      },
+      {
+        "period": 15,
+        "first_block_key_errors": 121,
+        "best_periodic_key_errors": 116
+      },
+      {
+        "period": 16,
+        "first_block_key_errors": 119,
+        "best_periodic_key_errors": 112
+      },
+      {
+        "period": 17,
+        "first_block_key_errors": 118,
+        "best_periodic_key_errors": 114
+      },
+      {
+        "period": 18,
+        "first_block_key_errors": 118,
+        "best_periodic_key_errors": 113
+      },
+      {
+        "period": 19,
+        "first_block_key_errors": 117,
+        "best_periodic_key_errors": 111
+      },
+      {
+        "period": 20,
+        "first_block_key_errors": 116,
+        "best_periodic_key_errors": 114
+      },
+      {
+        "period": 21,
+        "first_block_key_errors": 111,
+        "best_periodic_key_errors": 108
+      },
+      {
+        "period": 22,
+        "first_block_key_errors": 114,
+        "best_periodic_key_errors": 110
+      },
+      {
+        "period": 23,
+        "first_block_key_errors": 113,
+        "best_periodic_key_errors": 108
+      },
+      {
+        "period": 24,
+        "first_block_key_errors": 110,
+        "best_periodic_key_errors": 106
+      },
+      {
+        "period": 25,
+        "first_block_key_errors": 109,
+        "best_periodic_key_errors": 107
+      },
+      {
+        "period": 26,
+        "first_block_key_errors": 109,
+        "best_periodic_key_errors": 107
+      },
+      {
+        "period": 27,
+        "first_block_key_errors": 108,
+        "best_periodic_key_errors": 106
+      },
+      {
+        "period": 28,
+        "first_block_key_errors": 106,
+        "best_periodic_key_errors": 105
+      },
+      {
+        "period": 29,
+        "first_block_key_errors": 106,
+        "best_periodic_key_errors": 103
+      },
+      {
+        "period": 30,
+        "first_block_key_errors": 105,
+        "best_periodic_key_errors": 101
+      },
+      {
+        "period": 31,
+        "first_block_key_errors": 104,
+        "best_periodic_key_errors": 104
+      },
+      {
+        "period": 32,
+        "first_block_key_errors": 102,
+        "best_periodic_key_errors": 101
+      }
+    ],
+    "affine": [
+      {
+        "period": 1,
+        "exact_fit": false
+      },
+      {
+        "period": 2,
+        "exact_fit": false
+      },
+      {
+        "period": 3,
+        "exact_fit": false
+      },
+      {
+        "period": 4,
+        "exact_fit": false
+      },
+      {
+        "period": 5,
+        "exact_fit": false
+      },
+      {
+        "period": 6,
+        "exact_fit": false
+      },
+      {
+        "period": 7,
+        "exact_fit": false
+      },
+      {
+        "period": 8,
+        "exact_fit": false
+      },
+      {
+        "period": 9,
+        "exact_fit": false
+      },
+      {
+        "period": 10,
+        "exact_fit": false
+      },
+      {
+        "period": 11,
+        "exact_fit": false
+      },
+      {
+        "period": 12,
+        "exact_fit": false
+      },
+      {
+        "period": 13,
+        "exact_fit": false
+      },
+      {
+        "period": 14,
+        "exact_fit": false
+      },
+      {
+        "period": 15,
+        "exact_fit": false
+      },
+      {
+        "period": 16,
+        "exact_fit": false
+      },
+      {
+        "period": 17,
+        "exact_fit": false
+      },
+      {
+        "period": 18,
+        "exact_fit": false
+      },
+      {
+        "period": 19,
+        "exact_fit": false
+      },
+      {
+        "period": 20,
+        "exact_fit": false
+      },
+      {
+        "period": 21,
+        "exact_fit": false
+      },
+      {
+        "period": 22,
+        "exact_fit": false
+      },
+      {
+        "period": 23,
+        "exact_fit": false
+      },
+      {
+        "period": 24,
+        "exact_fit": false
+      },
+      {
+        "period": 25,
+        "exact_fit": false
+      },
+      {
+        "period": 26,
+        "exact_fit": false
+      },
+      {
+        "period": 27,
+        "exact_fit": false
+      },
+      {
+        "period": 28,
+        "exact_fit": false
+      },
+      {
+        "period": 29,
+        "exact_fit": false
+      },
+      {
+        "period": 30,
+        "exact_fit": false
+      },
+      {
+        "period": 31,
+        "exact_fit": false
+      },
+      {
+        "period": 32,
+        "exact_fit": false
+      }
+    ]
+  },
+  "E3_permutation_action": {
+    "status": "contradiction",
+    "initial_graph_nodes": 9095,
+    "folded_graph_nodes": 7151,
+    "plaintext_operation_classes": 24,
+    "conflicting_cards": [
+      60,
+      40
+    ]
+  },
+  "E4_permutation_action": {
+    "status": "relaxation_survives",
+    "initial_graph_nodes": 6874,
+    "folded_graph_nodes": 4259,
+    "plaintext_operation_classes": 24,
+    "conflicting_cards": null,
+    "folded_edges": 4315
+  },
+  "E3_core_body_indices_zero_based": [
+    63,
+    67,
+    107,
+    111
+  ],
+  "earliest_E3_permutation_contradiction_prefix_length": 29,
+  "earliest_core": [
+    {
+      "body_index_zero_based": 6,
+      "raw_index_zero_based": 7,
+      "body_position_one_based": 7,
+      "plaintext_letter": "S",
+      "ciphertext": 60
+    },
+    {
+      "body_index_zero_based": 8,
+      "raw_index_zero_based": 9,
+      "body_position_one_based": 9,
+      "plaintext_letter": "O",
+      "ciphertext": 40
+    },
+    {
+      "body_index_zero_based": 26,
+      "raw_index_zero_based": 27,
+      "body_position_one_based": 27,
+      "plaintext_letter": "A",
+      "ciphertext": 13
+    },
+    {
+      "body_index_zero_based": 28,
+      "raw_index_zero_based": 29,
+      "body_position_one_based": 29,
+      "plaintext_letter": "O",
+      "ciphertext": 13
+    }
+  ],
+  "exclusion_scope": "Each plaintext character chooses one fixed permutation of positions, followed by reading a fixed output position; arbitrary initial deck and arbitrary per-character permutations. Covers the fixed-update positional deck/GAK model, not all stateful or time-dependent ciphers.",
+  "warning": "Survival is not a key or a plaintext verification. Exact lengths and ciphertext isomorphism do not establish a decipherment.",
+  "PDF_appendix_checks": [
+    {
+      "message": "E3",
+      "values": 136,
+      "exact_match": true
+    },
+    {
+      "message": "E4",
+      "values": 118,
+      "exact_match": true
+    }
+  ],
+  "reviewed_pdf": {
+    "path": "Noita_Eye_Messages_E3_E4_Step_by_Step (1).pdf",
+    "sha256": "23540f59878d4614bba425c29a299ebaa4e2c327bab362e11116b59199fb586d",
+    "pages": 8,
+    "publication_note": "Machine-specific source path removed. The reviewed PDF is not redistributed; its filename and SHA-256 identify the source."
+  }
+}

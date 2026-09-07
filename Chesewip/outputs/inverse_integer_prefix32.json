@@ -1,0 +1,23 @@
+{
+  "status": "unknown",
+  "rotation": 12,
+  "lengths": [
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32,
+    32
+  ],
+  "comparisons": 124,
+  "free_key_entries": 82,
+  "bottom_rotation_gauge": true,
+  "encoding_seconds": 7.339843988418579,
+  "solve_seconds": 30.054587602615356,
+  "seconds": 37.394431591033936,
+  "reason": "timeout",
+  "scope": "All conclusions conditional on model and equality assumptions. Restricted UNSAT excludes only the supplied fixed key neighborhood."
+}

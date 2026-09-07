@@ -1,0 +1,276 @@
+{
+  "small_exhaustive_comparisons_passed": 800,
+  "planted_83_card_controls_passed": 10,
+  "controls": [
+    {
+      "top": 36,
+      "labels": [
+        21,
+        33,
+        69,
+        61,
+        0,
+        12,
+        38,
+        49
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        39,
+        19,
+        76,
+        2,
+        77,
+        12,
+        60
+      ]
+    },
+    {
+      "top": 64,
+      "labels": [
+        73,
+        10,
+        69,
+        13,
+        15,
+        19,
+        29,
+        60
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        60,
+        62,
+        10,
+        73,
+        49,
+        13,
+        63
+      ]
+    },
+    {
+      "top": 34,
+      "labels": [
+        6,
+        11,
+        14,
+        30,
+        2,
+        35,
+        64,
+        16
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        53,
+        37,
+        80,
+        9,
+        42,
+        32,
+        47
+      ]
+    },
+    {
+      "top": 39,
+      "labels": [
+        0,
+        7,
+        8,
+        43,
+        48,
+        11,
+        34,
+        37
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        43,
+        7,
+        66,
+        36,
+        22,
+        33,
+        11
+      ]
+    },
+    {
+      "top": 3,
+      "labels": [
+        6,
+        75,
+        11,
+        39,
+        7,
+        9,
+        16,
+        48
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        20,
+        79,
+        39,
+        62,
+        10,
+        51,
+        16
+      ]
+    },
+    {
+      "top": 44,
+      "labels": [
+        62,
+        2,
+        47,
+        53,
+        61,
+        60,
+        6,
+        7
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        19,
+        25,
+        3,
+        17,
+        43,
+        28,
+        79
+      ]
+    },
+    {
+      "top": 71,
+      "labels": [
+        48,
+        4,
+        76,
+        69,
+        17,
+        42,
+        60,
+        67
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        60,
+        49,
+        81,
+        4,
+        54,
+        22,
+        14
+      ]
+    },
+    {
+      "top": 33,
+      "labels": [
+        24,
+        62,
+        3,
+        69,
+        14,
+        28,
+        60,
+        77
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        62,
+        69,
+        55,
+        63,
+        70,
+        27,
+        29
+      ]
+    },
+    {
+      "top": 52,
+      "labels": [
+        10,
+        17,
+        45,
+        1,
+        15,
+        21,
+        29,
+        8
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        3,
+        18,
+        39,
+        69,
+        7,
+        6,
+        13
+      ]
+    },
+    {
+      "top": 82,
+      "labels": [
+        11,
+        28,
+        56,
+        73,
+        17,
+        19,
+        32,
+        41
+      ],
+      "target_alphabet": 27,
+      "identity_selection_cost": 0,
+      "status": "sat",
+      "nodes": 8,
+      "shifts": [
+        0,
+        5,
+        15,
+        44,
+        1,
+        48,
+        28,
+        24
+      ]
+    }
+  ]
+}

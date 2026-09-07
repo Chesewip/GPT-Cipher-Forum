@@ -1,0 +1,18 @@
+from pathlib import Path
+p=Path('outputs/integer_return_paths.py');s=p.read_text(encoding='utf-8')
+s=s.replace('import sys,json,time,argparse','import sys,json,time,argparse,collections')
+s=s.replace('pinned=None,edge_subset=None):','pinned=None,edge_subset=None,eliminate_free=False):')
+s=s.replace("p={x:z3.Int('p_'+str(i)) for i,x in enumerate(used)};parent={x:x for x in used}","occurrences=collections.Counter(x for _,_,_,mi,r,t in edges for x in classes[mi][r+1:t+1])\n    endpoints={x for u,v,*_ in edges for x in [u,v]}\n    free={x for x,c in occurrences.items() if c==1 and x not in endpoints} if eliminate_free and pinned is None else set()\n    p={x:z3.Int('p_'+str(i)) for i,x in enumerate(used) if x not in free};parent={x:x for x in used if x not in free}")
+s=s.replace('for s in range(r+2,t):\n            parent[root(values[s])]',"for s in range(r+2,t):\n            if values[s] in free:\n                next_count=z3.Int(f'k_{edge_id}_{s}')\n                solver.add(next_count>=count,next_count<=count+1);count=next_count;steps+=1\n                continue\n            parent[root(values[s])]")
+s=s.replace("for x in {root(x) for x in used}:solver.add(p[x]==0)","for x in {root(x) for x in parent}:solver.add(p[x]==0)")
+s=s.replace("'components':len({root(x) for x in used})", "'components':len({root(x) for x in parent}),'eliminated_free_selectors':len(free)")
+s=s.replace('for _,_,_,mi,r,t in edges:\n            vals=classes[mi];u=', 'for edge_id,(_,_,_,mi,r,t) in enumerate(edges):\n            vals=classes[mi];u=')
+s=s.replace('v=selection[vals[s]];assert v!=u',"if vals[s] in free:\n                    previous=0 if s==r+2 else model.eval(z3.Int(f'k_{edge_id}_{s-1}')).as_long()\n                    now=model.eval(z3.Int(f'k_{edge_id}_{s}')).as_long()\n                    selection[vals[s]]=(u-1)%M if now>previous else (u+1)%M\n                v=selection[vals[s]];assert v!=u")
+p.write_text(s,encoding='utf-8',newline='\r\n')
+p=Path('outputs/component_return_paths.py');s=p.read_text(encoding='utf-8-sig').replace("ap.add_argument('--timeout',type=int,default=3000);", "ap.add_argument('--timeout',type=int,default=3000);ap.add_argument('--eliminate-free',action='store_true');")
+s=s.replace('edge_subset=edges)', 'edge_subset=edges,eliminate_free=args.eliminate_free)')
+s=s.replace("out={'gap':args.gap", "out={'eliminated_free_selectors':args.eliminate_free,'gap':args.gap")
+s=s.replace("f'component_returns_{args.gap}_{args.rotation}.json'", "f'component_returns_{args.gap}_{args.rotation}'+('_free' if args.eliminate_free else '')+'.json'")
+# Parenthesize string composition inside path division.
+s=s.replace("(ROOT/f'component_returns_{args.gap}_{args.rotation}'+('_free' if args.eliminate_free else '')+'.json')", "(ROOT/(f'component_returns_{args.gap}_{args.rotation}'+('_free' if args.eliminate_free else '')+'.json'))")
+p.write_text(s,encoding='utf-8',newline='\r\n')

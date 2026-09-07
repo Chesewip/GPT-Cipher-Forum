@@ -1,0 +1,395 @@
+{
+  "results": [
+    {
+      "rotation": 0,
+      "gap_limit": 12,
+      "status": "unknown",
+      "seconds": 3.7688493728637695,
+      "return_intervals": 126,
+      "hit_steps": 601,
+      "variables": 451,
+      "components": 44,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 1,
+      "gap_limit": 12,
+      "status": "unknown",
+      "seconds": 3.6994054317474365,
+      "return_intervals": 126,
+      "hit_steps": 601,
+      "variables": 451,
+      "components": 44,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 9,
+      "gap_limit": 12,
+      "status": "unknown",
+      "seconds": 3.6745686531066895,
+      "return_intervals": 126,
+      "hit_steps": 601,
+      "variables": 451,
+      "components": 44,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 17,
+      "gap_limit": 12,
+      "status": "unknown",
+      "seconds": 3.707430839538574,
+      "return_intervals": 126,
+      "hit_steps": 601,
+      "variables": 451,
+      "components": 44,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 41,
+      "gap_limit": 12,
+      "status": "unknown",
+      "seconds": 3.678147077560425,
+      "return_intervals": 126,
+      "hit_steps": 601,
+      "variables": 451,
+      "components": 44,
+      "reason": "timeout"
+    },
+    {
+      "rotation": 81,
+      "gap_limit": 12,
+      "status": "unknown",
+      "seconds": 3.6945159435272217,
+      "return_intervals": 126,
+      "hit_steps": 601,
+      "variables": 451,
+      "components": 44,
+      "reason": "timeout"
+    }
+  ],
+  "assumed_equalities": [
+    [
+      1,
+      35,
+      1,
+      65,
+      25
+    ],
+    [
+      2,
+      40,
+      2,
+      75,
+      23
+    ],
+    [
+      0,
+      41,
+      0,
+      69,
+      9
+    ],
+    [
+      1,
+      41,
+      2,
+      46,
+      10
+    ],
+    [
+      1,
+      41,
+      2,
+      81,
+      10
+    ],
+    [
+      3,
+      19,
+      4,
+      25,
+      13
+    ],
+    [
+      3,
+      19,
+      5,
+      24,
+      13
+    ],
+    [
+      6,
+      52,
+      7,
+      54,
+      11
+    ],
+    [
+      6,
+      52,
+      8,
+      53,
+      11
+    ],
+    [
+      6,
+      69,
+      7,
+      72,
+      32
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      24
+    ],
+    [
+      3,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      4,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      6,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      7,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      8,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      7,
+      1,
+      20
+    ]
+  ],
+  "warning": "Exact selected return paths, no initial-key constraints. SAT is a relaxation."
+}

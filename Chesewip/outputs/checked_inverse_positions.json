@@ -1,0 +1,182 @@
+{
+  "checks": [
+    {
+      "n": 4,
+      "trial": 0,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "independent_exhaustive_has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "independent_exhaustive_has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "independent_exhaustive_has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 8,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 9,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 10,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 11,
+      "independent_exhaustive_has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "independent_exhaustive_has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "independent_exhaustive_has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 8,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 9,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 10,
+      "independent_exhaustive_has_key": true,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 11,
+      "independent_exhaustive_has_key": false,
+      "status": "unsat"
+    },
+    {
+      "n": 7,
+      "fixture": "known solution in restricted neighborhood",
+      "status": "sat",
+      "seconds": 0.018999814987182617
+    },
+    {
+      "n": 7,
+      "fixture": "adjacent repeat impossible with non-top selectors",
+      "status": "unsat"
+    },
+    {
+      "n": 19,
+      "fixture": "known solution in restricted neighborhood",
+      "status": "sat",
+      "seconds": 0.020001888275146484
+    },
+    {
+      "n": 19,
+      "fixture": "adjacent repeat impossible with non-top selectors",
+      "status": "unsat"
+    },
+    {
+      "n": 83,
+      "fixture": "known solution in restricted neighborhood",
+      "status": "sat",
+      "seconds": 0.01800060272216797
+    },
+    {
+      "n": 83,
+      "fixture": "adjacent repeat impossible with non-top selectors",
+      "status": "unsat"
+    }
+  ],
+  "total": 30
+}

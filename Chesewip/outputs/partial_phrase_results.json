@@ -1,0 +1,1272 @@
+[
+  {
+    "top": 0,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 1,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 2,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 3,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 4,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 5,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 6,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 7,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 8,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 9,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 10,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 11,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 12,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 13,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 14,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 15,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 16,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 17,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 18,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 19,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 20,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 21,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 22,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 23,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 24,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 25,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 26,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 28,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 29,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 30,
+    "maximum_common_positions": 10,
+    "examples": [
+      [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 31,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 32,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 35,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 37,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 38,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 39,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 40,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 41,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 42,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 43,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 44,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 45,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 46,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 47,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 48,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 49,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 51,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 52,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 53,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 54,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 55,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 56,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 57,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 58,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 59,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 60,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 61,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 62,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 64,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 65,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 66,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 67,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 68,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 69,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 70,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 71,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 72,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 73,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 74,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 75,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 78,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 79,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 81,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "top": 82,
+    "maximum_common_positions": 9,
+    "examples": [
+      [
+        0,
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    ]
+  }
+]

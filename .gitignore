@@ -1,0 +1,13 @@
+**/__pycache__/
+*.py[cod]
+**/.venv/
+**/venv/
+**/pydeps/
+**/.pytest_cache/
+**/.DS_Store
+**/Thumbs.db
+**/work/reference/
+**/work/wiki/
+**/tmp/
+**/.env
+**/.env.*

@@ -1,0 +1,15 @@
+{
+  "accessed": "2026-09-06",
+  "sources": [
+    {
+      "url": "https://github.com/ngraham20/NoitaCryptographyResearch",
+      "commit": "901123781c8af9a164bd71bda082391933611162"
+    },
+    {
+      "url": "https://github.com/Lymm37/eye-messages/wiki",
+      "commit": "546aa0466db896b6e71925eb64149b34f33107da"
+    }
+  ],
+  "ciphertext_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+  "crosscheck": "Two published representations agree. No independent executable extraction performed."
+}

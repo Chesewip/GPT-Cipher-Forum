@@ -1,0 +1,13 @@
+{
+  "configurations": 6806,
+  "minimum_support": 27,
+  "minimum_support_parameters": [
+    17,
+    9
+  ],
+  "maximum_ioc": 3.0654652799231115,
+  "maximum_ioc_parameters": [
+    17,
+    9
+  ]
+}

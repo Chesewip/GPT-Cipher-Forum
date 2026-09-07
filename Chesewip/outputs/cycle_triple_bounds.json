@@ -1,0 +1,668 @@
+[
+  {
+    "top": 0,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 1,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 2,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 3,
+    "lower_bound": 33,
+    "three_labels": [
+      60,
+      75,
+      36
+    ]
+  },
+  {
+    "top": 4,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 5,
+    "lower_bound": 35,
+    "three_labels": [
+      80,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 6,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 7,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 8,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 9,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 10,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 11,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 12,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 13,
+    "lower_bound": 34,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 14,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 15,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 16,
+    "lower_bound": 33,
+    "three_labels": [
+      60,
+      17,
+      36
+    ]
+  },
+  {
+    "top": 17,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 18,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 19,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      80,
+      8
+    ]
+  },
+  {
+    "top": 20,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 21,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 22,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 23,
+    "lower_bound": 34,
+    "three_labels": [
+      57,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 24,
+    "lower_bound": 34,
+    "three_labels": [
+      80,
+      57,
+      60
+    ]
+  },
+  {
+    "top": 25,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 26,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 28,
+    "lower_bound": 33,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 29,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 30,
+    "lower_bound": 34,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 31,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 32,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 35,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 37,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      80,
+      17
+    ]
+  },
+  {
+    "top": 38,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 39,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 40,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 41,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 42,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 43,
+    "lower_bound": 34,
+    "three_labels": [
+      57,
+      80,
+      8
+    ]
+  },
+  {
+    "top": 44,
+    "lower_bound": 35,
+    "three_labels": [
+      80,
+      57,
+      60
+    ]
+  },
+  {
+    "top": 45,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 46,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 47,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 48,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 49,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 51,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 52,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 53,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 54,
+    "lower_bound": 35,
+    "three_labels": [
+      80,
+      57,
+      60
+    ]
+  },
+  {
+    "top": 55,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 56,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 57,
+    "lower_bound": 33,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 58,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 59,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 60,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 61,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 62,
+    "lower_bound": 35,
+    "three_labels": [
+      80,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 64,
+    "lower_bound": 33,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 65,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 66,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 67,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 68,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 69,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 70,
+    "lower_bound": 35,
+    "three_labels": [
+      80,
+      57,
+      60
+    ]
+  },
+  {
+    "top": 71,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 72,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      75,
+      80
+    ]
+  },
+  {
+    "top": 73,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 74,
+    "lower_bound": 32,
+    "three_labels": [
+      57,
+      60,
+      75
+    ]
+  },
+  {
+    "top": 75,
+    "lower_bound": 35,
+    "three_labels": [
+      80,
+      36,
+      57
+    ]
+  },
+  {
+    "top": 78,
+    "lower_bound": 34,
+    "three_labels": [
+      60,
+      80,
+      75
+    ]
+  },
+  {
+    "top": 79,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 81,
+    "lower_bound": 33,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  },
+  {
+    "top": 82,
+    "lower_bound": 34,
+    "three_labels": [
+      57,
+      60,
+      80
+    ]
+  }
+]

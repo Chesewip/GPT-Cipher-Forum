@@ -1,0 +1,986 @@
+{
+  "trim": 1,
+  "assumed_equalities": [
+    [
+      1,
+      35,
+      1,
+      65,
+      25
+    ],
+    [
+      2,
+      40,
+      2,
+      75,
+      23
+    ],
+    [
+      0,
+      41,
+      0,
+      69,
+      9
+    ],
+    [
+      1,
+      41,
+      2,
+      46,
+      10
+    ],
+    [
+      1,
+      41,
+      2,
+      81,
+      10
+    ],
+    [
+      3,
+      19,
+      4,
+      25,
+      13
+    ],
+    [
+      3,
+      19,
+      5,
+      24,
+      13
+    ],
+    [
+      6,
+      52,
+      7,
+      54,
+      11
+    ],
+    [
+      6,
+      52,
+      8,
+      53,
+      11
+    ],
+    [
+      6,
+      69,
+      7,
+      72,
+      32
+    ],
+    [
+      1,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      0,
+      1,
+      24
+    ],
+    [
+      2,
+      1,
+      1,
+      1,
+      24
+    ],
+    [
+      3,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      5,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      5,
+      1,
+      4,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      6,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      6,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      6,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      7,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      7,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      7,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      0,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      1,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      2,
+      1,
+      2
+    ],
+    [
+      8,
+      1,
+      3,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      4,
+      1,
+      9
+    ],
+    [
+      8,
+      1,
+      5,
+      1,
+      5
+    ],
+    [
+      8,
+      1,
+      6,
+      1,
+      20
+    ],
+    [
+      8,
+      1,
+      7,
+      1,
+      20
+    ]
+  ],
+  "results": [
+    {
+      "rotation": 0,
+      "status": "sat",
+      "seconds": 0.42767930030822754,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 1,
+      "status": "sat",
+      "seconds": 0.3483281135559082,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 2,
+      "status": "sat",
+      "seconds": 0.36553215980529785,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 3,
+      "status": "sat",
+      "seconds": 0.39693188667297363,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 4,
+      "status": "sat",
+      "seconds": 0.3876307010650635,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 5,
+      "status": "sat",
+      "seconds": 0.3713819980621338,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 6,
+      "status": "sat",
+      "seconds": 0.41318845748901367,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 7,
+      "status": "sat",
+      "seconds": 0.4041149616241455,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 8,
+      "status": "sat",
+      "seconds": 0.38651084899902344,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 9,
+      "status": "sat",
+      "seconds": 0.39374756813049316,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 10,
+      "status": "sat",
+      "seconds": 0.38635993003845215,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 11,
+      "status": "sat",
+      "seconds": 0.43529653549194336,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 12,
+      "status": "sat",
+      "seconds": 0.37322545051574707,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 13,
+      "status": "sat",
+      "seconds": 0.37668275833129883,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 14,
+      "status": "sat",
+      "seconds": 0.43224215507507324,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 15,
+      "status": "sat",
+      "seconds": 0.39816713333129883,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 16,
+      "status": "sat",
+      "seconds": 0.3972933292388916,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 17,
+      "status": "sat",
+      "seconds": 0.4200167655944824,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 18,
+      "status": "sat",
+      "seconds": 0.4045875072479248,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 19,
+      "status": "sat",
+      "seconds": 0.4170868396759033,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 20,
+      "status": "sat",
+      "seconds": 0.3895876407623291,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 21,
+      "status": "sat",
+      "seconds": 0.4381895065307617,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 22,
+      "status": "sat",
+      "seconds": 0.3876526355743408,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 23,
+      "status": "sat",
+      "seconds": 0.4012303352355957,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 24,
+      "status": "sat",
+      "seconds": 0.39907264709472656,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 25,
+      "status": "sat",
+      "seconds": 0.41412997245788574,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 26,
+      "status": "sat",
+      "seconds": 0.438523530960083,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 27,
+      "status": "sat",
+      "seconds": 0.4071943759918213,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 28,
+      "status": "sat",
+      "seconds": 0.43715620040893555,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 29,
+      "status": "sat",
+      "seconds": 0.39717769622802734,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 30,
+      "status": "sat",
+      "seconds": 0.39545655250549316,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 31,
+      "status": "sat",
+      "seconds": 0.385284423828125,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 32,
+      "status": "sat",
+      "seconds": 0.43909192085266113,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 33,
+      "status": "sat",
+      "seconds": 0.42931056022644043,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 34,
+      "status": "sat",
+      "seconds": 0.4135591983795166,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 35,
+      "status": "sat",
+      "seconds": 0.3812711238861084,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 36,
+      "status": "sat",
+      "seconds": 0.4154484272003174,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 37,
+      "status": "sat",
+      "seconds": 0.433246374130249,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 38,
+      "status": "sat",
+      "seconds": 0.3939039707183838,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 39,
+      "status": "sat",
+      "seconds": 0.42102694511413574,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 40,
+      "status": "sat",
+      "seconds": 0.4081838130950928,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 41,
+      "status": "sat",
+      "seconds": 0.4295613765716553,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 42,
+      "status": "sat",
+      "seconds": 0.3956480026245117,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 43,
+      "status": "sat",
+      "seconds": 0.3892366886138916,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 44,
+      "status": "sat",
+      "seconds": 0.39298081398010254,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 45,
+      "status": "sat",
+      "seconds": 0.49127697944641113,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 46,
+      "status": "sat",
+      "seconds": 0.4096195697784424,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 47,
+      "status": "sat",
+      "seconds": 0.4596836566925049,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 48,
+      "status": "sat",
+      "seconds": 0.3705909252166748,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 49,
+      "status": "sat",
+      "seconds": 0.4029827117919922,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 50,
+      "status": "sat",
+      "seconds": 0.43038082122802734,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 51,
+      "status": "sat",
+      "seconds": 0.40028953552246094,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 52,
+      "status": "sat",
+      "seconds": 0.39426517486572266,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 53,
+      "status": "sat",
+      "seconds": 0.40518665313720703,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 54,
+      "status": "sat",
+      "seconds": 0.40810322761535645,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 55,
+      "status": "sat",
+      "seconds": 0.41265058517456055,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 56,
+      "status": "sat",
+      "seconds": 0.46509265899658203,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 57,
+      "status": "sat",
+      "seconds": 0.4447481632232666,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 58,
+      "status": "sat",
+      "seconds": 0.4420747756958008,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 59,
+      "status": "sat",
+      "seconds": 0.420259952545166,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 60,
+      "status": "sat",
+      "seconds": 0.3819608688354492,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 61,
+      "status": "sat",
+      "seconds": 0.3794419765472412,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 62,
+      "status": "sat",
+      "seconds": 0.4469130039215088,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 63,
+      "status": "sat",
+      "seconds": 0.4080235958099365,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 64,
+      "status": "sat",
+      "seconds": 0.4093761444091797,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 65,
+      "status": "sat",
+      "seconds": 0.42376112937927246,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 66,
+      "status": "sat",
+      "seconds": 0.40743565559387207,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 67,
+      "status": "sat",
+      "seconds": 0.3781900405883789,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 68,
+      "status": "sat",
+      "seconds": 0.39078330993652344,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 69,
+      "status": "sat",
+      "seconds": 0.41773104667663574,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 70,
+      "status": "sat",
+      "seconds": 0.40718626976013184,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 71,
+      "status": "sat",
+      "seconds": 0.39426279067993164,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 72,
+      "status": "sat",
+      "seconds": 0.40723490715026855,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 73,
+      "status": "sat",
+      "seconds": 0.3978445529937744,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 74,
+      "status": "sat",
+      "seconds": 0.40320301055908203,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 75,
+      "status": "sat",
+      "seconds": 0.4373953342437744,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 76,
+      "status": "sat",
+      "seconds": 0.41283702850341797,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 77,
+      "status": "sat",
+      "seconds": 0.39397120475769043,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 78,
+      "status": "sat",
+      "seconds": 0.40128016471862793,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 79,
+      "status": "sat",
+      "seconds": 0.4447824954986572,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 80,
+      "status": "sat",
+      "seconds": 0.40715789794921875,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    },
+    {
+      "rotation": 81,
+      "status": "sat",
+      "seconds": 0.37088441848754883,
+      "active_edges": 455,
+      "variables": 599,
+      "components": 192
+    }
+  ],
+  "warning": "SAT is a return-displacement relaxation, not a key or plaintext. UNSAT is conditional on the specified repeated-plaintext assumptions."
+}

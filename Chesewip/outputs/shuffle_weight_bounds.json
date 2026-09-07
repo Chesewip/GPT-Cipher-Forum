@@ -1,0 +1,432 @@
+{
+  "east1_west1": [
+    {
+      "prefix_length": 29,
+      "bounds": [
+        {
+          "minimum_plaintext_differences": 3,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              26,
+              1,
+              2
+            ],
+            [
+              26,
+              29,
+              3,
+              3
+            ]
+          ],
+          "relative_shuffle_weight_budget": 1
+        },
+        {
+          "minimum_plaintext_differences": 2,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              29,
+              4,
+              2
+            ]
+          ],
+          "relative_shuffle_weight_budget": 2
+        },
+        {
+          "minimum_plaintext_differences": 2,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              29,
+              4,
+              2
+            ]
+          ],
+          "relative_shuffle_weight_budget": 41
+        }
+      ]
+    },
+    {
+      "prefix_length": 37,
+      "bounds": [
+        {
+          "minimum_plaintext_differences": 4,
+          "one_relaxed_partition": [
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              22,
+              0,
+              2
+            ],
+            [
+              22,
+              28,
+              3,
+              3
+            ],
+            [
+              28,
+              37,
+              4,
+              4
+            ]
+          ],
+          "relative_shuffle_weight_budget": 1
+        },
+        {
+          "minimum_plaintext_differences": 3,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              28,
+              3,
+              2
+            ],
+            [
+              28,
+              37,
+              4,
+              3
+            ]
+          ],
+          "relative_shuffle_weight_budget": 2
+        },
+        {
+          "minimum_plaintext_differences": 3,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              28,
+              3,
+              2
+            ],
+            [
+              28,
+              37,
+              4,
+              3
+            ]
+          ],
+          "relative_shuffle_weight_budget": 41
+        }
+      ]
+    },
+    {
+      "prefix_length": 50,
+      "bounds": [
+        {
+          "minimum_plaintext_differences": 4,
+          "one_relaxed_partition": [
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              22,
+              0,
+              2
+            ],
+            [
+              22,
+              28,
+              3,
+              3
+            ],
+            [
+              28,
+              50,
+              4,
+              4
+            ]
+          ],
+          "relative_shuffle_weight_budget": 1
+        },
+        {
+          "minimum_plaintext_differences": 3,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              28,
+              3,
+              2
+            ],
+            [
+              28,
+              50,
+              4,
+              3
+            ]
+          ],
+          "relative_shuffle_weight_budget": 2
+        },
+        {
+          "minimum_plaintext_differences": 3,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              28,
+              3,
+              2
+            ],
+            [
+              28,
+              50,
+              4,
+              3
+            ]
+          ],
+          "relative_shuffle_weight_budget": 41
+        }
+      ]
+    },
+    {
+      "prefix_length": 99,
+      "bounds": [
+        {
+          "minimum_plaintext_differences": 11,
+          "one_relaxed_partition": [
+            [
+              0,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              2,
+              0,
+              2
+            ],
+            [
+              2,
+              22,
+              0,
+              3
+            ],
+            [
+              22,
+              28,
+              3,
+              4
+            ],
+            [
+              28,
+              42,
+              4,
+              5
+            ],
+            [
+              42,
+              57,
+              5,
+              6
+            ],
+            [
+              57,
+              64,
+              7,
+              7
+            ],
+            [
+              64,
+              73,
+              8,
+              8
+            ],
+            [
+              73,
+              77,
+              4,
+              9
+            ],
+            [
+              77,
+              88,
+              10,
+              10
+            ],
+            [
+              88,
+              99,
+              9,
+              11
+            ]
+          ],
+          "relative_shuffle_weight_budget": 1
+        },
+        {
+          "minimum_plaintext_differences": 9,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              28,
+              3,
+              2
+            ],
+            [
+              28,
+              42,
+              4,
+              3
+            ],
+            [
+              42,
+              55,
+              5,
+              4
+            ],
+            [
+              55,
+              60,
+              4,
+              5
+            ],
+            [
+              60,
+              71,
+              9,
+              6
+            ],
+            [
+              71,
+              75,
+              4,
+              7
+            ],
+            [
+              75,
+              88,
+              12,
+              8
+            ],
+            [
+              88,
+              99,
+              9,
+              9
+            ]
+          ],
+          "relative_shuffle_weight_budget": 2
+        },
+        {
+          "minimum_plaintext_differences": 9,
+          "one_relaxed_partition": [
+            [
+              0,
+              22,
+              1,
+              1
+            ],
+            [
+              22,
+              28,
+              3,
+              2
+            ],
+            [
+              28,
+              42,
+              4,
+              3
+            ],
+            [
+              42,
+              55,
+              5,
+              4
+            ],
+            [
+              55,
+              60,
+              4,
+              5
+            ],
+            [
+              60,
+              71,
+              9,
+              6
+            ],
+            [
+              71,
+              75,
+              4,
+              7
+            ],
+            [
+              75,
+              88,
+              12,
+              8
+            ],
+            [
+              88,
+              99,
+              9,
+              9
+            ]
+          ],
+          "relative_shuffle_weight_budget": 41
+        }
+      ]
+    }
+  ]
+}

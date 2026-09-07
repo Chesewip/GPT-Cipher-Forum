@@ -1,0 +1,3 @@
+from pathlib import Path
+p=Path('outputs/rotation_vote_search.py');s=p.read_text(encoding='utf-8').replace('temperature=1.4,block_moves=0):','temperature=1.4,block_moves=0,temperature_floor=0.1):').replace('temp=temperature*(1-step/steps);','temp=temperature*(1-step/steps)+temperature_floor;').replace("'temperature':temperature,'block_moves'", "'temperature':temperature,'temperature_floor':temperature_floor,'block_moves'");p.write_text(s,encoding='utf-8',newline='\r\n')
+p=Path('outputs/refine_rotation_vote.py');s=p.read_text(encoding='utf-8-sig').replace('temperature=0.15,block_moves=160)', 'temperature=0.15,block_moves=160,temperature_floor=0)');p.write_text(s,encoding='utf-8',newline='\r\n')

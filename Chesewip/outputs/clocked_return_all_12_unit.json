@@ -1,0 +1,83 @@
+{
+  "status": "unknown",
+  "build_seconds": 0.28519129753112793,
+  "seconds": 45.47458076477051,
+  "max_gap": 12,
+  "return_intervals": 126,
+  "intermediate_card_steps": 601,
+  "reason": "timeout",
+  "assumed_plaintext_equalities": [
+    [
+      1,
+      35,
+      1,
+      65,
+      25
+    ],
+    [
+      2,
+      40,
+      2,
+      75,
+      23
+    ],
+    [
+      0,
+      41,
+      0,
+      69,
+      9
+    ],
+    [
+      1,
+      41,
+      2,
+      46,
+      10
+    ],
+    [
+      1,
+      41,
+      2,
+      81,
+      10
+    ],
+    [
+      3,
+      19,
+      4,
+      25,
+      13
+    ],
+    [
+      3,
+      19,
+      5,
+      24,
+      13
+    ],
+    [
+      6,
+      52,
+      7,
+      54,
+      11
+    ],
+    [
+      6,
+      52,
+      8,
+      53,
+      11
+    ],
+    [
+      6,
+      69,
+      7,
+      72,
+      32
+    ]
+  ],
+  "initial_key_constraints_included": false,
+  "unit_neighbor_nonzero_shuffle_only": true
+}

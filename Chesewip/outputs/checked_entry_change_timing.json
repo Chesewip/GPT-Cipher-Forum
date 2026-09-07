@@ -1,0 +1,67 @@
+{
+  "exhaustive_row_cutset_checks": 61440,
+  "generated_cipher_plants": [
+    {
+      "n": 11,
+      "true_differences": 6,
+      "status": "sat"
+    },
+    {
+      "n": 11,
+      "true_differences": 5,
+      "status": "sat"
+    },
+    {
+      "n": 11,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 11,
+      "true_differences": 6,
+      "status": "sat"
+    },
+    {
+      "n": 11,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 11,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 83,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 83,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 83,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 83,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 83,
+      "true_differences": 7,
+      "status": "sat"
+    },
+    {
+      "n": 83,
+      "true_differences": 7,
+      "status": "sat"
+    }
+  ],
+  "real_18_change_timing_witness_verified": true,
+  "warning": "Only independent mapping rows are modeled; bijectivity and a common cipher rule are not established."
+}

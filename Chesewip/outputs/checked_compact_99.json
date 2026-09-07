@@ -1,0 +1,21 @@
+{
+  "exact_replay": true,
+  "positions_per_message": 99,
+  "alphabet_size": 30,
+  "plaintext_difference_count": 9,
+  "difference_positions_zero_based": [
+    0,
+    25,
+    33,
+    50,
+    59,
+    68,
+    73,
+    78,
+    89
+  ],
+  "actual_maximum_identical_token_run": 13,
+  "distinct_states_at_every_position": true,
+  "minimum_state_support": 59,
+  "status": "Engineered counterexample, not a decryption. East1 complete; West1 first 99 of 103 symbols."
+}

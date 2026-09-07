@@ -1,0 +1,450 @@
+{
+  "exhaustive_fixtures": 36,
+  "formulation_comparisons": 120,
+  "checks": [
+    {
+      "trial": 0,
+      "n": 3,
+      "rotation": 1,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 1,
+      "n": 4,
+      "rotation": null,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 2,
+      "n": 5,
+      "rotation": 2,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 3,
+      "n": 3,
+      "rotation": null,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 4,
+      "n": 4,
+      "rotation": 1,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 5,
+      "n": 5,
+      "rotation": null,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 6,
+      "n": 3,
+      "rotation": 1,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 7,
+      "n": 4,
+      "rotation": null,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 8,
+      "n": 5,
+      "rotation": 2,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 9,
+      "n": 3,
+      "rotation": null,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 10,
+      "n": 4,
+      "rotation": 1,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 11,
+      "n": 5,
+      "rotation": null,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 12,
+      "n": 3,
+      "rotation": 1,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 13,
+      "n": 4,
+      "rotation": null,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 14,
+      "n": 5,
+      "rotation": 2,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 15,
+      "n": 3,
+      "rotation": null,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 16,
+      "n": 4,
+      "rotation": 0,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 17,
+      "n": 5,
+      "rotation": null,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 18,
+      "n": 3,
+      "rotation": 0,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 19,
+      "n": 4,
+      "rotation": null,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 20,
+      "n": 5,
+      "rotation": 2,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 21,
+      "n": 3,
+      "rotation": null,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 22,
+      "n": 4,
+      "rotation": 1,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 23,
+      "n": 5,
+      "rotation": null,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 24,
+      "n": 3,
+      "rotation": 1,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 25,
+      "n": 4,
+      "rotation": null,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 26,
+      "n": 5,
+      "rotation": 3,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 27,
+      "n": 3,
+      "rotation": null,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 28,
+      "n": 4,
+      "rotation": 2,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 29,
+      "n": 5,
+      "rotation": null,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 30,
+      "n": 3,
+      "rotation": 0,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 31,
+      "n": 4,
+      "rotation": null,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    },
+    {
+      "trial": 32,
+      "n": 5,
+      "rotation": 3,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 33,
+      "n": 3,
+      "rotation": null,
+      "error_bound": 0,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 34,
+      "n": 4,
+      "rotation": 1,
+      "error_bound": 1,
+      "independent_exhaustive_has_key": false,
+      "statuses": [
+        "unsat",
+        "unsat",
+        "unsat"
+      ]
+    },
+    {
+      "trial": 35,
+      "n": 5,
+      "rotation": null,
+      "error_bound": 2,
+      "independent_exhaustive_has_key": true,
+      "statuses": [
+        "sat",
+        "sat",
+        "sat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "enumerated_trail_membership_checks": 36000,
+  "small_distribution_checks": [
+    {
+      "distinct_trails": 4,
+      "samples": 12000,
+      "chi_square_descriptive": 0.55,
+      "maximum_absolute_probability_error": 0.0025833333333333264
+    },
+    {
+      "distinct_trails": 6,
+      "samples": 12000,
+      "chi_square_descriptive": 3.266,
+      "maximum_absolute_probability_error": 0.005583333333333329
+    },
+    {
+      "distinct_trails": 6,
+      "samples": 12000,
+      "chi_square_descriptive": 8.277,
+      "maximum_absolute_probability_error": 0.008000000000000007
+    }
+  ],
+  "cases": [
+    {
+      "mode": "whole_message",
+      "observed": 5,
+      "trials": 2000,
+      "histogram": {
+        "0": 624,
+        "1": 1366,
+        "2": 10
+      },
+      "at_least_observed": 0,
+      "add_one_estimate": 0.0004997501249375312,
+      "mean_changed_positions": 975.025,
+      "minimum_changed_positions": 938,
+      "distinct_corpora": 2000,
+      "frozen_prefix_lengths": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "mode": "fixed_shared_prefix",
+      "observed": 5,
+      "trials": 2000,
+      "histogram": {
+        "0": 798,
+        "1": 1179,
+        "2": 22,
+        "3": 1
+      },
+      "at_least_observed": 0,
+      "add_one_estimate": 0.0004997501249375312,
+      "mean_changed_positions": 817.56,
+      "minimum_changed_positions": 771,
+      "distinct_corpora": 2000,
+      "frozen_prefix_lengths": [
+        25,
+        25,
+        25,
+        6,
+        10,
+        6,
+        21,
+        21,
+        21
+      ]
+    }
+  ],
+  "seconds": 17.311028003692627,
+  "statistic": "Maximum number of distinct literal strings sharing any length-9 equality pattern with at least three repeat constraints.",
+  "caveat": "Conditional null audit, not a probability that a cipher hypothesis is correct. This statistic was chosen during the investigation; model selection across the investigation is not corrected."
+}

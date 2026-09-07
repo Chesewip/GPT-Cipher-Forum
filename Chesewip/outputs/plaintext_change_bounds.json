@@ -1,0 +1,8125 @@
+{
+  "generated_arbitrary_permutation_controls": 300,
+  "exhaustive_interval_checks": 100,
+  "pairs": [
+    {
+      "minimum_changes_required_by_intervals": 8,
+      "one_minimum_hitting_set": [
+        25,
+        33,
+        50,
+        59,
+        68,
+        73,
+        78,
+        89
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              29
+            ],
+            [
+              80,
+              29
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 33,
+          "witness_positions": [
+            27,
+            33
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              30
+            ],
+            [
+              40,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 42,
+          "right": 50,
+          "witness_positions": [
+            41,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              44,
+              44
+            ],
+            [
+              72,
+              44
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              3,
+              64
+            ],
+            [
+              49,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 68,
+          "witness_positions": [
+            59,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              64
+            ],
+            [
+              71,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              68
+            ],
+            [
+              74,
+              36
+            ]
+          ]
+        },
+        {
+          "left": 75,
+          "right": 78,
+          "witness_positions": [
+            74,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              13
+            ],
+            [
+              41,
+              13
+            ]
+          ]
+        },
+        {
+          "left": 85,
+          "right": 89,
+          "witness_positions": [
+            84,
+            89
+          ],
+          "ciphertext_pairs": [
+            [
+              79,
+              62
+            ],
+            [
+              31,
+              62
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 55,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 9,
+      "messages": [
+        "East 1",
+        "West 1"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 8,
+      "one_minimum_hitting_set": [
+        29,
+        38,
+        45,
+        50,
+        62,
+        73,
+        85,
+        97
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 17,
+          "right": 29,
+          "witness_positions": [
+            16,
+            29
+          ],
+          "ciphertext_pairs": [
+            [
+              81,
+              81
+            ],
+            [
+              81,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              66
+            ],
+            [
+              21,
+              3
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              47
+            ],
+            [
+              48,
+              6
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              47,
+              64
+            ],
+            [
+              72,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 58,
+          "right": 62,
+          "witness_positions": [
+            57,
+            62
+          ],
+          "ciphertext_pairs": [
+            [
+              67,
+              10
+            ],
+            [
+              21,
+              10
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              15
+            ],
+            [
+              74,
+              77
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              54,
+              57
+            ],
+            [
+              81,
+              57
+            ]
+          ]
+        },
+        {
+          "left": 93,
+          "right": 97,
+          "witness_positions": [
+            92,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              33,
+              5
+            ],
+            [
+              43,
+              5
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 72,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 9,
+      "messages": [
+        "East 1",
+        "East 2"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 9,
+      "one_minimum_hitting_set": [
+        25,
+        38,
+        45,
+        50,
+        59,
+        68,
+        75,
+        85,
+        96
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              29
+            ],
+            [
+              29,
+              69
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              66
+            ],
+            [
+              21,
+              3
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              47
+            ],
+            [
+              48,
+              6
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              47,
+              64
+            ],
+            [
+              44,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              31
+            ],
+            [
+              64,
+              24
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 68,
+          "witness_positions": [
+            59,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              24
+            ],
+            [
+              64,
+              70
+            ]
+          ]
+        },
+        {
+          "left": 73,
+          "right": 75,
+          "witness_positions": [
+            72,
+            75
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              66
+            ],
+            [
+              17,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              57
+            ],
+            [
+              82,
+              57
+            ]
+          ]
+        },
+        {
+          "left": 88,
+          "right": 96,
+          "witness_positions": [
+            87,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              10,
+              41
+            ],
+            [
+              10,
+              8
+            ]
+          ]
+        }
+      ],
+      "length_compared": 103,
+      "different_ciphertext_positions": 76,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 10,
+      "messages": [
+        "West 1",
+        "East 2"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        12,
+        23,
+        33,
+        38,
+        45,
+        50,
+        60,
+        66,
+        73,
+        77,
+        97
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 2,
+          "right": 12,
+          "witness_positions": [
+            1,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              66
+            ],
+            [
+              66,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              12
+            ],
+            [
+              49,
+              12
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 33,
+          "witness_positions": [
+            27,
+            33
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              25
+            ],
+            [
+              40,
+              9
+            ]
+          ]
+        },
+        {
+          "left": 34,
+          "right": 38,
+          "witness_positions": [
+            33,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              9
+            ],
+            [
+              21,
+              9
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              53
+            ],
+            [
+              48,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 50,
+          "witness_positions": [
+            45,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              80
+            ],
+            [
+              72,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 57,
+          "right": 60,
+          "witness_positions": [
+            56,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              59,
+              62
+            ],
+            [
+              41,
+              62
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              41,
+              62
+            ],
+            [
+              25,
+              62
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              52
+            ],
+            [
+              74,
+              23
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              23
+            ],
+            [
+              51,
+              23
+            ]
+          ]
+        },
+        {
+          "left": 80,
+          "right": 97,
+          "witness_positions": [
+            79,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              43,
+              32
+            ],
+            [
+              43,
+              14
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 95,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "East 1",
+        "West 2"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        12,
+        23,
+        38,
+        45,
+        50,
+        59,
+        66,
+        75,
+        89,
+        99
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 2,
+          "right": 12,
+          "witness_positions": [
+            1,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              66
+            ],
+            [
+              66,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              12
+            ],
+            [
+              49,
+              12
+            ]
+          ]
+        },
+        {
+          "left": 34,
+          "right": 38,
+          "witness_positions": [
+            33,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              25,
+              9
+            ],
+            [
+              21,
+              9
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              53
+            ],
+            [
+              48,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 50,
+          "witness_positions": [
+            45,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              80
+            ],
+            [
+              44,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              34
+            ],
+            [
+              64,
+              49
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              1,
+              62
+            ],
+            [
+              33,
+              62
+            ]
+          ]
+        },
+        {
+          "left": 73,
+          "right": 75,
+          "witness_positions": [
+            72,
+            75
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              26
+            ],
+            [
+              17,
+              31
+            ]
+          ]
+        },
+        {
+          "left": 85,
+          "right": 89,
+          "witness_positions": [
+            84,
+            89
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              8
+            ],
+            [
+              62,
+              76
+            ]
+          ]
+        },
+        {
+          "left": 97,
+          "right": 99,
+          "witness_positions": [
+            96,
+            99
+          ],
+          "ciphertext_pairs": [
+            [
+              10,
+              63
+            ],
+            [
+              62,
+              63
+            ]
+          ]
+        }
+      ],
+      "length_compared": 102,
+      "different_ciphertext_positions": 99,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "West 1",
+        "West 2"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        12,
+        23,
+        36,
+        43,
+        50,
+        60,
+        66,
+        77,
+        85,
+        97
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 2,
+          "right": 12,
+          "witness_positions": [
+            1,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              66
+            ],
+            [
+              66,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              12
+            ],
+            [
+              49,
+              12
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 36,
+          "witness_positions": [
+            23,
+            36
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              12
+            ],
+            [
+              49,
+              13
+            ]
+          ]
+        },
+        {
+          "left": 38,
+          "right": 43,
+          "witness_positions": [
+            37,
+            43
+          ],
+          "ciphertext_pairs": [
+            [
+              78,
+              82
+            ],
+            [
+              40,
+              82
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              43
+            ],
+            [
+              64,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 57,
+          "right": 60,
+          "witness_positions": [
+            56,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              16,
+              62
+            ],
+            [
+              26,
+              62
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              62
+            ],
+            [
+              34,
+              62
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              77,
+              23
+            ],
+            [
+              22,
+              23
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              1
+            ],
+            [
+              57,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 93,
+          "right": 97,
+          "witness_positions": [
+            92,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              5,
+              80
+            ],
+            [
+              5,
+              14
+            ]
+          ]
+        }
+      ],
+      "length_compared": 102,
+      "different_ciphertext_positions": 99,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "East 2",
+        "West 2"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 9,
+      "one_minimum_hitting_set": [
+        12,
+        16,
+        28,
+        38,
+        45,
+        59,
+        68,
+        73,
+        85
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 8,
+          "right": 12,
+          "witness_positions": [
+            7,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              60
+            ],
+            [
+              66,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              60
+            ],
+            [
+              81,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 17,
+          "right": 28,
+          "witness_positions": [
+            16,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              81,
+              60
+            ],
+            [
+              63,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              81
+            ],
+            [
+              21,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              80
+            ],
+            [
+              48,
+              56
+            ]
+          ]
+        },
+        {
+          "left": 50,
+          "right": 59,
+          "witness_positions": [
+            49,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              8
+            ],
+            [
+              49,
+              3
+            ]
+          ]
+        },
+        {
+          "left": 65,
+          "right": 68,
+          "witness_positions": [
+            64,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              58
+            ],
+            [
+              71,
+              58
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              63
+            ],
+            [
+              74,
+              79
+            ]
+          ]
+        },
+        {
+          "left": 82,
+          "right": 85,
+          "witness_positions": [
+            81,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              72,
+              30
+            ],
+            [
+              81,
+              30
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 97,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 10,
+      "messages": [
+        "East 1",
+        "East 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        12,
+        16,
+        25,
+        29,
+        38,
+        45,
+        59,
+        68,
+        75,
+        85,
+        96
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 8,
+          "right": 12,
+          "witness_positions": [
+            7,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              60
+            ],
+            [
+              66,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              60
+            ],
+            [
+              81,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              14
+            ],
+            [
+              29,
+              41
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 29,
+          "witness_positions": [
+            27,
+            29
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              13
+            ],
+            [
+              81,
+              13
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              81
+            ],
+            [
+              21,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              80
+            ],
+            [
+              48,
+              56
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              55
+            ],
+            [
+              64,
+              3
+            ]
+          ]
+        },
+        {
+          "left": 65,
+          "right": 68,
+          "witness_positions": [
+            64,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              67,
+              58
+            ],
+            [
+              64,
+              58
+            ]
+          ]
+        },
+        {
+          "left": 73,
+          "right": 75,
+          "witness_positions": [
+            72,
+            75
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              25
+            ],
+            [
+              17,
+              20
+            ]
+          ]
+        },
+        {
+          "left": 82,
+          "right": 85,
+          "witness_positions": [
+            81,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              67,
+              30
+            ],
+            [
+              82,
+              30
+            ]
+          ]
+        },
+        {
+          "left": 88,
+          "right": 96,
+          "witness_positions": [
+            87,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              10,
+              37
+            ],
+            [
+              10,
+              41
+            ]
+          ]
+        }
+      ],
+      "length_compared": 103,
+      "different_ciphertext_positions": 101,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "West 1",
+        "East 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        12,
+        16,
+        28,
+        41,
+        50,
+        62,
+        68,
+        85,
+        97,
+        106
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 8,
+          "right": 12,
+          "witness_positions": [
+            7,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              60
+            ],
+            [
+              66,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              60
+            ],
+            [
+              81,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 17,
+          "right": 28,
+          "witness_positions": [
+            16,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              81,
+              60
+            ],
+            [
+              9,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 37,
+          "right": 41,
+          "witness_positions": [
+            36,
+            41
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              2
+            ],
+            [
+              19,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              11
+            ],
+            [
+              64,
+              40
+            ]
+          ]
+        },
+        {
+          "left": 58,
+          "right": 62,
+          "witness_positions": [
+            57,
+            62
+          ],
+          "ciphertext_pairs": [
+            [
+              10,
+              42
+            ],
+            [
+              10,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 65,
+          "right": 68,
+          "witness_positions": [
+            64,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              81,
+              58
+            ],
+            [
+              70,
+              58
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              71
+            ],
+            [
+              57,
+              30
+            ]
+          ]
+        },
+        {
+          "left": 93,
+          "right": 97,
+          "witness_positions": [
+            92,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              5,
+              18
+            ],
+            [
+              5,
+              81
+            ]
+          ]
+        },
+        {
+          "left": 104,
+          "right": 106,
+          "witness_positions": [
+            103,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              61,
+              17
+            ],
+            [
+              54,
+              17
+            ]
+          ]
+        }
+      ],
+      "length_compared": 118,
+      "different_ciphertext_positions": 115,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "East 2",
+        "East 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        12,
+        16,
+        23,
+        29,
+        38,
+        50,
+        60,
+        66,
+        77,
+        85,
+        99
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 8,
+          "right": 12,
+          "witness_positions": [
+            7,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              46,
+              60
+            ],
+            [
+              26,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              60
+            ],
+            [
+              32,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              12,
+              14
+            ],
+            [
+              12,
+              74
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 29,
+          "witness_positions": [
+            27,
+            29
+          ],
+          "ciphertext_pairs": [
+            [
+              25,
+              13
+            ],
+            [
+              15,
+              13
+            ]
+          ]
+        },
+        {
+          "left": 34,
+          "right": 38,
+          "witness_positions": [
+            33,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              9,
+              50
+            ],
+            [
+              9,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 50,
+          "witness_positions": [
+            45,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              80,
+              56
+            ],
+            [
+              80,
+              40
+            ]
+          ]
+        },
+        {
+          "left": 57,
+          "right": 60,
+          "witness_positions": [
+            56,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              60
+            ],
+            [
+              62,
+              22
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              22
+            ],
+            [
+              62,
+              70
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              79
+            ],
+            [
+              23,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 82,
+          "right": 85,
+          "witness_positions": [
+            81,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              6,
+              30
+            ],
+            [
+              37,
+              30
+            ]
+          ]
+        },
+        {
+          "left": 97,
+          "right": 99,
+          "witness_positions": [
+            96,
+            99
+          ],
+          "ciphertext_pairs": [
+            [
+              63,
+              41
+            ],
+            [
+              63,
+              22
+            ]
+          ]
+        }
+      ],
+      "length_compared": 102,
+      "different_ciphertext_positions": 96,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "West 2",
+        "East 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 12,
+      "one_minimum_hitting_set": [
+        12,
+        26,
+        28,
+        38,
+        45,
+        59,
+        69,
+        73,
+        78,
+        82,
+        94,
+        96
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 2,
+          "right": 12,
+          "witness_positions": [
+            1,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              66
+            ],
+            [
+              66,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 26,
+          "witness_positions": [
+            12,
+            26
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              19
+            ],
+            [
+              82,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              82,
+              19
+            ],
+            [
+              63,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              42
+            ],
+            [
+              21,
+              76
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              47
+            ],
+            [
+              48,
+              79
+            ]
+          ]
+        },
+        {
+          "left": 50,
+          "right": 59,
+          "witness_positions": [
+            49,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              16
+            ],
+            [
+              49,
+              10
+            ]
+          ]
+        },
+        {
+          "left": 66,
+          "right": 69,
+          "witness_positions": [
+            65,
+            69
+          ],
+          "ciphertext_pairs": [
+            [
+              5,
+              43
+            ],
+            [
+              11,
+              43
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              15
+            ],
+            [
+              74,
+              30
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 78,
+          "witness_positions": [
+            76,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              4,
+              37
+            ],
+            [
+              41,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              41,
+              37
+            ],
+            [
+              54,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 89,
+          "right": 94,
+          "witness_positions": [
+            88,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              44,
+              11
+            ],
+            [
+              28,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              28,
+              11
+            ],
+            [
+              64,
+              11
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 96,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 13,
+      "messages": [
+        "East 1",
+        "West 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 12,
+      "one_minimum_hitting_set": [
+        12,
+        25,
+        28,
+        38,
+        45,
+        59,
+        68,
+        75,
+        78,
+        82,
+        89,
+        96
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 2,
+          "right": 12,
+          "witness_positions": [
+            1,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              66
+            ],
+            [
+              66,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              10
+            ],
+            [
+              29,
+              18
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              11,
+              19
+            ],
+            [
+              52,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              42
+            ],
+            [
+              21,
+              76
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              47
+            ],
+            [
+              48,
+              79
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              41
+            ],
+            [
+              64,
+              10
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 68,
+          "witness_positions": [
+            59,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              10
+            ],
+            [
+              64,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 73,
+          "right": 75,
+          "witness_positions": [
+            72,
+            75
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              33
+            ],
+            [
+              17,
+              62
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 78,
+          "witness_positions": [
+            76,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              37
+            ],
+            [
+              13,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              13,
+              37
+            ],
+            [
+              57,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 85,
+          "right": 89,
+          "witness_positions": [
+            84,
+            89
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              40
+            ],
+            [
+              62,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              37,
+              11
+            ],
+            [
+              10,
+              11
+            ]
+          ]
+        }
+      ],
+      "length_compared": 103,
+      "different_ciphertext_positions": 100,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 13,
+      "messages": [
+        "West 1",
+        "West 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 13,
+      "one_minimum_hitting_set": [
+        12,
+        26,
+        28,
+        40,
+        50,
+        62,
+        69,
+        78,
+        82,
+        85,
+        94,
+        96,
+        106
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 2,
+          "right": 12,
+          "witness_positions": [
+            1,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              66
+            ],
+            [
+              66,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 26,
+          "witness_positions": [
+            12,
+            26
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              19
+            ],
+            [
+              76,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              76,
+              19
+            ],
+            [
+              9,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 32,
+          "right": 40,
+          "witness_positions": [
+            31,
+            40
+          ],
+          "ciphertext_pairs": [
+            [
+              80,
+              4
+            ],
+            [
+              56,
+              4
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              32
+            ],
+            [
+              64,
+              30
+            ]
+          ]
+        },
+        {
+          "left": 58,
+          "right": 62,
+          "witness_positions": [
+            57,
+            62
+          ],
+          "ciphertext_pairs": [
+            [
+              10,
+              34
+            ],
+            [
+              10,
+              8
+            ]
+          ]
+        },
+        {
+          "left": 66,
+          "right": 69,
+          "witness_positions": [
+            65,
+            69
+          ],
+          "ciphertext_pairs": [
+            [
+              61,
+              43
+            ],
+            [
+              21,
+              43
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 78,
+          "witness_positions": [
+            76,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              37
+            ],
+            [
+              0,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              0,
+              37
+            ],
+            [
+              57,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              37
+            ],
+            [
+              57,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 89,
+          "right": 94,
+          "witness_positions": [
+            88,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              11
+            ],
+            [
+              26,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              11
+            ],
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 101,
+          "right": 106,
+          "witness_positions": [
+            100,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              77,
+              61
+            ],
+            [
+              54,
+              61
+            ]
+          ]
+        }
+      ],
+      "length_compared": 118,
+      "different_ciphertext_positions": 114,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 14,
+      "messages": [
+        "East 2",
+        "West 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 12,
+      "one_minimum_hitting_set": [
+        16,
+        23,
+        28,
+        38,
+        50,
+        60,
+        66,
+        77,
+        82,
+        94,
+        96,
+        99
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 9,
+          "right": 16,
+          "witness_positions": [
+            8,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              32,
+              11
+            ],
+            [
+              32,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              12,
+              10
+            ],
+            [
+              12,
+              32
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              34,
+              19
+            ],
+            [
+              36,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 34,
+          "right": 38,
+          "witness_positions": [
+            33,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              9,
+              9
+            ],
+            [
+              9,
+              76
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 50,
+          "witness_positions": [
+            45,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              80,
+              79
+            ],
+            [
+              80,
+              30
+            ]
+          ]
+        },
+        {
+          "left": 57,
+          "right": 60,
+          "witness_positions": [
+            56,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              57
+            ],
+            [
+              62,
+              69
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              69
+            ],
+            [
+              62,
+              18
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              30
+            ],
+            [
+              23,
+              0
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              35,
+              37
+            ],
+            [
+              1,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 89,
+          "right": 94,
+          "witness_positions": [
+            88,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              11
+            ],
+            [
+              7,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              7,
+              11
+            ],
+            [
+              63,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 97,
+          "right": 99,
+          "witness_positions": [
+            96,
+            99
+          ],
+          "ciphertext_pairs": [
+            [
+              63,
+              11
+            ],
+            [
+              63,
+              67
+            ]
+          ]
+        }
+      ],
+      "length_compared": 102,
+      "different_ciphertext_positions": 94,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 13,
+      "messages": [
+        "West 2",
+        "West 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 12,
+      "one_minimum_hitting_set": [
+        12,
+        16,
+        28,
+        40,
+        53,
+        68,
+        78,
+        82,
+        94,
+        96,
+        106,
+        121
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 8,
+          "right": 12,
+          "witness_positions": [
+            7,
+            12
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              74
+            ],
+            [
+              60,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              19
+            ],
+            [
+              60,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              80,
+              19
+            ],
+            [
+              60,
+              19
+            ]
+          ]
+        },
+        {
+          "left": 32,
+          "right": 40,
+          "witness_positions": [
+            31,
+            40
+          ],
+          "ciphertext_pairs": [
+            [
+              22,
+              4
+            ],
+            [
+              76,
+              4
+            ]
+          ]
+        },
+        {
+          "left": 44,
+          "right": 53,
+          "witness_positions": [
+            43,
+            53
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              17
+            ],
+            [
+              75,
+              28
+            ]
+          ]
+        },
+        {
+          "left": 65,
+          "right": 68,
+          "witness_positions": [
+            64,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              58,
+              46
+            ],
+            [
+              58,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 78,
+          "witness_positions": [
+            76,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              37
+            ],
+            [
+              2,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              2,
+              37
+            ],
+            [
+              71,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 89,
+          "right": 94,
+          "witness_positions": [
+            88,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              20,
+              11
+            ],
+            [
+              64,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              11
+            ],
+            [
+              41,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 104,
+          "right": 106,
+          "witness_positions": [
+            103,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              14
+            ],
+            [
+              17,
+              61
+            ]
+          ]
+        },
+        {
+          "left": 113,
+          "right": 121,
+          "witness_positions": [
+            112,
+            121
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              51
+            ],
+            [
+              64,
+              30
+            ]
+          ]
+        }
+      ],
+      "length_compared": 124,
+      "different_ciphertext_positions": 117,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 13,
+      "messages": [
+        "East 3",
+        "West 3"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        10,
+        25,
+        33,
+        39,
+        45,
+        51,
+        59,
+        65,
+        73,
+        77,
+        94
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 16,
+          "right": 25,
+          "witness_positions": [
+            15,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              14,
+              18
+            ],
+            [
+              80,
+              18
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 33,
+          "witness_positions": [
+            27,
+            33
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              76
+            ],
+            [
+              40,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              65,
+              54
+            ],
+            [
+              70,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              62
+            ],
+            [
+              48,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 51,
+          "witness_positions": [
+            45,
+            51
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              47
+            ],
+            [
+              31,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 53,
+          "right": 59,
+          "witness_positions": [
+            52,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              5,
+              45
+            ],
+            [
+              49,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              45
+            ],
+            [
+              5,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              4
+            ],
+            [
+              74,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              60
+            ],
+            [
+              51,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              26
+            ],
+            [
+              28,
+              26
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 95,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "East 1",
+        "East 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        10,
+        25,
+        38,
+        45,
+        51,
+        59,
+        65,
+        75,
+        89,
+        94,
+        100
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              77
+            ],
+            [
+              29,
+              18
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              60
+            ],
+            [
+              21,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              62
+            ],
+            [
+              48,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 51,
+          "witness_positions": [
+            45,
+            51
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              47
+            ],
+            [
+              26,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              68
+            ],
+            [
+              64,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              45
+            ],
+            [
+              6,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 73,
+          "right": 75,
+          "witness_positions": [
+            72,
+            75
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              22
+            ],
+            [
+              17,
+              75
+            ]
+          ]
+        },
+        {
+          "left": 85,
+          "right": 89,
+          "witness_positions": [
+            84,
+            89
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              40
+            ],
+            [
+              62,
+              3
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              2,
+              26
+            ],
+            [
+              37,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 100,
+          "witness_positions": [
+            94,
+            100
+          ],
+          "ciphertext_pairs": [
+            [
+              37,
+              26
+            ],
+            [
+              9,
+              26
+            ]
+          ]
+        }
+      ],
+      "length_compared": 103,
+      "different_ciphertext_positions": 98,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "West 1",
+        "East 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        10,
+        25,
+        39,
+        50,
+        59,
+        65,
+        77,
+        85,
+        94,
+        100,
+        110
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 16,
+          "right": 25,
+          "witness_positions": [
+            15,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              14,
+              18
+            ],
+            [
+              69,
+              18
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              54
+            ],
+            [
+              16,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              70
+            ],
+            [
+              64,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 53,
+          "right": 59,
+          "witness_positions": [
+            52,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              6,
+              45
+            ],
+            [
+              24,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              24,
+              45
+            ],
+            [
+              61,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              77,
+              60
+            ],
+            [
+              22,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              49
+            ],
+            [
+              57,
+              65
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              72,
+              26
+            ],
+            [
+              26,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 100,
+          "witness_positions": [
+            94,
+            100
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              26
+            ],
+            [
+              77,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 102,
+          "right": 110,
+          "witness_positions": [
+            101,
+            110
+          ],
+          "ciphertext_pairs": [
+            [
+              25,
+              13
+            ],
+            [
+              25,
+              25
+            ]
+          ]
+        }
+      ],
+      "length_compared": 118,
+      "different_ciphertext_positions": 112,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "East 2",
+        "East 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 9,
+      "one_minimum_hitting_set": [
+        10,
+        23,
+        38,
+        50,
+        59,
+        65,
+        79,
+        94,
+        99
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              69,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              12,
+              77
+            ],
+            [
+              12,
+              38
+            ]
+          ]
+        },
+        {
+          "left": 34,
+          "right": 38,
+          "witness_positions": [
+            33,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              9,
+              80
+            ],
+            [
+              9,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 50,
+          "witness_positions": [
+            45,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              80,
+              47
+            ],
+            [
+              80,
+              11
+            ]
+          ]
+        },
+        {
+          "left": 53,
+          "right": 59,
+          "witness_positions": [
+            52,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              47,
+              45
+            ],
+            [
+              49,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              45
+            ],
+            [
+              66,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 75,
+          "right": 79,
+          "witness_positions": [
+            74,
+            79
+          ],
+          "ciphertext_pairs": [
+            [
+              32,
+              18
+            ],
+            [
+              32,
+              67
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              65,
+              26
+            ],
+            [
+              7,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 97,
+          "right": 99,
+          "witness_positions": [
+            96,
+            99
+          ],
+          "ciphertext_pairs": [
+            [
+              63,
+              69
+            ],
+            [
+              63,
+              23
+            ]
+          ]
+        }
+      ],
+      "length_compared": 102,
+      "different_ciphertext_positions": 96,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 10,
+      "messages": [
+        "West 2",
+        "East 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 12,
+      "one_minimum_hitting_set": [
+        10,
+        16,
+        28,
+        39,
+        51,
+        59,
+        65,
+        77,
+        85,
+        94,
+        100,
+        106
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              2,
+              2
+            ],
+            [
+              78,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              9
+            ],
+            [
+              60,
+              68
+            ]
+          ]
+        },
+        {
+          "left": 17,
+          "right": 28,
+          "witness_positions": [
+            16,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              68
+            ],
+            [
+              60,
+              4
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              39,
+              54
+            ],
+            [
+              31,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 51,
+          "witness_positions": [
+            45,
+            51
+          ],
+          "ciphertext_pairs": [
+            [
+              56,
+              47
+            ],
+            [
+              65,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 53,
+          "right": 59,
+          "witness_positions": [
+            52,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              45,
+              45
+            ],
+            [
+              3,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              3,
+              45
+            ],
+            [
+              9,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              79,
+              60
+            ],
+            [
+              64,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 82,
+          "right": 85,
+          "witness_positions": [
+            81,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              42
+            ],
+            [
+              30,
+              65
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              22,
+              26
+            ],
+            [
+              64,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 100,
+          "witness_positions": [
+            94,
+            100
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              26
+            ],
+            [
+              78,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 104,
+          "right": 106,
+          "witness_positions": [
+            103,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              42
+            ],
+            [
+              17,
+              11
+            ]
+          ]
+        }
+      ],
+      "length_compared": 119,
+      "different_ciphertext_positions": 107,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 13,
+      "messages": [
+        "East 3",
+        "East 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 13,
+      "one_minimum_hitting_set": [
+        10,
+        19,
+        28,
+        39,
+        51,
+        59,
+        65,
+        69,
+        77,
+        82,
+        94,
+        96,
+        106
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              2
+            ],
+            [
+              28,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 11,
+          "right": 19,
+          "witness_positions": [
+            10,
+            19
+          ],
+          "ciphertext_pairs": [
+            [
+              28,
+              2
+            ],
+            [
+              28,
+              5
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              28
+            ],
+            [
+              19,
+              4
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              54
+            ],
+            [
+              58,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 51,
+          "witness_positions": [
+            45,
+            51
+          ],
+          "ciphertext_pairs": [
+            [
+              79,
+              47
+            ],
+            [
+              37,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 53,
+          "right": 59,
+          "witness_positions": [
+            52,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              45
+            ],
+            [
+              10,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              10,
+              45
+            ],
+            [
+              43,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 66,
+          "right": 69,
+          "witness_positions": [
+            65,
+            69
+          ],
+          "ciphertext_pairs": [
+            [
+              43,
+              45
+            ],
+            [
+              43,
+              57
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              60
+            ],
+            [
+              0,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              37,
+              59
+            ],
+            [
+              37,
+              49
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              5,
+              26
+            ],
+            [
+              11,
+              26
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              11,
+              26
+            ],
+            [
+              11,
+              69
+            ]
+          ]
+        },
+        {
+          "left": 101,
+          "right": 106,
+          "witness_positions": [
+            100,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              61,
+              26
+            ],
+            [
+              61,
+              11
+            ]
+          ]
+        }
+      ],
+      "length_compared": 119,
+      "different_ciphertext_positions": 111,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 14,
+      "messages": [
+        "West 3",
+        "East 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 9,
+      "one_minimum_hitting_set": [
+        10,
+        26,
+        33,
+        40,
+        45,
+        59,
+        73,
+        80,
+        97
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 12,
+          "right": 26,
+          "witness_positions": [
+            11,
+            26
+          ],
+          "ciphertext_pairs": [
+            [
+              70,
+              55
+            ],
+            [
+              82,
+              55
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 33,
+          "witness_positions": [
+            27,
+            33
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              16
+            ],
+            [
+              40,
+              66
+            ]
+          ]
+        },
+        {
+          "left": 37,
+          "right": 40,
+          "witness_positions": [
+            36,
+            40
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              39
+            ],
+            [
+              47,
+              39
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              78
+            ],
+            [
+              48,
+              65
+            ]
+          ]
+        },
+        {
+          "left": 50,
+          "right": 59,
+          "witness_positions": [
+            49,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              38
+            ],
+            [
+              49,
+              68
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              26
+            ],
+            [
+              74,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 80,
+          "witness_positions": [
+            76,
+            80
+          ],
+          "ciphertext_pairs": [
+            [
+              4,
+              66
+            ],
+            [
+              80,
+              66
+            ]
+          ]
+        },
+        {
+          "left": 94,
+          "right": 97,
+          "witness_positions": [
+            93,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              21
+            ],
+            [
+              43,
+              21
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 94,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 10,
+      "messages": [
+        "East 1",
+        "West 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        10,
+        25,
+        38,
+        45,
+        59,
+        68,
+        75,
+        80,
+        89,
+        97
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              60
+            ],
+            [
+              29,
+              72
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              57
+            ],
+            [
+              21,
+              74
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              78
+            ],
+            [
+              48,
+              65
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              57
+            ],
+            [
+              64,
+              68
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 68,
+          "witness_positions": [
+            59,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              68
+            ],
+            [
+              64,
+              8
+            ]
+          ]
+        },
+        {
+          "left": 73,
+          "right": 75,
+          "witness_positions": [
+            72,
+            75
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              5
+            ],
+            [
+              17,
+              43
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 80,
+          "witness_positions": [
+            76,
+            80
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              66
+            ],
+            [
+              46,
+              66
+            ]
+          ]
+        },
+        {
+          "left": 85,
+          "right": 89,
+          "witness_positions": [
+            84,
+            89
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              54
+            ],
+            [
+              62,
+              63
+            ]
+          ]
+        },
+        {
+          "left": 94,
+          "right": 97,
+          "witness_positions": [
+            93,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              72,
+              21
+            ],
+            [
+              43,
+              21
+            ]
+          ]
+        }
+      ],
+      "length_compared": 103,
+      "different_ciphertext_positions": 99,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "West 1",
+        "West 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        10,
+        26,
+        40,
+        50,
+        61,
+        73,
+        80,
+        85,
+        97,
+        103,
+        117
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 12,
+          "right": 26,
+          "witness_positions": [
+            11,
+            26
+          ],
+          "ciphertext_pairs": [
+            [
+              70,
+              55
+            ],
+            [
+              76,
+              55
+            ]
+          ]
+        },
+        {
+          "left": 37,
+          "right": 40,
+          "witness_positions": [
+            36,
+            40
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              39
+            ],
+            [
+              56,
+              39
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              66
+            ],
+            [
+              64,
+              81
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 61,
+          "witness_positions": [
+            54,
+            61
+          ],
+          "ciphertext_pairs": [
+            [
+              31,
+              57
+            ],
+            [
+              77,
+              57
+            ]
+          ]
+        },
+        {
+          "left": 62,
+          "right": 73,
+          "witness_positions": [
+            61,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              77,
+              57
+            ],
+            [
+              77,
+              37
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 80,
+          "witness_positions": [
+            76,
+            80
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              66
+            ],
+            [
+              41,
+              66
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              73
+            ],
+            [
+              57,
+              38
+            ]
+          ]
+        },
+        {
+          "left": 94,
+          "right": 97,
+          "witness_positions": [
+            93,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              3,
+              21
+            ],
+            [
+              5,
+              21
+            ]
+          ]
+        },
+        {
+          "left": 98,
+          "right": 103,
+          "witness_positions": [
+            97,
+            103
+          ],
+          "ciphertext_pairs": [
+            [
+              5,
+              21
+            ],
+            [
+              61,
+              21
+            ]
+          ]
+        },
+        {
+          "left": 111,
+          "right": 117,
+          "witness_positions": [
+            110,
+            117
+          ],
+          "ciphertext_pairs": [
+            [
+              25,
+              20
+            ],
+            [
+              34,
+              20
+            ]
+          ]
+        }
+      ],
+      "length_compared": 118,
+      "different_ciphertext_positions": 115,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "East 2",
+        "West 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 9,
+      "one_minimum_hitting_set": [
+        10,
+        23,
+        32,
+        38,
+        50,
+        60,
+        66,
+        77,
+        97
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              69,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              12,
+              60
+            ],
+            [
+              12,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 25,
+          "right": 32,
+          "witness_positions": [
+            24,
+            32
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              1
+            ],
+            [
+              20,
+              1
+            ]
+          ]
+        },
+        {
+          "left": 34,
+          "right": 38,
+          "witness_positions": [
+            33,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              9,
+              66
+            ],
+            [
+              9,
+              74
+            ]
+          ]
+        },
+        {
+          "left": 46,
+          "right": 50,
+          "witness_positions": [
+            45,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              80,
+              65
+            ],
+            [
+              80,
+              81
+            ]
+          ]
+        },
+        {
+          "left": 57,
+          "right": 60,
+          "witness_positions": [
+            56,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              71
+            ],
+            [
+              62,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              54
+            ],
+            [
+              62,
+              14
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              37
+            ],
+            [
+              23,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 94,
+          "right": 97,
+          "witness_positions": [
+            93,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              21
+            ],
+            [
+              14,
+              21
+            ]
+          ]
+        }
+      ],
+      "length_compared": 102,
+      "different_ciphertext_positions": 95,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 10,
+      "messages": [
+        "West 2",
+        "West 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 13,
+      "one_minimum_hitting_set": [
+        10,
+        16,
+        28,
+        40,
+        53,
+        61,
+        68,
+        80,
+        85,
+        97,
+        103,
+        106,
+        117
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              2,
+              2
+            ],
+            [
+              78,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              9
+            ],
+            [
+              60,
+              68
+            ]
+          ]
+        },
+        {
+          "left": 17,
+          "right": 28,
+          "witness_positions": [
+            16,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              68
+            ],
+            [
+              60,
+              82
+            ]
+          ]
+        },
+        {
+          "left": 37,
+          "right": 40,
+          "witness_positions": [
+            36,
+            40
+          ],
+          "ciphertext_pairs": [
+            [
+              2,
+              39
+            ],
+            [
+              76,
+              39
+            ]
+          ]
+        },
+        {
+          "left": 44,
+          "right": 53,
+          "witness_positions": [
+            43,
+            53
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              0
+            ],
+            [
+              75,
+              50
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 61,
+          "witness_positions": [
+            54,
+            61
+          ],
+          "ciphertext_pairs": [
+            [
+              55,
+              57
+            ],
+            [
+              57,
+              57
+            ]
+          ]
+        },
+        {
+          "left": 65,
+          "right": 68,
+          "witness_positions": [
+            64,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              58,
+              71
+            ],
+            [
+              58,
+              8
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 80,
+          "witness_positions": [
+            76,
+            80
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              66
+            ],
+            [
+              73,
+              66
+            ]
+          ]
+        },
+        {
+          "left": 82,
+          "right": 85,
+          "witness_positions": [
+            81,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              23
+            ],
+            [
+              30,
+              38
+            ]
+          ]
+        },
+        {
+          "left": 94,
+          "right": 97,
+          "witness_positions": [
+            93,
+            97
+          ],
+          "ciphertext_pairs": [
+            [
+              46,
+              21
+            ],
+            [
+              81,
+              21
+            ]
+          ]
+        },
+        {
+          "left": 98,
+          "right": 103,
+          "witness_positions": [
+            97,
+            103
+          ],
+          "ciphertext_pairs": [
+            [
+              81,
+              21
+            ],
+            [
+              17,
+              21
+            ]
+          ]
+        },
+        {
+          "left": 104,
+          "right": 106,
+          "witness_positions": [
+            103,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              21
+            ],
+            [
+              17,
+              82
+            ]
+          ]
+        },
+        {
+          "left": 111,
+          "right": 117,
+          "witness_positions": [
+            110,
+            117
+          ],
+          "ciphertext_pairs": [
+            [
+              63,
+              20
+            ],
+            [
+              58,
+              20
+            ]
+          ]
+        }
+      ],
+      "length_compared": 120,
+      "different_ciphertext_positions": 109,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 14,
+      "messages": [
+        "East 3",
+        "West 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 12,
+      "one_minimum_hitting_set": [
+        10,
+        19,
+        28,
+        40,
+        61,
+        69,
+        78,
+        82,
+        94,
+        96,
+        103,
+        117
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              2
+            ],
+            [
+              28,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 11,
+          "right": 19,
+          "witness_positions": [
+            10,
+            19
+          ],
+          "ciphertext_pairs": [
+            [
+              28,
+              2
+            ],
+            [
+              28,
+              5
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              55
+            ],
+            [
+              19,
+              82
+            ]
+          ]
+        },
+        {
+          "left": 37,
+          "right": 40,
+          "witness_positions": [
+            36,
+            40
+          ],
+          "ciphertext_pairs": [
+            [
+              32,
+              39
+            ],
+            [
+              4,
+              39
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 61,
+          "witness_positions": [
+            54,
+            61
+          ],
+          "ciphertext_pairs": [
+            [
+              41,
+              57
+            ],
+            [
+              70,
+              57
+            ]
+          ]
+        },
+        {
+          "left": 66,
+          "right": 69,
+          "witness_positions": [
+            65,
+            69
+          ],
+          "ciphertext_pairs": [
+            [
+              43,
+              73
+            ],
+            [
+              43,
+              32
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 78,
+          "witness_positions": [
+            76,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              37,
+              66
+            ],
+            [
+              37,
+              53
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              37,
+              53
+            ],
+            [
+              37,
+              73
+            ]
+          ]
+        },
+        {
+          "left": 89,
+          "right": 94,
+          "witness_positions": [
+            88,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              11,
+              11
+            ],
+            [
+              11,
+              51
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              11,
+              51
+            ],
+            [
+              11,
+              74
+            ]
+          ]
+        },
+        {
+          "left": 98,
+          "right": 103,
+          "witness_positions": [
+            97,
+            103
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              21
+            ],
+            [
+              14,
+              21
+            ]
+          ]
+        },
+        {
+          "left": 111,
+          "right": 117,
+          "witness_positions": [
+            110,
+            117
+          ],
+          "ciphertext_pairs": [
+            [
+              66,
+              20
+            ],
+            [
+              75,
+              20
+            ]
+          ]
+        }
+      ],
+      "length_compared": 120,
+      "different_ciphertext_positions": 114,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 13,
+      "messages": [
+        "West 3",
+        "West 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        21,
+        32,
+        39,
+        50,
+        59,
+        65,
+        77,
+        94,
+        100,
+        117
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 8,
+          "right": 21,
+          "witness_positions": [
+            7,
+            21
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              60
+            ],
+            [
+              77,
+              60
+            ]
+          ]
+        },
+        {
+          "left": 25,
+          "right": 32,
+          "witness_positions": [
+            24,
+            32
+          ],
+          "ciphertext_pairs": [
+            [
+              1,
+              1
+            ],
+            [
+              58,
+              1
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              54,
+              27
+            ],
+            [
+              54,
+              81
+            ]
+          ]
+        },
+        {
+          "left": 40,
+          "right": 50,
+          "witness_positions": [
+            39,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              54,
+              81
+            ],
+            [
+              11,
+              81
+            ]
+          ]
+        },
+        {
+          "left": 53,
+          "right": 59,
+          "witness_positions": [
+            52,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              45,
+              24
+            ],
+            [
+              45,
+              68
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              45,
+              68
+            ],
+            [
+              45,
+              73
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              37
+            ],
+            [
+              60,
+              47
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              79
+            ],
+            [
+              26,
+              51
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 100,
+          "witness_positions": [
+            94,
+            100
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              51
+            ],
+            [
+              26,
+              67
+            ]
+          ]
+        },
+        {
+          "left": 111,
+          "right": 117,
+          "witness_positions": [
+            110,
+            117
+          ],
+          "ciphertext_pairs": [
+            [
+              25,
+              20
+            ],
+            [
+              78,
+              20
+            ]
+          ]
+        }
+      ],
+      "length_compared": 119,
+      "different_ciphertext_positions": 97,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "East 4",
+        "West 4"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        10,
+        23,
+        28,
+        38,
+        45,
+        59,
+        66,
+        73,
+        78,
+        95
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 15,
+          "right": 23,
+          "witness_positions": [
+            14,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              32,
+              59
+            ],
+            [
+              49,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 28,
+          "witness_positions": [
+            23,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              59
+            ],
+            [
+              63,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              60
+            ],
+            [
+              21,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              62
+            ],
+            [
+              48,
+              10
+            ]
+          ]
+        },
+        {
+          "left": 50,
+          "right": 59,
+          "witness_positions": [
+            49,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              48
+            ],
+            [
+              49,
+              8
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              41,
+              34
+            ],
+            [
+              25,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              6
+            ],
+            [
+              74,
+              23
+            ]
+          ]
+        },
+        {
+          "left": 75,
+          "right": 78,
+          "witness_positions": [
+            74,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              25
+            ],
+            [
+              41,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 92,
+          "right": 95,
+          "witness_positions": [
+            91,
+            95
+          ],
+          "ciphertext_pairs": [
+            [
+              12,
+              73
+            ],
+            [
+              13,
+              73
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 97,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "East 1",
+        "East 5"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        10,
+        23,
+        28,
+        38,
+        45,
+        59,
+        66,
+        75,
+        89,
+        95
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 15,
+          "right": 23,
+          "witness_positions": [
+            14,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              32,
+              59
+            ],
+            [
+              49,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 28,
+          "witness_positions": [
+            23,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              59
+            ],
+            [
+              52,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 31,
+          "right": 38,
+          "witness_positions": [
+            30,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              60
+            ],
+            [
+              21,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 43,
+          "right": 45,
+          "witness_positions": [
+            42,
+            45
+          ],
+          "ciphertext_pairs": [
+            [
+              48,
+              62
+            ],
+            [
+              48,
+              10
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              32
+            ],
+            [
+              64,
+              8
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              1,
+              34
+            ],
+            [
+              33,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 73,
+          "right": 75,
+          "witness_positions": [
+            72,
+            75
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              5
+            ],
+            [
+              17,
+              45
+            ]
+          ]
+        },
+        {
+          "left": 85,
+          "right": 89,
+          "witness_positions": [
+            84,
+            89
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              62
+            ],
+            [
+              62,
+              10
+            ]
+          ]
+        },
+        {
+          "left": 92,
+          "right": 95,
+          "witness_positions": [
+            91,
+            95
+          ],
+          "ciphertext_pairs": [
+            [
+              11,
+              73
+            ],
+            [
+              44,
+              73
+            ]
+          ]
+        }
+      ],
+      "length_compared": 103,
+      "different_ciphertext_positions": 99,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "West 1",
+        "East 5"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        10,
+        23,
+        28,
+        39,
+        50,
+        60,
+        66,
+        78,
+        85,
+        95,
+        106
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 15,
+          "right": 23,
+          "witness_positions": [
+            14,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              32,
+              59
+            ],
+            [
+              49,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 28,
+          "witness_positions": [
+            23,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              59
+            ],
+            [
+              9,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              54
+            ],
+            [
+              16,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 48,
+          "right": 50,
+          "witness_positions": [
+            47,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              64,
+              22
+            ],
+            [
+              64,
+              67
+            ]
+          ]
+        },
+        {
+          "left": 54,
+          "right": 60,
+          "witness_positions": [
+            53,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              34
+            ],
+            [
+              26,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              34
+            ],
+            [
+              34,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 75,
+          "right": 78,
+          "witness_positions": [
+            74,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              42,
+              25
+            ],
+            [
+              0,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 83,
+          "right": 85,
+          "witness_positions": [
+            82,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              57,
+              20
+            ],
+            [
+              57,
+              21
+            ]
+          ]
+        },
+        {
+          "left": 92,
+          "right": 95,
+          "witness_positions": [
+            91,
+            95
+          ],
+          "ciphertext_pairs": [
+            [
+              42,
+              73
+            ],
+            [
+              78,
+              73
+            ]
+          ]
+        },
+        {
+          "left": 99,
+          "right": 106,
+          "witness_positions": [
+            98,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              54,
+              21
+            ],
+            [
+              54,
+              64
+            ]
+          ]
+        }
+      ],
+      "length_compared": 114,
+      "different_ciphertext_positions": 111,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "East 2",
+        "East 5"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        10,
+        23,
+        28,
+        38,
+        49,
+        60,
+        70,
+        77,
+        95,
+        99
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              69,
+              2
+            ],
+            [
+              42,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 22,
+          "right": 23,
+          "witness_positions": [
+            21,
+            23
+          ],
+          "ciphertext_pairs": [
+            [
+              12,
+              33
+            ],
+            [
+              12,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 28,
+          "witness_positions": [
+            23,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              12,
+              59
+            ],
+            [
+              36,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 34,
+          "right": 38,
+          "witness_positions": [
+            33,
+            38
+          ],
+          "ciphertext_pairs": [
+            [
+              9,
+              27
+            ],
+            [
+              9,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 39,
+          "right": 49,
+          "witness_positions": [
+            38,
+            49
+          ],
+          "ciphertext_pairs": [
+            [
+              9,
+              48
+            ],
+            [
+              3,
+              48
+            ]
+          ]
+        },
+        {
+          "left": 57,
+          "right": 60,
+          "witness_positions": [
+            56,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              62,
+              31
+            ],
+            [
+              62,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 63,
+          "right": 70,
+          "witness_positions": [
+            62,
+            70
+          ],
+          "ciphertext_pairs": [
+            [
+              52,
+              7
+            ],
+            [
+              52,
+              6
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              23
+            ],
+            [
+              23,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 92,
+          "right": 95,
+          "witness_positions": [
+            91,
+            95
+          ],
+          "ciphertext_pairs": [
+            [
+              68,
+              73
+            ],
+            [
+              45,
+              73
+            ]
+          ]
+        },
+        {
+          "left": 97,
+          "right": 99,
+          "witness_positions": [
+            96,
+            99
+          ],
+          "ciphertext_pairs": [
+            [
+              63,
+              6
+            ],
+            [
+              63,
+              72
+            ]
+          ]
+        }
+      ],
+      "length_compared": 102,
+      "different_ciphertext_positions": 94,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "West 2",
+        "East 5"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        10,
+        16,
+        28,
+        39,
+        53,
+        60,
+        66,
+        78,
+        85,
+        95,
+        106
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              2,
+              2
+            ],
+            [
+              78,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 13,
+          "right": 16,
+          "witness_positions": [
+            12,
+            16
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              9
+            ],
+            [
+              60,
+              68
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 28,
+          "witness_positions": [
+            23,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              59
+            ],
+            [
+              60,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              39,
+              54
+            ],
+            [
+              31,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 44,
+          "right": 53,
+          "witness_positions": [
+            43,
+            53
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              72
+            ],
+            [
+              75,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 54,
+          "right": 60,
+          "witness_positions": [
+            53,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              34
+            ],
+            [
+              22,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              22,
+              34
+            ],
+            [
+              70,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 75,
+          "right": 78,
+          "witness_positions": [
+            74,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              7,
+              25
+            ],
+            [
+              2,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 82,
+          "right": 85,
+          "witness_positions": [
+            81,
+            85
+          ],
+          "ciphertext_pairs": [
+            [
+              30,
+              76
+            ],
+            [
+              30,
+              21
+            ]
+          ]
+        },
+        {
+          "left": 92,
+          "right": 95,
+          "witness_positions": [
+            91,
+            95
+          ],
+          "ciphertext_pairs": [
+            [
+              63,
+              73
+            ],
+            [
+              59,
+              73
+            ]
+          ]
+        },
+        {
+          "left": 104,
+          "right": 106,
+          "witness_positions": [
+            103,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              17,
+              51
+            ],
+            [
+              17,
+              64
+            ]
+          ]
+        }
+      ],
+      "length_compared": 114,
+      "different_ciphertext_positions": 102,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "East 3",
+        "East 5"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 11,
+      "one_minimum_hitting_set": [
+        10,
+        19,
+        28,
+        39,
+        60,
+        66,
+        78,
+        82,
+        94,
+        96,
+        106
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 7,
+          "right": 10,
+          "witness_positions": [
+            6,
+            10
+          ],
+          "ciphertext_pairs": [
+            [
+              23,
+              2
+            ],
+            [
+              28,
+              2
+            ]
+          ]
+        },
+        {
+          "left": 11,
+          "right": 19,
+          "witness_positions": [
+            10,
+            19
+          ],
+          "ciphertext_pairs": [
+            [
+              28,
+              2
+            ],
+            [
+              28,
+              5
+            ]
+          ]
+        },
+        {
+          "left": 27,
+          "right": 28,
+          "witness_positions": [
+            26,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              28
+            ],
+            [
+              19,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              54
+            ],
+            [
+              58,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 54,
+          "right": 60,
+          "witness_positions": [
+            53,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              28,
+              34
+            ],
+            [
+              69,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              69,
+              34
+            ],
+            [
+              18,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 77,
+          "right": 78,
+          "witness_positions": [
+            76,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              37,
+              42
+            ],
+            [
+              37,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 79,
+          "right": 82,
+          "witness_positions": [
+            78,
+            82
+          ],
+          "ciphertext_pairs": [
+            [
+              37,
+              25
+            ],
+            [
+              37,
+              20
+            ]
+          ]
+        },
+        {
+          "left": 89,
+          "right": 94,
+          "witness_positions": [
+            88,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              11,
+              41
+            ],
+            [
+              11,
+              70
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 96,
+          "witness_positions": [
+            94,
+            96
+          ],
+          "ciphertext_pairs": [
+            [
+              11,
+              70
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "left": 101,
+          "right": 106,
+          "witness_positions": [
+            100,
+            106
+          ],
+          "ciphertext_pairs": [
+            [
+              61,
+              5
+            ],
+            [
+              61,
+              64
+            ]
+          ]
+        }
+      ],
+      "length_compared": 114,
+      "different_ciphertext_positions": 107,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 12,
+      "messages": [
+        "West 3",
+        "East 5"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 9,
+      "one_minimum_hitting_set": [
+        21,
+        28,
+        48,
+        59,
+        65,
+        77,
+        94,
+        100,
+        108
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 1,
+          "right": 21,
+          "witness_positions": [
+            0,
+            21
+          ],
+          "ciphertext_pairs": [
+            [
+              27,
+              33
+            ],
+            [
+              77,
+              33
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 28,
+          "witness_positions": [
+            23,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              38,
+              59
+            ],
+            [
+              4,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 38,
+          "right": 48,
+          "witness_positions": [
+            37,
+            48
+          ],
+          "ciphertext_pairs": [
+            [
+              75,
+              49
+            ],
+            [
+              75,
+              58
+            ]
+          ]
+        },
+        {
+          "left": 53,
+          "right": 59,
+          "witness_positions": [
+            52,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              45,
+              7
+            ],
+            [
+              45,
+              8
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 65,
+          "witness_positions": [
+            59,
+            65
+          ],
+          "ciphertext_pairs": [
+            [
+              45,
+              8
+            ],
+            [
+              45,
+              55
+            ]
+          ]
+        },
+        {
+          "left": 74,
+          "right": 77,
+          "witness_positions": [
+            73,
+            77
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              23
+            ],
+            [
+              60,
+              80
+            ]
+          ]
+        },
+        {
+          "left": 91,
+          "right": 94,
+          "witness_positions": [
+            90,
+            94
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              44
+            ],
+            [
+              26,
+              70
+            ]
+          ]
+        },
+        {
+          "left": 95,
+          "right": 100,
+          "witness_positions": [
+            94,
+            100
+          ],
+          "ciphertext_pairs": [
+            [
+              26,
+              70
+            ],
+            [
+              26,
+              5
+            ]
+          ]
+        },
+        {
+          "left": 103,
+          "right": 108,
+          "witness_positions": [
+            102,
+            108
+          ],
+          "ciphertext_pairs": [
+            [
+              67,
+              61
+            ],
+            [
+              65,
+              61
+            ]
+          ]
+        }
+      ],
+      "length_compared": 114,
+      "different_ciphertext_positions": 83,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 10,
+      "messages": [
+        "East 4",
+        "East 5"
+      ]
+    },
+    {
+      "minimum_changes_required_by_intervals": 10,
+      "one_minimum_hitting_set": [
+        21,
+        28,
+        39,
+        50,
+        60,
+        66,
+        78,
+        95,
+        103,
+        111
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 8,
+          "right": 21,
+          "witness_positions": [
+            7,
+            21
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              60
+            ],
+            [
+              60,
+              33
+            ]
+          ]
+        },
+        {
+          "left": 24,
+          "right": 28,
+          "witness_positions": [
+            23,
+            28
+          ],
+          "ciphertext_pairs": [
+            [
+              80,
+              59
+            ],
+            [
+              82,
+              59
+            ]
+          ]
+        },
+        {
+          "left": 36,
+          "right": 39,
+          "witness_positions": [
+            35,
+            39
+          ],
+          "ciphertext_pairs": [
+            [
+              27,
+              54
+            ],
+            [
+              81,
+              54
+            ]
+          ]
+        },
+        {
+          "left": 40,
+          "right": 50,
+          "witness_positions": [
+            39,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              81,
+              54
+            ],
+            [
+              81,
+              67
+            ]
+          ]
+        },
+        {
+          "left": 54,
+          "right": 60,
+          "witness_positions": [
+            53,
+            60
+          ],
+          "ciphertext_pairs": [
+            [
+              50,
+              34
+            ],
+            [
+              54,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 61,
+          "right": 66,
+          "witness_positions": [
+            60,
+            66
+          ],
+          "ciphertext_pairs": [
+            [
+              54,
+              34
+            ],
+            [
+              14,
+              34
+            ]
+          ]
+        },
+        {
+          "left": 75,
+          "right": 78,
+          "witness_positions": [
+            74,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              25
+            ],
+            [
+              53,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 92,
+          "right": 95,
+          "witness_positions": [
+            91,
+            95
+          ],
+          "ciphertext_pairs": [
+            [
+              6,
+              73
+            ],
+            [
+              69,
+              73
+            ]
+          ]
+        },
+        {
+          "left": 98,
+          "right": 103,
+          "witness_positions": [
+            97,
+            103
+          ],
+          "ciphertext_pairs": [
+            [
+              21,
+              31
+            ],
+            [
+              21,
+              51
+            ]
+          ]
+        },
+        {
+          "left": 105,
+          "right": 111,
+          "witness_positions": [
+            104,
+            111
+          ],
+          "ciphertext_pairs": [
+            [
+              60,
+              42
+            ],
+            [
+              42,
+              42
+            ]
+          ]
+        }
+      ],
+      "length_compared": 114,
+      "different_ciphertext_positions": 88,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 11,
+      "messages": [
+        "West 4",
+        "East 5"
+      ]
+    }
+  ],
+  "east1_west1_prefixes": [
+    {
+      "minimum_changes_required_by_intervals": 0,
+      "one_minimum_hitting_set": [],
+      "disjoint_conflict_certificate": [],
+      "length_compared": 25,
+      "different_ciphertext_positions": 1,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 1,
+      "prefix_length": 25
+    },
+    {
+      "minimum_changes_required_by_intervals": 1,
+      "one_minimum_hitting_set": [
+        25
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              29
+            ],
+            [
+              80,
+              29
+            ]
+          ]
+        }
+      ],
+      "length_compared": 29,
+      "different_ciphertext_positions": 5,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 2,
+      "prefix_length": 29
+    },
+    {
+      "minimum_changes_required_by_intervals": 1,
+      "one_minimum_hitting_set": [
+        25
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              29
+            ],
+            [
+              80,
+              29
+            ]
+          ]
+        }
+      ],
+      "length_compared": 33,
+      "different_ciphertext_positions": 5,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 2,
+      "prefix_length": 33
+    },
+    {
+      "minimum_changes_required_by_intervals": 2,
+      "one_minimum_hitting_set": [
+        25,
+        33
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              29
+            ],
+            [
+              80,
+              29
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 33,
+          "witness_positions": [
+            27,
+            33
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              30
+            ],
+            [
+              40,
+              25
+            ]
+          ]
+        }
+      ],
+      "length_compared": 37,
+      "different_ciphertext_positions": 9,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 3,
+      "prefix_length": 37
+    },
+    {
+      "minimum_changes_required_by_intervals": 2,
+      "one_minimum_hitting_set": [
+        25,
+        33
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              29
+            ],
+            [
+              80,
+              29
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 33,
+          "witness_positions": [
+            27,
+            33
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              30
+            ],
+            [
+              40,
+              25
+            ]
+          ]
+        }
+      ],
+      "length_compared": 50,
+      "different_ciphertext_positions": 9,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 3,
+      "prefix_length": 50
+    },
+    {
+      "minimum_changes_required_by_intervals": 8,
+      "one_minimum_hitting_set": [
+        25,
+        33,
+        50,
+        59,
+        68,
+        73,
+        78,
+        89
+      ],
+      "disjoint_conflict_certificate": [
+        {
+          "left": 22,
+          "right": 25,
+          "witness_positions": [
+            21,
+            25
+          ],
+          "ciphertext_pairs": [
+            [
+              29,
+              29
+            ],
+            [
+              80,
+              29
+            ]
+          ]
+        },
+        {
+          "left": 28,
+          "right": 33,
+          "witness_positions": [
+            27,
+            33
+          ],
+          "ciphertext_pairs": [
+            [
+              40,
+              30
+            ],
+            [
+              40,
+              25
+            ]
+          ]
+        },
+        {
+          "left": 42,
+          "right": 50,
+          "witness_positions": [
+            41,
+            50
+          ],
+          "ciphertext_pairs": [
+            [
+              44,
+              44
+            ],
+            [
+              72,
+              44
+            ]
+          ]
+        },
+        {
+          "left": 55,
+          "right": 59,
+          "witness_positions": [
+            54,
+            59
+          ],
+          "ciphertext_pairs": [
+            [
+              3,
+              64
+            ],
+            [
+              49,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 60,
+          "right": 68,
+          "witness_positions": [
+            59,
+            68
+          ],
+          "ciphertext_pairs": [
+            [
+              49,
+              64
+            ],
+            [
+              71,
+              64
+            ]
+          ]
+        },
+        {
+          "left": 71,
+          "right": 73,
+          "witness_positions": [
+            70,
+            73
+          ],
+          "ciphertext_pairs": [
+            [
+              74,
+              68
+            ],
+            [
+              74,
+              36
+            ]
+          ]
+        },
+        {
+          "left": 75,
+          "right": 78,
+          "witness_positions": [
+            74,
+            78
+          ],
+          "ciphertext_pairs": [
+            [
+              19,
+              13
+            ],
+            [
+              41,
+              13
+            ]
+          ]
+        },
+        {
+          "left": 85,
+          "right": 89,
+          "witness_positions": [
+            84,
+            89
+          ],
+          "ciphertext_pairs": [
+            [
+              79,
+              62
+            ],
+            [
+              31,
+              62
+            ]
+          ]
+        }
+      ],
+      "length_compared": 99,
+      "different_ciphertext_positions": 55,
+      "common_initial_deck_first_difference_required": 1,
+      "minimum_total_with_common_initial_deck": 9,
+      "prefix_length": 99
+    }
+  ],
+  "scope": "Necessary bounds for a deterministic plaintext-selected permutation of a deck followed by reading one fixed output position. Any key, any per-letter permutations, no plaintext alphabet bound. Pairwise alignment is by message index.",
+  "caveat": "The interval optimum is only a necessary lower bound on real plaintext Hamming distance. Its selected positions are not recovered plaintext edits."
+}

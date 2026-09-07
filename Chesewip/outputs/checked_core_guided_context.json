@@ -1,0 +1,77 @@
+{
+  "generated_repairs_checked": 12,
+  "records": [
+    {
+      "n": 4,
+      "trial": 0,
+      "status": "structural_model_fit",
+      "rounds": 1
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "status": "structural_model_fit",
+      "rounds": 2
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 7,
+      "trial": 0,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 7,
+      "trial": 1,
+      "status": "structural_model_fit",
+      "rounds": 4
+    },
+    {
+      "n": 7,
+      "trial": 2,
+      "status": "structural_model_fit",
+      "rounds": 3
+    },
+    {
+      "n": 7,
+      "trial": 3,
+      "status": "structural_model_fit",
+      "rounds": 4
+    }
+  ]
+}

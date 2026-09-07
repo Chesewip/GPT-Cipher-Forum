@@ -1,0 +1,46 @@
+{
+  "status": "verified_structural_prefix_witnesses",
+  "witnesses": [
+    {
+      "source": "context_entry_eyes32_b12_compact.json",
+      "prefix_ciphertext_outputs": 288,
+      "prefix_equalities_checked": 124,
+      "prefix_equality_errors": 0,
+      "full_corpus_equality_errors": 130,
+      "full_corpus_equalities": 256,
+      "compatible_rotations_for_this_key": [
+        12
+      ],
+      "selected_positions_in_full_decode": 82
+    },
+    {
+      "source": "context_entry_eyes32_b9_compact.json",
+      "prefix_ciphertext_outputs": 288,
+      "prefix_equalities_checked": 124,
+      "prefix_equality_errors": 0,
+      "full_corpus_equality_errors": 127,
+      "full_corpus_equalities": 256,
+      "compatible_rotations_for_this_key": [
+        9
+      ],
+      "selected_positions_in_full_decode": 82
+    }
+  ],
+  "generated_controls": [
+    {
+      "source": "context_entry_control32_compact.json",
+      "prefix_length": 32,
+      "original_prefix_comparisons": 124,
+      "equality_errors": 0,
+      "exact_planted_plaintext_recovered": false
+    },
+    {
+      "source": "context_entry_control40_extended.json",
+      "prefix_length": 40,
+      "original_prefix_comparisons": 135,
+      "equality_errors": 0,
+      "exact_planted_plaintext_recovered": false
+    }
+  ],
+  "scope": "Verifies all 124 prefix comparisons from the original full-corpus equality closure, not merely the clipped passage list. The original plaintext assumptions remain conditional. These keys fail on the full corpus."
+}

@@ -1,0 +1,6918 @@
+{
+  "exhaustive_key_cutoff_checks": 4608,
+  "solver_checks": 768,
+  "records": [
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 4,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 0,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 1,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 2,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 3,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 4,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 5,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 6,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "sat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "bv",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "fd",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": false,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": false,
+      "level": 10,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 5,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 7,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 9,
+      "status": "unsat"
+    },
+    {
+      "n": 5,
+      "trial": 7,
+      "encoding": "int",
+      "simplified": true,
+      "lazy": true,
+      "level": 10,
+      "status": "unsat"
+    }
+  ]
+}

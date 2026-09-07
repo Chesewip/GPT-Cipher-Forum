@@ -1,0 +1,321 @@
+{
+  "status": "excluded",
+  "cycle_partition": [
+    1,
+    41,
+    41
+  ],
+  "alphabet_bound": 40,
+  "top_cost": 0,
+  "warmups": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "excluded_prefix_labels": [
+    27,
+    33,
+    34,
+    36,
+    50,
+    63,
+    76,
+    77,
+    80
+  ],
+  "bad_groups": [
+    {
+      "length": 41,
+      "labels": [
+        45,
+        67,
+        68
+      ],
+      "minimum_alphabet": 18
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        75,
+        8
+      ],
+      "minimum_alphabet": 24
+    },
+    {
+      "length": 41,
+      "labels": [
+        29,
+        49,
+        23
+      ],
+      "minimum_alphabet": 18
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        60,
+        8
+      ],
+      "minimum_alphabet": 24
+    },
+    {
+      "length": 41,
+      "labels": [
+        54,
+        64,
+        6
+      ],
+      "minimum_alphabet": 18
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        60,
+        75
+      ],
+      "minimum_alphabet": 24
+    },
+    {
+      "length": 41,
+      "labels": [
+        5,
+        69,
+        23
+      ],
+      "minimum_alphabet": 18
+    },
+    {
+      "length": 41,
+      "labels": [
+        60,
+        75,
+        8
+      ],
+      "minimum_alphabet": 24
+    },
+    {
+      "length": 41,
+      "labels": [
+        69,
+        23,
+        24
+      ],
+      "minimum_alphabet": 17
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        60,
+        75
+      ],
+      "minimum_alphabet": 25
+    },
+    {
+      "length": 41,
+      "labels": [
+        69,
+        24,
+        25
+      ],
+      "minimum_alphabet": 17
+    },
+    {
+      "length": 41,
+      "labels": [
+        60,
+        75,
+        8
+      ],
+      "minimum_alphabet": 25
+    },
+    {
+      "length": 41,
+      "labels": [
+        24,
+        25,
+        32
+      ],
+      "minimum_alphabet": 16
+    },
+    {
+      "length": 41,
+      "labels": [
+        60,
+        75,
+        8,
+        5
+      ],
+      "minimum_alphabet": 26
+    },
+    {
+      "length": 41,
+      "labels": [
+        24,
+        25,
+        78
+      ],
+      "minimum_alphabet": 15
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        60,
+        75,
+        8
+      ],
+      "minimum_alphabet": 27
+    },
+    {
+      "length": 41,
+      "labels": [
+        51,
+        62,
+        67
+      ],
+      "minimum_alphabet": 16
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        60,
+        75
+      ],
+      "minimum_alphabet": 26
+    },
+    {
+      "length": 41,
+      "labels": [
+        62,
+        67,
+        30
+      ],
+      "minimum_alphabet": 15
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        60,
+        75,
+        5
+      ],
+      "minimum_alphabet": 27
+    },
+    {
+      "length": 41,
+      "labels": [
+        9,
+        11,
+        69
+      ],
+      "minimum_alphabet": 17
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        75,
+        8
+      ],
+      "minimum_alphabet": 25
+    },
+    {
+      "length": 41,
+      "labels": [
+        11,
+        23,
+        32
+      ],
+      "minimum_alphabet": 16
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        8,
+        5
+      ],
+      "minimum_alphabet": 26
+    },
+    {
+      "length": 41,
+      "labels": [
+        24,
+        30,
+        46
+      ],
+      "minimum_alphabet": 15
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        60,
+        8,
+        5
+      ],
+      "minimum_alphabet": 27
+    },
+    {
+      "length": 41,
+      "labels": [
+        51,
+        68,
+        3
+      ],
+      "minimum_alphabet": 15
+    },
+    {
+      "length": 41,
+      "labels": [
+        60,
+        75,
+        8,
+        5
+      ],
+      "minimum_alphabet": 27
+    },
+    {
+      "length": 41,
+      "labels": [
+        23,
+        67,
+        21
+      ],
+      "minimum_alphabet": 15
+    },
+    {
+      "length": 41,
+      "labels": [
+        57,
+        75,
+        8,
+        5
+      ],
+      "minimum_alphabet": 27
+    }
+  ],
+  "subset_checks": 330,
+  "last_relaxation": {
+    "budgets": [
+      14,
+      26
+    ],
+    "deleted": [
+      60
+    ]
+  },
+  "seconds": 6.55534815788269
+}

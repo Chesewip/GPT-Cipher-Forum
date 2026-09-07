@@ -1,0 +1,391 @@
+{
+  "pattern_summaries": [
+    {
+      "run": [
+        1,
+        34,
+        1,
+        64,
+        26
+      ],
+      "length": 26,
+      "distinct_symbols": 20,
+      "repeat_constraints": 6,
+      "fixed_pattern_negative_log10_probability_no_doubles": 12.46555663918376,
+      "occurrences": [
+        [
+          1,
+          34
+        ],
+        [
+          1,
+          64
+        ]
+      ],
+      "distinct_literal_strings": 2
+    },
+    {
+      "run": [
+        2,
+        39,
+        2,
+        74,
+        24
+      ],
+      "length": 24,
+      "distinct_symbols": 18,
+      "repeat_constraints": 6,
+      "fixed_pattern_negative_log10_probability_no_doubles": 12.257022265043062,
+      "occurrences": [
+        [
+          2,
+          39
+        ],
+        [
+          2,
+          74
+        ]
+      ],
+      "distinct_literal_strings": 2
+    },
+    {
+      "run": [
+        0,
+        40,
+        0,
+        68,
+        10
+      ],
+      "length": 10,
+      "distinct_symbols": 7,
+      "repeat_constraints": 3,
+      "fixed_pattern_negative_log10_probability_no_doubles": 5.822723394045738,
+      "occurrences": [
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          1,
+          40
+        ],
+        [
+          1,
+          70
+        ],
+        [
+          2,
+          45
+        ],
+        [
+          2,
+          80
+        ]
+      ],
+      "distinct_literal_strings": 5
+    },
+    {
+      "run": [
+        1,
+        40,
+        2,
+        45,
+        11
+      ],
+      "length": 11,
+      "distinct_symbols": 7,
+      "repeat_constraints": 4,
+      "fixed_pattern_negative_log10_probability_no_doubles": 7.736537246429453,
+      "occurrences": [
+        [
+          1,
+          40
+        ],
+        [
+          1,
+          70
+        ],
+        [
+          2,
+          45
+        ],
+        [
+          2,
+          80
+        ]
+      ],
+      "distinct_literal_strings": 4
+    },
+    {
+      "run": [
+        1,
+        40,
+        2,
+        80,
+        11
+      ],
+      "length": 11,
+      "distinct_symbols": 7,
+      "repeat_constraints": 4,
+      "fixed_pattern_negative_log10_probability_no_doubles": 7.736537246429453,
+      "occurrences": [
+        [
+          1,
+          40
+        ],
+        [
+          1,
+          70
+        ],
+        [
+          2,
+          45
+        ],
+        [
+          2,
+          80
+        ]
+      ],
+      "distinct_literal_strings": 4
+    },
+    {
+      "run": [
+        3,
+        18,
+        4,
+        24,
+        14
+      ],
+      "length": 14,
+      "distinct_symbols": 12,
+      "repeat_constraints": 2,
+      "fixed_pattern_negative_log10_probability_no_doubles": 4.132216871625417,
+      "occurrences": [
+        [
+          3,
+          18
+        ],
+        [
+          4,
+          24
+        ],
+        [
+          5,
+          23
+        ]
+      ],
+      "distinct_literal_strings": 3
+    },
+    {
+      "run": [
+        3,
+        18,
+        5,
+        23,
+        14
+      ],
+      "length": 14,
+      "distinct_symbols": 12,
+      "repeat_constraints": 2,
+      "fixed_pattern_negative_log10_probability_no_doubles": 4.132216871625417,
+      "occurrences": [
+        [
+          3,
+          18
+        ],
+        [
+          4,
+          24
+        ],
+        [
+          5,
+          23
+        ]
+      ],
+      "distinct_literal_strings": 3
+    },
+    {
+      "run": [
+        6,
+        51,
+        7,
+        53,
+        12
+      ],
+      "length": 12,
+      "distinct_symbols": 9,
+      "repeat_constraints": 3,
+      "fixed_pattern_negative_log10_probability_no_doubles": 5.894476243140678,
+      "occurrences": [
+        [
+          6,
+          51
+        ],
+        [
+          7,
+          53
+        ],
+        [
+          8,
+          52
+        ]
+      ],
+      "distinct_literal_strings": 3
+    },
+    {
+      "run": [
+        6,
+        51,
+        8,
+        52,
+        12
+      ],
+      "length": 12,
+      "distinct_symbols": 9,
+      "repeat_constraints": 3,
+      "fixed_pattern_negative_log10_probability_no_doubles": 5.894476243140678,
+      "occurrences": [
+        [
+          6,
+          51
+        ],
+        [
+          7,
+          53
+        ],
+        [
+          8,
+          52
+        ]
+      ],
+      "distinct_literal_strings": 3
+    },
+    {
+      "run": [
+        6,
+        68,
+        7,
+        71,
+        33
+      ],
+      "length": 33,
+      "distinct_symbols": 26,
+      "repeat_constraints": 7,
+      "fixed_pattern_negative_log10_probability_no_doubles": 15.17276027631845,
+      "occurrences": [
+        [
+          6,
+          68
+        ],
+        [
+          7,
+          71
+        ]
+      ],
+      "distinct_literal_strings": 2
+    }
+  ],
+  "conditional_exclusion_sensitivity": {
+    "three_longest": {
+      "run_indices": [
+        0,
+        1,
+        9
+      ],
+      "top_cycle_statuses": [
+        "excluded_conditionally",
+        "relaxation_survives",
+        "relaxation_survives",
+        "relaxation_survives",
+        "relaxation_survives",
+        "excluded_conditionally",
+        "relaxation_survives",
+        "excluded_conditionally"
+      ]
+    },
+    "all_length_at_least_14": {
+      "run_indices": [
+        0,
+        1,
+        5,
+        6,
+        9
+      ],
+      "top_cycle_statuses": [
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "relaxation_survives",
+        "excluded_conditionally"
+      ]
+    },
+    "all_except_three_message_length_12_matches": {
+      "run_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "top_cycle_statuses": [
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally"
+      ]
+    },
+    "all": {
+      "run_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "top_cycle_statuses": [
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally",
+        "excluded_conditionally"
+      ]
+    }
+  },
+  "global_length_9_statistic": {
+    "definition": "Maximum number of distinct literal strings sharing any length-9 equality pattern with at least 3 repeat constraints.",
+    "observed": 5,
+    "null_trials": 2000,
+    "null_histogram": {
+      "1": 1199,
+      "0": 795,
+      "2": 3,
+      "3": 3
+    },
+    "null_exceedances": 0,
+    "monte_carlo_p_estimate_add_one": 0.0004997501249375312,
+    "caveat": "This compares against the stated random null only. It does not prove repeated plaintext or identify the cipher."
+  },
+  "seconds": 12.830422163009644
+}

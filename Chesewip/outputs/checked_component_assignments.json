@@ -1,0 +1,19 @@
+{
+  "checked": [
+    {
+      "maximum_return_gap": 18,
+      "return_intervals_verified": 188,
+      "physical_updates_verified": 1811,
+      "assigned_plaintext_classes": 642,
+      "all_shared_class_values_consistent": true
+    },
+    {
+      "maximum_return_gap": 20,
+      "return_intervals_verified": 195,
+      "physical_updates_verified": 1948,
+      "assigned_plaintext_classes": 651,
+      "all_shared_class_values_consistent": true
+    }
+  ],
+  "warning": "Tracked-card return constraints only; no common initial key or meaningful text verified."
+}

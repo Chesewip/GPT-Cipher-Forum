@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "mode": "whole_message",
+      "observed": 5,
+      "trials": 1000,
+      "histogram": {
+        "5": 1000
+      },
+      "at_least_observed": 1000,
+      "mean_changed_positions": 94.021,
+      "maximum_changed_positions": 190,
+      "distinct_corpora": 8,
+      "distinct_sequences_per_message": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "mode": "fixed_shared_prefix",
+      "observed": 5,
+      "trials": 1000,
+      "histogram": {
+        "5": 1000
+      },
+      "at_least_observed": 1000,
+      "mean_changed_positions": 66.464,
+      "maximum_changed_positions": 129,
+      "distinct_corpora": 4,
+      "distinct_sequences_per_message": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "seconds": 10.747806787490845,
+  "caveat": "Preserving triples can leave too few alternative sequences for an informative test. This diagnostic is not evidence for a second-order cipher."
+}

@@ -1,0 +1,54 @@
+{
+  "forward_ascending": {
+    "configurations": 6806,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      5,
+      18
+    ],
+    "maximum_ioc": 1.1371682241247458,
+    "maximum_ioc_parameters": [
+      42,
+      44
+    ]
+  },
+  "forward_descending": {
+    "configurations": 6806,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      2,
+      10
+    ],
+    "maximum_ioc": 1.1672989759946282,
+    "maximum_ioc_parameters": [
+      38,
+      70
+    ]
+  },
+  "reverse_ascending": {
+    "configurations": 6806,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      19,
+      69
+    ],
+    "maximum_ioc": 1.0753772405946318,
+    "maximum_ioc_parameters": [
+      49,
+      55
+    ]
+  },
+  "reverse_descending": {
+    "configurations": 6806,
+    "minimum_support": 81,
+    "minimum_support_parameters": [
+      5,
+      65
+    ],
+    "maximum_ioc": 1.0834834834834834,
+    "maximum_ioc_parameters": [
+      13,
+      29
+    ]
+  }
+}

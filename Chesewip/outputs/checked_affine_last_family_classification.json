@@ -1,0 +1,25 @@
+{
+  "status": "three_exact_multiplier_pairs",
+  "valid_multiplier_pairs": [
+    [
+      4,
+      24
+    ],
+    [
+      42,
+      30
+    ],
+    [
+      45,
+      7
+    ]
+  ],
+  "excluded_linear_survivor": [
+    52,
+    32
+  ],
+  "coordinate_equations_verified": 38,
+  "parameter_values_exhausted": 83,
+  "complete_bijective_embeddings_verified": 3,
+  "scope": "Combine with checked_affine_strong_linear.json stage-one coverage. Classification concerns the two last-family partial context maps only, under the recorded affine-coordinate normalization."
+}

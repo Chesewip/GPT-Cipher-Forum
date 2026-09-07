@@ -1,0 +1,97 @@
+{
+  "status": "verified",
+  "witnesses": [
+    {
+      "source": "incremental_eyes40_bv.json",
+      "stage": 0,
+      "control": false,
+      "prefix_length": 32,
+      "ciphertext_outputs": 288,
+      "original_equality_comparisons": 124,
+      "prefix_errors": 0,
+      "full_corpus_errors": 129,
+      "full_corpus_comparisons": 256,
+      "full_plaintext_support": 82,
+      "exact_planted_prefix_recovered": null
+    },
+    {
+      "source": "incremental_eyes40_bv.json",
+      "stage": 1,
+      "control": false,
+      "prefix_length": 33,
+      "ciphertext_outputs": 297,
+      "original_equality_comparisons": 126,
+      "prefix_errors": 0,
+      "full_corpus_errors": 127,
+      "full_corpus_comparisons": 256,
+      "full_plaintext_support": 82,
+      "exact_planted_prefix_recovered": null
+    },
+    {
+      "source": "incremental_eyes40_bv.json",
+      "stage": 2,
+      "control": false,
+      "prefix_length": 34,
+      "ciphertext_outputs": 306,
+      "original_equality_comparisons": 128,
+      "prefix_errors": 0,
+      "full_corpus_errors": 122,
+      "full_corpus_comparisons": 256,
+      "full_plaintext_support": 82,
+      "exact_planted_prefix_recovered": null
+    },
+    {
+      "source": "incremental_eyes40_simplified_bv.json",
+      "stage": 0,
+      "control": false,
+      "prefix_length": 32,
+      "ciphertext_outputs": 288,
+      "original_equality_comparisons": 124,
+      "prefix_errors": 0,
+      "full_corpus_errors": 129,
+      "full_corpus_comparisons": 256,
+      "full_plaintext_support": 82,
+      "exact_planted_prefix_recovered": null
+    },
+    {
+      "source": "incremental_eyes40_bv_extended.json",
+      "stage": 0,
+      "control": false,
+      "prefix_length": 32,
+      "ciphertext_outputs": 288,
+      "original_equality_comparisons": 124,
+      "prefix_errors": 0,
+      "full_corpus_errors": 129,
+      "full_corpus_comparisons": 256,
+      "full_plaintext_support": 82,
+      "exact_planted_prefix_recovered": null
+    },
+    {
+      "source": "incremental_eyes40_bv_extended.json",
+      "stage": 1,
+      "control": false,
+      "prefix_length": 33,
+      "ciphertext_outputs": 297,
+      "original_equality_comparisons": 126,
+      "prefix_errors": 0,
+      "full_corpus_errors": 127,
+      "full_corpus_comparisons": 256,
+      "full_plaintext_support": 82,
+      "exact_planted_prefix_recovered": null
+    },
+    {
+      "source": "incremental_eyes40_bv_extended.json",
+      "stage": 2,
+      "control": false,
+      "prefix_length": 34,
+      "ciphertext_outputs": 306,
+      "original_equality_comparisons": 128,
+      "prefix_errors": 0,
+      "full_corpus_errors": 122,
+      "full_corpus_comparisons": 256,
+      "full_plaintext_support": 82,
+      "exact_planted_prefix_recovered": null
+    }
+  ],
+  "warning": "Exact structural fits under the stated equality assumptions. Full-corpus failures and generated controls are reported separately. No authenticated plaintext."
+}
