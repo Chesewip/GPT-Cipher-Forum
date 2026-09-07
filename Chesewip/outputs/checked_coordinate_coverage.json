@@ -1,0 +1,12 @@
+{
+  "status": "Verified all-axis coverage under the stated shared routing; no plaintext recovered.",
+  "configurations": 37534,
+  "pigeonhole_certificates_checked": 112602,
+  "minimum_certificate_margin": 2,
+  "standard_prism_cases_verified": 546,
+  "control_mapping_witnesses_replayed": 1526,
+  "planted_control_symbols_replayed": 1029,
+  "control_parameter_minimizers_checked": 3,
+  "scattered_27_symbol_scope_counterexample_verified": true,
+  "scope": "Independent exhaustive routing/certificate check for real ciphertext. Control mappings and planted encodings replayed; discovery control global optimality not independently exhaustive-searched."
+}

@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 489,
-    "python_syntax_checks": 189,
-    "json_parse_checks": 271,
-    "authored_CRLF_checks": 486,
-    "output_manifest_entries": 438,
+    "files": 498,
+    "python_syntax_checks": 193,
+    "json_parse_checks": 275,
+    "authored_CRLF_checks": 495,
+    "output_manifest_entries": 447,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 479,
+    "imported_research_files": 488,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -268,6 +268,11 @@
       "path": "outputs/checked_context_prefix_witnesses.json",
       "bytes": 1557,
       "sha256": "177fae90575041708c0c8368eb859394e22b748953db3322527e3dcacf8d63ec"
+    },
+    {
+      "path": "outputs/checked_coordinate_coverage.json",
+      "bytes": 665,
+      "sha256": "feb4f0e4deef39ff2f90a52f5fe27d81e63a976e13fe3b9a5d1010b1931c1f4b"
     },
     {
       "path": "outputs/checked_core_guided_context.json",
@@ -698,6 +703,16 @@
       "path": "outputs/continuation.md",
       "bytes": 13505,
       "sha256": "8eec6177d28060abdefcbba7733493dab53f34764d7dcd0280511792922afeb4"
+    },
+    {
+      "path": "outputs/coordinate_coverage_certificates.json",
+      "bytes": 917314,
+      "sha256": "02415dc01b17e9d609bcb46e6dc92d1e346120b3158a7ded32d6f2bb4290df77"
+    },
+    {
+      "path": "outputs/coordinate_coverage_certificates.py",
+      "bytes": 4150,
+      "sha256": "968748c18b98799f1369ad84903cecd4913dc98447dd8276d55869f4e9ce74d5"
     },
     {
       "path": "outputs/core_guided_context_repair.py",
@@ -1261,8 +1276,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 73817,
-      "sha256": "b3e69f1ff6461c058fd32d82f4001aeb1d5d81ac36d352467d2f1322c7bcb7ca"
+      "bytes": 75356,
+      "sha256": "ca5ea1dc0a07863d450b09ce6704a37402cec2681fe60ee2dcf1b909bef910ac"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1336,8 +1351,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 2221733,
-      "sha256": "2bd7180662f226933469590c83cf70f6c93be0d4aa8f4350db71d94884b218ef"
+      "bytes": 2589921,
+      "sha256": "ce0f39486701ee6f7f9e52e10bdb1a9e9f2d9784153e45c87d07945a2362f46e"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1471,8 +1486,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 7957,
-      "sha256": "2543d2f2c4ae9386f7fa2e0f432bbfe0fc93e40d60f94fd73f57e1662a14a24a"
+      "bytes": 8465,
+      "sha256": "5eac4a98a65c7820047010b0daae08e07e01f729dc1ab47ffe5b9e2edd88b46f"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -1703,6 +1718,16 @@
       "path": "outputs/scan_control.json",
       "bytes": 364,
       "sha256": "538ad51e691f75278f7198f95ec9757056a6be58b8936f635f5c4be52ea19822"
+    },
+    {
+      "path": "outputs/scattered_coordinate_control.json",
+      "bytes": 25214,
+      "sha256": "6e54eef64757baff51ce34b68d407210f6ab834de38bdb1ff7a8c4328e8b6bd0"
+    },
+    {
+      "path": "outputs/scattered_coordinate_control.py",
+      "bytes": 1796,
+      "sha256": "c2a1ad965f1eefc1d6570c810cb35d87fd88065317a92bfa854794a773a0ce3c"
     },
     {
       "path": "outputs/shared-pattern-testing.md",
@@ -1985,6 +2010,21 @@
       "sha256": "af1fdaee31a89df5ea6f963246d608b67aa1765be191d5f68782396eff8a7f2e"
     },
     {
+      "path": "outputs/unknown-map-coordinate-findings.md",
+      "bytes": 10138,
+      "sha256": "f6f27ab5c783a3e4318d2268a06b842a063f4f560502ee9db996a07a4683b10a"
+    },
+    {
+      "path": "outputs/unknown_map_prism.json",
+      "bytes": 5946777,
+      "sha256": "e8fb46178a7f34e2693bc81000ed3f5bee53f4d5147acce44e9f5047711103e0"
+    },
+    {
+      "path": "outputs/unknown_map_prism.py",
+      "bytes": 6509,
+      "sha256": "fdd99bbb84f88b8cdfeecf222e46d85f00866ad01bd91536f6bd6afe5c4f6eed"
+    },
+    {
       "path": "outputs/unknown_shuffle.py",
       "bytes": 7949,
       "sha256": "3e770ced875bb7746956da97427c97734bc8159d70375bb6e00e126e0254f738"
@@ -2058,6 +2098,11 @@
       "path": "outputs/verify_context_prefix_witnesses.py",
       "bytes": 4215,
       "sha256": "a1c321194b51b6f4ab71408fb7e16700a8c534f49817aa340a6675e8065e2fca"
+    },
+    {
+      "path": "outputs/verify_coordinate_coverage.py",
+      "bytes": 7202,
+      "sha256": "66af189896ea6f45b4441509a53e09c240b74dbc026b7540f1eea079cae721ae"
     },
     {
       "path": "outputs/verify_cycle_bounds.py",
@@ -2226,8 +2271,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 147434,
-      "sha256": "028f6f12107f340922b669f0afeabf2e91d6deca94dc02910baa305da0c0c6a6"
+      "bytes": 150218,
+      "sha256": "63ada5d1812652339cae09b9056b463202e9005d7103bdac7c419bbfbeda631a"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2241,8 +2286,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6618,
-      "sha256": "1ec8fadc0e44af77a14be21f65d3a6413f18a7115c5ba6252f7a4e8eb406870b"
+      "bytes": 7039,
+      "sha256": "2482a20dc9343a7da0312bdc89f9143887259f837b8143aa324d3c30432ae3d0"
     },
     {
       "path": "REFERENCES.md",

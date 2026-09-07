@@ -257,6 +257,11 @@
       "bytes": 1557
     },
     {
+      "name": "checked_coordinate_coverage.json",
+      "sha256": "feb4f0e4deef39ff2f90a52f5fe27d81e63a976e13fe3b9a5d1010b1931c1f4b",
+      "bytes": 665
+    },
+    {
       "name": "checked_core_guided_context.json",
       "sha256": "efa0ae148751baa5504af42e0fb58e9318a159654f3368c6f53a20a59ce38109",
       "bytes": 1370
@@ -685,6 +690,16 @@
       "name": "continuation.md",
       "sha256": "8eec6177d28060abdefcbba7733493dab53f34764d7dcd0280511792922afeb4",
       "bytes": 13505
+    },
+    {
+      "name": "coordinate_coverage_certificates.json",
+      "sha256": "02415dc01b17e9d609bcb46e6dc92d1e346120b3158a7ded32d6f2bb4290df77",
+      "bytes": 917314
+    },
+    {
+      "name": "coordinate_coverage_certificates.py",
+      "sha256": "968748c18b98799f1369ad84903cecd4913dc98447dd8276d55869f4e9ce74d5",
+      "bytes": 4150
     },
     {
       "name": "core_guided_context_repair.py",
@@ -1448,8 +1463,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "2543d2f2c4ae9386f7fa2e0f432bbfe0fc93e40d60f94fd73f57e1662a14a24a",
-      "bytes": 7957
+      "sha256": "5eac4a98a65c7820047010b0daae08e07e01f729dc1ab47ffe5b9e2edd88b46f",
+      "bytes": 8465
     },
     {
       "name": "reconvergence_controls.json",
@@ -1680,6 +1695,16 @@
       "name": "scan_control.json",
       "sha256": "538ad51e691f75278f7198f95ec9757056a6be58b8936f635f5c4be52ea19822",
       "bytes": 364
+    },
+    {
+      "name": "scattered_coordinate_control.json",
+      "sha256": "6e54eef64757baff51ce34b68d407210f6ab834de38bdb1ff7a8c4328e8b6bd0",
+      "bytes": 25214
+    },
+    {
+      "name": "scattered_coordinate_control.py",
+      "sha256": "c2a1ad965f1eefc1d6570c810cb35d87fd88065317a92bfa854794a773a0ce3c",
+      "bytes": 1796
     },
     {
       "name": "shared-pattern-testing.md",
@@ -1962,6 +1987,21 @@
       "bytes": 518
     },
     {
+      "name": "unknown-map-coordinate-findings.md",
+      "sha256": "f6f27ab5c783a3e4318d2268a06b842a063f4f560502ee9db996a07a4683b10a",
+      "bytes": 10138
+    },
+    {
+      "name": "unknown_map_prism.json",
+      "sha256": "e8fb46178a7f34e2693bc81000ed3f5bee53f4d5147acce44e9f5047711103e0",
+      "bytes": 5946777
+    },
+    {
+      "name": "unknown_map_prism.py",
+      "sha256": "fdd99bbb84f88b8cdfeecf222e46d85f00866ad01bd91536f6bd6afe5c4f6eed",
+      "bytes": 6509
+    },
+    {
       "name": "unknown_shuffle.py",
       "sha256": "3e770ced875bb7746956da97427c97734bc8159d70375bb6e00e126e0254f738",
       "bytes": 7949
@@ -2035,6 +2075,11 @@
       "name": "verify_context_prefix_witnesses.py",
       "sha256": "a1c321194b51b6f4ab71408fb7e16700a8c534f49817aa340a6675e8065e2fca",
       "bytes": 4215
+    },
+    {
+      "name": "verify_coordinate_coverage.py",
+      "sha256": "66af189896ea6f45b4441509a53e09c240b74dbc026b7540f1eea079cae721ae",
+      "bytes": 7202
     },
     {
       "name": "verify_cycle_bounds.py",

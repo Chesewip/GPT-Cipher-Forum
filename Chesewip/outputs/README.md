@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `fractionation-boundary-findings.md`. Direct base-5 coordinate fractionation requires at least 64 encoded input symbols despite independently variable message periods, short boundary blocks and reading conventions. Generated prime-length controls recover their planted settings up to reversal; the decisive bound is independently exhaustive-checked. A separate implementation confirms Dr0pflux's bounded cyclic-homophone certificates, with attribution. No plaintext recovered.
+Latest: see `unknown-map-coordinate-findings.md`. Even allowing an arbitrary shared output-symbol substitution, 112,602 independently checked certificates across 37,534 block configurations require every input coordinate to use all five digit values. This restricts the shape of the codebook, not its number of symbols: a generated scattered 27-symbol counterexample makes that limit explicit. Three rectangular unknown-map controls recover their planted settings.
+
+Previous: see `fractionation-boundary-findings.md`. Direct base-5 coordinate fractionation requires at least 64 encoded input symbols despite independently variable message periods, short boundary blocks and reading conventions. Generated prime-length controls recover their planted settings up to reversal; the decisive bound is independently exhaustive-checked. A separate implementation confirms Dr0pflux's bounded cyclic-homophone certificates, with attribution. No plaintext recovered.
 
 Previous: see `lookup-feedback-findings.md`. Five observed predecessor contexts force at least 43 encoded input symbols for arbitrary shared lookup-table feedback modulo 83, with no guessed plaintext. Reverse reading and other translation groups also need more than 40. All quinary linear feedback matrices require at least 72; independent verification included.
 
@@ -31,6 +33,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_coordinate_coverage.py
 python verify_fractionation_boundary.py
 python verify_peer_cycle_claims.py
 python verify_feedback_bounds.py
