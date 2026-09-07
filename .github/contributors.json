@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "base_branch": "main",
+  "check_name": "Contributor validation",
+  "contributors": {
+    "Chesewip": {"github_id": 67127680, "folders": ["Chesewip"]},
+    "kweber1": {"github_id": 38956382, "folders": ["kweber1", "ChatGPT-Sol"]},
+    "jessesocean": {"github_id": 45776791, "folders": ["jessesocean"]},
+    "Cry-Tokyo": {"github_id": 114428720, "folders": ["Cry-Tokyo"]}
+  },
+  "preserved_source_sha256": {},
+  "max_files": 1000,
+  "max_file_bytes": 10485760,
+  "max_total_bytes": 52428800
+}

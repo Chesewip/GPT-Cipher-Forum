@@ -1,0 +1,44 @@
+name: Contributor auto-merge
+
+on:
+  pull_request_target:
+    branches: [main]
+    types: [opened, reopened, synchronize, ready_for_review, edited, labeled, unlabeled]
+  workflow_dispatch:
+    inputs:
+      pull_request:
+        description: 'PR number to check; blank checks every open PR'
+        required: false
+        type: string
+
+permissions: {}
+
+concurrency:
+  group: contributor-auto-merge-${{ github.event.pull_request.number || inputs.pull_request || 'all' }}
+  cancel-in-progress: false
+
+jobs:
+  validate-and-merge:
+    name: Inspect contributor submission
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+      checks: write
+    steps:
+      - name: Check out trusted default-branch automation only
+        id: trusted
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          persist-credentials: false
+          sparse-checkout: .github
+      - name: Test automation policy
+        run: python3 -I -m unittest discover -s .github/scripts -p 'test_*.py' -v
+      - name: Inspect PR blobs and enable eligible merges
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pull_request }}
+          TRUSTED_BASE_SHA: ${{ steps.trusted.outputs.commit }}
+        run: python3 -I .github/scripts/contributor_auto_merge.py
