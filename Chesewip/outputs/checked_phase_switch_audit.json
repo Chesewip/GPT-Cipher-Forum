@@ -1,0 +1,97 @@
+{
+  "status": "verified",
+  "full_phase_exact_minimum": 9,
+  "full_phase_forced_inverse_rows": [
+    8,
+    9,
+    19,
+    42,
+    48,
+    54,
+    70,
+    73,
+    75
+  ],
+  "trimmed_phase_forced_inverse_rows": [
+    8,
+    9,
+    19,
+    54,
+    70,
+    73,
+    75
+  ],
+  "backward_steps": [
+    {
+      "from_E4_raw": 70,
+      "to_E4_raw": 69,
+      "previous_top_pair": [
+        57,
+        6
+      ],
+      "later_E4_raw_observations": [
+        95
+      ]
+    },
+    {
+      "from_E4_raw": 69,
+      "to_E4_raw": 68,
+      "previous_top_pair": [
+        79,
+        9
+      ],
+      "later_E4_raw_observations": [
+        86
+      ]
+    }
+  ],
+  "physical_update_pair_checks": 6948,
+  "arbitrary_injective_tail_and_bottom_shuffle_checks": 1920,
+  "noninjective_scope_counterexample": {
+    "initial_decks": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    ],
+    "selections": [
+      1,
+      2
+    ],
+    "common_third_position": 3,
+    "final_decks": [
+      [
+        1,
+        3,
+        2,
+        0,
+        4
+      ],
+      [
+        2,
+        1,
+        3,
+        0,
+        4
+      ]
+    ],
+    "old_top_pair_preserved": true,
+    "changed_relative_entries": 3
+  },
+  "unit_neighbor_83_card_distinct_input_supports": [
+    4,
+    5
+  ],
+  "conclusion": "The two specified repeated-plaintext alignments cannot both hold for anchored three-cycles with a common injective third-position rule and a common output-fixing shuffle. This includes all fixed nonzero cyclic neighbor offsets and every fixed bottom shuffle. Arbitrary keys and independent entry decks are allowed.",
+  "limitation": "No authentic plaintext recovered; noninjective third-position rules, other deck updates, and different plaintext alignments remain unexcluded."
+}

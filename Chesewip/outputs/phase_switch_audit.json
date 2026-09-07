@@ -1,0 +1,915 @@
+{
+  "status": "Conditional injective-tail three-card exclusion from two trimmed phase alignments; cipher unsolved.",
+  "source": "https://github.com/mvelzel/eye-vibe/blob/main/docs/thirty-second-synchronizing-bridge-results-2026-07-26.md",
+  "corpus_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+  "coordinates": "Zero-based raw ciphertext; first marker included in raw indexing. Ranges end-exclusive.",
+  "windows": {
+    "E4": [
+      48,
+      98
+    ],
+    "E5": [
+      49,
+      99
+    ],
+    "split": 20
+  },
+  "bridge": {
+    "edges": [
+      [
+        5,
+        67
+      ],
+      [
+        11,
+        53
+      ],
+      [
+        25,
+        26
+      ],
+      [
+        26,
+        54
+      ],
+      [
+        34,
+        55
+      ],
+      [
+        38,
+        8
+      ],
+      [
+        45,
+        34
+      ],
+      [
+        47,
+        7
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        58,
+        32
+      ],
+      [
+        68,
+        30
+      ],
+      [
+        69,
+        31
+      ],
+      [
+        73,
+        46
+      ],
+      [
+        75,
+        48
+      ],
+      [
+        78,
+        75
+      ],
+      [
+        79,
+        19
+      ]
+    ],
+    "signature": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      4,
+      11,
+      3,
+      6,
+      12,
+      13,
+      4,
+      14,
+      15
+    ]
+  },
+  "late": {
+    "edges": [
+      [
+        3,
+        44
+      ],
+      [
+        4,
+        60
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        18,
+        45
+      ],
+      [
+        22,
+        23
+      ],
+      [
+        26,
+        73
+      ],
+      [
+        31,
+        33
+      ],
+      [
+        33,
+        62
+      ],
+      [
+        40,
+        21
+      ],
+      [
+        42,
+        20
+      ],
+      [
+        43,
+        80
+      ],
+      [
+        49,
+        51
+      ],
+      [
+        56,
+        5
+      ],
+      [
+        57,
+        6
+      ],
+      [
+        59,
+        12
+      ],
+      [
+        60,
+        25
+      ],
+      [
+        62,
+        8
+      ],
+      [
+        63,
+        76
+      ],
+      [
+        65,
+        40
+      ],
+      [
+        67,
+        22
+      ],
+      [
+        69,
+        31
+      ],
+      [
+        75,
+        42
+      ],
+      [
+        77,
+        41
+      ],
+      [
+        78,
+        70
+      ],
+      [
+        79,
+        9
+      ]
+    ],
+    "signature": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      0,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      20,
+      1,
+      24,
+      15
+    ]
+  },
+  "exact_distance": {
+    "minimum_changed_entries": 9,
+    "maximum_agreements": 74,
+    "completions": [
+      [
+        0,
+        1,
+        2,
+        44,
+        60,
+        67,
+        3,
+        10,
+        4,
+        11,
+        13,
+        53,
+        14,
+        15,
+        16,
+        17,
+        18,
+        24,
+        45,
+        27,
+        28,
+        29,
+        23,
+        35,
+        36,
+        26,
+        54,
+        37,
+        38,
+        39,
+        43,
+        33,
+        47,
+        62,
+        55,
+        49,
+        50,
+        52,
+        8,
+        56,
+        21,
+        57,
+        20,
+        80,
+        58,
+        34,
+        59,
+        7,
+        61,
+        51,
+        71,
+        63,
+        64,
+        65,
+        66,
+        68,
+        5,
+        6,
+        32,
+        12,
+        25,
+        69,
+        9,
+        76,
+        72,
+        40,
+        74,
+        22,
+        30,
+        31,
+        77,
+        78,
+        79,
+        46,
+        81,
+        48,
+        82,
+        41,
+        75,
+        19,
+        42,
+        70,
+        73
+      ],
+      [
+        0,
+        1,
+        2,
+        44,
+        60,
+        67,
+        3,
+        10,
+        4,
+        11,
+        13,
+        53,
+        14,
+        15,
+        16,
+        17,
+        18,
+        24,
+        45,
+        27,
+        28,
+        29,
+        23,
+        35,
+        36,
+        26,
+        73,
+        37,
+        38,
+        39,
+        43,
+        33,
+        47,
+        62,
+        55,
+        49,
+        50,
+        52,
+        19,
+        56,
+        21,
+        57,
+        20,
+        80,
+        58,
+        34,
+        59,
+        7,
+        61,
+        51,
+        71,
+        63,
+        64,
+        65,
+        66,
+        68,
+        5,
+        6,
+        32,
+        12,
+        25,
+        69,
+        8,
+        76,
+        72,
+        40,
+        74,
+        22,
+        30,
+        31,
+        77,
+        78,
+        79,
+        46,
+        81,
+        42,
+        82,
+        41,
+        70,
+        9,
+        48,
+        54,
+        75
+      ]
+    ]
+  },
+  "six_observation_certificate": [
+    {
+      "source_label": 75,
+      "old_target": 48,
+      "new_target": 42,
+      "bridge_positions_zero_based": [
+        48,
+        49
+      ],
+      "late_positions_zero_based": [
+        75,
+        76
+      ]
+    },
+    {
+      "source_label": 79,
+      "old_target": 19,
+      "new_target": 9,
+      "bridge_positions_zero_based": [
+        56,
+        57
+      ],
+      "late_positions_zero_based": [
+        68,
+        69
+      ]
+    },
+    {
+      "source_label": 26,
+      "old_target": 54,
+      "new_target": 73,
+      "bridge_positions_zero_based": [
+        67,
+        68
+      ],
+      "late_positions_zero_based": [
+        90,
+        91
+      ]
+    }
+  ],
+  "valid_single_change_cuts": [
+    {
+      "split": 20,
+      "minimum_changed_entries": 9
+    }
+  ],
+  "trimming_sensitivity": [
+    {
+      "trim": 0,
+      "minimum_changed_entries": 9,
+      "transitions_between_retained_phases": 1,
+      "unit_neighbor_backward_steps": [],
+      "earliest_forced_late_relation": 20,
+      "remaining_transition_budget": 1,
+      "unit_neighbor_excluded": true,
+      "note": "Backward propagation uses the injective neighbor function; it is not valid for arbitrary positional updates."
+    },
+    {
+      "trim": 1,
+      "minimum_changed_entries": 7,
+      "transitions_between_retained_phases": 2,
+      "unit_neighbor_backward_steps": [
+        {
+          "current_local_output": 21,
+          "previous_output_pair": [
+            79,
+            9
+          ],
+          "repeated_at_local_outputs": [
+            38
+          ]
+        }
+      ],
+      "earliest_forced_late_relation": 20,
+      "remaining_transition_budget": 1,
+      "unit_neighbor_excluded": true,
+      "note": "Backward propagation uses the injective neighbor function; it is not valid for arbitrary positional updates."
+    },
+    {
+      "trim": 2,
+      "minimum_changed_entries": 7,
+      "transitions_between_retained_phases": 3,
+      "unit_neighbor_backward_steps": [
+        {
+          "current_local_output": 22,
+          "previous_output_pair": [
+            57,
+            6
+          ],
+          "repeated_at_local_outputs": [
+            47
+          ]
+        },
+        {
+          "current_local_output": 21,
+          "previous_output_pair": [
+            79,
+            9
+          ],
+          "repeated_at_local_outputs": [
+            38
+          ]
+        }
+      ],
+      "earliest_forced_late_relation": 20,
+      "remaining_transition_budget": 1,
+      "unit_neighbor_excluded": true,
+      "note": "Backward propagation uses the injective neighbor function; it is not valid for arbitrary positional updates."
+    },
+    {
+      "trim": 3,
+      "minimum_changed_entries": 7,
+      "transitions_between_retained_phases": 4,
+      "unit_neighbor_backward_steps": [],
+      "earliest_forced_late_relation": 23,
+      "remaining_transition_budget": 4,
+      "unit_neighbor_excluded": false,
+      "note": "Backward propagation uses the injective neighbor function; it is not valid for arbitrary positional updates."
+    },
+    {
+      "trim": 4,
+      "minimum_changed_entries": 7,
+      "transitions_between_retained_phases": 5,
+      "unit_neighbor_backward_steps": [],
+      "earliest_forced_late_relation": 24,
+      "remaining_transition_budget": 5,
+      "unit_neighbor_excluded": false,
+      "note": "Backward propagation uses the injective neighbor function; it is not valid for arbitrary positional updates."
+    },
+    {
+      "trim": 5,
+      "minimum_changed_entries": 7,
+      "transitions_between_retained_phases": 6,
+      "unit_neighbor_backward_steps": [],
+      "earliest_forced_late_relation": 25,
+      "remaining_transition_budget": 6,
+      "unit_neighbor_excluded": false,
+      "note": "Backward propagation uses the injective neighbor function; it is not valid for arbitrary positional updates."
+    }
+  ],
+  "saved_key_checks": [
+    {
+      "source": "incremental_eyes40_bv.json",
+      "fitted_prefix": 32,
+      "rotation": 9,
+      "window_plaintext_disagreements": 50,
+      "local_disagreement_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "source": "incremental_eyes40_bv.json",
+      "fitted_prefix": 33,
+      "rotation": 9,
+      "window_plaintext_disagreements": 50,
+      "local_disagreement_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "source": "incremental_eyes40_bv.json",
+      "fitted_prefix": 34,
+      "rotation": 9,
+      "window_plaintext_disagreements": 50,
+      "local_disagreement_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "source": "context_entry_eyes32_b9_compact.json",
+      "fitted_prefix": 32,
+      "rotation": 9,
+      "window_plaintext_disagreements": 50,
+      "local_disagreement_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "source": "context_entry_eyes32_b12_compact.json",
+      "fitted_prefix": 32,
+      "rotation": 12,
+      "window_plaintext_disagreements": 50,
+      "local_disagreement_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    }
+  ],
+  "trimmed_unit_neighbor_exclusion": {
+    "assumed_plaintext_equalities": [
+      [
+        6,
+        51,
+        8,
+        52,
+        17
+      ],
+      [
+        6,
+        71,
+        8,
+        72,
+        27
+      ]
+    ],
+    "equality_format": "message_index, raw_start, message_index, raw_start, length",
+    "initial_observed_relations": [
+      [
+        6,
+        50,
+        8,
+        51,
+        18
+      ],
+      [
+        6,
+        70,
+        8,
+        71,
+        28
+      ]
+    ],
+    "late_relation_forced_back_to_raw": [
+      68,
+      69
+    ],
+    "minimum_relation_changes": 7,
+    "maximum_changes_in_remaining_transition": 5,
+    "scope": "Unit-neighbor three-cycle followed by any common fixed bottom rotation; arbitrary independent entry decks. First three input positions of each full phase are initially unconstrained."
+  },
+  "broader_proven_scope": "The same proof applies to any fixed injective third-position rule with no self-neighbor, followed by any common fixed permutation of the bottom positions. See the independent verifier.",
+  "ciphertext_only_row_bound": {
+    "forward": 6,
+    "inverse": 9,
+    "minimum_differences_for_support_5": 2
+  },
+  "controls": {
+    "exhaustive_completion_checks": {
+      "3": 1156,
+      "4": 400,
+      "5": 400
+    },
+    "generated_physical_deck_pairs": 240
+  },
+  "limitations": [
+    "Pattern isomorphism does not establish equal plaintext.",
+    "No full deck family is excluded without the stated one-boundary plaintext assumption.",
+    "Two arbitrary permutation completions are not a cipher key or reachable deck states.",
+    "At least two input differences is a lower bound, not proof that two suffice.",
+    "Phase observation is prior work; this applies our existing entry-change method to it."
+  ]
+}

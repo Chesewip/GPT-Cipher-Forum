@@ -337,6 +337,11 @@
       "bytes": 250
     },
     {
+      "name": "checked_phase_switch_audit.json",
+      "sha256": "50d400c40d8e7c4974ef1898b4f2153a8d45c63543aa01458d9e78d1aa3e6a6a",
+      "bytes": 1948
+    },
+    {
       "name": "checked_plaintext_change_bounds.json",
       "sha256": "f45d938f4597d3c5c75c23bdd578d68b6c5a309b0e4c0e0a1868d9688a5bb671",
       "bytes": 470
@@ -1247,6 +1252,21 @@
       "bytes": 6336
     },
     {
+      "name": "phase-switch-findings.md",
+      "sha256": "ecc3114112a965b1944e2bed1e4c26c2f65acbb5480a6c0d6d64357079546726",
+      "bytes": 9376
+    },
+    {
+      "name": "phase_switch_audit.json",
+      "sha256": "753c0935862ebc9d8398c3841a8acb037e251185515e9d1c32aee0dc00d2ee09",
+      "bytes": 15495
+    },
+    {
+      "name": "phase_switch_audit.py",
+      "sha256": "fd5b53787d0ff5648d9db11b11f27ef7de2ef81cd95c78c8c13133064eab6ed5",
+      "bytes": 12368
+    },
+    {
       "name": "plaintext-difference-findings.md",
       "sha256": "4c2a6a637060b70d15931eb72c93cb9b45a91c0efbed01fffde849409eb762c3",
       "bytes": 11744
@@ -1288,8 +1308,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "1bb3f82ed2af0082daf2105a5bea886108a2f511e03d61799137d30ab17ffa92",
-      "bytes": 5745
+      "sha256": "9b6db6af67f2deb2680dcbb16fedbf7376636406556736f2537209f5d1662076",
+      "bytes": 6187
     },
     {
       "name": "reconvergence_controls.json",
@@ -1935,6 +1955,11 @@
       "name": "verify_nonreturn_refinement.py",
       "sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34",
       "bytes": 2335
+    },
+    {
+      "name": "verify_phase_switch_audit.py",
+      "sha256": "0975bb89bcc0a707c93b96501cebbecee09ca5f558f7ec82e99bf9543e32e146",
+      "bytes": 7601
     },
     {
       "name": "verify_plaintext_change_bounds.py",

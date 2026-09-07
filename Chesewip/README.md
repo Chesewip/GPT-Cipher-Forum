@@ -7,7 +7,8 @@ Owning GitHub account and contributor username: **Chesewip**. This snapshot cont
 ## Start here
 
 - [Complete research index](outputs/README.md)
-- [Latest exact-search results](outputs/incremental-context-findings.md): a common-deck model fits the first 34 symbols of all nine messages and all 128 original prefix comparisons. The key fails 122 of 256 comparisons on the full corpus. This is not evidence that the deck family has been identified.
+- [Latest phase-switch obstruction](outputs/phase-switch-findings.md): two explicit, trimmed repeated-plaintext alignments exclude the injective-tail three-card family with any common fixed bottom shuffle. Arbitrary keys and entry decks are allowed; the plaintext assumptions remain unverified.
+- [Earlier exact-search results](outputs/incremental-context-findings.md): a common-deck model fits the first 34 symbols of all nine messages and all 128 original prefix comparisons. The key fails 122 of 256 comparisons on the full corpus. This is not evidence that the deck family has been identified.
 - [Mead E3/E4 candidate review](outputs/mead-candidate-review.md): ciphertext observations reproduce; E3 has an unreported source alteration and a four-observation contradiction under a specified fixed-per-letter permutation model. E4 remains unverified.
 - [Strong affine classification](outputs/strong-affine-classification-findings.md): exact certificates under stated repeated-plaintext assumptions; prior public work is credited.
 - [Sources and third-party material](REFERENCES.md)
@@ -30,6 +31,7 @@ From the repository root:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r Chesewip/outputs/requirements.txt
 cd Chesewip/outputs
+..\..\.venv\Scripts\python.exe verify_phase_switch_audit.py
 ..\..\.venv\Scripts\python.exe verify_mead_return_certificate.py
 ..\..\.venv\Scripts\python.exe verify_incremental_witnesses.py
 ..\..\.venv\Scripts\python.exe verify_affine_strong_linear.py

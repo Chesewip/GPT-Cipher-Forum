@@ -36,3 +36,7 @@ These folders are ignored by this repository. Some verifiers record whether the 
 ## Licensing and attribution
 
 No repository-wide license has been chosen for the original research in this initial publication. Publication is not a representation that third-party material has been relicensed. Retain source attribution, respect the licenses attached to included corpora and external code, and obtain the relevant owner's authorization before adding or changing a license.
+
+## Phase-switch continuation
+
+The E4/W4/E5 bridge and adjacent late-phase observations come from [mvelzel/eye-vibe, synchronizing-bridge analysis](https://github.com/mvelzel/eye-vibe/blob/main/docs/thirty-second-synchronizing-bridge-results-2026-07-26.md). Our `outputs/phase-switch-findings.md` independently reconstructs the relevant maps and derives a conditional small-update obstruction. It does not replicate that source's statistical controls or adopt its broader interpretation.

@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 448,
-    "python_syntax_checks": 172,
-    "json_parse_checks": 253,
-    "authored_CRLF_checks": 445,
-    "output_manifest_entries": 398,
+    "files": 453,
+    "python_syntax_checks": 174,
+    "json_parse_checks": 255,
+    "authored_CRLF_checks": 450,
+    "output_manifest_entries": 403,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 439,
+    "imported_research_files": 444,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -348,6 +348,11 @@
       "path": "outputs/checked_nonreturn_refinement.json",
       "bytes": 250,
       "sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7"
+    },
+    {
+      "path": "outputs/checked_phase_switch_audit.json",
+      "bytes": 1948,
+      "sha256": "50d400c40d8e7c4974ef1898b4f2153a8d45c63543aa01458d9e78d1aa3e6a6a"
     },
     {
       "path": "outputs/checked_plaintext_change_bounds.json",
@@ -1166,8 +1171,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 67101,
-      "sha256": "4fc78a4cc77201a0bdcd1c57b0140ece0e5d600cd58d1abe8da9726610eb48bd"
+      "bytes": 67930,
+      "sha256": "c32369fa8f0b40271f20d98725a15526bf00ee8206276acbc6c047ee6b4fa025"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1241,8 +1246,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 1754514,
-      "sha256": "7402f641218affe50e1f1bc710cb38dccfd51ce2b8cd35744067cd68b53cdebd"
+      "bytes": 1769733,
+      "sha256": "4d8e551f32e681feba43017b40724224ecfa63cacf788d933b8b39d0347c8929"
     },
     {
       "path": "outputs/partial_phrase_results.json",
@@ -1268,6 +1273,21 @@
       "path": "outputs/permutation_action_fold.py",
       "bytes": 6336,
       "sha256": "4c7beb0eeb2a741cb6b14218cacfad536d9b10c023a84fd82becedd31322af80"
+    },
+    {
+      "path": "outputs/phase-switch-findings.md",
+      "bytes": 9376,
+      "sha256": "ecc3114112a965b1944e2bed1e4c26c2f65acbb5480a6c0d6d64357079546726"
+    },
+    {
+      "path": "outputs/phase_switch_audit.json",
+      "bytes": 15495,
+      "sha256": "753c0935862ebc9d8398c3841a8acb037e251185515e9d1c32aee0dc00d2ee09"
+    },
+    {
+      "path": "outputs/phase_switch_audit.py",
+      "bytes": 12368,
+      "sha256": "fd5b53787d0ff5648d9db11b11f27ef7de2ef81cd95c78c8c13133064eab6ed5"
     },
     {
       "path": "outputs/plaintext-difference-findings.md",
@@ -1311,8 +1331,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 5745,
-      "sha256": "1bb3f82ed2af0082daf2105a5bea886108a2f511e03d61799137d30ab17ffa92"
+      "bytes": 6187,
+      "sha256": "9b6db6af67f2deb2680dcbb16fedbf7376636406556736f2537209f5d1662076"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -1960,6 +1980,11 @@
       "sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34"
     },
     {
+      "path": "outputs/verify_phase_switch_audit.py",
+      "bytes": 7601,
+      "sha256": "0975bb89bcc0a707c93b96501cebbecee09ca5f558f7ec82e99bf9543e32e146"
+    },
+    {
       "path": "outputs/verify_plaintext_change_bounds.py",
       "bytes": 2699,
       "sha256": "60614d420183e4474ca590e798054812bb56b883c802c3e3fa6c4787b573678b"
@@ -2021,8 +2046,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 135177,
-      "sha256": "1e2f8a7ab1b903009f39da0bf1171f6e265fcb6e32cfa5869c4118915820be7e"
+      "bytes": 136699,
+      "sha256": "a1b6a6f462618287a5e06aaa5d88fa7dac579612cc54be8f3cfa23883fd5aa94"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2036,13 +2061,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4660,
-      "sha256": "27f96f117e5482dc9d151b6d4a71e37fb39b54fb1c9750e2462bb0a99b733899"
+      "bytes": 5018,
+      "sha256": "2246cc7f3df64dcb52c9be79c8cf7219a1ad0ac88a625b766ceb5ab49e0194da"
     },
     {
       "path": "REFERENCES.md",
-      "bytes": 4101,
-      "sha256": "1514f291cdd476786a09ed477918f8d229986dce0c1d8e54d1bbbf07d7b52144"
+      "bytes": 4593,
+      "sha256": "f70228bd47bcaf3c488321c0b6aaf602f2b9c313dc39298040ea25ef8671d2d6"
     },
     {
       "path": "work/annotate_vote_parameters.py",
