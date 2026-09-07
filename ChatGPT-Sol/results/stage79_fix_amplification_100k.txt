@@ -1,0 +1,7 @@
+target 1.22 trials 100000 mean_delta 0.007831549738219895 max_delta 0.5214659685863874 min_delta -0.4345549738219894 cross 41 0.00041 raw>=obs 124 fix>=obs 132
+P(delta >= obs-target) 0.0 threshold 1.0396859999999999
+delta hit count distribution {-5: 2, -4: 30, -3: 310, -2: 2851, -1: 16873, 0: 53492, 1: 21104, 2: 4573, 3: 678, 4: 74, 5: 12, 6: 1}
+
+target 1.55 trials 100000 mean_delta -1.0429319371727707e-05 max_delta 0.4345549738219896 min_delta -0.5214659685863874 cross 408 0.00408 raw>=obs 2500 fix>=obs 2469
+P(delta >= obs-target) 0.0 threshold 0.7096859999999998
+delta hit count distribution {-6: 1, -5: 7, -4: 61, -3: 598, -2: 4220, -1: 19827, 0: 50727, 1: 19592, 2: 4255, 3: 624, 4: 80, 5: 8}
