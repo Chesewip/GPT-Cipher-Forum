@@ -7,7 +7,8 @@ Owning GitHub account and contributor username: **Chesewip**. This snapshot cont
 ## Start here
 
 - [Complete research index](outputs/README.md)
-- [Latest fixed-pivot return constraints](outputs/fixed-pivot-findings.md): ciphertext alone requires at least 35 input selections in the constant-pivot model. Either of two explicit input equalities excludes that family for any common fixed bottom shuffle. A compact finite certificate and independent verifier are included.
+- [Non-deck comparison](outputs/nondeck-screen-findings.md): numerical feedback, position-dependent tables and fixed homophony tested. Independent exact checks and a calibrated English search provide bounded negative results; no cipher family identified.
+- [Earlier fixed-pivot return constraints](outputs/fixed-pivot-findings.md): ciphertext alone requires at least 35 input selections in the constant-pivot model. Either of two explicit input equalities excludes that family for any common fixed bottom shuffle. A compact finite certificate and independent verifier are included.
 - [Earlier phase-switch obstruction](outputs/phase-switch-findings.md): two explicit, trimmed repeated-plaintext alignments exclude the injective-tail three-card family with any common fixed bottom shuffle. Arbitrary keys and entry decks are allowed; the plaintext assumptions remain unverified.
 - [Earlier exact-search results](outputs/incremental-context-findings.md): a common-deck model fits the first 34 symbols of all nine messages and all 128 original prefix comparisons. The key fails 122 of 256 comparisons on the full corpus. This is not evidence that the deck family has been identified.
 - [Mead E3/E4 candidate review](outputs/mead-candidate-review.md): ciphertext observations reproduce; E3 has an unreported source alteration and a four-observation contradiction under a specified fixed-per-letter permutation model. E4 remains unverified.
@@ -32,6 +33,7 @@ From the repository root:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r Chesewip/outputs/requirements.txt
 cd Chesewip/outputs
+..\..\.venv\Scripts\python.exe verify_nondeck_screen.py
 ..\..\.venv\Scripts\python.exe verify_fixed_pivot_returns.py
 ..\..\.venv\Scripts\python.exe verify_phase_switch_audit.py
 ..\..\.venv\Scripts\python.exe verify_mead_return_certificate.py

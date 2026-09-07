@@ -1,0 +1,63 @@
+{
+  "status": "verified; cipher remains unsolved",
+  "numeric_coefficient_pairs_checked": 45028,
+  "numeric_results": [
+    {
+      "family": "feedback2",
+      "modulus": 83,
+      "minimum_support": 82
+    },
+    {
+      "family": "feedback2",
+      "modulus": 125,
+      "minimum_support": 83
+    },
+    {
+      "family": "drift_header",
+      "modulus": 83,
+      "minimum_support": 82
+    },
+    {
+      "family": "drift_header",
+      "modulus": 125,
+      "minimum_support": 83
+    }
+  ],
+  "table_closure_checks": 642,
+  "explicit_collision_paths_checked": 200,
+  "homophonic_components": [
+    {
+      "stage": "within_only",
+      "maximum_plaintext_symbols": 57,
+      "largest_forced_fraction": 0.10905550146056475
+    },
+    {
+      "stage": "earlier_contexts",
+      "maximum_plaintext_symbols": 46,
+      "largest_forced_fraction": 0.2804284323271665
+    },
+    {
+      "stage": "with_late_family",
+      "maximum_plaintext_symbols": 18,
+      "largest_forced_fraction": 0.8422590068159689
+    },
+    {
+      "stage": "without_short_E1",
+      "maximum_plaintext_symbols": 20,
+      "largest_forced_fraction": 0.8218111002921129
+    },
+    {
+      "stage": "late_only",
+      "maximum_plaintext_symbols": 38,
+      "largest_forced_fraction": 0.2044790652385589
+    }
+  ],
+  "saved_language_candidates_redecoded_and_rescored": 6,
+  "generated_plaintext_recoveries": [
+    0.9931840311587147,
+    0.9990262901655307,
+    0.9980525803310614
+  ],
+  "real_mean_tetragram_log_score": -11.994489897839804,
+  "scope": "Exact finite-family exclusions remain within the stated representations and plaintext assumptions. The language search is a bounded English heuristic, not an impossibility proof."
+}

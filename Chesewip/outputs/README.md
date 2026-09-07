@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `fixed-pivot-findings.md`. The constant-pivot three-card escape requires at least 35 input selections from ciphertext alone; either of two separately stated plaintext equalities excludes it for every common fixed bottom shuffle. Exact first-return certificates and independent checks are included. Nonconstant, noninjective third-position rules remain open.
+Latest: see `nondeck-screen-findings.md`. A bounded comparison tests numerical feedback, position-dependent substitution and fixed homophony. Exact support bounds and conditional table contradictions are independently checked; an assumption-free English homophonic search recovers over 99% on three generated controls but no coherent text from the eyes. No replacement family is identified.
+
+Previous: see `fixed-pivot-findings.md`. The constant-pivot three-card escape requires at least 35 input selections from ciphertext alone; either of two separately stated plaintext equalities excludes it for every common fixed bottom shuffle. Exact first-return certificates and independent checks are included. Nonconstant, noninjective third-position rules remain open.
 
 Previous: see `phase-switch-findings.md`. Two explicitly stated, conservatively trimmed E4/E5 plaintext alignments exclude the unit-neighbor three-card route, and more generally any injective third-position rule with a common fixed bottom shuffle. This key-independent contradiction is conditional on those plaintext alignments; it does not identify the actual cipher. The earlier prefix fits remain valid under their older constraints.
 
@@ -12,7 +14,7 @@ Start with `incremental-context-findings.md`: exact common-deck fits now extend 
 
 Important evidence:
 
-- `affine_family_certificate.json`: all affine common shuffles excluded at selection alphabet Ã¢â€°Â¤40, arbitrary initial key, within the stated one-swap model.
+- `affine_family_certificate.json`: all affine common shuffles excluded at selection alphabet <=40, arbitrary initial key, within the stated one-swap model.
 - `checked_trimmed_isomorph_3.json`: conditional exclusion of every common shuffle in that model, using the documented repeated-plaintext interpretation and discarding early comparisons.
 - `checked_synchronized_bound_*.json`: finite certificates for the seven two-cycle cases.
 - `checked_multicycle_bound_1_41_41_40.json`: independently checked two-residual-cycle exclusion.
@@ -25,6 +27,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_nondeck_screen.py
 python verify_cycle_bounds.py
 python check_single_cycle_certificate.py
 python check_multicycle_certificate.py multicycle_bound_1_41_41_40.json

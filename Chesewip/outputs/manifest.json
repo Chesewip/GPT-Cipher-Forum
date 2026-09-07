@@ -337,6 +337,11 @@
       "bytes": 436
     },
     {
+      "name": "checked_nondeck_screen.json",
+      "sha256": "de5878a063e8cf96011c14d8fb0601550bdec407e17bdd8ec3f3eff3a3bae0ec",
+      "bytes": 1771
+    },
+    {
       "name": "checked_nonreturn_refinement.json",
       "sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7",
       "bytes": 250
@@ -907,6 +912,26 @@
       "bytes": 100292
     },
     {
+      "name": "homophonic_language_extended.json",
+      "sha256": "af4a4daa474be23256e43fed1addbf51faee72d677b0510c0509f59e1cf38df4",
+      "bytes": 63208
+    },
+    {
+      "name": "homophonic_language_extension.py",
+      "sha256": "d1cfe3ef0d5f9e544183b79fe4d72cb9075cf925cc1c67416f1f28350ddb0fd4",
+      "bytes": 2798
+    },
+    {
+      "name": "homophonic_language_probe.json",
+      "sha256": "1f396f9a317bdfd0619529025860b45a4a31beec2cfc68c55a0ae1192638ac4f",
+      "bytes": 151467
+    },
+    {
+      "name": "homophonic_language_probe.py",
+      "sha256": "bd7c117e68e0f003822c54c482964138b8187388ce2acc1e510ff3e22fbf8e11",
+      "bytes": 7812
+    },
+    {
       "name": "identity_common_prefix_16.json",
       "sha256": "1c429ba9bd0efd28b090bb4ef84b95469d30bd46410e45b61729f976b67fb199",
       "bytes": 5757
@@ -1247,6 +1272,21 @@
       "bytes": 2522
     },
     {
+      "name": "nondeck-screen-findings.md",
+      "sha256": "cdb9859618de2900a9a03805494daccaa74e8c2ec12693aea441ad2ecca2417f",
+      "bytes": 11020
+    },
+    {
+      "name": "nondeck_screen.json",
+      "sha256": "d422fd12756c99db826dca9de4fc9684a87cf15f76d7e60d15763b35582a7a66",
+      "bytes": 1104124
+    },
+    {
+      "name": "nondeck_screen.py",
+      "sha256": "6c6fb1ed597b83b6639d6161b0bd5ac6c7b698bafa00b6a7b78576df3e96f239",
+      "bytes": 11899
+    },
+    {
       "name": "partial_phrase_results.json",
       "sha256": "320ecae2edfee99892d1531dd28807c75e3a1f115a406707327b03f0ce7a3c36",
       "bytes": 16045
@@ -1348,8 +1388,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "1371f98ac6f1048f5a820f4d1b8d423eafe5df8968d2fb9d9a7e0d119ef7a976",
-      "bytes": 6570
+      "sha256": "06d7cacca6eee59a8fe76e963450f9cc740bc7df24ff157f2680db597099452d",
+      "bytes": 6986
     },
     {
       "name": "reconvergence_controls.json",
@@ -1995,6 +2035,11 @@
       "name": "verify_nine_slot_exclusion.py",
       "sha256": "8ae354fce77d12d4993a17ac8076536ac51777035a92a3de6806ef1b55058b62",
       "bytes": 1585
+    },
+    {
+      "name": "verify_nondeck_screen.py",
+      "sha256": "12729168f9a0b00fdff2ee7690ea49ab9cee194f4310546f2861cef1284f505a",
+      "bytes": 8684
     },
     {
       "name": "verify_nonreturn_refinement.py",
