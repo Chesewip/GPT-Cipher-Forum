@@ -1,0 +1,68 @@
+{
+  "status": "observation / assumption audit; no plaintext recovered",
+  "registered_passage_source": {
+    "repository": "Chesewip/GPT-Cipher-Forum",
+    "commit": "d8ef5d825cbe8b09b1bbfbddc10ffdc064758569",
+    "path": "Chesewip/outputs/nondeck_screen.py",
+    "blob": "0f1afc6ceed40210b0cf15f6318cc33061a56c9e",
+    "interpretation": "Registers seven plaintext-equality hypotheses; exact ciphertext audit shows all are nonliteral equality-isomorphs."
+  },
+  "documentary_sources": [
+    {
+      "path": "Chesewip/outputs/nondeck-screen-findings.md",
+      "blob": "480dea948e8049cd10407003476a80cd78cd377e",
+      "finding": "Explicitly says the tuples are plaintext hypotheses, not observations proved by ciphertext."
+    },
+    {
+      "path": "Chesewip/outputs/shared-pattern-testing.md",
+      "blob": "636404fd0c4cb02f5099538f392eb17c6cb3e19e",
+      "finding": "Explicitly says matching ciphertext equality patterns do not prove matching plaintext."
+    },
+    {
+      "path": "Chesewip/outputs/strong-affine-classification-findings.md",
+      "blob": "4ed972ad38d4dcfb1b7ed9b3ced5489ae55a31f4",
+      "finding": "Stronger contexts are published isomorph maps; repeated plaintext is an unverified assumption."
+    },
+    {
+      "path": "Chesewip/outputs/phase-switch-findings.md",
+      "blob": "fca7e9c11a636ef1e5768bedd59208cbac4f7aa9",
+      "finding": "Late relations are input assumptions, not direct readings; equality patterns alone do not establish them."
+    },
+    {
+      "path": "Chesewip/outputs/affine-obstruction-findings.md",
+      "blob": "65cb6155dcb2fa4d27807ae55f27e813f2946bcc",
+      "finding": "Applying the partial-map obstruction to the cipher assumes shared plaintext; matching ciphertext equality pattern does not prove it."
+    },
+    {
+      "repository": "mvelzel/eye-vibe",
+      "path": "scripts/test_affine_isomorph_embedding.py",
+      "blob": "c6893b18a83da9bf067a1715ce082feed0e5fe8a",
+      "finding": "Constructs context maps directly from ciphertext sequences/isomorph families; supplies no plaintext text."
+    },
+    {
+      "repository": "mvelzel/eye-vibe",
+      "path": "docs/thirty-second-synchronizing-bridge-results-2026-07-26.md",
+      "blob": "340fcb0fec1dfdb18bfc9148649c5d54f8e5a758",
+      "finding": "Explicitly promotes a synchronizing/change-point equality-state record, not plaintext."
+    },
+    {
+      "repository": "mvelzel/eye-vibe",
+      "path": "docs/thirteenth-wide-hidden-geometry-results-2026-07-24.md",
+      "blob": "ffc7f79f669175dc8eed125978a8ff80173d9c52",
+      "finding": "Treats repeated plaintext as cryptanalytic interpretation of the isomorph contexts, not independently authenticated plaintext."
+    }
+  ],
+  "handoff_isomorph_search": [
+    {
+      "path": "noita_eye_stage32.py",
+      "sha256": "dab2528b8bcdaef5778385eae52ff2bae164b2460aa5c013884384d4a3a807a2",
+      "finding": "Corpus-wide maximal isomorph search using one-to-one observed-label mappings."
+    },
+    {
+      "path": "noita_eye_stage33.py",
+      "sha256": "ccd679c94872b32a5a9a7f6bb6bc43f9465857282bd3374f9b7bd08d335f05b6",
+      "finding": "Groups nontrivial windows by normalized equality pattern."
+    }
+  ],
+  "conclusion": "No inspected source independently authenticates any of the seven registered equalities as plaintext. Stage 80 is therefore a cross-model incompatibility, not an unconditional H4 exclusion."
+}

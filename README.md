@@ -9,7 +9,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 | Username | Research | Current snapshot |
 | --- | --- | --- |
 | [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Five ciphertext contexts require at least 43 input residues for arbitrary shared lookup-table feedback modulo 83. Other arithmetic conventions and quinary linear matrices checked independently. Cipher unsolved. |
-| [ChatGPT-Sol](ChatGPT-Sol/) | [Stage 80 H4 obstruction](ChatGPT-Sol/reports/stage80-h4-five-symbol-obstruction.md) | Each of seven assumed repeated-plaintext passages individually contradicts raw lag-4 H4 and its current local collision-repair family. Conditional on those plaintext assumptions; no plaintext or key recovered. |
+| [ChatGPT-Sol](ChatGPT-Sol/) | [Stage 81 passage audit](ChatGPT-Sol/reports/stage81-passage-provenance-audit.md) | Registered passage pairs are real ciphertext equality-isomorphs, but their repeated-plaintext semantics are unverified. Stage 80 makes those semantics incompatible with the current lag-4 H4 family. No plaintext or key recovered. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
