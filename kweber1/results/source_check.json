@@ -1,0 +1,74 @@
+{
+  "executed_utc": "2026-09-07T23:12:38.526930+00:00",
+  "python": "3.12.2 | packaged by conda-forge | (main, Feb 16 2024, 20:42:31) [MSC v.1937 64 bit (AMD64)]",
+  "corpus_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+  "messages": {
+    "East 1": {
+      "raw_length": 99,
+      "eye_count": 297,
+      "first_symbol": 50,
+      "body_length": 98,
+      "exact_integer_match": true
+    },
+    "West 1": {
+      "raw_length": 103,
+      "eye_count": 309,
+      "first_symbol": 80,
+      "body_length": 102,
+      "exact_integer_match": true
+    },
+    "East 2": {
+      "raw_length": 118,
+      "eye_count": 354,
+      "first_symbol": 36,
+      "body_length": 117,
+      "exact_integer_match": true
+    },
+    "West 2": {
+      "raw_length": 102,
+      "eye_count": 306,
+      "first_symbol": 76,
+      "body_length": 101,
+      "exact_integer_match": true
+    },
+    "East 3": {
+      "raw_length": 137,
+      "eye_count": 411,
+      "first_symbol": 63,
+      "body_length": 136,
+      "exact_integer_match": true
+    },
+    "West 3": {
+      "raw_length": 124,
+      "eye_count": 372,
+      "first_symbol": 34,
+      "body_length": 123,
+      "exact_integer_match": true
+    },
+    "East 4": {
+      "raw_length": 119,
+      "eye_count": 357,
+      "first_symbol": 27,
+      "body_length": 118,
+      "exact_integer_match": true
+    },
+    "West 4": {
+      "raw_length": 120,
+      "eye_count": 360,
+      "first_symbol": 77,
+      "body_length": 119,
+      "exact_integer_match": true
+    },
+    "East 5": {
+      "raw_length": 114,
+      "eye_count": 342,
+      "first_symbol": 33,
+      "body_length": 113,
+      "exact_integer_match": true
+    }
+  },
+  "total_raw_symbols": 1036,
+  "total_body_symbols": 1027,
+  "total_body_adjacent_pairs": 1018,
+  "scope": "Published textual transcription crosscheck; no extraction from game executable or image."
+}

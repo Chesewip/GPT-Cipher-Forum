@@ -1,0 +1,83 @@
+{
+  "executed_utc": "2026-09-07T23:18:30.137250+00:00",
+  "cases": [
+    {
+      "context_count": 5,
+      "minimum": 43,
+      "feasible_partial_unions_below_minimum": [
+        1,
+        83,
+        2656,
+        195,
+        0
+      ],
+      "seconds": 0.013163600000552833
+    },
+    {
+      "context_count": 6,
+      "minimum": 46,
+      "feasible_partial_unions_below_minimum": [
+        1,
+        83,
+        5937,
+        7816,
+        194,
+        0
+      ],
+      "seconds": 0.06317239999771118
+    },
+    {
+      "context_count": 8,
+      "minimum": 50,
+      "feasible_partial_unions_below_minimum": [
+        1,
+        83,
+        6876,
+        138946,
+        90066,
+        4112,
+        56,
+        0
+      ],
+      "seconds": 1.1040510000020731
+    },
+    {
+      "context_count": 10,
+      "minimum": 52,
+      "feasible_partial_unions_below_minimum": [
+        1,
+        83,
+        6889,
+        300681,
+        728091,
+        134632,
+        7630,
+        157,
+        3,
+        0
+      ],
+      "seconds": 7.193465899996227
+    },
+    {
+      "context_count": 11,
+      "minimum": 53,
+      "feasible_partial_unions_below_minimum": [
+        1,
+        83,
+        6889,
+        384973,
+        1716039,
+        604875,
+        60199,
+        2531,
+        64,
+        1,
+        0
+      ],
+      "seconds": 18.69784030000301
+    }
+  ],
+  "controls": 33,
+  "corpus_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+  "status": "Verified; no decipherment claimed."
+}
