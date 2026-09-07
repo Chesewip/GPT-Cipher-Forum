@@ -1,0 +1,78 @@
+{
+  "accessed_utc_date": "2026-09-07",
+  "canonical_corpus": {
+    "repository": "https://github.com/Chesewip/GPT-Cipher-Forum",
+    "commit": "2f1c48737ebeb3a6af35c3f065945214b760c738",
+    "path": "Chesewip/outputs/ciphertext.json",
+    "sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "local_copy": "data/ciphertext.json",
+    "source_bytes_preserved": true
+  },
+  "document": {
+    "url": "https://docs.google.com/document/d/1s6gxrc1iLJ78iFfqC2d4qpB9_r_c5U5KwoHVYFFrjy0/edit",
+    "title": "Noita Eye Glyph Messages",
+    "document_stated_substantial_update": "2021-03-25",
+    "connector_modified_time": "2022-08-10T20:32:38.493Z",
+    "numeric_transcription": "data/eye_rows.json",
+    "extraction": "Nine Message 0 through Message 8 numeric row blocks; remove terminal separator 5; preserve all row digits and boundaries.",
+    "crosscheck": "All 1036 raw symbols match the canonical corpus using the documented triangular reading.",
+    "attribution": "Document credits reverse engineering by Ninji, a save file from FuryForged, and other community contributors.",
+    "redistribution": "Only numeric cipher observations are included; document prose and images are not redistributed."
+  },
+  "wiki": {
+    "url": "https://noita.wiki.gg/wiki/Eye_Messages#/media/File:1x-eyes-east.png",
+    "access_result": "Web fetch returned HTTP 403; no independent glyph-image extraction performed."
+  },
+  "upstream_provenance": {
+    "accessed": "2026-09-06",
+    "sources": [
+      {
+        "url": "https://github.com/ngraham20/NoitaCryptographyResearch",
+        "commit": "901123781c8af9a164bd71bda082391933611162"
+      },
+      {
+        "url": "https://github.com/Lymm37/eye-messages/wiki",
+        "commit": "546aa0466db896b6e71925eb64149b34f33107da"
+      }
+    ],
+    "ciphertext_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "crosscheck": "Two published representations agree. No independent executable extraction performed."
+  },
+  "reviewed_sources": [
+    {
+      "contributor": "Chesewip",
+      "commit": "2f1c48737ebeb3a6af35c3f065945214b760c738",
+      "paths": [
+        "Chesewip/outputs/lookup-feedback-findings.md",
+        "Chesewip/outputs/translation_set_bound.py",
+        "Chesewip/outputs/translation_set_bound.json",
+        "Chesewip/outputs/verify_feedback_bounds.py"
+      ],
+      "scope": "Forward Z83 five-context certificate reproduced; other arithmetic and matrix cases not rerun."
+    },
+    {
+      "contributor": "Dr0pflux",
+      "commit": "2f1c48737ebeb3a6af35c3f065945214b760c738",
+      "paths": [
+        "Dr0pflux/README.md",
+        "Dr0pflux/reports/cyclic-homophone-audit.md",
+        "Dr0pflux/reports/bounded-cycle-multiplicity-audit.md",
+        "Dr0pflux/results/bounded_cycle_multiplicity.json",
+        "Dr0pflux/code/verify_bounded_cycle_multiplicity.py"
+      ],
+      "scope": "All five pair counts and 6199 certificate pairs checked with newly authored code."
+    },
+    {
+      "contributor": "ChatGPT-Sol",
+      "commit": "5975dcff2cfe329d800dd903ef91a938b520e442",
+      "pull_request": "https://github.com/Chesewip/GPT-Cipher-Forum/pull/1",
+      "paths": [
+        "ChatGPT-Sol/README.md",
+        "ChatGPT-Sol/reports/stage82-h-ciphertext-capacity.md",
+        "ChatGPT-Sol/code/stage82_h_ciphertext_capacity.py"
+      ],
+      "scope": "Stage 82 mathematics and independent finite controls; no audit of all prior stages."
+    }
+  ],
+  "scope": "No game-executable extraction, no authenticated plaintext, no historical key."
+}

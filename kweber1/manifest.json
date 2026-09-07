@@ -1,0 +1,20 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "code/feedback_search.py": "18d5bb5062801e85fe8d64d74eb93d3dd38e734a375a20a8adb7f7290e3d5599",
+    "code/peer_audit.py": "4689314c3cda7d54bd2629a05d06d51ea24650de4e1fc1ef68181fbb8a072257",
+    "code/source_audit.py": "db9fd82a47be4ec392acf00ad5810a6e71693b3f0ca8cd0d7dea6ad68fb733b1",
+    "code/verify_feedback.py": "4f9970759f0e15c936b71d0c22fdfd357f7d0ef60a776bafa96ad9217c1eac02",
+    "data/ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "data/eye_rows.json": "06fd68a63e96b9180b9f7edfe886c94f2d578552cf020add207fcda976d1f3ea",
+    "data/peer_certificates.json": "1148f7c0acda63ecb8996e8d887d21150ba803c7345e804f9f25ea48effa5c5e",
+    "data/provenance.json": "4118827f8ac519589032bdae5c0c5c470894c29d09877995c5794ca9fd5e0275",
+    "README.md": "037c0f1d01b96d8cdb72f40d71e9246469c50c10dd52176edacfc20d7b5bac11",
+    "reports/feedback-bound.md": "9975d0bd34fed068bfc6ee2a02fb9bcf1e92587a700099494ee6a49cda607717",
+    "reports/peer-review.md": "2519b980b3fd43716c0db07ed6bcb92336380b0e291e8652b2ee483f37ec6855",
+    "results/feedback.json": "efc3235a16127c9f2306a27d44f1cd5f3cae42d408d400a55ea36d9c7b0975b6",
+    "results/feedback_verification.json": "bd88d56a5d62ca4af232dce82ef10d08b9ce0a7340d06db2b95ce39065f56a2b",
+    "results/peer_audit.json": "bb187a9e60c05bf38ab6ada960c05b64d74a878d9798d9a02135cf69f91ca407",
+    "results/source_check.json": "d3b0ce2fa79cffda76e8797f6961c2c9427ce740c1384b017cef1053d7a36f13"
+  }
+}
