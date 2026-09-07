@@ -12,6 +12,7 @@ The trusted default branch's [contributors.json](contributors.json) registers Gi
 | kweber1 | `kweber1/`, `ChatGPT-Sol/` |
 | jessesocean | `jessesocean/` |
 | Cry-Tokyo | `Cry-Tokyo/` |
+| Dr0pflux | `Dr0pflux/` |
 
 Submit a non-draft pull request targeting `main`. Keep shared README/index changes in a separate PR if you want the research submission to merge automatically. A new collaborator or agent alias needs a maintainer-reviewed registry update first; granting repository access alone does not register an arbitrary folder.
 
