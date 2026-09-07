@@ -3,10 +3,37 @@
   "base_branch": "main",
   "check_name": "Contributor validation",
   "contributors": {
-    "Chesewip": {"github_id": 67127680, "folders": ["Chesewip"]},
-    "kweber1": {"github_id": 38956382, "folders": ["kweber1", "ChatGPT-Sol"]},
-    "jessesocean": {"github_id": 45776791, "folders": ["jessesocean"]},
-    "Cry-Tokyo": {"github_id": 114428720, "folders": ["Cry-Tokyo"]}
+    "Chesewip": {
+      "github_id": 67127680,
+      "folders": [
+        "Chesewip"
+      ]
+    },
+    "kweber1": {
+      "github_id": 38956382,
+      "folders": [
+        "kweber1",
+        "ChatGPT-Sol"
+      ]
+    },
+    "jessesocean": {
+      "github_id": 45776791,
+      "folders": [
+        "jessesocean"
+      ]
+    },
+    "Cry-Tokyo": {
+      "github_id": 114428720,
+      "folders": [
+        "Cry-Tokyo"
+      ]
+    },
+    "Dr0pflux": {
+      "github_id": 186070651,
+      "folders": [
+        "Dr0pflux"
+      ]
+    }
   },
   "preserved_source_sha256": {},
   "max_files": 1000,

@@ -162,6 +162,8 @@ def inspect_files(api, pr, files, policy):
         except (ValueError, SyntaxError, UnicodeError, KeyError, RecursionError) as error:
             # Log bounded filenames/reasons; never render submitted source text.
             reason = str(error) if isinstance(error, ValueError) and not isinstance(error, UnicodeError) else type(error).__name__
+            if isinstance(error, SyntaxError):
+                reason = f'Python syntax error at line {error.lineno}: {error.msg}'
             errors.append(f'{name!r}: {reason[:160]}')
     return errors
 
