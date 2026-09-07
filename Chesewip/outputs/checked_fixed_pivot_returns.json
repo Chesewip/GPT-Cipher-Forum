@@ -1,0 +1,50 @@
+{
+  "status": "verified",
+  "cycle_length_exclusion_records_checked": 164,
+  "compact_certificate": {
+    "first_return_intervals": 8,
+    "assumed_equal_input_pairs": 1,
+    "all_cycle_lengths_excluded": true
+  },
+  "size_independent_alphabet_certificate": {
+    "first_return_intervals": 35,
+    "minimum_selection_alphabet": 35
+  },
+  "header_conventions": [
+    {
+      "first_marker_omitted": false,
+      "cycle_lengths": [
+        36,
+        68,
+        73
+      ],
+      "alphabet_lower_bounds": [
+        35,
+        66,
+        70
+      ]
+    },
+    {
+      "first_marker_omitted": true,
+      "cycle_lengths": [
+        36,
+        68,
+        73
+      ],
+      "alphabet_lower_bounds": [
+        35,
+        66,
+        70
+      ]
+    }
+  ],
+  "exhaustive_six_input_streams": 71140,
+  "exhaustive_streams_by_size": {
+    "3": 4,
+    "4": 1152,
+    "5": 69984
+  },
+  "observed_returns_in_exhaustive_streams": 138686,
+  "conclusion": "The stated fixed-pivot model needs at least 35 selection values on ciphertext alone. Either one of the two separately stated plaintext equalities excludes all 82 possible pivot-cycle lengths.",
+  "limitations": "This is not a full cipher exclusion outside the specified update family, and does not establish that any surviving large-alphabet model fits the full corpus."
+}

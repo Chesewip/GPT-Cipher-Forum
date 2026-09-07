@@ -346,6 +346,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_fixed_pivot_returns.json",
+      "source_sha256": "5e06440de4ee381918fce771098c03198cc0aa6e3c8ce25f59c8ac0ee1e2d374",
+      "published_sha256": "5e06440de4ee381918fce771098c03198cc0aa6e3c8ce25f59c8ac0ee1e2d374",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_header_reachability.json",
       "source_sha256": "c508ab883ae7eccdffacc943c7b941cf24ee0d711c6f7213ed102c88c53ec462",
       "published_sha256": "c508ab883ae7eccdffacc943c7b941cf24ee0d711c6f7213ed102c88c53ec462",
@@ -1024,6 +1030,24 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/fixed-pivot-findings.md",
+      "source_sha256": "34d1afb920f1cfb16b4ffddc51ca3ed16a19a21426d7f10c0b7fcad9549d7e19",
+      "published_sha256": "34d1afb920f1cfb16b4ffddc51ca3ed16a19a21426d7f10c0b7fcad9549d7e19",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/fixed_pivot_return_audit.json",
+      "source_sha256": "1b15bd4f5508a4b24039136474cdb6149092f75a120ce762eed2eda66a81b5c8",
+      "published_sha256": "1b15bd4f5508a4b24039136474cdb6149092f75a120ce762eed2eda66a81b5c8",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/fixed_pivot_return_audit.py",
+      "source_sha256": "3e720098284ae3ce4a317ff9b25ae0bf2b15865989f4764880418a0702eee8af",
+      "published_sha256": "3e720098284ae3ce4a317ff9b25ae0bf2b15865989f4764880418a0702eee8af",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/full_rotation_three_cycle.py",
       "source_sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98",
       "published_sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98",
@@ -1522,6 +1546,30 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/pivot_physical_bridge.json",
+      "source_sha256": "37bf4e1794f259499037557d184328ba2b3e9501e88eab7fa08d644d576e6c25",
+      "published_sha256": "37bf4e1794f259499037557d184328ba2b3e9501e88eab7fa08d644d576e6c25",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/pivot_physical_bridge.py",
+      "source_sha256": "613739baf36f57829183032aa0e33f76ba1fa588062912424296cdc48311f773",
+      "published_sha256": "613739baf36f57829183032aa0e33f76ba1fa588062912424296cdc48311f773",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/pivot_relative_probe.json",
+      "source_sha256": "0cb73743da5b57421fe9ce53bc8fef76fdda7de3a7b11618ccd6ee81208e747c",
+      "published_sha256": "0cb73743da5b57421fe9ce53bc8fef76fdda7de3a7b11618ccd6ee81208e747c",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/pivot_relative_probe.py",
+      "source_sha256": "fd419da7bdb0d46b40b141d7a31991af51295c4b3c2b94f1e6031adac396faba",
+      "published_sha256": "fd419da7bdb0d46b40b141d7a31991af51295c4b3c2b94f1e6031adac396faba",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/plaintext-difference-findings.md",
       "source_sha256": "4c2a6a637060b70d15931eb72c93cb9b45a91c0efbed01fffde849409eb762c3",
       "published_sha256": "4c2a6a637060b70d15931eb72c93cb9b45a91c0efbed01fffde849409eb762c3",
@@ -1571,8 +1619,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "9b6db6af67f2deb2680dcbb16fedbf7376636406556736f2537209f5d1662076",
-      "published_sha256": "9b6db6af67f2deb2680dcbb16fedbf7376636406556736f2537209f5d1662076",
+      "source_sha256": "1371f98ac6f1048f5a820f4d1b8d423eafe5df8968d2fb9d9a7e0d119ef7a976",
+      "published_sha256": "1371f98ac6f1048f5a820f4d1b8d423eafe5df8968d2fb9d9a7e0d119ef7a976",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2287,6 +2335,12 @@
       "path": "outputs/verify_entry_change_timing.py",
       "source_sha256": "77b30fcef1265290ff847c05fc356db95cdc9d758847f914c2790820b734c215",
       "published_sha256": "77b30fcef1265290ff847c05fc356db95cdc9d758847f914c2790820b734c215",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_fixed_pivot_returns.py",
+      "source_sha256": "4722f6f71f106fb24e1e95983b287831f78246c4eb0a797ed1c7b237e4923c9b",
+      "published_sha256": "4722f6f71f106fb24e1e95983b287831f78246c4eb0a797ed1c7b237e4923c9b",
       "publication_action": "byte-for-byte copy"
     },
     {

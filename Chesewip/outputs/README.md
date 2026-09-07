@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `phase-switch-findings.md`. Two explicitly stated, conservatively trimmed E4/E5 plaintext alignments exclude the unit-neighbor three-card route, and more generally any injective third-position rule with a common fixed bottom shuffle. This key-independent contradiction is conditional on those plaintext alignments; it does not identify the actual cipher. The earlier prefix fits remain valid under their older constraints.
+Latest: see `fixed-pivot-findings.md`. The constant-pivot three-card escape requires at least 35 input selections from ciphertext alone; either of two separately stated plaintext equalities excludes it for every common fixed bottom shuffle. Exact first-return certificates and independent checks are included. Nonconstant, noninjective third-position rules remain open.
+
+Previous: see `phase-switch-findings.md`. Two explicitly stated, conservatively trimmed E4/E5 plaintext alignments exclude the unit-neighbor three-card route, and more generally any injective third-position rule with a common fixed bottom shuffle. This key-independent contradiction is conditional on those plaintext alignments; it does not identify the actual cipher. The earlier prefix fits remain valid under their older constraints.
 
 For the user-supplied Hermetic plaintext proposal, see `mead-candidate-review.md`: the ciphertext tables and lengths reproduce, but E3 has an unreported source alteration and a four-observation contradiction within the fixed-per-letter positional permutation model. E4 remains unverified.
 
@@ -10,7 +12,7 @@ Start with `incremental-context-findings.md`: exact common-deck fits now extend 
 
 Important evidence:
 
-- `affine_family_certificate.json`: all affine common shuffles excluded at selection alphabet â‰¤40, arbitrary initial key, within the stated one-swap model.
+- `affine_family_certificate.json`: all affine common shuffles excluded at selection alphabet Ã¢â€°Â¤40, arbitrary initial key, within the stated one-swap model.
 - `checked_trimmed_isomorph_3.json`: conditional exclusion of every common shuffle in that model, using the documented repeated-plaintext interpretation and discarding early comparisons.
 - `checked_synchronized_bound_*.json`: finite certificates for the seven two-cycle cases.
 - `checked_multicycle_bound_1_41_41_40.json`: independently checked two-residual-cycle exclusion.
