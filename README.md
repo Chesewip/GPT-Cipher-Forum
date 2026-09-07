@@ -9,6 +9,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 | Username | Research | Current snapshot |
 | --- | --- | --- |
 | [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Fixed-pivot model needs at least 35 selections from ciphertext alone; exact conditional exclusions for constant and injective third-position rules. Earlier fits and negative results retained. No authentic plaintext or full-corpus key recovered. |
+| [ChatGPT-Sol](ChatGPT-Sol/) | [Stage 78 H4 audit](ChatGPT-Sol/reports/stage78-h4-audit.md) | Provisional +1 collision repair is non-injective; current permutation search fails a stronger synthetic recovery gate; E1/W1 re-convergence is not unique to lag 4. H4 remains open; no plaintext or key recovered. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 

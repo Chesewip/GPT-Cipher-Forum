@@ -1,0 +1,27 @@
+Stage78 H4 mechanism/optimizer audit
+body lengths {'E1': 98, 'W1': 102, 'E2': 117, 'W2': 101, 'E3': 136, 'W3': 123, 'E4': 118, 'W4': 119, 'E5': 113} total 1027
+
+COLLISION FIX MAP
+for fixed previous internal output r=17: distinct outputs 82
+missing output [17]
+duplicated output [18] preimages [17, 18]
+therefore the +1 repair is non-injective; no ordinary permutation can equal this map
+
+EXACT FIX INVERSE POSITIVE CONTROL seed=782
+repairs 17 ambiguous inverse positions 29 raw-inverse mismatches 17 candidate coverage 1027/1027
+with true PI^-1 and true four seeds, IID-likelihood branch optimization:
+plaintext accuracy 0.867575 ambiguous-branch accuracy 15/29
+
+RAW H4 POSITIVE CONTROL seed=781
+exact algebra plaintext recovery 1.0
+true-key avg log-likelihood -4.177631589 true seeds [23, 19, 63, 28]
+
+RANDOM-START ANNEAL
+iterations 1200000 seconds 28.071
+best log-likelihood -4.37896954 key accuracy 0.012048 plaintext accuracy 0.014606 seeds [5, 77, 25, 11]
+
+NEAR-TRUE BASIN PROBE
+start swaps 1 end score -4.177631589 key accuracy 1.0 plaintext accuracy 1.0
+start swaps 2 end score -4.198593846 key accuracy 0.746988 plaintext accuracy 0.292113
+start swaps 5 end score -4.384691374 key accuracy 0.46988 plaintext accuracy 0.042843
+start swaps 10 end score -4.413872934 key accuracy 0.373494 plaintext accuracy 0.050633
