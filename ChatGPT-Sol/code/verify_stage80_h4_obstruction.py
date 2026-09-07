@@ -32,6 +32,7 @@ ASS=[
 
 def c(m,r): return B[m][r-1]
 
+# Branch-level equality certificate, independent of numeric repair output.
 branches={
     ('N','N'): 'fifths equal',
     ('R','N'): 'A previous = B fifth',

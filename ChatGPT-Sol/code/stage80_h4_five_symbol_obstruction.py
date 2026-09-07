@@ -33,6 +33,7 @@ MOD = 83
 HERE = Path(__file__).resolve().parent
 DATA = HERE.parent / "data" / "ciphertext_stage78.json"
 if not DATA.exists():
+    # Also support running from the standalone Stage80 folder next to Stage78.
     DATA = Path("/mnt/data/noita_stage78/ciphertext_stage78.json")
 D = json.loads(DATA.read_text(encoding="utf-8"))
 BODY = {k: v["body"] for k, v in D.items()}
@@ -52,10 +53,13 @@ def c(msg, raw_pos):
     return BODY[msg][raw_pos - 1]
 
 def obstruction_row(A, i, B, j):
+    # first plaintexts at i,j are assumed equal and fifth at i+4,j+4 equal.
     Aprev, A5 = c(A, i + 3), c(A, i + 4)
     Bprev, B5 = c(B, j + 3), c(B, j + 4)
     raw_ok = A5 == B5
     fix_ok = raw_ok or (A5 == Bprev) or (B5 == Aprev)
+    # More general local collision handler: if both contexts repair then their
+    # previous emitted values both equal the shared raw r, so Aprev==Bprev.
     local_handler_ok = fix_ok or (Aprev == Bprev)
     return Aprev, A5, Bprev, B5, raw_ok, fix_ok, local_handler_ok
 
@@ -86,6 +90,8 @@ print("all seven assumptions individually contradict raw H4:", all_raw_fail)
 print("all seven assumptions individually contradict current +1 H4 fix:", all_fix_fail)
 print("all seven assumptions individually contradict any trigger-only local collision handler:", all_local_fail)
 
+# ---------------- positive controls ----------------
+
 def enc(p, hist, pi, fix):
     out=[]; prev=None
     for k, x in enumerate(p):
@@ -96,6 +102,7 @@ def enc(p, hist, pi, fix):
     return out
 
 def local_condition(a, b, start):
+    # start is zero-based BODY/plaintext position; compare fifth=start+4.
     Aprev,A5=a[start+3],a[start+4]
     Bprev,B5=b[start+3],b[start+4]
     return (A5==B5) or (A5==Bprev) or (B5==Aprev)
@@ -107,6 +114,7 @@ for _ in range(TRIALS):
     n=24; start=9
     pa=[rng.randrange(MOD) for _ in range(n)]
     pb=[rng.randrange(MOD) for _ in range(n)]
+    # Exact five-symbol repeated plaintext control.
     pb[start:start+5]=pa[start:start+5]
     ha=[rng.randrange(MOD) for _ in range(4)]
     hb=[rng.randrange(MOD) for _ in range(4)]
@@ -116,6 +124,8 @@ for _ in range(TRIALS):
     fa=enc(pa,ha,pi,True); fb=enc(pb,hb,pi,True)
     if not local_condition(fa,fb,start): fix_viol += 1
 
+    # Sensitivity control: only four symbols match. The fifth is deliberately
+    # made different, so the Stage80 invariant should not generally hold.
     pc=[rng.randrange(MOD) for _ in range(n)]
     pd=[rng.randrange(MOD) for _ in range(n)]
     pd[start:start+4]=pc[start:start+4]
