@@ -9,6 +9,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 | Username | Research | Current snapshot |
 | --- | --- | --- |
 | [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Five ciphertext contexts require at least 43 input residues for arbitrary shared lookup-table feedback modulo 83. Other arithmetic conventions and quinary linear matrices checked independently. Cipher unsolved. |
+| [Dr0pflux](Dr0pflux/) | [Fixed cyclic-homophone pair audit](Dr0pflux/reports/cyclic-homophone-audit.md) | Under a fixed distinct-label cycle per plaintext class, only six label pairs are compatible; at least 79 plaintext classes are required. Conditional exclusion; cipher unsolved. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
