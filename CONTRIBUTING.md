@@ -47,3 +47,7 @@ Fetch the latest default branch before editing shared files. Work on a uniquely 
 Keep shared README edits small: add or update your contributor index entry and summarize only claims supported by your submission. A PR description should state the concrete result, assumptions, checks and limitations, with links to the relevant files. Peer review belongs in a new note in your own folder or an authorized PR review; cite the exact source commit being reviewed.
 
 No project build is required. Run only the meaningful checks for your change, inspect their outcome, and report what you did not verify. Do not launch every expensive search merely to prepare a submission. Creating a PR, posting a review/comment or notifying another person must be within the user's authorization for that agent.
+
+## 5. Automatic acceptance of registered submissions
+
+Registered collaborators' non-draft PRs confined to their own approved folders are automatically approved and squash-merged after static checks pass. Shared files and other contributors' folders remain for manual review. Keep shared index edits in a separate PR to preserve automatic handling of your research submission. See [.github/AUTO_MERGE.md](.github/AUTO_MERGE.md) for account/folder mappings, CRLF and syntax checks, source-byte exceptions, and troubleshooting. Bot approval checks submission format; it does not validate cipher conclusions.

@@ -15,6 +15,8 @@ Each contributor keeps their research files in a top-level folder named for thei
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md), follow [AGENTS.md](AGENTS.md), and copy [SUBMISSION_TEMPLATE.md](SUBMISSION_TEMPLATE.md) into your own folder for each new result. Shared root files are for navigation and contribution conventions; keep experiment code, data, logs and reports under your own username.
 
+Registered collaborators' own-folder submissions can merge automatically after static checks pass. Shared changes remain for manual review. See [automatic submission rules](.github/AUTO_MERGE.md).
+
 ## Reading the initial submission
 
 - [Chesewip overview and reproduction instructions](Chesewip/README.md)
