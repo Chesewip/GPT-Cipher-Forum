@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 557,
-    "python_syntax_checks": 217,
-    "json_parse_checks": 304,
-    "authored_CRLF_checks": 554,
-    "output_manifest_entries": 506,
+    "files": 562,
+    "python_syntax_checks": 219,
+    "json_parse_checks": 306,
+    "authored_CRLF_checks": 559,
+    "output_manifest_entries": 511,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 547,
+    "imported_research_files": 552,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -353,6 +353,11 @@
       "path": "outputs/checked_incremental_witnesses.json",
       "bytes": 3038,
       "sha256": "15a6a7d0e9a65db38247cace3f9d7e11dbcaa2f2896f6502de90af2094cfff15"
+    },
+    {
+      "path": "outputs/checked_input_reset_context.json",
+      "bytes": 3746,
+      "sha256": "351e9a613c17fad46a75ff64f9fc1a17b5598f425b50f4ae4672ba49368b1ebe"
     },
     {
       "path": "outputs/checked_inverse_alphabet.json",
@@ -1160,6 +1165,21 @@
       "sha256": "4b2841c300974c3c63ae5b19cf20ec0d68218e609b237e92469e425a4fba0c9e"
     },
     {
+      "path": "outputs/input-reset-context-findings.md",
+      "bytes": 11091,
+      "sha256": "127e07de50cecc320a6de2a87a1e16e326d839b3af4b339bee2980096d36216e"
+    },
+    {
+      "path": "outputs/input_reset_context_audit.json",
+      "bytes": 245443,
+      "sha256": "fce196103c9b5ed9662066d5cfe56d0b31af28a895633bb64463762479b4a1fe"
+    },
+    {
+      "path": "outputs/input_reset_context_audit.py",
+      "bytes": 5858,
+      "sha256": "7768448b290e578c4c0374fc109c2f8e0a5f999d05a1e02c2825fa5004cc4431"
+    },
+    {
       "path": "outputs/integer_return_paths.py",
       "bytes": 4739,
       "sha256": "535b2132fd901fa09bf4342c723511f3f2724386a473ca8d31bbbd398383ebb1"
@@ -1406,8 +1426,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 85452,
-      "sha256": "3d0c1f22a4a9e3290d937ac4807441db95e0d0c002fec42c16df0a895de00a78"
+      "bytes": 86305,
+      "sha256": "182b420bf8f01dbee2a03d4199c33ba2ba2ba599735063df3f5ad2efe3f10508"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1481,8 +1501,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 26922034,
-      "sha256": "aaf3f7b14b2b13e20dd2f3c9862d58070293f587e96244072da685ef44152f6f"
+      "bytes": 26966832,
+      "sha256": "f5bf15c5f5904e740821e3b9aa92893e09496a20fa37187c5b48bb9c3e2154bb"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1671,8 +1691,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 11558,
-      "sha256": "427ed87b94dac4544356009c0b9a500947d8a8e47200680aa7ace0ab026afbdc"
+      "bytes": 12116,
+      "sha256": "5f03635171f392b96d4e74616bcfbcadd72da5cfbfb437775bec0d61dbfb69a5"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2420,6 +2440,11 @@
       "sha256": "41844e05fef3527801e4937314052ff8e118d230c4b1f714b31869263f2dc057"
     },
     {
+      "path": "outputs/verify_input_reset_context.py",
+      "bytes": 8102,
+      "sha256": "00b327a1732b1fc581fe9ffb64f6030f02d76b4c6b1651362bc46b83b80482e6"
+    },
+    {
       "path": "outputs/verify_inverse_alphabet.py",
       "bytes": 2088,
       "sha256": "5f74cd358f987338d6bb30e5820c11df0e0008ce09f86e4c01ba7b2778a3542f"
@@ -2566,8 +2591,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 168465,
-      "sha256": "74739535a0c9a0f23709f16fe035999611fba5be60ad2cf88ce77c3c3842ef37"
+      "bytes": 170010,
+      "sha256": "d3a6d57bbd7fc33ac8de61d64eca9673c5d27d5258eee31a35a81e0183cb764a"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2581,8 +2606,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9799,
-      "sha256": "e103b7ac1ed80e46b28a007d5dd854a0696faea3ba8b6fc4926c63c6bc35506b"
+      "bytes": 10247,
+      "sha256": "f3383a38961a384e622205d1117152624440877daa86a730acfa20ece2c3de2a"
     },
     {
       "path": "REFERENCES.md",

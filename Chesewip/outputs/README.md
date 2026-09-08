@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `periodic-reset-findings.md`. Under the stated repeated-input assumptions, arbitrary regular resets cannot rescue relabeled additive feedback with a common phase at intervals >=4; an exhaustive independent W1/E2 phase test excludes intervals >=32. Shorter unresolved cases are not keys. Three redundant generated controls isolate their planted nontrivial schedules within the tested range and recover all 83 output-map entries up to affine equivalence. Independent verification passed; no Eye plaintext.
+Latest: see `input-reset-context-findings.md`. Shared input-context overwrites cannot rescue the stated translation-feedback model under the passage assumptions: windows through 17 tokens before output, or 16 after output, are conditionally excluded. A three-equation early certificate and an eleven-term late certificate cancel over integers, extending these bounds to abelian groups beyond modulo 83. Six generated reset controls pass the correct filter and fail an intentionally unfiltered analysis. No Eye key.
+
+Previous: see `periodic-reset-findings.md`. Under the stated repeated-input assumptions, arbitrary regular resets cannot rescue relabeled additive feedback with a common phase at intervals >=4; an exhaustive independent W1/E2 phase test excludes intervals >=32. Shorter unresolved cases are not keys. Three redundant generated controls isolate their planted nontrivial schedules within the tested range and recover all 83 output-map entries up to affine equivalence. Independent verification passed; no Eye plaintext.
 
 Previous: see `recurrence-transfer-findings.md`. Observed transitions prevent the prior artificial token fits from universally preserving their fitted return loops. Four redundant generated cyclic controls recover the true hidden output numbering up to affine equivalence; controls using the Eye hypothesis layout remain underdetermined. A 12-term integer certificate independently reproduces a conditional commutative-feedback exclusion with arbitrary injective output labeling. No Eye plaintext or key.
 
@@ -45,6 +47,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_input_reset_context.py
 python verify_periodic_resets.py
 python verify_recurrence_transfer.py
 python verify_state_memory_comparison.py

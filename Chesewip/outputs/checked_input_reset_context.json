@@ -1,0 +1,159 @@
+{
+  "status": "Independent checks passed. Conditional mechanism exclusions, no Eye plaintext.",
+  "source_hashes": {
+    "ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "state_memory_comparison.json": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611",
+    "input_reset_context_audit.json": "fce196103c9b5ed9662066d5cfe56d0b31af28a895633bb64463762479b4a1fe"
+  },
+  "screens": {
+    "early": {
+      "cases": 28,
+      "unequal_aligned_comparisons": 60,
+      "excluded_prefix_trims": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "first_no_forced_collision_trim": 11,
+      "before_output_context_length_excluded_through": 11,
+      "after_output_context_length_excluded_through": 10
+    },
+    "late": {
+      "cases": 28,
+      "unequal_aligned_comparisons": 54,
+      "excluded_prefix_trims": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "first_no_forced_collision_trim": 17,
+      "before_output_context_length_excluded_through": 17,
+      "after_output_context_length_excluded_through": 16
+    },
+    "strong": {
+      "cases": 28,
+      "unequal_aligned_comparisons": 114,
+      "excluded_prefix_trims": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "first_no_forced_collision_trim": 17,
+      "before_output_context_length_excluded_through": 17,
+      "after_output_context_length_excluded_through": 16
+    }
+  },
+  "integer_certificates": {
+    "early": {
+      "trim": 10,
+      "terms": 3,
+      "labels": [
+        63,
+        9
+      ],
+      "exact_integer_cancellation": true
+    },
+    "late": {
+      "trim": 16,
+      "terms": 11,
+      "labels": [
+        77,
+        9
+      ],
+      "exact_integer_cancellation": true
+    }
+  },
+  "controls": [
+    {
+      "seed": 909600,
+      "timing": "before",
+      "context_length": 1,
+      "body_symbols_reencrypted": 1027,
+      "eligible_equations": 96,
+      "false_rows_if_resets_ignored": 8,
+      "synchronized_suffixes": 8
+    },
+    {
+      "seed": 909601,
+      "timing": "after",
+      "context_length": 1,
+      "body_symbols_reencrypted": 1027,
+      "eligible_equations": 96,
+      "false_rows_if_resets_ignored": 8,
+      "synchronized_suffixes": 8
+    },
+    {
+      "seed": 909602,
+      "timing": "before",
+      "context_length": 2,
+      "body_symbols_reencrypted": 1027,
+      "eligible_equations": 88,
+      "false_rows_if_resets_ignored": 8,
+      "synchronized_suffixes": 8
+    },
+    {
+      "seed": 909603,
+      "timing": "after",
+      "context_length": 2,
+      "body_symbols_reencrypted": 1027,
+      "eligible_equations": 88,
+      "false_rows_if_resets_ignored": 8,
+      "synchronized_suffixes": 8
+    },
+    {
+      "seed": 909604,
+      "timing": "before",
+      "context_length": 5,
+      "body_symbols_reencrypted": 1027,
+      "eligible_equations": 64,
+      "false_rows_if_resets_ignored": 8,
+      "synchronized_suffixes": 8
+    },
+    {
+      "seed": 909605,
+      "timing": "after",
+      "context_length": 5,
+      "body_symbols_reencrypted": 1027,
+      "eligible_equations": 64,
+      "false_rows_if_resets_ignored": 8,
+      "synchronized_suffixes": 8
+    }
+  ],
+  "body_symbols_reencrypted": 6162
+}

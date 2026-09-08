@@ -412,6 +412,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_input_reset_context.json",
+      "source_sha256": "351e9a613c17fad46a75ff64f9fc1a17b5598f425b50f4ae4672ba49368b1ebe",
+      "published_sha256": "351e9a613c17fad46a75ff64f9fc1a17b5598f425b50f4ae4672ba49368b1ebe",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_inverse_alphabet.json",
       "source_sha256": "d92ab789dd17e5c8810c1bce10be0981f27bb9a42607aeae5d96046a5764478f",
       "published_sha256": "d92ab789dd17e5c8810c1bce10be0981f27bb9a42607aeae5d96046a5764478f",
@@ -1378,6 +1384,24 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/input-reset-context-findings.md",
+      "source_sha256": "127e07de50cecc320a6de2a87a1e16e326d839b3af4b339bee2980096d36216e",
+      "published_sha256": "127e07de50cecc320a6de2a87a1e16e326d839b3af4b339bee2980096d36216e",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/input_reset_context_audit.json",
+      "source_sha256": "fce196103c9b5ed9662066d5cfe56d0b31af28a895633bb64463762479b4a1fe",
+      "published_sha256": "fce196103c9b5ed9662066d5cfe56d0b31af28a895633bb64463762479b4a1fe",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/input_reset_context_audit.py",
+      "source_sha256": "7768448b290e578c4c0374fc109c2f8e0a5f999d05a1e02c2825fa5004cc4431",
+      "published_sha256": "7768448b290e578c4c0374fc109c2f8e0a5f999d05a1e02c2825fa5004cc4431",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/integer_return_paths.py",
       "source_sha256": "535b2132fd901fa09bf4342c723511f3f2724386a473ca8d31bbbd398383ebb1",
       "published_sha256": "535b2132fd901fa09bf4342c723511f3f2724386a473ca8d31bbbd398383ebb1",
@@ -1979,8 +2003,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "427ed87b94dac4544356009c0b9a500947d8a8e47200680aa7ace0ab026afbdc",
-      "published_sha256": "427ed87b94dac4544356009c0b9a500947d8a8e47200680aa7ace0ab026afbdc",
+      "source_sha256": "5f03635171f392b96d4e74616bcfbcadd72da5cfbfb437775bec0d61dbfb69a5",
+      "published_sha256": "5f03635171f392b96d4e74616bcfbcadd72da5cfbfb437775bec0d61dbfb69a5",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2875,6 +2899,12 @@
       "path": "outputs/verify_incremental_witnesses.py",
       "source_sha256": "41844e05fef3527801e4937314052ff8e118d230c4b1f714b31869263f2dc057",
       "published_sha256": "41844e05fef3527801e4937314052ff8e118d230c4b1f714b31869263f2dc057",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_input_reset_context.py",
+      "source_sha256": "00b327a1732b1fc581fe9ffb64f6030f02d76b4c6b1651362bc46b83b80482e6",
+      "published_sha256": "00b327a1732b1fc581fe9ffb64f6030f02d76b4c6b1651362bc46b83b80482e6",
       "publication_action": "byte-for-byte copy"
     },
     {
