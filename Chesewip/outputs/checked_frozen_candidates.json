@@ -1,0 +1,663 @@
+{
+  "status": "Independent frozen-candidate checks passed; no Eye candidate qualifies.",
+  "source_hashes": {
+    "ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "state_memory_comparison.json": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611",
+    "frozen_candidate_search.json": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+    "lifted_feedback_recovery.json": "48a7e593da28e9bed82819e577f6ad3b989e1705a2850f703454344e9714b548",
+    "lifted_feedback_completion.json": "36e5cec3fe018d4dc16cea9cb4432841f900a87cc38e8daf939d1708aa8ed897"
+  },
+  "search_controls": [
+    {
+      "name": "add",
+      "mode": "two_swap_repair",
+      "equality_weight": 3,
+      "training": {
+        "energy": 4,
+        "outside_codebook": 4,
+        "early_pair_mismatches": 0,
+        "distinct_residuals": 31,
+        "codebook": [
+          2,
+          3,
+          5,
+          6,
+          9,
+          11,
+          19,
+          24,
+          28,
+          29,
+          38,
+          41,
+          43,
+          47,
+          48,
+          49,
+          51,
+          52,
+          53,
+          54,
+          55,
+          70,
+          72,
+          73,
+          75,
+          77,
+          81
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 5,
+      "heldout_late_mismatches": 8,
+      "seed": 909800,
+      "literal_key_matches": 81
+    },
+    {
+      "name": "add",
+      "mode": "blind_random_permutation",
+      "equality_weight": 3,
+      "training": {
+        "energy": 307,
+        "outside_codebook": 202,
+        "early_pair_mismatches": 35,
+        "distinct_residuals": 81,
+        "codebook": [
+          2,
+          5,
+          6,
+          12,
+          18,
+          23,
+          25,
+          27,
+          29,
+          34,
+          37,
+          39,
+          44,
+          45,
+          56,
+          58,
+          60,
+          62,
+          63,
+          64,
+          66,
+          68,
+          71,
+          72,
+          75,
+          77,
+          78
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 175,
+      "heldout_late_mismatches": 54,
+      "seed": 909800,
+      "literal_key_matches": 0
+    },
+    {
+      "name": "square",
+      "mode": "two_swap_repair",
+      "equality_weight": 3,
+      "training": {
+        "energy": 4,
+        "outside_codebook": 4,
+        "early_pair_mismatches": 0,
+        "distinct_residuals": 30,
+        "codebook": [
+          1,
+          2,
+          6,
+          8,
+          13,
+          16,
+          19,
+          22,
+          24,
+          28,
+          30,
+          37,
+          38,
+          42,
+          47,
+          48,
+          49,
+          50,
+          52,
+          54,
+          57,
+          58,
+          59,
+          61,
+          62,
+          65,
+          69
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 4,
+      "heldout_late_mismatches": 0,
+      "seed": 909801,
+      "literal_key_matches": 81
+    },
+    {
+      "name": "square",
+      "mode": "blind_random_permutation",
+      "equality_weight": 3,
+      "training": {
+        "energy": 268,
+        "outside_codebook": 193,
+        "early_pair_mismatches": 25,
+        "distinct_residuals": 82,
+        "codebook": [
+          1,
+          3,
+          6,
+          8,
+          13,
+          15,
+          16,
+          19,
+          24,
+          25,
+          28,
+          33,
+          37,
+          38,
+          42,
+          46,
+          47,
+          48,
+          51,
+          52,
+          54,
+          58,
+          62,
+          69,
+          70,
+          72,
+          82
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 188,
+      "heldout_late_mismatches": 24,
+      "seed": 909801,
+      "literal_key_matches": 1
+    },
+    {
+      "name": "inverse",
+      "mode": "two_swap_repair",
+      "equality_weight": 3,
+      "training": {
+        "energy": 0,
+        "outside_codebook": 0,
+        "early_pair_mismatches": 0,
+        "distinct_residuals": 27,
+        "codebook": [
+          1,
+          4,
+          9,
+          18,
+          20,
+          22,
+          23,
+          24,
+          29,
+          30,
+          31,
+          33,
+          35,
+          36,
+          48,
+          51,
+          52,
+          54,
+          59,
+          61,
+          63,
+          65,
+          72,
+          74,
+          80,
+          81,
+          82
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 0,
+      "heldout_late_mismatches": 0,
+      "seed": 909802,
+      "literal_key_matches": 83
+    },
+    {
+      "name": "inverse",
+      "mode": "blind_random_permutation",
+      "equality_weight": 3,
+      "training": {
+        "energy": 357,
+        "outside_codebook": 228,
+        "early_pair_mismatches": 43,
+        "distinct_residuals": 83,
+        "codebook": [
+          2,
+          7,
+          9,
+          11,
+          18,
+          20,
+          22,
+          23,
+          24,
+          29,
+          31,
+          32,
+          35,
+          36,
+          37,
+          46,
+          47,
+          53,
+          54,
+          59,
+          60,
+          63,
+          65,
+          69,
+          72,
+          81,
+          82
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 200,
+      "heldout_late_mismatches": 53,
+      "seed": 909802,
+      "literal_key_matches": 1
+    }
+  ],
+  "eye": [
+    {
+      "name": "add",
+      "mode": "blind_random_permutation",
+      "equality_weight": 0,
+      "training": {
+        "energy": 198,
+        "outside_codebook": 198,
+        "early_pair_mismatches": 58,
+        "distinct_residuals": 80,
+        "codebook": [
+          1,
+          10,
+          11,
+          13,
+          25,
+          28,
+          36,
+          38,
+          41,
+          42,
+          43,
+          46,
+          47,
+          48,
+          49,
+          50,
+          54,
+          58,
+          59,
+          60,
+          62,
+          65,
+          66,
+          73,
+          76,
+          80,
+          81
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 237,
+      "heldout_late_mismatches": 54
+    },
+    {
+      "name": "add",
+      "mode": "blind_random_permutation",
+      "equality_weight": 3,
+      "training": {
+        "energy": 348,
+        "outside_codebook": 228,
+        "early_pair_mismatches": 40,
+        "distinct_residuals": 81,
+        "codebook": [
+          2,
+          3,
+          6,
+          10,
+          15,
+          17,
+          18,
+          21,
+          23,
+          29,
+          35,
+          41,
+          46,
+          47,
+          50,
+          51,
+          52,
+          55,
+          59,
+          66,
+          67,
+          69,
+          74,
+          75,
+          76,
+          78,
+          81
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 222,
+      "heldout_late_mismatches": 54
+    },
+    {
+      "name": "square",
+      "mode": "blind_random_permutation",
+      "equality_weight": 0,
+      "training": {
+        "energy": 217,
+        "outside_codebook": 217,
+        "early_pair_mismatches": 60,
+        "distinct_residuals": 82,
+        "codebook": [
+          1,
+          3,
+          6,
+          8,
+          13,
+          15,
+          19,
+          24,
+          28,
+          30,
+          31,
+          32,
+          33,
+          37,
+          38,
+          46,
+          47,
+          49,
+          51,
+          52,
+          54,
+          61,
+          62,
+          69,
+          72,
+          80,
+          82
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 215,
+      "heldout_late_mismatches": 54
+    },
+    {
+      "name": "square",
+      "mode": "blind_random_permutation",
+      "equality_weight": 3,
+      "training": {
+        "energy": 362,
+        "outside_codebook": 236,
+        "early_pair_mismatches": 42,
+        "distinct_residuals": 82,
+        "codebook": [
+          1,
+          2,
+          3,
+          8,
+          13,
+          15,
+          16,
+          22,
+          24,
+          25,
+          30,
+          31,
+          38,
+          44,
+          47,
+          48,
+          49,
+          50,
+          51,
+          54,
+          58,
+          59,
+          62,
+          69,
+          70,
+          72,
+          82
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 239,
+      "heldout_late_mismatches": 54
+    },
+    {
+      "name": "inverse",
+      "mode": "blind_random_permutation",
+      "equality_weight": 0,
+      "training": {
+        "energy": 201,
+        "outside_codebook": 201,
+        "early_pair_mismatches": 60,
+        "distinct_residuals": 83,
+        "codebook": [
+          1,
+          3,
+          4,
+          9,
+          20,
+          22,
+          23,
+          24,
+          29,
+          30,
+          31,
+          32,
+          33,
+          37,
+          48,
+          50,
+          51,
+          53,
+          54,
+          59,
+          60,
+          63,
+          65,
+          69,
+          72,
+          74,
+          79
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 228,
+      "heldout_late_mismatches": 51
+    },
+    {
+      "name": "inverse",
+      "mode": "blind_random_permutation",
+      "equality_weight": 3,
+      "training": {
+        "energy": 365,
+        "outside_codebook": 227,
+        "early_pair_mismatches": 46,
+        "distinct_residuals": 81,
+        "codebook": [
+          1,
+          3,
+          7,
+          9,
+          14,
+          20,
+          22,
+          30,
+          32,
+          35,
+          36,
+          37,
+          47,
+          48,
+          50,
+          51,
+          53,
+          60,
+          61,
+          63,
+          65,
+          69,
+          72,
+          74,
+          80,
+          81,
+          82
+        ],
+        "scored_transitions": 671
+      },
+      "heldout_outside": 228,
+      "heldout_late_mismatches": 53
+    }
+  ],
+  "lifted_controls": [
+    {
+      "name": "add",
+      "seed": 909850,
+      "original": {
+        "rank": 163,
+        "nullity": 3,
+        "status": "normalized_label_maps_recovered",
+        "inactive_columns": [],
+        "parameter_counts": {
+          "add": 6806,
+          "square": 0,
+          "inverse": 0
+        },
+        "heldout": {
+          "add": {
+            "codebook_size": 27,
+            "heldout_outside": 0,
+            "late_mismatches": 0
+          }
+        }
+      },
+      "completed": {
+        "rank": 163,
+        "nullity": 3,
+        "status": "normalized_label_maps_recovered",
+        "inactive_columns": [],
+        "parameter_counts": {
+          "add": 6806,
+          "square": 0,
+          "inverse": 0
+        },
+        "heldout": {
+          "add": {
+            "codebook_size": 27,
+            "heldout_outside": 0,
+            "late_mismatches": 0
+          }
+        }
+      },
+      "true_rule_and_equivalent_key_recovered": true
+    },
+    {
+      "name": "square",
+      "seed": 909851,
+      "original": {
+        "rank": 161,
+        "nullity": 5,
+        "status": "underdetermined_label_maps"
+      },
+      "completed": {
+        "rank": 161,
+        "nullity": 5,
+        "status": "normalized_label_maps_recovered",
+        "inactive_columns": [
+          26,
+          109
+        ],
+        "parameter_counts": {
+          "add": 0,
+          "square": 1,
+          "inverse": 0
+        },
+        "heldout": {
+          "square": {
+            "codebook_size": 27,
+            "heldout_outside": 0,
+            "late_mismatches": 0
+          }
+        }
+      },
+      "true_rule_and_equivalent_key_recovered": true
+    },
+    {
+      "name": "inverse",
+      "seed": 909852,
+      "original": {
+        "rank": 163,
+        "nullity": 3,
+        "status": "normalized_label_maps_recovered",
+        "inactive_columns": [],
+        "parameter_counts": {
+          "add": 0,
+          "square": 0,
+          "inverse": 2
+        },
+        "heldout": {
+          "inverse": {
+            "codebook_size": 27,
+            "heldout_outside": 0,
+            "late_mismatches": 0
+          }
+        }
+      },
+      "completed": {
+        "rank": 163,
+        "nullity": 3,
+        "status": "normalized_label_maps_recovered",
+        "inactive_columns": [],
+        "parameter_counts": {
+          "add": 0,
+          "square": 0,
+          "inverse": 2
+        },
+        "heldout": {
+          "inverse": {
+            "codebook_size": 27,
+            "heldout_outside": 0,
+            "late_mismatches": 0
+          }
+        }
+      },
+      "true_rule_and_equivalent_key_recovered": true
+    }
+  ],
+  "reencrypted_symbols": 13431,
+  "eye_lift": {
+    "rank": 45,
+    "nullity": 121,
+    "status": "underdetermined_label_maps"
+  }
+}

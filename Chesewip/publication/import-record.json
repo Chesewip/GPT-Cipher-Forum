@@ -1,6 +1,6 @@
 {
   "contributor": "Chesewip",
-  "published_date": "2026-09-07",
+  "published_date": "2026-09-08",
   "research_status": "Unsolved; no authentic plaintext or full-corpus key recovered.",
   "included": [
     {
@@ -391,6 +391,12 @@
       "path": "outputs/checked_fractionation_boundary.json",
       "source_sha256": "8e615389f24a85b93cee60ce61f15eb52b7694a612a3e5fd489efc594ea3ad0f",
       "published_sha256": "8e615389f24a85b93cee60ce61f15eb52b7694a612a3e5fd489efc594ea3ad0f",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/checked_frozen_candidates.json",
+      "source_sha256": "c7521265079fa6ee44beab83e3f7bbb783fef33450f9c196c2cbce1363a7df0e",
+      "published_sha256": "c7521265079fa6ee44beab83e3f7bbb783fef33450f9c196c2cbce1363a7df0e",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -1228,6 +1234,24 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/frozen-candidate-findings.md",
+      "source_sha256": "01d65e257ab0e36ab6e18d8036dc13e60609926c2ba4ffaeb789ad8f7c51dcb5",
+      "published_sha256": "01d65e257ab0e36ab6e18d8036dc13e60609926c2ba4ffaeb789ad8f7c51dcb5",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/frozen_candidate_search.json",
+      "source_sha256": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+      "published_sha256": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/frozen_candidate_search.py",
+      "source_sha256": "8cfa9d428cd567a67ea8a750bd1a4ca0ce0c1d4fc3ec635409118a5264bab5ba",
+      "published_sha256": "8cfa9d428cd567a67ea8a750bd1a4ca0ce0c1d4fc3ec635409118a5264bab5ba",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/full_rotation_three_cycle.py",
       "source_sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98",
       "published_sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98",
@@ -1726,6 +1750,24 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/lifted_feedback_completion.json",
+      "source_sha256": "36e5cec3fe018d4dc16cea9cb4432841f900a87cc38e8daf939d1708aa8ed897",
+      "published_sha256": "36e5cec3fe018d4dc16cea9cb4432841f900a87cc38e8daf939d1708aa8ed897",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/lifted_feedback_recovery.json",
+      "source_sha256": "48a7e593da28e9bed82819e577f6ad3b989e1705a2850f703454344e9714b548",
+      "published_sha256": "48a7e593da28e9bed82819e577f6ad3b989e1705a2850f703454344e9714b548",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/lifted_feedback_recovery.py",
+      "source_sha256": "429b0d299144791b14a3def1cb039c5f395853fcace66423ccf006ee6482217b",
+      "published_sha256": "429b0d299144791b14a3def1cb039c5f395853fcace66423ccf006ee6482217b",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/lookup-feedback-findings.md",
       "source_sha256": "36336d06043ef9b0885a74e521e8b5a11e68ec122839f4dd00595f2c303c2830",
       "published_sha256": "36336d06043ef9b0885a74e521e8b5a11e68ec122839f4dd00595f2c303c2830",
@@ -2039,8 +2081,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "e5035dc71414ea123f52bc6d0dc140cea20b21c070cee5b1f5d3b96870fcc129",
-      "published_sha256": "e5035dc71414ea123f52bc6d0dc140cea20b21c070cee5b1f5d3b96870fcc129",
+      "source_sha256": "cd436e062c220ddd47020ae060372bb2cdc22748c5be3eb4239f3032a1fc4e3e",
+      "published_sha256": "cd436e062c220ddd47020ae060372bb2cdc22748c5be3eb4239f3032a1fc4e3e",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2935,6 +2977,12 @@
       "path": "outputs/verify_fractionation_boundary.py",
       "source_sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a",
       "published_sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_frozen_candidates.py",
+      "source_sha256": "9fe3cab109d6d0ee1adfd2101ce475593fe78251be7b9ffa0c3868d53fce41ed",
+      "published_sha256": "9fe3cab109d6d0ee1adfd2101ce475593fe78251be7b9ffa0c3868d53fce41ed",
       "publication_action": "byte-for-byte copy"
     },
     {

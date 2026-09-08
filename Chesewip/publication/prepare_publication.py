@@ -1,10 +1,12 @@
 """Copy this research snapshot into a contributor folder without private caches."""
 from pathlib import Path
+from datetime import date
 import argparse, hashlib, json, shutil
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--source-root', required=True)
 ap.add_argument('--repository', required=True)
+ap.add_argument('--published-date', default=date.today().isoformat())
 a = ap.parse_args()
 source = Path(a.source_root).resolve()
 repo = Path(a.repository).resolve()
@@ -32,7 +34,7 @@ for folder, paths in [
                             published_sha256=hashlib.sha256(data).hexdigest(), publication_action=action))
 (dest / 'publication').mkdir(exist_ok=True)
 shutil.copyfile(Path(__file__), dest / 'publication' / 'prepare_publication.py')
-metadata = dict(contributor='Chesewip', published_date='2026-09-07', research_status='Unsolved; no authentic plaintext or full-corpus key recovered.',
+metadata = dict(contributor='Chesewip', published_date=date.fromisoformat(a.published_date).isoformat(), research_status='Unsolved; no authentic plaintext or full-corpus key recovered.',
                 included=records,
                 regenerated=['outputs/manifest.json','outputs/noita-investigation.zip'],
                 source_material_not_redistributed=['downloaded research documents and HTML', 'third-party Git clones and their .git metadata',

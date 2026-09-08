@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `equality-sensitivity-findings.md`. The relabeled additive model requires at least ten individual exceptions among 141 compared input positions; exact separate minima are three early and four late. The joint whole-column minimum is nine, but the saved nine-column linear survivor has no bijective completion across all 83 normalized active-map candidates. Two generated controls recover their altered positions and full hidden output maps up to affine equivalence. Independently checked; no Eye key.
+Latest: see `frozen-candidate-findings.md`. Candidate generation now tests three explicit unknown-map feedback rules with later messages withheld from fitting. Blind permutation searches fail controls; a separate two-map method recovers the correct rule and compatible key in three richer generated examples, all passing frozen held-out codebooks. The Eye early maps remain underdetermined (rank 45 of 166); no qualifying Eye candidate. Independent verification passed.
+
+Previous: see `equality-sensitivity-findings.md`. The relabeled additive model requires at least ten individual exceptions among 141 compared input positions; exact separate minima are three early and four late. The joint whole-column minimum is nine, but the saved nine-column linear survivor has no bijective completion across all 83 normalized active-map candidates. Two generated controls recover their altered positions and full hidden output maps up to affine equivalence. Independently checked; no Eye key.
 
 Previous: see `input-reset-context-findings.md`. Shared input-context overwrites cannot rescue the stated translation-feedback model under the passage assumptions: windows through 17 tokens before output, or 16 after output, are conditionally excluded. A three-equation early certificate and an eleven-term late certificate cancel over integers, extending these bounds to abelian groups beyond modulo 83. Six generated reset controls pass the correct filter and fail an intentionally unfiltered analysis. No Eye key.
 
@@ -49,6 +51,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_frozen_candidates.py
 python verify_equality_sensitivity.py
 python verify_input_reset_context.py
 python verify_periodic_resets.py

@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 571,
-    "python_syntax_checks": 222,
-    "json_parse_checks": 311,
-    "authored_CRLF_checks": 568,
-    "output_manifest_entries": 520,
+    "files": 579,
+    "python_syntax_checks": 225,
+    "json_parse_checks": 315,
+    "authored_CRLF_checks": 576,
+    "output_manifest_entries": 528,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 561,
+    "imported_research_files": 569,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -338,6 +338,11 @@
       "path": "outputs/checked_fractionation_boundary.json",
       "bytes": 668,
       "sha256": "8e615389f24a85b93cee60ce61f15eb52b7694a612a3e5fd489efc594ea3ad0f"
+    },
+    {
+      "path": "outputs/checked_frozen_candidates.json",
+      "bytes": 13632,
+      "sha256": "c7521265079fa6ee44beab83e3f7bbb783fef33450f9c196c2cbce1363a7df0e"
     },
     {
       "path": "outputs/checked_function_refinements.json",
@@ -1035,6 +1040,21 @@
       "sha256": "1a0cda5bf7132c190601873c147951653bab078f5440164b57b670ede54d8267"
     },
     {
+      "path": "outputs/frozen-candidate-findings.md",
+      "bytes": 11008,
+      "sha256": "01d65e257ab0e36ab6e18d8036dc13e60609926c2ba4ffaeb789ad8f7c51dcb5"
+    },
+    {
+      "path": "outputs/frozen_candidate_search.json",
+      "bytes": 99428,
+      "sha256": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab"
+    },
+    {
+      "path": "outputs/frozen_candidate_search.py",
+      "bytes": 8057,
+      "sha256": "8cfa9d428cd567a67ea8a750bd1a4ca0ce0c1d4fc3ec635409118a5264bab5ba"
+    },
+    {
       "path": "outputs/full_rotation_three_cycle.py",
       "bytes": 4156,
       "sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98"
@@ -1450,14 +1470,29 @@
       "sha256": "bbdd16dc6ecb70a03e0d0110c41d683315997960852eabcfbcca3ef487450054"
     },
     {
+      "path": "outputs/lifted_feedback_completion.json",
+      "bytes": 86522,
+      "sha256": "36e5cec3fe018d4dc16cea9cb4432841f900a87cc38e8daf939d1708aa8ed897"
+    },
+    {
+      "path": "outputs/lifted_feedback_recovery.json",
+      "bytes": 137552,
+      "sha256": "48a7e593da28e9bed82819e577f6ad3b989e1705a2850f703454344e9714b548"
+    },
+    {
+      "path": "outputs/lifted_feedback_recovery.py",
+      "bytes": 7319,
+      "sha256": "429b0d299144791b14a3def1cb039c5f395853fcace66423ccf006ee6482217b"
+    },
+    {
       "path": "outputs/lookup-feedback-findings.md",
       "bytes": 10983,
       "sha256": "36336d06043ef9b0885a74e521e8b5a11e68ec122839f4dd00595f2c303c2830"
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 87840,
-      "sha256": "9780299da8d6009e9e4c3796cd33f36e6b033db6dadc2f1aba7e59edd4c1feee"
+      "bytes": 89193,
+      "sha256": "a550e3b4e7bd0ee766e169ed900066402ced19493dfafc555c850c3bc29075a0"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1531,8 +1566,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 27228575,
-      "sha256": "ecd8c1cf750ce2c95e435fba2fc62d4a94a0b1fbb536eeaaa20c586e6370b844"
+      "bytes": 27335728,
+      "sha256": "4a09b0d46e4c5dc10bede6ea163f8388dfe2fa1e31822046ec9801b246b28e86"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1721,8 +1756,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 12672,
-      "sha256": "e5035dc71414ea123f52bc6d0dc140cea20b21c070cee5b1f5d3b96870fcc129"
+      "bytes": 13183,
+      "sha256": "cd436e062c220ddd47020ae060372bb2cdc22748c5be3eb4239f3032a1fc4e3e"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2470,6 +2505,11 @@
       "sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a"
     },
     {
+      "path": "outputs/verify_frozen_candidates.py",
+      "bytes": 10032,
+      "sha256": "9fe3cab109d6d0ee1adfd2101ce475593fe78251be7b9ffa0c3868d53fce41ed"
+    },
+    {
       "path": "outputs/verify_function_refinements.py",
       "bytes": 12970,
       "sha256": "4616b90d4ecb1e6250cfe93fb101aa1ae4c164df9bf517f20ce21aea7f21902a"
@@ -2636,13 +2676,13 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 172787,
-      "sha256": "faf94d617f0283f037f0e8284b779e82ad086f95d56443662edb081a7b913d59"
+      "bytes": 175245,
+      "sha256": "d47e588e32f632cc81e49a874e62f79320703d64b9cd5178ce3827001856ee3b"
     },
     {
       "path": "publication/prepare_publication.py",
-      "bytes": 2978,
-      "sha256": "f8950328e68b75c791eab6704d49f810dab513a35d31c56f2db3f9e39e01f55e"
+      "bytes": 3112,
+      "sha256": "5c010aee7b431163eb0deaee1c12ea3040d239a6426e96a4c4a6b5e73e613a56"
     },
     {
       "path": "publication/verification-results.json",
@@ -2651,8 +2691,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 10759,
-      "sha256": "fea3495bd422465877b178ba9f97dd415bec5fec370e1d8a34353ebabc3ef91a"
+      "bytes": 11192,
+      "sha256": "94407a7dbec8e7b30fac634bf0a966fb2c8e2d5718d91ceb03086360a3b03928"
     },
     {
       "path": "REFERENCES.md",

@@ -327,6 +327,11 @@
       "bytes": 668
     },
     {
+      "name": "checked_frozen_candidates.json",
+      "sha256": "c7521265079fa6ee44beab83e3f7bbb783fef33450f9c196c2cbce1363a7df0e",
+      "bytes": 13632
+    },
+    {
       "name": "checked_function_refinements.json",
       "sha256": "d3cb031dcb2594e15e672503245ff2f0c127e07d8634da0f131364d6eeebd8f4",
       "bytes": 31113
@@ -1022,6 +1027,21 @@
       "bytes": 7292
     },
     {
+      "name": "frozen-candidate-findings.md",
+      "sha256": "01d65e257ab0e36ab6e18d8036dc13e60609926c2ba4ffaeb789ad8f7c51dcb5",
+      "bytes": 11008
+    },
+    {
+      "name": "frozen_candidate_search.json",
+      "sha256": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+      "bytes": 99428
+    },
+    {
+      "name": "frozen_candidate_search.py",
+      "sha256": "8cfa9d428cd567a67ea8a750bd1a4ca0ce0c1d4fc3ec635409118a5264bab5ba",
+      "bytes": 8057
+    },
+    {
       "name": "full_rotation_three_cycle.py",
       "sha256": "72db1f9a8e1b7d08fdc0e300f585b29d5f0cb5fb9609167b3df7b34263ce0c98",
       "bytes": 4156
@@ -1437,6 +1457,21 @@
       "bytes": 7485
     },
     {
+      "name": "lifted_feedback_completion.json",
+      "sha256": "36e5cec3fe018d4dc16cea9cb4432841f900a87cc38e8daf939d1708aa8ed897",
+      "bytes": 86522
+    },
+    {
+      "name": "lifted_feedback_recovery.json",
+      "sha256": "48a7e593da28e9bed82819e577f6ad3b989e1705a2850f703454344e9714b548",
+      "bytes": 137552
+    },
+    {
+      "name": "lifted_feedback_recovery.py",
+      "sha256": "429b0d299144791b14a3def1cb039c5f395853fcace66423ccf006ee6482217b",
+      "bytes": 7319
+    },
+    {
       "name": "lookup-feedback-findings.md",
       "sha256": "36336d06043ef9b0885a74e521e8b5a11e68ec122839f4dd00595f2c303c2830",
       "bytes": 10983
@@ -1698,8 +1733,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "e5035dc71414ea123f52bc6d0dc140cea20b21c070cee5b1f5d3b96870fcc129",
-      "bytes": 12672
+      "sha256": "cd436e062c220ddd47020ae060372bb2cdc22748c5be3eb4239f3032a1fc4e3e",
+      "bytes": 13183
     },
     {
       "name": "reconvergence_controls.json",
@@ -2445,6 +2480,11 @@
       "name": "verify_fractionation_boundary.py",
       "sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a",
       "bytes": 6344
+    },
+    {
+      "name": "verify_frozen_candidates.py",
+      "sha256": "9fe3cab109d6d0ee1adfd2101ce475593fe78251be7b9ffa0c3868d53fce41ed",
+      "bytes": 10032
     },
     {
       "name": "verify_function_refinements.py",
