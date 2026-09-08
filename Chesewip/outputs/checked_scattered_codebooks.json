@@ -1,0 +1,25 @@
+{
+  "status": "Verified finite-family certificates and heuristic witnesses; no decipherment.",
+  "heuristic_key_witnesses_replayed": 47,
+  "heuristic_symbols_reencrypted": 48584,
+  "exact_warm_repairs_by_initial_swap_count": {
+    "0": 3,
+    "5": 3,
+    "10": 3,
+    "20": 2
+  },
+  "blind_control_support_range": [
+    89,
+    100
+  ],
+  "best_eye_witness_support": 75,
+  "affine_plane_configurations": 8672,
+  "affine_certificate_kinds": {
+    "six_labels_on_five_point_line": 16,
+    "coordinate_collision": 8656
+  },
+  "weighted_equation_identities_checked": 26128,
+  "affine_generated_controls_verified": 3,
+  "earlier_partial_affine_certificates_verified": 472,
+  "scope": "Replays and equation identities are verified, not optimality of heuristic minima. Affine exclusions require all three nonzero coefficients and the stated shared full-first-block schedule."
+}

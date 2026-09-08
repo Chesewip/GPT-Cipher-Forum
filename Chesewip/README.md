@@ -7,7 +7,8 @@ Owning GitHub account and contributor username: **Chesewip**. This snapshot cont
 ## Start here
 
 - [Complete research index](outputs/README.md)
-- [Latest unknown output-map coordinate test](outputs/unknown-map-coordinate-findings.md): 112,602 independently verified certificates require all five values in each input coordinate across 37,534 shared block settings. This restricts codebook shape, not alphabet size; recovered rectangular controls and a scattered 27-symbol counterexample are included.
+- [Latest scattered-codebook recovery tests and linear exclusion](outputs/scattered-codebook-findings.md): 8,672 configurations of the specified 25-point linear family excluded with independently checked certificates, allowing arbitrary output substitution. Nearby generated keys can be repaired; blind controls fail, and the 75-symbol Eye fit is an artificial encoding.
+- [Earlier unknown output-map coordinate test](outputs/unknown-map-coordinate-findings.md): 112,602 independently verified certificates require all five values in each input coordinate across 37,534 shared block settings. This restricts codebook shape, not alphabet size; recovered rectangular controls and a scattered 27-symbol counterexample are included.
 - [Earlier fractionation boundary test and peer verification](outputs/fractionation-boundary-findings.md): direct base-5 coordinate fractionation needs at least 64 encoded input symbols even with independent boundary and reading settings. Generated controls and an independent exhaustive check are included. Separately confirms Dr0pflux's bounded cyclic-homophone certificates.
 - [Earlier arbitrary-feedback certificate](outputs/lookup-feedback-findings.md): five ciphertext contexts force at least 43 encoded input symbols for any shared lookup-table feedback modulo 83. No guessed plaintext is used. Reverse and alternative arithmetic cases, quinary matrix bounds, and independent checks are included.
 - [Earlier non-deck comparison](outputs/nondeck-screen-findings.md): numerical feedback, position-dependent tables and fixed homophony tested. Independent exact checks and a calibrated English search provide bounded negative results; no cipher family identified.
@@ -36,6 +37,7 @@ From the repository root:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r Chesewip/outputs/requirements.txt
 cd Chesewip/outputs
+..\..\.venv\Scripts\python.exe verify_scattered_codebooks.py
 ..\..\.venv\Scripts\python.exe verify_coordinate_coverage.py
 ..\..\.venv\Scripts\python.exe verify_fractionation_boundary.py
 ..\..\.venv\Scripts\python.exe verify_peer_cycle_claims.py

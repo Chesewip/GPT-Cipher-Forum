@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 498,
-    "python_syntax_checks": 193,
-    "json_parse_checks": 275,
-    "authored_CRLF_checks": 495,
-    "output_manifest_entries": 447,
+    "files": 511,
+    "python_syntax_checks": 197,
+    "json_parse_checks": 283,
+    "authored_CRLF_checks": 508,
+    "output_manifest_entries": 460,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 488,
+    "imported_research_files": 501,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -113,6 +113,21 @@
       "path": "outputs/affine_pair_52_32_collision_certificate.json",
       "bytes": 41352,
       "sha256": "9a16ed09272095df8e0ff90a8bffeef244c844cac90920f7c6ee35402a5add25"
+    },
+    {
+      "path": "outputs/affine_plane_codebook.json",
+      "bytes": 6562841,
+      "sha256": "66365e5914669415207c215ebb621947be93ba69809ff4e7d4bf9b39ee994c42"
+    },
+    {
+      "path": "outputs/affine_plane_codebook.py",
+      "bytes": 7079,
+      "sha256": "5e6cd66fdecc56a1fa90d7aa34f0f912bd6a01af139f68a1328e13e1723289e3"
+    },
+    {
+      "path": "outputs/affine_plane_codebook_pilot.json",
+      "bytes": 1655965,
+      "sha256": "3c5d67f10e1505817c3c2edbe058dcb4c10da1759aebff25d63a063b65c0827b"
     },
     {
       "path": "outputs/affine_six_edge_minimality.json",
@@ -398,6 +413,11 @@
       "path": "outputs/checked_return_methods.json",
       "bytes": 2046,
       "sha256": "70369b4178fe6cb09f6d623eef25faa4d29ec2159fa66c87b2886ef55fc6afeb"
+    },
+    {
+      "path": "outputs/checked_scattered_codebooks.json",
+      "bytes": 896,
+      "sha256": "f9a8d606d06946ebb109f0c91ca1017aa26dce66ebf659d5c9d64d580ef7793e"
     },
     {
       "path": "outputs/checked_shuffle_weight_bounds.json",
@@ -1276,8 +1296,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 75356,
-      "sha256": "ca5ea1dc0a07863d450b09ce6704a37402cec2681fe60ee2dcf1b909bef910ac"
+      "bytes": 77580,
+      "sha256": "5ade313e941ad7b7b058b914223932cb96a197759445e80d12ad4c6b287bfa51"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1351,8 +1371,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 2589921,
-      "sha256": "ce0f39486701ee6f7f9e52e10bdb1a9e9f2d9784153e45c87d07945a2362f46e"
+      "bytes": 4801966,
+      "sha256": "dde680319974ba3ae6ae05524e079ca68cee378e07302a488d1acc6bf9d28055"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1486,8 +1506,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 8465,
-      "sha256": "5eac4a98a65c7820047010b0daae08e07e01f729dc1ab47ffe5b9e2edd88b46f"
+      "bytes": 8924,
+      "sha256": "3fd91fa982813e732ce3612d716ad40a4f4ad41636e0f2864c2ba3173bb34634"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -1720,6 +1740,11 @@
       "sha256": "538ad51e691f75278f7198f95ec9757056a6be58b8936f635f5c4be52ea19822"
     },
     {
+      "path": "outputs/scattered-codebook-findings.md",
+      "bytes": 11359,
+      "sha256": "b9af492a5b892013fec2c85345a607b779a2b4640098e0c601bd75cdea74e373"
+    },
+    {
       "path": "outputs/scattered_coordinate_control.json",
       "bytes": 25214,
       "sha256": "6e54eef64757baff51ce34b68d407210f6ab834de38bdb1ff7a8c4328e8b6bd0"
@@ -1728,6 +1753,41 @@
       "path": "outputs/scattered_coordinate_control.py",
       "bytes": 1796,
       "sha256": "c2a1ad965f1eefc1d6570c810cb35d87fd88065317a92bfa854794a773a0ce3c"
+    },
+    {
+      "path": "outputs/scattered_map_adjacent_calibration.json",
+      "bytes": 91846,
+      "sha256": "dea95e3b74c1daa132e38af36d74e9c4faa7f86375aa654c9cfea843e635be5d"
+    },
+    {
+      "path": "outputs/scattered_map_calibrate.json",
+      "bytes": 96480,
+      "sha256": "df7adefc67b0fdd5e6518f6b1bd0fdb17075d8daacac05696cdf1816062154f4"
+    },
+    {
+      "path": "outputs/scattered_map_cold_pilot.json",
+      "bytes": 12935,
+      "sha256": "a0152272b43a5e848f2bc797fb38fd40405c66a82d42ef8c6163ff793131d0f3"
+    },
+    {
+      "path": "outputs/scattered_map_recovery_audit.py",
+      "bytes": 3596,
+      "sha256": "d7ac2b38bb43b3e0cdcf5b324d3acee74fbcbbd26f41fc51a80ad20fa796f731"
+    },
+    {
+      "path": "outputs/scattered_map_recovery_controls.json",
+      "bytes": 685762,
+      "sha256": "1c7a34e2069022f7040cb37626ecac4f15fc20cf2884c5b284f542429c73be85"
+    },
+    {
+      "path": "outputs/scattered_map_recovery_eyes.json",
+      "bytes": 230629,
+      "sha256": "350878ebec87d65b83b97c7ad7c31066d216b8e9623637adf1f9fd826e99366b"
+    },
+    {
+      "path": "outputs/scattered_map_search.py",
+      "bytes": 6909,
+      "sha256": "7846d3602a69316c8a42590bd7dca040a145782ef4d072716b5ec60a9074b334"
     },
     {
       "path": "outputs/shared-pattern-testing.md",
@@ -2235,6 +2295,11 @@
       "sha256": "20af1e2384bdd844471a2ca4cf359a9a51593938bdf3165da885420dcc6e96ad"
     },
     {
+      "path": "outputs/verify_scattered_codebooks.py",
+      "bytes": 8968,
+      "sha256": "13971deacfc2351c0bfc1873f4238d1419c55cb5f6f23312a088cef65942e812"
+    },
+    {
       "path": "outputs/verify_shuffle_weight_bounds.py",
       "bytes": 3483,
       "sha256": "879fb236047a4b70423d22c5a7bdbf30872586f5662f1c6cc3757ee8e6d7287d"
@@ -2271,8 +2336,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 150218,
-      "sha256": "63ada5d1812652339cae09b9056b463202e9005d7103bdac7c419bbfbeda631a"
+      "bytes": 154236,
+      "sha256": "1bfe195ef05b7d613f83b9eac45b73599ec7f7dd2bf4a0ea3efbad8dfb7e6a10"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2286,8 +2351,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7039,
-      "sha256": "2482a20dc9343a7da0312bdc89f9143887259f837b8143aa324d3c30432ae3d0"
+      "bytes": 7474,
+      "sha256": "b3ffdf2bf50bc340614d9781196b8c71a57aa7b2b7319ab2c98202addbed9957"
     },
     {
       "path": "REFERENCES.md",

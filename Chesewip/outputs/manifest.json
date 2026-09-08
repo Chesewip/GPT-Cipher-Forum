@@ -102,6 +102,21 @@
       "bytes": 41352
     },
     {
+      "name": "affine_plane_codebook.json",
+      "sha256": "66365e5914669415207c215ebb621947be93ba69809ff4e7d4bf9b39ee994c42",
+      "bytes": 6562841
+    },
+    {
+      "name": "affine_plane_codebook.py",
+      "sha256": "5e6cd66fdecc56a1fa90d7aa34f0f912bd6a01af139f68a1328e13e1723289e3",
+      "bytes": 7079
+    },
+    {
+      "name": "affine_plane_codebook_pilot.json",
+      "sha256": "3c5d67f10e1505817c3c2edbe058dcb4c10da1759aebff25d63a063b65c0827b",
+      "bytes": 1655965
+    },
+    {
       "name": "affine_six_edge_minimality.json",
       "sha256": "af6866ddb80d2e43448b15867057d5f94446488c8d66c41e7d6c7155c58b90cc",
       "bytes": 3077
@@ -385,6 +400,11 @@
       "name": "checked_return_methods.json",
       "sha256": "70369b4178fe6cb09f6d623eef25faa4d29ec2159fa66c87b2886ef55fc6afeb",
       "bytes": 2046
+    },
+    {
+      "name": "checked_scattered_codebooks.json",
+      "sha256": "f9a8d606d06946ebb109f0c91ca1017aa26dce66ebf659d5c9d64d580ef7793e",
+      "bytes": 896
     },
     {
       "name": "checked_shuffle_weight_bounds.json",
@@ -1463,8 +1483,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "5eac4a98a65c7820047010b0daae08e07e01f729dc1ab47ffe5b9e2edd88b46f",
-      "bytes": 8465
+      "sha256": "3fd91fa982813e732ce3612d716ad40a4f4ad41636e0f2864c2ba3173bb34634",
+      "bytes": 8924
     },
     {
       "name": "reconvergence_controls.json",
@@ -1697,6 +1717,11 @@
       "bytes": 364
     },
     {
+      "name": "scattered-codebook-findings.md",
+      "sha256": "b9af492a5b892013fec2c85345a607b779a2b4640098e0c601bd75cdea74e373",
+      "bytes": 11359
+    },
+    {
       "name": "scattered_coordinate_control.json",
       "sha256": "6e54eef64757baff51ce34b68d407210f6ab834de38bdb1ff7a8c4328e8b6bd0",
       "bytes": 25214
@@ -1705,6 +1730,41 @@
       "name": "scattered_coordinate_control.py",
       "sha256": "c2a1ad965f1eefc1d6570c810cb35d87fd88065317a92bfa854794a773a0ce3c",
       "bytes": 1796
+    },
+    {
+      "name": "scattered_map_adjacent_calibration.json",
+      "sha256": "dea95e3b74c1daa132e38af36d74e9c4faa7f86375aa654c9cfea843e635be5d",
+      "bytes": 91846
+    },
+    {
+      "name": "scattered_map_calibrate.json",
+      "sha256": "df7adefc67b0fdd5e6518f6b1bd0fdb17075d8daacac05696cdf1816062154f4",
+      "bytes": 96480
+    },
+    {
+      "name": "scattered_map_cold_pilot.json",
+      "sha256": "a0152272b43a5e848f2bc797fb38fd40405c66a82d42ef8c6163ff793131d0f3",
+      "bytes": 12935
+    },
+    {
+      "name": "scattered_map_recovery_audit.py",
+      "sha256": "d7ac2b38bb43b3e0cdcf5b324d3acee74fbcbbd26f41fc51a80ad20fa796f731",
+      "bytes": 3596
+    },
+    {
+      "name": "scattered_map_recovery_controls.json",
+      "sha256": "1c7a34e2069022f7040cb37626ecac4f15fc20cf2884c5b284f542429c73be85",
+      "bytes": 685762
+    },
+    {
+      "name": "scattered_map_recovery_eyes.json",
+      "sha256": "350878ebec87d65b83b97c7ad7c31066d216b8e9623637adf1f9fd826e99366b",
+      "bytes": 230629
+    },
+    {
+      "name": "scattered_map_search.py",
+      "sha256": "7846d3602a69316c8a42590bd7dca040a145782ef4d072716b5ec60a9074b334",
+      "bytes": 6909
     },
     {
       "name": "shared-pattern-testing.md",
@@ -2210,6 +2270,11 @@
       "name": "verify_scan.py",
       "sha256": "20af1e2384bdd844471a2ca4cf359a9a51593938bdf3165da885420dcc6e96ad",
       "bytes": 816
+    },
+    {
+      "name": "verify_scattered_codebooks.py",
+      "sha256": "13971deacfc2351c0bfc1873f4238d1419c55cb5f6f23312a088cef65942e812",
+      "bytes": 8968
     },
     {
       "name": "verify_shuffle_weight_bounds.py",

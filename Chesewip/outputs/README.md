@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `unknown-map-coordinate-findings.md`. Even allowing an arbitrary shared output-symbol substitution, 112,602 independently checked certificates across 37,534 block configurations require every input coordinate to use all five digit values. This restricts the shape of the codebook, not its number of symbols: a generated scattered 27-symbol counterexample makes that limit explicit. Three rectangular unknown-map controls recover their planted settings.
+Latest: see `scattered-codebook-findings.md`. Independent checks exclude the specified 25-point linear codebooks behind arbitrary output substitutions across 8,672 shared-period configurations. A scattered-codebook search repairs nearby generated keys but fails blind controls; its 75-symbol Eye fit is artificial and supplies no plaintext. Exact certificates, failed pilots and all candidate mappings are retained.
+
+Previous: see `unknown-map-coordinate-findings.md`. Even allowing an arbitrary shared output-symbol substitution, 112,602 independently checked certificates across 37,534 block configurations require every input coordinate to use all five digit values. This restricts the shape of the codebook, not its number of symbols: a generated scattered 27-symbol counterexample makes that limit explicit. Three rectangular unknown-map controls recover their planted settings.
 
 Previous: see `fractionation-boundary-findings.md`. Direct base-5 coordinate fractionation requires at least 64 encoded input symbols despite independently variable message periods, short boundary blocks and reading conventions. Generated prime-length controls recover their planted settings up to reversal; the decisive bound is independently exhaustive-checked. A separate implementation confirms Dr0pflux's bounded cyclic-homophone certificates, with attribution. No plaintext recovered.
 
@@ -33,6 +35,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_scattered_codebooks.py
 python verify_coordinate_coverage.py
 python verify_fractionation_boundary.py
 python verify_peer_cycle_claims.py
