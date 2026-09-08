@@ -1,0 +1,190 @@
+{
+  "status": "Independent passage-row and deletion checks passed; no blind control key recovered.",
+  "source_hashes": {
+    "frozen_candidate_search.json": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+    "joint_feedback_constraints.json": "466a671f28da53d8f078a33c143418665dfbe04aaa93fb8bcb68b59c6d46653e",
+    "propagate_feedback_domains.json": "885bcc7fcf1e9a4d1067b9aa9aa196a91ec445d85bd0f2d0d36d1669bfe952ff",
+    "passage_domain_search.json": "4584fdafde2c624f5bf6bde23b02fe4f961525d265ded2c54423c1fd6e507392",
+    "passage_domain_extended.json": "339ae61ddd28889d0f17e84b6bfff4b29d6ba8cf6063d60b9d5393f7ddd9d2d1"
+  },
+  "controls": [
+    {
+      "name": "add",
+      "seed": 909800,
+      "verified_rank": 37,
+      "blind_root": {
+        "initial_singletons": 2,
+        "final_singletons": 2,
+        "deleted_values": 162,
+        "reasons": {
+          "permutation": 162
+        }
+      },
+      "initial_search": {
+        "status": "budget_exhausted",
+        "node_limit": 120,
+        "seconds_budget": 20,
+        "nodes": 120,
+        "contradiction_nodes": 113,
+        "max_singletons_seen": 23,
+        "elapsed_seconds": 0.2969999999986612,
+        "branching": "smallest domain, highest degree, then label; increasing values"
+      },
+      "extended_search": {
+        "status": "budget_exhausted",
+        "node_limit": 20000,
+        "seconds_budget": 30,
+        "nodes": 17342,
+        "contradiction_nodes": 16958,
+        "max_singletons_seen": 38,
+        "elapsed_seconds": 30.0,
+        "branching": "smallest domain, highest degree, then label; increasing values"
+      },
+      "alphabet_only_fixed": 29,
+      "assisted": {
+        "passages_only": {
+          "initial_singletons": 29,
+          "final_singletons": 29,
+          "deleted_values": 1640,
+          "reasons": {
+            "permutation": 1566,
+            "passage_row": 74
+          }
+        },
+        "passages_and_alphabet": {
+          "initial_singletons": 29,
+          "final_singletons": 29,
+          "deleted_values": 1822,
+          "reasons": {
+            "permutation": 1566,
+            "passage_row": 93,
+            "alphabet_cap": 163
+          }
+        }
+      }
+    },
+    {
+      "name": "square",
+      "seed": 909801,
+      "verified_rank": 28,
+      "blind_root": {
+        "initial_singletons": 0,
+        "final_singletons": 0,
+        "deleted_values": 0,
+        "reasons": {}
+      },
+      "initial_search": {
+        "status": "budget_exhausted",
+        "node_limit": 120,
+        "seconds_budget": 20,
+        "nodes": 120,
+        "contradiction_nodes": 69,
+        "max_singletons_seen": 24,
+        "elapsed_seconds": 2.202999999997701,
+        "branching": "smallest domain, highest degree, then label; increasing values"
+      },
+      "extended_search": {
+        "status": "budget_exhausted",
+        "node_limit": 20000,
+        "seconds_budget": 30,
+        "nodes": 1979,
+        "contradiction_nodes": 1376,
+        "max_singletons_seen": 25,
+        "elapsed_seconds": 30.014999999999418,
+        "branching": "smallest domain, highest degree, then label; increasing values"
+      },
+      "alphabet_only_fixed": 27,
+      "assisted": {
+        "passages_only": {
+          "initial_singletons": 27,
+          "final_singletons": 47,
+          "deleted_values": 3434,
+          "reasons": {
+            "permutation": 2282,
+            "passage_row": 1152
+          }
+        },
+        "passages_and_alphabet": {
+          "initial_singletons": 27,
+          "final_singletons": 83,
+          "deleted_values": 4592,
+          "reasons": {
+            "permutation": 1940,
+            "passage_row": 869,
+            "alphabet_cap": 1783
+          },
+          "true_key_recovered": true,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 25
+          }
+        }
+      }
+    },
+    {
+      "name": "inverse",
+      "seed": 909802,
+      "verified_rank": 45,
+      "blind_root": {
+        "initial_singletons": 0,
+        "final_singletons": 0,
+        "deleted_values": 0,
+        "reasons": {}
+      },
+      "initial_search": {
+        "status": "budget_exhausted",
+        "node_limit": 120,
+        "seconds_budget": 20,
+        "nodes": 120,
+        "contradiction_nodes": 111,
+        "max_singletons_seen": 24,
+        "elapsed_seconds": 1.0630000000019209,
+        "branching": "smallest domain, highest degree, then label; increasing values"
+      },
+      "extended_search": {
+        "status": "budget_exhausted",
+        "node_limit": 20000,
+        "seconds_budget": 30,
+        "nodes": 3094,
+        "contradiction_nodes": 3027,
+        "max_singletons_seen": 24,
+        "elapsed_seconds": 30.01600000000326,
+        "branching": "smallest domain, highest degree, then label; increasing values"
+      },
+      "alphabet_only_fixed": 27,
+      "assisted": {
+        "passages_only": {
+          "initial_singletons": 27,
+          "final_singletons": 56,
+          "deleted_values": 3890,
+          "reasons": {
+            "permutation": 2449,
+            "passage_row": 1441
+          }
+        },
+        "passages_and_alphabet": {
+          "initial_singletons": 27,
+          "final_singletons": 83,
+          "deleted_values": 4592,
+          "reasons": {
+            "permutation": 1808,
+            "passage_row": 744,
+            "alphabet_cap": 2040
+          },
+          "true_key_recovered": true,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 22
+          }
+        }
+      }
+    }
+  ],
+  "reencrypted_symbols": 3081
+}

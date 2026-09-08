@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 592,
-    "python_syntax_checks": 230,
-    "json_parse_checks": 321,
-    "authored_CRLF_checks": 589,
-    "output_manifest_entries": 541,
+    "files": 598,
+    "python_syntax_checks": 232,
+    "json_parse_checks": 324,
+    "authored_CRLF_checks": 595,
+    "output_manifest_entries": 547,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 582,
+    "imported_research_files": 588,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -418,6 +418,11 @@
       "path": "outputs/checked_nonreturn_refinement.json",
       "bytes": 250,
       "sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7"
+    },
+    {
+      "path": "outputs/checked_passage_domains.json",
+      "bytes": 6033,
+      "sha256": "d6f45d43ea88639b55ae9fe162520a45f979884014cee4b8e371d6e9dc1743b3"
     },
     {
       "path": "outputs/checked_peer_cycle_claims.json",
@@ -1521,8 +1526,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 91377,
-      "sha256": "07062a4346ce3c1fcfba22947ad2f9c586652c4424509dd6c9f7e8f52d4d753f"
+      "bytes": 92378,
+      "sha256": "b5e4309c2cc3d2d5a6008b6fa002393ba59012c1ae1707f346bc947b68aa8acc"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1596,8 +1601,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 27488925,
-      "sha256": "5d834497d55b22968c46b2b5b38efec345b2059d7366f152c403f94932c31bca"
+      "bytes": 27577544,
+      "sha256": "5fbd482836cffe6ea7b19e435c566ca3f91a11ee97b25a536c9bcd1dee89df68"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1648,6 +1653,26 @@
       "path": "outputs/partial_phrase_results.json",
       "bytes": 16045,
       "sha256": "320ecae2edfee99892d1531dd28807c75e3a1f115a406707327b03f0ce7a3c36"
+    },
+    {
+      "path": "outputs/passage-domain-findings.md",
+      "bytes": 9398,
+      "sha256": "c511928952c36ad3903ac3a5baa712f71fd48f77d53fa39f61dbc8356f683159"
+    },
+    {
+      "path": "outputs/passage_domain_extended.json",
+      "bytes": 1063,
+      "sha256": "339ae61ddd28889d0f17e84b6bfff4b29d6ba8cf6063d60b9d5393f7ddd9d2d1"
+    },
+    {
+      "path": "outputs/passage_domain_search.json",
+      "bytes": 1418849,
+      "sha256": "4584fdafde2c624f5bf6bde23b02fe4f961525d265ded2c54423c1fd6e507392"
+    },
+    {
+      "path": "outputs/passage_domain_search.py",
+      "bytes": 10561,
+      "sha256": "3ae1ddc3bdf6ef61ee1c4a64b0175dbd91ec91c0cb7297dba51f79658ca9b733"
     },
     {
       "path": "outputs/pattern_assumption_audit.json",
@@ -1796,8 +1821,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 14142,
-      "sha256": "f481f85fff0b6cd91acf98522b1690e2003f69a3f8ae0240a95e00f279f02039"
+      "bytes": 14570,
+      "sha256": "d2a1c9e28bc2164ebaf34db194024d95385c630650351c3af903c8ad7a71d656"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2640,6 +2665,11 @@
       "sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34"
     },
     {
+      "path": "outputs/verify_passage_domains.py",
+      "bytes": 8135,
+      "sha256": "6d7dc544ab235838d8e76c4274ad9985fd493edc95f1cf4fcd235c3743d21300"
+    },
+    {
       "path": "outputs/verify_peer_cycle_claims.py",
       "bytes": 3928,
       "sha256": "e66af9ce7c067e2a4224bbf996ce20cb4219f1fcd67fa5d7185e382eb85c3d1f"
@@ -2741,8 +2771,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 179231,
-      "sha256": "b925daede60f4d5581f300a151ba048ef0bde10f1cb7e59eb213e9d389f9d902"
+      "bytes": 181062,
+      "sha256": "00719b994754ebae97c994b8cb875181571f65d4e9c57762cf83b0992b3901b1"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2756,8 +2786,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 12090,
-      "sha256": "f18bc92a912d6f82542ceaa0f21266c64c956057cef4596300c4ced87fffbf4a"
+      "bytes": 12509,
+      "sha256": "c443ae505bd625e77029d975cc72154170ceb80ef4c46608c68fde051ff6c798"
     },
     {
       "path": "REFERENCES.md",

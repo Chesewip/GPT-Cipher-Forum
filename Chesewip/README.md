@@ -7,7 +7,8 @@ Owning GitHub account and contributor username: **Chesewip**. This snapshot cont
 ## Start here
 
 - [Complete research index](outputs/README.md)
-- [Latest joint constraints and short-control propagation](outputs/joint-feedback-findings.md): an alphabet-cap filter completes all three Eye-length generated keys from 43 supplied entries without repeated-passage assumptions. Every deletion is independently justified and held-out checks pass. With 27 pins it stalls; blind solver tests time out. Assisted recovery only; no Eye key.
+- [Latest combined passage and alphabet deductions](outputs/passage-domain-findings.md): with 27 supplied key entries, the combined filters recover the short squaring and inversion control keys where either filter alone stalls. Exact row and deletion certificates and held-out checks pass. All three extended blind searches exhaust their budgets; no Eye key.
+- [Earlier joint constraints and short-control propagation](outputs/joint-feedback-findings.md): an alphabet-cap filter completes all three Eye-length generated keys from 43 supplied entries without repeated-passage assumptions. Every deletion is independently justified and held-out checks pass. With 27 pins it stalls; blind solver tests time out. Assisted recovery only; no Eye key.
 - [Earlier partial-key completion and constraint ablations](outputs/sparse-completion-findings.md): the three rich generated keys recover with 200 or 250 equality comparisons. For the nonlinear fixtures, only the correct completion stays within 27 input values; wrong completions need at least 37 or 50. Exhaustively checked; Eye data and Eye-length controls remain outside the search budget.
 - [Earlier frozen candidates and nonlinear recovery controls](outputs/frozen-candidate-findings.md): blind permutation searches fail calibration, while a two-map method recovers the true rule and compatible key in three richer generated examples and passes their held-out checks. Eye early maps remain underdetermined; no qualifying Eye candidate. Independently verified.
 - [Earlier equality-sensitivity bounds and failed bijection witness](outputs/equality-sensitivity-findings.md): at least ten individual input exceptions are required in the joint relabeled additive model. The exact nine-column linear minimum has a saved survivor whose 83 normalized active-map candidates all fail bijection. Two altered generated controls recover full hidden output maps and fault positions. Independent checks passed; no Eye key.
@@ -47,6 +48,7 @@ From the repository root:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r Chesewip/outputs/requirements.txt
 cd Chesewip/outputs
+..\..\.venv\Scripts\python.exe verify_passage_domains.py
 ..\..\.venv\Scripts\python.exe verify_joint_feedback.py
 ..\..\.venv\Scripts\python.exe verify_sparse_completion.py
 ..\..\.venv\Scripts\python.exe verify_frozen_candidates.py
