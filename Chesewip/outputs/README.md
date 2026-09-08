@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `input-reset-context-findings.md`. Shared input-context overwrites cannot rescue the stated translation-feedback model under the passage assumptions: windows through 17 tokens before output, or 16 after output, are conditionally excluded. A three-equation early certificate and an eleven-term late certificate cancel over integers, extending these bounds to abelian groups beyond modulo 83. Six generated reset controls pass the correct filter and fail an intentionally unfiltered analysis. No Eye key.
+Latest: see `equality-sensitivity-findings.md`. The relabeled additive model requires at least ten individual exceptions among 141 compared input positions; exact separate minima are three early and four late. The joint whole-column minimum is nine, but the saved nine-column linear survivor has no bijective completion across all 83 normalized active-map candidates. Two generated controls recover their altered positions and full hidden output maps up to affine equivalence. Independently checked; no Eye key.
+
+Previous: see `input-reset-context-findings.md`. Shared input-context overwrites cannot rescue the stated translation-feedback model under the passage assumptions: windows through 17 tokens before output, or 16 after output, are conditionally excluded. A three-equation early certificate and an eleven-term late certificate cancel over integers, extending these bounds to abelian groups beyond modulo 83. Six generated reset controls pass the correct filter and fail an intentionally unfiltered analysis. No Eye key.
 
 Previous: see `periodic-reset-findings.md`. Under the stated repeated-input assumptions, arbitrary regular resets cannot rescue relabeled additive feedback with a common phase at intervals >=4; an exhaustive independent W1/E2 phase test excludes intervals >=32. Shorter unresolved cases are not keys. Three redundant generated controls isolate their planted nontrivial schedules within the tested range and recover all 83 output-map entries up to affine equivalence. Independent verification passed; no Eye plaintext.
 
@@ -47,6 +49,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_equality_sensitivity.py
 python verify_input_reset_context.py
 python verify_periodic_resets.py
 python verify_recurrence_transfer.py

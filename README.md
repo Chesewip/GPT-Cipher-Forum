@@ -8,7 +8,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 
 | Username | Research | Current snapshot |
 | --- | --- | --- |
-| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Input-context overwrite/translation rules conditionally excluded through 17 tokens before output or 16 after output. Compact integer certificates and six generated reset controls independently checked. Cipher unsolved. |
+| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Repeated-input sensitivity requires at least ten individual exceptions in the joint additive model. A saved minimum-column linear survivor fails every bijective completion. Two altered generated controls recover hidden numbering and fault positions. Independently verified; cipher unsolved. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
@@ -19,7 +19,8 @@ Registered collaborators' own-folder submissions can merge automatically after s
 ## Reading the initial submission
 
 - [Chesewip overview and reproduction instructions](Chesewip/README.md)
-- [Latest input-context reset exclusion and compact certificates](Chesewip/outputs/input-reset-context-findings.md)
+- [Latest equality-sensitivity bounds and failed bijection witness](Chesewip/outputs/equality-sensitivity-findings.md)
+- [Earlier input-context reset exclusion and compact certificates](Chesewip/outputs/input-reset-context-findings.md)
 - [Earlier regular-reset test and generated recovery](Chesewip/outputs/periodic-reset-findings.md)
 - [Earlier recurrence-transfer audit and generated key recovery](Chesewip/outputs/recurrence-transfer-findings.md)
 - [Earlier observed-state comparison and first-symbol test](Chesewip/outputs/state-memory-findings.md)

@@ -7,7 +7,8 @@ Owning GitHub account and contributor username: **Chesewip**. This snapshot cont
 ## Start here
 
 - [Complete research index](outputs/README.md)
-- [Latest input-context reset exclusion and compact certificates](outputs/input-reset-context-findings.md): conditional overwrite/translation exclusions allow arbitrary shared input-window rules, through 17 tokens before output or 16 after output. Three-term and eleven-term integer certificates apply beyond modulo 83. Six generated reset controls independently checked; no Eye key.
+- [Latest equality-sensitivity bounds and failed bijection witness](outputs/equality-sensitivity-findings.md): at least ten individual input exceptions are required in the joint relabeled additive model. The exact nine-column linear minimum has a saved survivor whose 83 normalized active-map candidates all fail bijection. Two altered generated controls recover full hidden output maps and fault positions. Independent checks passed; no Eye key.
+- [Earlier input-context reset exclusion and compact certificates](outputs/input-reset-context-findings.md): conditional overwrite/translation exclusions allow arbitrary shared input-window rules, through 17 tokens before output or 16 after output. Three-term and eleven-term integer certificates apply beyond modulo 83. Six generated reset controls independently checked; no Eye key.
 - [Earlier regular-reset test and generated recovery](outputs/periodic-reset-findings.md): conditional exclusions cover every common-phase interval >=4 and every independent W1/E2-phase interval >=32. Shorter unresolved settings are not keys. Three generated controls recover planted schedules within the tested range and all 83 output-map entries up to affine equivalence. Independently verified; no Eye plaintext.
 - [Earlier recurrence-transfer audit and generated key recovery](outputs/recurrence-transfer-findings.md): fixed observed transitions obstruct universal loop transfer in the artificial fits. Four redundant generated controls recover hidden output numbering up to affine equivalence. A 12-term integer certificate independently reproduces a conditional abelian-feedback exclusion. No Eye plaintext or key.
 - [Earlier observed-state comparison and first-symbol test](outputs/state-memory-findings.md): 256 settings checked; an engineered 19-token previous-output cipher fits every body and listed passage/prefix equality with external header metadata. A conditional certificate distinguishes using the header as state. Counterfactual tests expose weak pattern transfer; no authentic plaintext.
@@ -43,6 +44,7 @@ From the repository root:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r Chesewip/outputs/requirements.txt
 cd Chesewip/outputs
+..\..\.venv\Scripts\python.exe verify_equality_sensitivity.py
 ..\..\.venv\Scripts\python.exe verify_input_reset_context.py
 ..\..\.venv\Scripts\python.exe verify_periodic_resets.py
 ..\..\.venv\Scripts\python.exe verify_recurrence_transfer.py

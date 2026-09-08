@@ -1,0 +1,197 @@
+{
+  "status": "Independent sensitivity checks passed; no authentic Eye key.",
+  "source_hashes": {
+    "ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "state_memory_comparison.json": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611",
+    "equality_sensitivity.json": "ee93b3576bb2698cb1ff4b82007644e9e73581856c3356ca0b5e3f8419cb6cb4",
+    "equality_sensitivity_refinement.json": "e1374fbc7eccf3b1ed4acaf7a3ab84889f623533dd6a70513223d7d411f6ba7d",
+    "equality_sensitivity_sat.json": "5ccb22c4d631666fa1afa71bde0662af5ae65c3536ab662e7fc031a9a3754e47",
+    "sensitivity_witness_audit.json": "de8f6b7f3a313f89070de89f0ec6a7e22bb4b8ee1339f28224ce836f2d822980"
+  },
+  "real": {
+    "early": {
+      "columns": {
+        "status": "exact_minimum_for_no_forced_collision",
+        "minimum_or_lower_bound": 3,
+        "proofs": 9,
+        "lower_bound_check": {
+          "minimal_clauses": 9,
+          "search_nodes": 8
+        }
+      },
+      "occurrences": {
+        "status": "exact_minimum_for_no_forced_collision",
+        "minimum_or_lower_bound": 3,
+        "proofs": 8,
+        "lower_bound_check": {
+          "bound_inherited_from_verified_column_minimum": 3
+        }
+      }
+    },
+    "late": {
+      "columns": {
+        "status": "exact_minimum_for_no_forced_collision",
+        "minimum_or_lower_bound": 3,
+        "proofs": 14,
+        "lower_bound_check": {
+          "minimal_clauses": 10,
+          "search_nodes": 1
+        }
+      },
+      "occurrences": {
+        "status": "exact_minimum_for_no_forced_collision",
+        "minimum_or_lower_bound": 4,
+        "proofs": 94,
+        "lower_bound_check": {
+          "minimal_clauses": 82,
+          "search_nodes": 236
+        }
+      }
+    },
+    "strong": {
+      "columns": {
+        "status": "exact_minimum_for_no_forced_collision",
+        "minimum_or_lower_bound": 9,
+        "proofs": 657,
+        "lower_bound_check": {
+          "minimal_clauses": 535,
+          "search_nodes": 7557
+        }
+      },
+      "occurrences": {
+        "status": "bounded_search_incomplete",
+        "minimum_or_lower_bound": 7,
+        "proofs": 413,
+        "lower_bound_check": {
+          "bound_inherited_from_verified_column_minimum": 9
+        }
+      }
+    }
+  },
+  "controls": [
+    {
+      "seed": 909700,
+      "body_symbols_reencrypted": 1027,
+      "results": {
+        "columns": {
+          "status": "exact_minimum_for_no_forced_collision",
+          "minimum_or_lower_bound": 2,
+          "proofs": 9,
+          "lower_bound_check": {
+            "minimal_clauses": 7,
+            "search_nodes": 5
+          },
+          "map_entries_recovered": 83,
+          "identified_fault_positions": [
+            [
+              1,
+              24
+            ],
+            [
+              3,
+              49
+            ]
+          ]
+        },
+        "occurrences": {
+          "status": "exact_minimum_for_no_forced_collision",
+          "minimum_or_lower_bound": 2,
+          "proofs": 23,
+          "lower_bound_check": {
+            "bound_inherited_from_verified_column_minimum": 2
+          },
+          "map_entries_recovered": 83,
+          "identified_fault_positions": [
+            [
+              1,
+              24
+            ],
+            [
+              3,
+              49
+            ]
+          ]
+        }
+      }
+    },
+    {
+      "seed": 909701,
+      "body_symbols_reencrypted": 1027,
+      "results": {
+        "columns": {
+          "status": "exact_minimum_for_no_forced_collision",
+          "minimum_or_lower_bound": 3,
+          "proofs": 11,
+          "lower_bound_check": {
+            "minimal_clauses": 10,
+            "search_nodes": 4
+          },
+          "map_entries_recovered": 83,
+          "identified_fault_positions": [
+            [
+              1,
+              21
+            ],
+            [
+              3,
+              32
+            ],
+            [
+              5,
+              50
+            ]
+          ]
+        },
+        "occurrences": {
+          "status": "exact_minimum_for_no_forced_collision",
+          "minimum_or_lower_bound": 3,
+          "proofs": 17,
+          "lower_bound_check": {
+            "bound_inherited_from_verified_column_minimum": 3
+          },
+          "map_entries_recovered": 83,
+          "identified_fault_positions": [
+            [
+              1,
+              21
+            ],
+            [
+              3,
+              32
+            ],
+            [
+              5,
+              50
+            ]
+          ]
+        }
+      }
+    }
+  ],
+  "refinements": {
+    "equality_sensitivity_refinement.json": {
+      "status": "bounded_search_incomplete",
+      "minimum_or_lower_bound": 9,
+      "proofs": 1070,
+      "lower_bound_check": {
+        "bound_inherited_from_verified_column_minimum": 9
+      }
+    },
+    "equality_sensitivity_sat.json": {
+      "status": "bounded_search_incomplete",
+      "minimum_or_lower_bound": 10,
+      "proofs": 1582,
+      "lower_bound_check": {
+        "minimal_clauses": 1483,
+        "search_nodes": 1460447
+      }
+    }
+  },
+  "saved_column_witness_bijection_audit": {
+    "active_labels": 67,
+    "normalized_candidates": 83,
+    "injective_candidates": 0,
+    "all_completions_excluded_for_this_drop_set": true
+  },
+  "joint_occurrence_linear_upper_bound": 22
+}
