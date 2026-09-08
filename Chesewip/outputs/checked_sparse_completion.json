@@ -1,0 +1,345 @@
+{
+  "status": "Independent sparse completion and ablation checks passed; no Eye key.",
+  "source_hashes": {
+    "sparse_map_completion.json": "2b99b3b7c79c38b3d4292e161b0fa6b34321eb53fe444fadf942eabc91aafa9e",
+    "lifted_feedback_recovery.json": "48a7e593da28e9bed82819e577f6ad3b989e1705a2850f703454344e9714b548",
+    "frozen_candidate_search.json": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+    "ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "state_memory_comparison.json": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611"
+  },
+  "rich_controls": [
+    {
+      "linear_rank": 141,
+      "inactive_output_labels": 8,
+      "inactive_feedback_labels": 7,
+      "normalized_active_dimension": 7,
+      "status": "outside_enumeration_budget",
+      "name": "add",
+      "seed": 909850,
+      "blocks": 3
+    },
+    {
+      "linear_rank": 161,
+      "inactive_output_labels": 2,
+      "inactive_feedback_labels": 0,
+      "normalized_active_dimension": 0,
+      "status": "enumerated_candidates",
+      "fibers_tested": 1,
+      "injective_fibers": 1,
+      "link_counts": {
+        "add": 1,
+        "square": 0,
+        "inverse": 0
+      },
+      "candidates": 1,
+      "ablation": [
+        {
+          "name": "add",
+          "coefficients": [],
+          "scale": 1,
+          "shift": 0,
+          "counts": {
+            "permutations": 2,
+            "after_feedback": 1,
+            "after_cap_without_global_no_doubles": 1,
+            "after_global_no_doubles": 1,
+            "after_codebook_cap": 1
+          },
+          "codebook_size_histogram_before_global_no_doubles": {
+            "27": 1
+          },
+          "codebook_size_histogram_after_global_no_doubles": {
+            "27": 1
+          }
+        }
+      ],
+      "name": "add",
+      "seed": 909850,
+      "blocks": 5,
+      "true_rule_and_equivalent_key_recovered": true,
+      "heldout": {
+        "outside_frozen_codebook": 0,
+        "transitions": 447,
+        "late_pair_mismatches": 0,
+        "late_comparisons": 54,
+        "distinct_residuals": 25
+      }
+    },
+    {
+      "linear_rank": 127,
+      "inactive_output_labels": 12,
+      "inactive_feedback_labels": 12,
+      "normalized_active_dimension": 12,
+      "status": "outside_enumeration_budget",
+      "name": "square",
+      "seed": 909851,
+      "blocks": 3
+    },
+    {
+      "linear_rank": 146,
+      "inactive_output_labels": 7,
+      "inactive_feedback_labels": 8,
+      "normalized_active_dimension": 2,
+      "status": "enumerated_candidates",
+      "fibers_tested": 6889,
+      "injective_fibers": 8,
+      "link_counts": {
+        "add": 0,
+        "square": 1,
+        "inverse": 0
+      },
+      "candidates": 1,
+      "ablation": [
+        {
+          "name": "square",
+          "coefficients": [
+            28,
+            75
+          ],
+          "scale": 26,
+          "shift": 76,
+          "counts": {
+            "permutations": 5040,
+            "after_feedback": 720,
+            "after_cap_without_global_no_doubles": 1,
+            "after_global_no_doubles": 1,
+            "after_codebook_cap": 1
+          },
+          "codebook_size_histogram_before_global_no_doubles": {
+            "68": 60,
+            "73": 5,
+            "61": 32,
+            "70": 49,
+            "60": 29,
+            "65": 44,
+            "67": 65,
+            "71": 38,
+            "64": 59,
+            "74": 7,
+            "69": 65,
+            "62": 33,
+            "72": 21,
+            "66": 51,
+            "56": 14,
+            "59": 19,
+            "52": 4,
+            "58": 15,
+            "63": 42,
+            "55": 13,
+            "57": 14,
+            "75": 2,
+            "53": 6,
+            "51": 7,
+            "45": 5,
+            "50": 6,
+            "54": 5,
+            "77": 1,
+            "76": 1,
+            "44": 1,
+            "43": 2,
+            "48": 1,
+            "47": 1,
+            "27": 1,
+            "49": 1,
+            "37": 1
+          },
+          "codebook_size_histogram_after_global_no_doubles": {
+            "27": 1
+          }
+        }
+      ],
+      "name": "square",
+      "seed": 909851,
+      "blocks": 4,
+      "true_rule_and_equivalent_key_recovered": true,
+      "heldout": {
+        "outside_frozen_codebook": 0,
+        "transitions": 447,
+        "late_pair_mismatches": 0,
+        "late_comparisons": 54,
+        "distinct_residuals": 26
+      }
+    },
+    {
+      "linear_rank": 133,
+      "inactive_output_labels": 13,
+      "inactive_feedback_labels": 13,
+      "normalized_active_dimension": 4,
+      "status": "outside_enumeration_budget",
+      "name": "inverse",
+      "seed": 909852,
+      "blocks": 3
+    },
+    {
+      "linear_rank": 148,
+      "inactive_output_labels": 7,
+      "inactive_feedback_labels": 7,
+      "normalized_active_dimension": 1,
+      "status": "enumerated_candidates",
+      "fibers_tested": 83,
+      "injective_fibers": 8,
+      "link_counts": {
+        "add": 0,
+        "square": 0,
+        "inverse": 2
+      },
+      "candidates": 2,
+      "ablation": [
+        {
+          "name": "inverse",
+          "coefficients": [
+            17
+          ],
+          "scale": 22,
+          "shift": 25,
+          "counts": {
+            "permutations": 5040,
+            "after_feedback": 5040,
+            "after_cap_without_global_no_doubles": 1,
+            "after_global_no_doubles": 1,
+            "after_codebook_cap": 1
+          },
+          "codebook_size_histogram_before_global_no_doubles": {
+            "82": 105,
+            "79": 719,
+            "80": 539,
+            "81": 309,
+            "77": 682,
+            "75": 400,
+            "76": 527,
+            "78": 711,
+            "72": 140,
+            "74": 284,
+            "73": 209,
+            "71": 100,
+            "68": 54,
+            "66": 18,
+            "83": 17,
+            "70": 71,
+            "69": 53,
+            "65": 19,
+            "67": 29,
+            "56": 3,
+            "63": 11,
+            "61": 5,
+            "64": 10,
+            "55": 2,
+            "62": 4,
+            "58": 4,
+            "59": 2,
+            "57": 3,
+            "54": 2,
+            "50": 1,
+            "60": 5,
+            "27": 1,
+            "51": 1
+          },
+          "codebook_size_histogram_after_global_no_doubles": {
+            "27": 1
+          }
+        },
+        {
+          "name": "inverse",
+          "coefficients": [
+            17
+          ],
+          "scale": 61,
+          "shift": 58,
+          "counts": {
+            "permutations": 5040,
+            "after_feedback": 5040,
+            "after_cap_without_global_no_doubles": 1,
+            "after_global_no_doubles": 1,
+            "after_codebook_cap": 1
+          },
+          "codebook_size_histogram_before_global_no_doubles": {
+            "74": 284,
+            "71": 100,
+            "76": 527,
+            "77": 682,
+            "75": 400,
+            "78": 711,
+            "70": 71,
+            "73": 209,
+            "80": 539,
+            "67": 29,
+            "68": 54,
+            "58": 4,
+            "65": 19,
+            "72": 140,
+            "57": 3,
+            "79": 719,
+            "69": 53,
+            "60": 5,
+            "66": 18,
+            "63": 11,
+            "64": 10,
+            "51": 1,
+            "56": 3,
+            "27": 1,
+            "59": 2,
+            "81": 309,
+            "61": 5,
+            "54": 2,
+            "82": 105,
+            "62": 4,
+            "50": 1,
+            "55": 2,
+            "83": 17
+          },
+          "codebook_size_histogram_after_global_no_doubles": {
+            "27": 1
+          }
+        }
+      ],
+      "name": "inverse",
+      "seed": 909852,
+      "blocks": 4,
+      "true_rule_and_equivalent_key_recovered": true,
+      "heldout": {
+        "outside_frozen_codebook": 0,
+        "transitions": 447,
+        "late_pair_mismatches": 0,
+        "late_comparisons": 54,
+        "distinct_residuals": 24
+      }
+    }
+  ],
+  "short_controls": [
+    {
+      "linear_rank": 45,
+      "inactive_output_labels": 42,
+      "inactive_feedback_labels": 40,
+      "normalized_active_dimension": 36,
+      "status": "outside_enumeration_budget",
+      "seed": 909800,
+      "name": "add"
+    },
+    {
+      "linear_rank": 28,
+      "inactive_output_labels": 50,
+      "inactive_feedback_labels": 49,
+      "normalized_active_dimension": 36,
+      "status": "outside_enumeration_budget",
+      "seed": 909801,
+      "name": "square"
+    },
+    {
+      "linear_rank": 45,
+      "inactive_output_labels": 39,
+      "inactive_feedback_labels": 37,
+      "normalized_active_dimension": 42,
+      "status": "outside_enumeration_budget",
+      "seed": 909802,
+      "name": "inverse"
+    }
+  ],
+  "reencrypted_symbols": 13431,
+  "eye": {
+    "linear_rank": 45,
+    "inactive_output_labels": 46,
+    "inactive_feedback_labels": 47,
+    "normalized_active_dimension": 25,
+    "status": "outside_enumeration_budget"
+  }
+}

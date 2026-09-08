@@ -538,6 +538,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_sparse_completion.json",
+      "source_sha256": "1e09c8c203657677dd927dd4dc1be22765d0bc1496c68d4077368af013a3c7bb",
+      "published_sha256": "1e09c8c203657677dd927dd4dc1be22765d0bc1496c68d4077368af013a3c7bb",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_state_memory_comparison.json",
       "source_sha256": "87fbbe81c3a9a77400e0db9fa8a1e2788a224080c6263d78b7a0b8caaa1c46df",
       "published_sha256": "87fbbe81c3a9a77400e0db9fa8a1e2788a224080c6263d78b7a0b8caaa1c46df",
@@ -2081,8 +2087,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "cd436e062c220ddd47020ae060372bb2cdc22748c5be3eb4239f3032a1fc4e3e",
-      "published_sha256": "cd436e062c220ddd47020ae060372bb2cdc22748c5be3eb4239f3032a1fc4e3e",
+      "source_sha256": "b18f979ec7821cbb4e886d80de1b427d0fd4ebbb6db606baa8fdea1263ac09f4",
+      "published_sha256": "b18f979ec7821cbb4e886d80de1b427d0fd4ebbb6db606baa8fdea1263ac09f4",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2587,6 +2593,24 @@
       "path": "outputs/smt_small_gauge_4.json",
       "source_sha256": "c823fa681e19514c2d801fdf73a89b119f338a37f1cd9499bda5ecbc0fd378fe",
       "published_sha256": "c823fa681e19514c2d801fdf73a89b119f338a37f1cd9499bda5ecbc0fd378fe",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/sparse-completion-findings.md",
+      "source_sha256": "14954c42c3ebe6aad12578a4beb4ba729cf9e3ca1d7525c1c51eef1e7afb62be",
+      "published_sha256": "14954c42c3ebe6aad12578a4beb4ba729cf9e3ca1d7525c1c51eef1e7afb62be",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/sparse_map_completion.json",
+      "source_sha256": "2b99b3b7c79c38b3d4292e161b0fa6b34321eb53fe444fadf942eabc91aafa9e",
+      "published_sha256": "2b99b3b7c79c38b3d4292e161b0fa6b34321eb53fe444fadf942eabc91aafa9e",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/sparse_map_completion.py",
+      "source_sha256": "aea48bb1b946cdd3a6ab6399385a4f95aa684701a4ff7b57bf64ada3b10c560c",
+      "published_sha256": "aea48bb1b946cdd3a6ab6399385a4f95aa684701a4ff7b57bf64ada3b10c560c",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -3139,6 +3163,12 @@
       "path": "outputs/verify_shuffle_weight_bounds.py",
       "source_sha256": "879fb236047a4b70423d22c5a7bdbf30872586f5662f1c6cc3757ee8e6d7287d",
       "published_sha256": "879fb236047a4b70423d22c5a7bdbf30872586f5662f1c6cc3757ee8e6d7287d",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_sparse_completion.py",
+      "source_sha256": "f1000b452faf45a6176be74937a374fbbd2aaee7c4869c57e09e0d2b617d848d",
+      "published_sha256": "f1000b452faf45a6176be74937a374fbbd2aaee7c4869c57e09e0d2b617d848d",
       "publication_action": "byte-for-byte copy"
     },
     {

@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 579,
-    "python_syntax_checks": 225,
-    "json_parse_checks": 315,
-    "authored_CRLF_checks": 576,
-    "output_manifest_entries": 528,
+    "files": 584,
+    "python_syntax_checks": 227,
+    "json_parse_checks": 317,
+    "authored_CRLF_checks": 581,
+    "output_manifest_entries": 533,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 569,
+    "imported_research_files": 574,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -458,6 +458,11 @@
       "path": "outputs/checked_shuffle_weight_bounds.json",
       "bytes": 19455,
       "sha256": "2d7933194a62f0d24e16013e35527ec9a82b91b4b7b452a29b713d0253b0d669"
+    },
+    {
+      "path": "outputs/checked_sparse_completion.json",
+      "bytes": 9325,
+      "sha256": "1e09c8c203657677dd927dd4dc1be22765d0bc1496c68d4077368af013a3c7bb"
     },
     {
       "path": "outputs/checked_state_memory_comparison.json",
@@ -1491,8 +1496,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 89193,
-      "sha256": "a550e3b4e7bd0ee766e169ed900066402ced19493dfafc555c850c3bc29075a0"
+      "bytes": 90030,
+      "sha256": "441ab4d4b4e9f404f000e0a10a88368c12d58b78791e886b8f2ee71c78ef685b"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1566,8 +1571,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 27335728,
-      "sha256": "4a09b0d46e4c5dc10bede6ea163f8388dfe2fa1e31822046ec9801b246b28e86"
+      "bytes": 27360483,
+      "sha256": "49e788c4c15371d43ec163c683ae5b5d0d6f9a32f988456627c00148df94919f"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1756,8 +1761,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 13183,
-      "sha256": "cd436e062c220ddd47020ae060372bb2cdc22748c5be3eb4239f3032a1fc4e3e"
+      "bytes": 13684,
+      "sha256": "b18f979ec7821cbb4e886d80de1b427d0fd4ebbb6db606baa8fdea1263ac09f4"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2178,6 +2183,21 @@
       "path": "outputs/smt_small_gauge_4.json",
       "bytes": 269,
       "sha256": "c823fa681e19514c2d801fdf73a89b119f338a37f1cd9499bda5ecbc0fd378fe"
+    },
+    {
+      "path": "outputs/sparse-completion-findings.md",
+      "bytes": 9211,
+      "sha256": "14954c42c3ebe6aad12578a4beb4ba729cf9e3ca1d7525c1c51eef1e7afb62be"
+    },
+    {
+      "path": "outputs/sparse_map_completion.json",
+      "bytes": 98640,
+      "sha256": "2b99b3b7c79c38b3d4292e161b0fa6b34321eb53fe444fadf942eabc91aafa9e"
+    },
+    {
+      "path": "outputs/sparse_map_completion.py",
+      "bytes": 7735,
+      "sha256": "aea48bb1b946cdd3a6ab6399385a4f95aa684701a4ff7b57bf64ada3b10c560c"
     },
     {
       "path": "outputs/state-memory-findings.md",
@@ -2640,6 +2660,11 @@
       "sha256": "879fb236047a4b70423d22c5a7bdbf30872586f5662f1c6cc3757ee8e6d7287d"
     },
     {
+      "path": "outputs/verify_sparse_completion.py",
+      "bytes": 8403,
+      "sha256": "f1000b452faf45a6176be74937a374fbbd2aaee7c4869c57e09e0d2b617d848d"
+    },
+    {
       "path": "outputs/verify_state_memory_comparison.py",
       "bytes": 9542,
       "sha256": "225fe10797b76da903104377f9d45958929989c2c50ac1d6fa9e0c08bf5f95e3"
@@ -2676,8 +2701,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 175245,
-      "sha256": "d47e588e32f632cc81e49a874e62f79320703d64b9cd5178ce3827001856ee3b"
+      "bytes": 176776,
+      "sha256": "7e62c1c96e495489a91543227eec406ea58011b983da8faabee7cdbe13519a26"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2691,8 +2716,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 11192,
-      "sha256": "94407a7dbec8e7b30fac634bf0a966fb2c8e2d5718d91ceb03086360a3b03928"
+      "bytes": 11646,
+      "sha256": "2833f7e861c2d2426d43c1886ddf8ac2836afe8e4d948f7b7cea9c6818ce622e"
     },
     {
       "path": "REFERENCES.md",
