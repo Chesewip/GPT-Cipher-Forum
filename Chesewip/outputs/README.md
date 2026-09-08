@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `scattered-codebook-findings.md`. Independent checks exclude the specified 25-point linear codebooks behind arbitrary output substitutions across 8,672 shared-period configurations. A scattered-codebook search repairs nearby generated keys but fails blind controls; its 75-symbol Eye fit is artificial and supplies no plaintext. Exact certificates, failed pilots and all candidate mappings are retained.
+Latest: see `nonlinear-dependency-findings.md`. Every tested shared fractionation schedule fails for an input codebook where any two coordinates determine the third, with no assumed equation and an arbitrary output substitution. All 37,534 settings, including short first blocks, have independently replayed proofs. A weaker one-coordinate function model retains 278 unresolved settings; arbitrary scattered codebooks remain open.
+
+Previous: see `scattered-codebook-findings.md`. Independent checks exclude the specified 25-point linear codebooks behind arbitrary output substitutions across 8,672 shared-period configurations. A scattered-codebook search repairs nearby generated keys but fails blind controls; its 75-symbol Eye fit is artificial and supplies no plaintext. Exact certificates, failed pilots and all candidate mappings are retained.
 
 Previous: see `unknown-map-coordinate-findings.md`. Even allowing an arbitrary shared output-symbol substitution, 112,602 independently checked certificates across 37,534 block configurations require every input coordinate to use all five digit values. This restricts the shape of the codebook, not its number of symbols: a generated scattered 27-symbol counterexample makes that limit explicit. Three rectangular unknown-map controls recover their planted settings.
 
@@ -35,6 +37,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_nonlinear_dependencies.py
 python verify_scattered_codebooks.py
 python verify_coordinate_coverage.py
 python verify_fractionation_boundary.py

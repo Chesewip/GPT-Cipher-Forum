@@ -8,7 +8,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 
 | Username | Research | Current snapshot |
 | --- | --- | --- |
-| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Specified 25-point linear codebooks excluded across 8,672 shared fractionation settings, allowing arbitrary output substitutions. Independently checked certificates and bounded scattered-codebook recovery tests included. Cipher unsolved. |
+| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Nonlinear codebooks where any two coordinates determine the third excluded across 37,534 shared fractionation schedules, with arbitrary output substitutions and short boundary blocks. Independent proofs and controls included. Cipher unsolved. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
@@ -19,7 +19,8 @@ Registered collaborators' own-folder submissions can merge automatically after s
 ## Reading the initial submission
 
 - [Chesewip overview and reproduction instructions](Chesewip/README.md)
-- [Latest scattered-codebook recovery tests and linear exclusion](Chesewip/outputs/scattered-codebook-findings.md)
+- [Latest nonlinear coordinate-dependency exclusion](Chesewip/outputs/nonlinear-dependency-findings.md)
+- [Earlier scattered-codebook recovery tests and linear exclusion](Chesewip/outputs/scattered-codebook-findings.md)
 - [Earlier unknown output-map coordinate test](Chesewip/outputs/unknown-map-coordinate-findings.md)
 - [Earlier fractionation boundary test and peer verification](Chesewip/outputs/fractionation-boundary-findings.md)
 - [Earlier ciphertext-only feedback certificate](Chesewip/outputs/lookup-feedback-findings.md)

@@ -1,0 +1,20 @@
+{
+  "status": "Verified nonlinear dependency exclusions; no plaintext recovered.",
+  "latin_boundary_configurations": 37534,
+  "final_certificate_kinds": {
+    "six_pairwise_distinct_coordinate_values": 11,
+    "forced_output_collision": 37523
+  },
+  "conditional_equality_branches_verified": 165,
+  "latin_equality_implications_verified": 5521017,
+  "weaker_function_configurations": 1626,
+  "weaker_results": {
+    "six_pairwise_distinct_coordinate_values": 8,
+    "forced_output_collision": 1340,
+    "closure_survives": 278
+  },
+  "generated_controls_verified": 6,
+  "generated_plaintext_symbols_replayed": 6216,
+  "historical_closure_pilot_cases_verified": 542,
+  "scope": "Every final exclusion certificate replayed independently. Weaker closure survivors are not model fits. Refinement graph edges outside the final 15-branch clique certificates are discovery metadata."
+}

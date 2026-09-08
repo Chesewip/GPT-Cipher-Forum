@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 511,
-    "python_syntax_checks": 197,
-    "json_parse_checks": 283,
-    "authored_CRLF_checks": 508,
-    "output_manifest_entries": 460,
+    "files": 523,
+    "python_syntax_checks": 202,
+    "json_parse_checks": 289,
+    "authored_CRLF_checks": 520,
+    "output_manifest_entries": 472,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 501,
+    "imported_research_files": 513,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -383,6 +383,11 @@
       "path": "outputs/checked_nondeck_screen.json",
       "bytes": 1771,
       "sha256": "de5878a063e8cf96011c14d8fb0601550bdec407e17bdd8ec3f3eff3a3bae0ec"
+    },
+    {
+      "path": "outputs/checked_nonlinear_dependencies.json",
+      "bytes": 900,
+      "sha256": "e74e1159c966ab38be68e569dc454f2cb4b35b03445fc3aa8fe1d6becb026801"
     },
     {
       "path": "outputs/checked_nonreturn_refinement.json",
@@ -1275,6 +1280,26 @@
       "sha256": "1b88a799b83ace07fdef7c9867592fd4f3530f6897fccede855ac140a7e5345f"
     },
     {
+      "path": "outputs/latin_boundary_refinement.json",
+      "bytes": 56129,
+      "sha256": "d7467ab7cbc9462d5a4c7c52a6949164d4df78e50eea02591ff243ccdfd4b852"
+    },
+    {
+      "path": "outputs/latin_boundary_refinement.py",
+      "bytes": 3537,
+      "sha256": "3fb7c68bb5499958b87f0d78c8a0a93b7f2556e5a75686d7cf222ee85093ffc5"
+    },
+    {
+      "path": "outputs/latin_dependency_boundaries.json",
+      "bytes": 32860195,
+      "sha256": "fa943a9d9e71f147dad5102db39100fbf110b07924bd43c5a9f44e3a2cfb1a1e"
+    },
+    {
+      "path": "outputs/latin_dependency_screen.py",
+      "bytes": 5577,
+      "sha256": "a73a34db72f57cfcc95a00fbceebf6929a85143370c6e21df8f36050a1b563ed"
+    },
+    {
       "path": "outputs/lazy_key_control_9.json",
       "bytes": 605,
       "sha256": "fdc8bcccd25f0c99d92a388bb3940ddaf2f1e3e99ed8a830cbaeec2c46dc8171"
@@ -1296,8 +1321,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 77580,
-      "sha256": "5ade313e941ad7b7b058b914223932cb96a197759445e80d12ad4c6b287bfa51"
+      "bytes": 79652,
+      "sha256": "10d2694a0a81b725d5857e7e840ceff21c832f642e26ef3f7e51d06640a7c2bb"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1371,8 +1396,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 4801966,
-      "sha256": "dde680319974ba3ae6ae05524e079ca68cee378e07302a488d1acc6bf9d28055"
+      "bytes": 26388609,
+      "sha256": "1dded992a1db1dcb2e217236ebab56d71055237d554ceb313ee07e1e8bf731cc"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1388,6 +1413,36 @@
       "path": "outputs/nondeck_screen.py",
       "bytes": 11899,
       "sha256": "6c6fb1ed597b83b6639d6161b0bd5ac6c7b698bafa00b6a7b78576df3e96f239"
+    },
+    {
+      "path": "outputs/nonlinear-dependency-findings.md",
+      "bytes": 10422,
+      "sha256": "a4c836498afe3d5dd2ef4dab2a49aa8e3ccd67f1e277dc0c1b09b489d1074530"
+    },
+    {
+      "path": "outputs/nonlinear_coordinate_closure.json",
+      "bytes": 1046337,
+      "sha256": "76dfeba5d72791bdd866ac92c634f7efdd74848c86b0e7e0ff8ec8dccbde9ab8"
+    },
+    {
+      "path": "outputs/nonlinear_coordinate_closure.py",
+      "bytes": 3671,
+      "sha256": "8705e606ab13935417a1a0473378f4662f1979452e7996cf3ec4de59ad210b65"
+    },
+    {
+      "path": "outputs/one_coordinate_function_pilot.json",
+      "bytes": 25747,
+      "sha256": "7ec84f00ae066bfc08418852340ac850ddb215c9c726f23b49555cb3c1821303"
+    },
+    {
+      "path": "outputs/one_coordinate_function_screen.json",
+      "bytes": 803544,
+      "sha256": "f7b9be714539ef7012c2294adbb51ae3ca957bce84ac77588958a44096b7f2b7"
+    },
+    {
+      "path": "outputs/one_coordinate_function_screen.py",
+      "bytes": 3098,
+      "sha256": "926666927ba879b4b049c2728bbf8c5ebd24dde9f6dfeccc6a6e99e7d2e6c7e6"
     },
     {
       "path": "outputs/partial_phrase_results.json",
@@ -1506,8 +1561,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 8924,
-      "sha256": "3fd91fa982813e732ce3612d716ad40a4f4ad41636e0f2864c2ba3173bb34634"
+      "bytes": 9401,
+      "sha256": "31ad7f2ddfa8e061c4d3ffe4f52f18abab4d65764cb1b1dc5cadc466ec2a032a"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2250,6 +2305,11 @@
       "sha256": "12729168f9a0b00fdff2ee7690ea49ab9cee194f4310546f2861cef1284f505a"
     },
     {
+      "path": "outputs/verify_nonlinear_dependencies.py",
+      "bytes": 9347,
+      "sha256": "e0e797c844da1aa839bdf1effa25a7f019dc450c1e0d4d9816a659e018892912"
+    },
+    {
       "path": "outputs/verify_nonreturn_refinement.py",
       "bytes": 2335,
       "sha256": "644a4146b000bc41e5cd2b8d4a369472888ee181f8845bd7611bc984f5053e34"
@@ -2336,8 +2396,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 154236,
-      "sha256": "1bfe195ef05b7d613f83b9eac45b73599ec7f7dd2bf4a0ea3efbad8dfb7e6a10"
+      "bytes": 157965,
+      "sha256": "527b0e170f9a219035601bb6ef662f3c45791e1516a742f21123e34dcdd0b20b"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2351,8 +2411,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7474,
-      "sha256": "b3ffdf2bf50bc340614d9781196b8c71a57aa7b2b7319ab2c98202addbed9957"
+      "bytes": 7924,
+      "sha256": "1170b33262cc7f027a922362715b518039d48d8f23c91c077817fa589541dc1e"
     },
     {
       "path": "REFERENCES.md",

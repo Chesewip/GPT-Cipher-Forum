@@ -372,6 +372,11 @@
       "bytes": 1771
     },
     {
+      "name": "checked_nonlinear_dependencies.json",
+      "sha256": "e74e1159c966ab38be68e569dc454f2cb4b35b03445fc3aa8fe1d6becb026801",
+      "bytes": 900
+    },
+    {
       "name": "checked_nonreturn_refinement.json",
       "sha256": "c083f98c1d86a9f0745f3937095f56cd9ac0f7da216e0b54c8f5730f9786e1b7",
       "bytes": 250
@@ -1262,6 +1267,26 @@
       "bytes": 13968
     },
     {
+      "name": "latin_boundary_refinement.json",
+      "sha256": "d7467ab7cbc9462d5a4c7c52a6949164d4df78e50eea02591ff243ccdfd4b852",
+      "bytes": 56129
+    },
+    {
+      "name": "latin_boundary_refinement.py",
+      "sha256": "3fb7c68bb5499958b87f0d78c8a0a93b7f2556e5a75686d7cf222ee85093ffc5",
+      "bytes": 3537
+    },
+    {
+      "name": "latin_dependency_boundaries.json",
+      "sha256": "fa943a9d9e71f147dad5102db39100fbf110b07924bd43c5a9f44e3a2cfb1a1e",
+      "bytes": 32860195
+    },
+    {
+      "name": "latin_dependency_screen.py",
+      "sha256": "a73a34db72f57cfcc95a00fbceebf6929a85143370c6e21df8f36050a1b563ed",
+      "bytes": 5577
+    },
+    {
       "name": "lazy_key_control_9.json",
       "sha256": "fdc8bcccd25f0c99d92a388bb3940ddaf2f1e3e99ed8a830cbaeec2c46dc8171",
       "bytes": 605
@@ -1365,6 +1390,36 @@
       "name": "nondeck_screen.py",
       "sha256": "6c6fb1ed597b83b6639d6161b0bd5ac6c7b698bafa00b6a7b78576df3e96f239",
       "bytes": 11899
+    },
+    {
+      "name": "nonlinear-dependency-findings.md",
+      "sha256": "a4c836498afe3d5dd2ef4dab2a49aa8e3ccd67f1e277dc0c1b09b489d1074530",
+      "bytes": 10422
+    },
+    {
+      "name": "nonlinear_coordinate_closure.json",
+      "sha256": "76dfeba5d72791bdd866ac92c634f7efdd74848c86b0e7e0ff8ec8dccbde9ab8",
+      "bytes": 1046337
+    },
+    {
+      "name": "nonlinear_coordinate_closure.py",
+      "sha256": "8705e606ab13935417a1a0473378f4662f1979452e7996cf3ec4de59ad210b65",
+      "bytes": 3671
+    },
+    {
+      "name": "one_coordinate_function_pilot.json",
+      "sha256": "7ec84f00ae066bfc08418852340ac850ddb215c9c726f23b49555cb3c1821303",
+      "bytes": 25747
+    },
+    {
+      "name": "one_coordinate_function_screen.json",
+      "sha256": "f7b9be714539ef7012c2294adbb51ae3ca957bce84ac77588958a44096b7f2b7",
+      "bytes": 803544
+    },
+    {
+      "name": "one_coordinate_function_screen.py",
+      "sha256": "926666927ba879b4b049c2728bbf8c5ebd24dde9f6dfeccc6a6e99e7d2e6c7e6",
+      "bytes": 3098
     },
     {
       "name": "partial_phrase_results.json",
@@ -1483,8 +1538,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "3fd91fa982813e732ce3612d716ad40a4f4ad41636e0f2864c2ba3173bb34634",
-      "bytes": 8924
+      "sha256": "31ad7f2ddfa8e061c4d3ffe4f52f18abab4d65764cb1b1dc5cadc466ec2a032a",
+      "bytes": 9401
     },
     {
       "name": "reconvergence_controls.json",
@@ -2225,6 +2280,11 @@
       "name": "verify_nondeck_screen.py",
       "sha256": "12729168f9a0b00fdff2ee7690ea49ab9cee194f4310546f2861cef1284f505a",
       "bytes": 8684
+    },
+    {
+      "name": "verify_nonlinear_dependencies.py",
+      "sha256": "e0e797c844da1aa839bdf1effa25a7f019dc450c1e0d4d9816a659e018892912",
+      "bytes": 9347
     },
     {
       "name": "verify_nonreturn_refinement.py",
