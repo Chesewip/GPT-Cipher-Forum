@@ -1,0 +1,293 @@
+{
+  "status": "Independent checks passed; no Eye plaintext or key recovered.",
+  "source_hashes": {
+    "ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "state_memory_comparison.json": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611",
+    "recurrence_transfer_audit.json": "cd273f7d6bf2d79dec8186978b2e5aa967374ea0219c59165c3279db03f03405",
+    "cyclic_permutation_refinement.json": "0d627fcac1a4fefb84de40f4e00e31d96bef5b7be3cdaa521e7127561df809c7"
+  },
+  "engineered_loops": [
+    {
+      "return_words": 7,
+      "fully_observed_paths": 318,
+      "violations": 287
+    },
+    {
+      "return_words": 7,
+      "fully_observed_paths": 316,
+      "violations": 284
+    }
+  ],
+  "cyclic_cases": {
+    "none": {
+      "rank": 0,
+      "nullity": 83,
+      "forced_collisions": 0,
+      "certificate_terms": 0
+    },
+    "early": {
+      "rank": 33,
+      "nullity": 50,
+      "forced_collisions": 2,
+      "certificate_terms": 12
+    },
+    "late": {
+      "rank": 47,
+      "nullity": 36,
+      "forced_collisions": 272,
+      "certificate_terms": 17
+    },
+    "strong": {
+      "rank": 66,
+      "nullity": 17,
+      "forced_collisions": 2211,
+      "certificate_terms": 35
+    },
+    "full": {
+      "rank": 67,
+      "nullity": 16,
+      "forced_collisions": 2278,
+      "certificate_terms": 44
+    },
+    "prefix": {
+      "rank": 0,
+      "nullity": 83,
+      "forced_collisions": 0,
+      "certificate_terms": 0
+    },
+    "late_prefix": {
+      "rank": 47,
+      "nullity": 36,
+      "forced_collisions": 272,
+      "certificate_terms": 17
+    },
+    "full_prefix": {
+      "rank": 67,
+      "nullity": 16,
+      "forced_collisions": 2278,
+      "certificate_terms": 44
+    },
+    "within_W1": {
+      "rank": 11,
+      "nullity": 72,
+      "forced_collisions": 0,
+      "certificate_terms": 0
+    },
+    "within_E2": {
+      "rank": 11,
+      "nullity": 72,
+      "forced_collisions": 0,
+      "certificate_terms": 0
+    }
+  },
+  "recovered_controls": [
+    {
+      "seed": 909420,
+      "map_entries": 83,
+      "decoded_increment_checks": 1018,
+      "anchors": [
+        0,
+        1
+      ]
+    },
+    {
+      "seed": 909421,
+      "map_entries": 83,
+      "decoded_increment_checks": 1018,
+      "anchors": [
+        0,
+        1
+      ]
+    },
+    {
+      "seed": 909422,
+      "map_entries": 83,
+      "decoded_increment_checks": 1018,
+      "anchors": [
+        0,
+        1
+      ]
+    },
+    {
+      "seed": 909430,
+      "map_entries": 83,
+      "decoded_increment_checks": 1018,
+      "anchors": [
+        0,
+        1
+      ]
+    }
+  ],
+  "unmerged_loops": {
+    "return_words": 7,
+    "fully_observed_paths": 27,
+    "violations": 0
+  },
+  "abelian_group_certificate": {
+    "status": "Conditional collision for every abelian group with shared injective output labeling.",
+    "labels": [
+      44,
+      33
+    ],
+    "signed_terms": [
+      {
+        "positions": [
+          [
+            1,
+            37
+          ],
+          [
+            1,
+            67
+          ]
+        ],
+        "coefficient": -1
+      },
+      {
+        "positions": [
+          [
+            1,
+            38
+          ],
+          [
+            1,
+            68
+          ]
+        ],
+        "coefficient": -1
+      },
+      {
+        "positions": [
+          [
+            1,
+            39
+          ],
+          [
+            1,
+            69
+          ]
+        ],
+        "coefficient": -1
+      },
+      {
+        "positions": [
+          [
+            1,
+            40
+          ],
+          [
+            1,
+            70
+          ]
+        ],
+        "coefficient": -1
+      },
+      {
+        "positions": [
+          [
+            1,
+            48
+          ],
+          [
+            1,
+            78
+          ]
+        ],
+        "coefficient": -1
+      },
+      {
+        "positions": [
+          [
+            1,
+            37
+          ],
+          [
+            2,
+            42
+          ]
+        ],
+        "coefficient": 1
+      },
+      {
+        "positions": [
+          [
+            1,
+            38
+          ],
+          [
+            2,
+            43
+          ]
+        ],
+        "coefficient": 1
+      },
+      {
+        "positions": [
+          [
+            1,
+            39
+          ],
+          [
+            2,
+            44
+          ]
+        ],
+        "coefficient": 1
+      },
+      {
+        "positions": [
+          [
+            1,
+            40
+          ],
+          [
+            2,
+            45
+          ]
+        ],
+        "coefficient": 1
+      },
+      {
+        "positions": [
+          [
+            1,
+            48
+          ],
+          [
+            2,
+            53
+          ]
+        ],
+        "coefficient": 1
+      },
+      {
+        "positions": [
+          [
+            1,
+            49
+          ],
+          [
+            2,
+            54
+          ]
+        ],
+        "coefficient": 1
+      },
+      {
+        "positions": [
+          [
+            1,
+            50
+          ],
+          [
+            2,
+            55
+          ]
+        ],
+        "coefficient": 1
+      }
+    ],
+    "integer_identity_verified": true
+  },
+  "generated_controls_checked": 7
+}

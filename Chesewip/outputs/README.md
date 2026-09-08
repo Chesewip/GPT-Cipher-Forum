@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `state-memory-findings.md`. A comparison of 256 observed-state table settings separates ciphertext facts from passage assumptions. An engineered 19-token cipher remembering only the previous output reproduces all 1,027 body symbols and the listed passage/prefix equalities if the first raw symbol is metadata. Treating it as the previous-symbol state yields a compact conditional contradiction. Counterfactual starts expose weak pattern transfer; no authentic plaintext.
+Latest: see `recurrence-transfer-findings.md`. Observed transitions prevent the prior artificial token fits from universally preserving their fitted return loops. Four redundant generated cyclic controls recover the true hidden output numbering up to affine equivalence; controls using the Eye hypothesis layout remain underdetermined. A 12-term integer certificate independently reproduces a conditional commutative-feedback exclusion with arbitrary injective output labeling. No Eye plaintext or key.
+
+Previous: see `state-memory-findings.md`. A comparison of 256 observed-state table settings separates ciphertext facts from passage assumptions. An engineered 19-token cipher remembering only the previous output reproduces all 1,027 body symbols and the listed passage/prefix equalities if the first raw symbol is metadata. Treating it as the previous-symbol state yields a compact conditional contradiction. Counterfactual starts expose weak pattern transfer; no authentic plaintext.
 
 Previous: see `function-model-refinement-findings.md`. An independently checked degree-count proof excludes period 2 for any one-coordinate function codebook and every tested boundary/read view. Two further equality certificates bring the full-first-block unresolved count to 272. A separate generated control has intrinsic key ambiguities preserving every structurally valid ciphertext message; this is not an Eye key. Solver witnesses, timeouts and independent checks are included.
 
@@ -41,6 +43,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_recurrence_transfer.py
 python verify_state_memory_comparison.py
 python verify_function_refinements.py
 python verify_nonlinear_dependencies.py

@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 543,
-    "python_syntax_checks": 211,
-    "json_parse_checks": 298,
-    "authored_CRLF_checks": 540,
-    "output_manifest_entries": 492,
+    "files": 550,
+    "python_syntax_checks": 214,
+    "json_parse_checks": 301,
+    "authored_CRLF_checks": 547,
+    "output_manifest_entries": 499,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 533,
+    "imported_research_files": 540,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -413,6 +413,11 @@
       "path": "outputs/checked_plaintext_change_bounds.json",
       "bytes": 470,
       "sha256": "f45d938f4597d3c5c75c23bdd578d68b6c5a309b0e4c0e0a1868d9688a5bb671"
+    },
+    {
+      "path": "outputs/checked_recurrence_transfer.json",
+      "bytes": 5523,
+      "sha256": "863cd09f0f692a081dc1d057498baa8cc877d1df86fa39929124d22a4fad38d9"
     },
     {
       "path": "outputs/checked_relative_cycle_integer.json",
@@ -848,6 +853,16 @@
       "path": "outputs/cycle_triple_bounds.json",
       "bytes": 8355,
       "sha256": "224d8982bdf5eb04f24f12e7871abc00f3e8fd7d407ce9be8ba8bcf2a6b414aa"
+    },
+    {
+      "path": "outputs/cyclic_permutation_refinement.json",
+      "bytes": 14494,
+      "sha256": "0d627fcac1a4fefb84de40f4e00e31d96bef5b7be3cdaa521e7127561df809c7"
+    },
+    {
+      "path": "outputs/cyclic_permutation_refinement.py",
+      "bytes": 2786,
+      "sha256": "f46875119f053bf6559535a619ccb86c60f2bfe62b5a56be5e8f7824c37261d9"
     },
     {
       "path": "outputs/deck_scan.py",
@@ -1386,8 +1401,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 83088,
-      "sha256": "2f968aac5f0fc809c343ac58304541fab7e3fd17a110d017dd48b79a3567c051"
+      "bytes": 84289,
+      "sha256": "4227979f49b104aaf8c3649ac1d2aef8443ada45acdba0639725ac4129833c52"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1461,8 +1476,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 26570740,
-      "sha256": "e4788712b4622d29de347e9a01ab597c1bb08912aedb5e65af802f519d45a2dc"
+      "bytes": 26633995,
+      "sha256": "8a1dc425c59b200520915a5a409cccdb1b16772d004ec63b939579d4aa4e38ed"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1636,8 +1651,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 10457,
-      "sha256": "8cad031e3d6691dde784aa7e956e81df8e2059d893adc4bf021c1516cfc4d3c4"
+      "bytes": 11003,
+      "sha256": "e94c3071930c90fd4c181af62a9d1f796253eefaddbaf9927dbd7b1543695ea9"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -1648,6 +1663,21 @@
       "path": "outputs/reconvergence_controls.py",
       "bytes": 3936,
       "sha256": "3c3c12195770252fe7a49562c8c1ccf55906d414bc67be78e4ac32c0b6be97a8"
+    },
+    {
+      "path": "outputs/recurrence-transfer-findings.md",
+      "bytes": 14124,
+      "sha256": "d8d9f53ffb02b511f1d430f3edad88e104fcc2a0f58b63aa269a9f0beb875d3a"
+    },
+    {
+      "path": "outputs/recurrence_transfer_audit.json",
+      "bytes": 298112,
+      "sha256": "cd273f7d6bf2d79dec8186978b2e5aa967374ea0219c59165c3279db03f03405"
+    },
+    {
+      "path": "outputs/recurrence_transfer_audit.py",
+      "bytes": 9009,
+      "sha256": "5ca7b8c61b3cac2af600b4704da92019a1d01545da28da611b3fd9c0910d6275"
     },
     {
       "path": "outputs/recurrent_pattern_witness.json",
@@ -2430,6 +2460,11 @@
       "sha256": "f784455573865e333e317411c191faa21a6ba181db31736e7b96190265a0bd53"
     },
     {
+      "path": "outputs/verify_recurrence_transfer.py",
+      "bytes": 11532,
+      "sha256": "1688af8cd418ccfdab4c1842fce76bb8c96687366543de48333e354467c807da"
+    },
+    {
       "path": "outputs/verify_reduction.py",
       "bytes": 2454,
       "sha256": "5b8448d4bc4239782d75443ed4a27cb9346cba309dbf2d4c389ee2b84a50aaa4"
@@ -2496,8 +2531,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 164166,
-      "sha256": "5e49ffd008f75f443d8ff68a81c7d4d0135e8ecf306d3b6a5033469e02f5fd91"
+      "bytes": 166335,
+      "sha256": "2e37ac4983b25f28f21a42263fec502e7e3b53d05069b47fb52227878b68761f"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2511,8 +2546,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8856,
-      "sha256": "a6758df4134e234540680b6b0be95d0b8d64b62bf0118136a77e98876bffa743"
+      "bytes": 9324,
+      "sha256": "d9dfa0af2656294a0546b9857c14079202c78c1edcc61922032e49bfdb4ebedd"
     },
     {
       "path": "REFERENCES.md",

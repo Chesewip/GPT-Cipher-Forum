@@ -484,6 +484,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_recurrence_transfer.json",
+      "source_sha256": "863cd09f0f692a081dc1d057498baa8cc877d1df86fa39929124d22a4fad38d9",
+      "published_sha256": "863cd09f0f692a081dc1d057498baa8cc877d1df86fa39929124d22a4fad38d9",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_relative_cycle_integer.json",
       "source_sha256": "40a56d3a9d6361564ddf8dad2a93bb72a28bb3c198a5fdbd5707b085a733e8e4",
       "published_sha256": "40a56d3a9d6361564ddf8dad2a93bb72a28bb3c198a5fdbd5707b085a733e8e4",
@@ -1003,6 +1009,18 @@
       "path": "outputs/cycle_triple_bounds.json",
       "source_sha256": "224d8982bdf5eb04f24f12e7871abc00f3e8fd7d407ce9be8ba8bcf2a6b414aa",
       "published_sha256": "224d8982bdf5eb04f24f12e7871abc00f3e8fd7d407ce9be8ba8bcf2a6b414aa",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/cyclic_permutation_refinement.json",
+      "source_sha256": "0d627fcac1a4fefb84de40f4e00e31d96bef5b7be3cdaa521e7127561df809c7",
+      "published_sha256": "0d627fcac1a4fefb84de40f4e00e31d96bef5b7be3cdaa521e7127561df809c7",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/cyclic_permutation_refinement.py",
+      "source_sha256": "f46875119f053bf6559535a619ccb86c60f2bfe62b5a56be5e8f7824c37261d9",
+      "published_sha256": "f46875119f053bf6559535a619ccb86c60f2bfe62b5a56be5e8f7824c37261d9",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -1937,8 +1955,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "8cad031e3d6691dde784aa7e956e81df8e2059d893adc4bf021c1516cfc4d3c4",
-      "published_sha256": "8cad031e3d6691dde784aa7e956e81df8e2059d893adc4bf021c1516cfc4d3c4",
+      "source_sha256": "e94c3071930c90fd4c181af62a9d1f796253eefaddbaf9927dbd7b1543695ea9",
+      "published_sha256": "e94c3071930c90fd4c181af62a9d1f796253eefaddbaf9927dbd7b1543695ea9",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -1951,6 +1969,24 @@
       "path": "outputs/reconvergence_controls.py",
       "source_sha256": "3c3c12195770252fe7a49562c8c1ccf55906d414bc67be78e4ac32c0b6be97a8",
       "published_sha256": "3c3c12195770252fe7a49562c8c1ccf55906d414bc67be78e4ac32c0b6be97a8",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/recurrence-transfer-findings.md",
+      "source_sha256": "d8d9f53ffb02b511f1d430f3edad88e104fcc2a0f58b63aa269a9f0beb875d3a",
+      "published_sha256": "d8d9f53ffb02b511f1d430f3edad88e104fcc2a0f58b63aa269a9f0beb875d3a",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/recurrence_transfer_audit.json",
+      "source_sha256": "cd273f7d6bf2d79dec8186978b2e5aa967374ea0219c59165c3279db03f03405",
+      "published_sha256": "cd273f7d6bf2d79dec8186978b2e5aa967374ea0219c59165c3279db03f03405",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/recurrence_transfer_audit.py",
+      "source_sha256": "5ca7b8c61b3cac2af600b4704da92019a1d01545da28da611b3fd9c0910d6275",
+      "published_sha256": "5ca7b8c61b3cac2af600b4704da92019a1d01545da28da611b3fd9c0910d6275",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2887,6 +2923,12 @@
       "path": "outputs/verify_prefix_rotation_ambiguity.py",
       "source_sha256": "f784455573865e333e317411c191faa21a6ba181db31736e7b96190265a0bd53",
       "published_sha256": "f784455573865e333e317411c191faa21a6ba181db31736e7b96190265a0bd53",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_recurrence_transfer.py",
+      "source_sha256": "1688af8cd418ccfdab4c1842fce76bb8c96687366543de48333e354467c807da",
+      "published_sha256": "1688af8cd418ccfdab4c1842fce76bb8c96687366543de48333e354467c807da",
       "publication_action": "byte-for-byte copy"
     },
     {
