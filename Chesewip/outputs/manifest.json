@@ -392,6 +392,11 @@
       "bytes": 1116
     },
     {
+      "name": "checked_periodic_resets.json",
+      "sha256": "2bea2d388c26eb3bc0efb3a3849d022ee8bc271f6d3ab8e0b77e3916d839b43f",
+      "bytes": 4413
+    },
+    {
       "name": "checked_phase_switch_audit.json",
       "sha256": "50d400c40d8e7c4974ef1898b4f2153a8d45c63543aa01458d9e78d1aa3e6a6a",
       "bytes": 1948
@@ -1532,6 +1537,21 @@
       "bytes": 2953
     },
     {
+      "name": "periodic-reset-findings.md",
+      "sha256": "fd013aaff2361e5c698a16a0458229c43e2cee5bfe70108e37e2ec2a7ffa966a",
+      "bytes": 9918
+    },
+    {
+      "name": "periodic_reset_screen.json",
+      "sha256": "2b0ae66c4976dbecd97a3dfca8dbc6a27bc709ecbba284240fbae2f902a79e97",
+      "bytes": 1644011
+    },
+    {
+      "name": "periodic_reset_screen.py",
+      "sha256": "c7d74c67bca7f1d8376088ed1fef0dfa79bcaebacf48ac8abedbab32bb3f25b3",
+      "bytes": 8090
+    },
+    {
       "name": "permutation_action_fold.json",
       "sha256": "12f580dc83ce63da4ff80b8c0cf98a782daba2ba5d92c2b62dec285128250f5b",
       "bytes": 18447
@@ -1628,8 +1648,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "e94c3071930c90fd4c181af62a9d1f796253eefaddbaf9927dbd7b1543695ea9",
-      "bytes": 11003
+      "sha256": "427ed87b94dac4544356009c0b9a500947d8a8e47200680aa7ace0ab026afbdc",
+      "bytes": 11558
     },
     {
       "name": "reconvergence_controls.json",
@@ -1750,6 +1770,16 @@
       "name": "requirements.txt",
       "sha256": "897ef337c56ec8d22d29b9fb7b30701ce7f661feb1d94274f4e706e23effaee4",
       "bytes": 30
+    },
+    {
+      "name": "reset_phase_coverage.json",
+      "sha256": "32709cf90bf21d3627bc6d2f72e3ffdeb8fcf4cff2f49481125de3b400afe6c8",
+      "bytes": 1991469
+    },
+    {
+      "name": "reset_phase_coverage.py",
+      "sha256": "b28967cb3cc84900e9bb70cc0a4d664e028fa8672befb45bdfd403e694388de6",
+      "bytes": 2873
     },
     {
       "name": "restricted_key_repair.py",
@@ -2420,6 +2450,11 @@
       "name": "verify_peer_cycle_claims.py",
       "sha256": "e66af9ce7c067e2a4224bbf996ce20cb4219f1fcd67fa5d7185e382eb85c3d1f",
       "bytes": 3928
+    },
+    {
+      "name": "verify_periodic_resets.py",
+      "sha256": "c87d7f65d7b081e22bfbe56c7ba59c160a2d26438a46871614fa0524a15b5761",
+      "bytes": 9562
     },
     {
       "name": "verify_phase_switch_audit.py",

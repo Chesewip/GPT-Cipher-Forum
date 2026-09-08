@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 550,
-    "python_syntax_checks": 214,
-    "json_parse_checks": 301,
-    "authored_CRLF_checks": 547,
-    "output_manifest_entries": 499,
+    "files": 557,
+    "python_syntax_checks": 217,
+    "json_parse_checks": 304,
+    "authored_CRLF_checks": 554,
+    "output_manifest_entries": 506,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 540,
+    "imported_research_files": 547,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -403,6 +403,11 @@
       "path": "outputs/checked_peer_cycle_claims.json",
       "bytes": 1116,
       "sha256": "e449220a6ceef5d4194d39b91ded468c13b9fdc890356c1be8e0abb2410684a5"
+    },
+    {
+      "path": "outputs/checked_periodic_resets.json",
+      "bytes": 4413,
+      "sha256": "2bea2d388c26eb3bc0efb3a3849d022ee8bc271f6d3ab8e0b77e3916d839b43f"
     },
     {
       "path": "outputs/checked_phase_switch_audit.json",
@@ -1401,8 +1406,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 84289,
-      "sha256": "4227979f49b104aaf8c3649ac1d2aef8443ada45acdba0639725ac4129833c52"
+      "bytes": 85452,
+      "sha256": "3d0c1f22a4a9e3290d937ac4807441db95e0d0c002fec42c16df0a895de00a78"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1476,8 +1481,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 26633995,
-      "sha256": "8a1dc425c59b200520915a5a409cccdb1b16772d004ec63b939579d4aa4e38ed"
+      "bytes": 26922034,
+      "sha256": "aaf3f7b14b2b13e20dd2f3c9862d58070293f587e96244072da685ef44152f6f"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1553,6 +1558,21 @@
       "path": "outputs/period_two_degree_certificate.py",
       "bytes": 2953,
       "sha256": "b8b8e7a8dc03b7d2f45e87dcadf002fee663eb1e0bc355551b2afcea2e2d2de5"
+    },
+    {
+      "path": "outputs/periodic-reset-findings.md",
+      "bytes": 9918,
+      "sha256": "fd013aaff2361e5c698a16a0458229c43e2cee5bfe70108e37e2ec2a7ffa966a"
+    },
+    {
+      "path": "outputs/periodic_reset_screen.json",
+      "bytes": 1644011,
+      "sha256": "2b0ae66c4976dbecd97a3dfca8dbc6a27bc709ecbba284240fbae2f902a79e97"
+    },
+    {
+      "path": "outputs/periodic_reset_screen.py",
+      "bytes": 8090,
+      "sha256": "c7d74c67bca7f1d8376088ed1fef0dfa79bcaebacf48ac8abedbab32bb3f25b3"
     },
     {
       "path": "outputs/permutation_action_fold.json",
@@ -1651,8 +1671,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 11003,
-      "sha256": "e94c3071930c90fd4c181af62a9d1f796253eefaddbaf9927dbd7b1543695ea9"
+      "bytes": 11558,
+      "sha256": "427ed87b94dac4544356009c0b9a500947d8a8e47200680aa7ace0ab026afbdc"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -1773,6 +1793,16 @@
       "path": "outputs/requirements.txt",
       "bytes": 30,
       "sha256": "897ef337c56ec8d22d29b9fb7b30701ce7f661feb1d94274f4e706e23effaee4"
+    },
+    {
+      "path": "outputs/reset_phase_coverage.json",
+      "bytes": 1991469,
+      "sha256": "32709cf90bf21d3627bc6d2f72e3ffdeb8fcf4cff2f49481125de3b400afe6c8"
+    },
+    {
+      "path": "outputs/reset_phase_coverage.py",
+      "bytes": 2873,
+      "sha256": "b28967cb3cc84900e9bb70cc0a4d664e028fa8672befb45bdfd403e694388de6"
     },
     {
       "path": "outputs/restricted_key_repair.py",
@@ -2445,6 +2475,11 @@
       "sha256": "e66af9ce7c067e2a4224bbf996ce20cb4219f1fcd67fa5d7185e382eb85c3d1f"
     },
     {
+      "path": "outputs/verify_periodic_resets.py",
+      "bytes": 9562,
+      "sha256": "c87d7f65d7b081e22bfbe56c7ba59c160a2d26438a46871614fa0524a15b5761"
+    },
+    {
       "path": "outputs/verify_phase_switch_audit.py",
       "bytes": 7601,
       "sha256": "0975bb89bcc0a707c93b96501cebbecee09ca5f558f7ec82e99bf9543e32e146"
@@ -2531,8 +2566,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 166335,
-      "sha256": "2e37ac4983b25f28f21a42263fec502e7e3b53d05069b47fb52227878b68761f"
+      "bytes": 168465,
+      "sha256": "74739535a0c9a0f23709f16fe035999611fba5be60ad2cf88ce77c3c3842ef37"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2546,8 +2581,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9324,
-      "sha256": "d9dfa0af2656294a0546b9857c14079202c78c1edcc61922032e49bfdb4ebedd"
+      "bytes": 9799,
+      "sha256": "e103b7ac1ed80e46b28a007d5dd854a0696faea3ba8b6fc4926c63c6bc35506b"
     },
     {
       "path": "REFERENCES.md",

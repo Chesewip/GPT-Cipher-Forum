@@ -1,0 +1,307 @@
+{
+  "status": "Independent checks passed; conditional exclusions only, no Eye key.",
+  "source_hashes": {
+    "ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "state_memory_comparison.json": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611",
+    "periodic_reset_screen.json": "2b0ae66c4976dbecd97a3dfca8dbc6a27bc709ecbba284240fbae2f902a79e97",
+    "reset_phase_coverage.json": "32709cf90bf21d3627bc6d2f72e3ffdeb8fcf4cff2f49481125de3b400afe6c8"
+  },
+  "common_schedule": {
+    "settings": 9316,
+    "excluded": 9311,
+    "unresolved": [
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "certificate_library": 549
+  },
+  "bounded_independent_phase_probes": [
+    {
+      "period": 4,
+      "tested": 11,
+      "last_status": "no_forced_collision"
+    },
+    {
+      "period": 7,
+      "tested": 1000,
+      "last_status": "forced_output_collision"
+    },
+    {
+      "period": 13,
+      "tested": 1000,
+      "last_status": "forced_output_collision"
+    }
+  ],
+  "controls": [
+    {
+      "seed": 909500,
+      "settings": 528,
+      "unresolved": [
+        [
+          1,
+          0
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "recovered_map_entries": 83,
+      "nonreset_increment_checks": 869
+    },
+    {
+      "seed": 909501,
+      "settings": 528,
+      "unresolved": [
+        [
+          1,
+          0
+        ],
+        [
+          11,
+          5
+        ]
+      ],
+      "recovered_map_entries": 83,
+      "nonreset_increment_checks": 925
+    },
+    {
+      "seed": 909502,
+      "settings": 528,
+      "unresolved": [
+        [
+          1,
+          0
+        ],
+        [
+          17,
+          3
+        ]
+      ],
+      "recovered_map_entries": 83,
+      "nonreset_increment_checks": 956
+    }
+  ],
+  "independent_early_phase_coverage": {
+    "phase_pairs": 847756,
+    "excluded": 847717,
+    "unresolved": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        1
+      ],
+      [
+        2,
+        1,
+        0
+      ],
+      [
+        2,
+        1,
+        1
+      ],
+      [
+        3,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        1
+      ],
+      [
+        3,
+        1,
+        1
+      ],
+      [
+        3,
+        1,
+        2
+      ],
+      [
+        3,
+        2,
+        0
+      ],
+      [
+        3,
+        2,
+        2
+      ],
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        4,
+        0,
+        1
+      ],
+      [
+        4,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        3
+      ],
+      [
+        4,
+        2,
+        0
+      ],
+      [
+        4,
+        2,
+        1
+      ],
+      [
+        4,
+        2,
+        2
+      ],
+      [
+        4,
+        2,
+        3
+      ],
+      [
+        5,
+        0,
+        1
+      ],
+      [
+        5,
+        0,
+        2
+      ],
+      [
+        5,
+        1,
+        0
+      ],
+      [
+        5,
+        2,
+        0
+      ],
+      [
+        5,
+        2,
+        4
+      ],
+      [
+        5,
+        4,
+        2
+      ],
+      [
+        6,
+        4,
+        2
+      ],
+      [
+        7,
+        3,
+        2
+      ],
+      [
+        7,
+        3,
+        3
+      ],
+      [
+        7,
+        4,
+        1
+      ],
+      [
+        7,
+        5,
+        1
+      ],
+      [
+        9,
+        1,
+        5
+      ],
+      [
+        29,
+        20,
+        12
+      ],
+      [
+        29,
+        20,
+        13
+      ],
+      [
+        29,
+        20,
+        14
+      ],
+      [
+        29,
+        20,
+        15
+      ],
+      [
+        31,
+        17,
+        10
+      ],
+      [
+        31,
+        17,
+        11
+      ],
+      [
+        31,
+        17,
+        12
+      ],
+      [
+        31,
+        17,
+        13
+      ]
+    ],
+    "unique_equation_systems": 9403,
+    "certificates": 25
+  },
+  "total_certificate_checks": 861
+}
