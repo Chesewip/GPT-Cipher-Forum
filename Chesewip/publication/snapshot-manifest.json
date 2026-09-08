@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 538,
-    "python_syntax_checks": 209,
-    "json_parse_checks": 296,
-    "authored_CRLF_checks": 535,
-    "output_manifest_entries": 487,
+    "files": 543,
+    "python_syntax_checks": 211,
+    "json_parse_checks": 298,
+    "authored_CRLF_checks": 540,
+    "output_manifest_entries": 492,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 528,
+    "imported_research_files": 533,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -433,6 +433,11 @@
       "path": "outputs/checked_shuffle_weight_bounds.json",
       "bytes": 19455,
       "sha256": "2d7933194a62f0d24e16013e35527ec9a82b91b4b7b452a29b713d0253b0d669"
+    },
+    {
+      "path": "outputs/checked_state_memory_comparison.json",
+      "bytes": 35008,
+      "sha256": "87fbbe81c3a9a77400e0db9fa8a1e2788a224080c6263d78b7a0b8caaa1c46df"
     },
     {
       "path": "outputs/checked_synchronized_bound_2_40.json",
@@ -1381,8 +1386,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 82235,
-      "sha256": "b967925fd07dacfcba52dbf9bb6187ef87239e6312719496adb22322a43bf084"
+      "bytes": 83088,
+      "sha256": "2f968aac5f0fc809c343ac58304541fab7e3fd17a110d017dd48b79a3567c051"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1456,8 +1461,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 26467130,
-      "sha256": "565b64331de36a35e0aca5688b94f098ae36cd596b209d95131c9ed11b64f119"
+      "bytes": 26570740,
+      "sha256": "e4788712b4622d29de347e9a01ab597c1bb08912aedb5e65af802f519d45a2dc"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1631,8 +1636,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 9927,
-      "sha256": "e4df775d671fedb7adb2efa30ee8ee96ba2f1bc1757944501432570fa24f61e4"
+      "bytes": 10457,
+      "sha256": "8cad031e3d6691dde784aa7e956e81df8e2059d893adc4bf021c1516cfc4d3c4"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2018,6 +2023,21 @@
       "path": "outputs/smt_small_gauge_4.json",
       "bytes": 269,
       "sha256": "c823fa681e19514c2d801fdf73a89b119f338a37f1cd9499bda5ecbc0fd378fe"
+    },
+    {
+      "path": "outputs/state-memory-findings.md",
+      "bytes": 15725,
+      "sha256": "7d7629ab6e06f81c592ee3f961e3f2bb74cdf327ff1f823a6b5cdfd1f7b917bf"
+    },
+    {
+      "path": "outputs/state_memory_comparison.json",
+      "bytes": 608734,
+      "sha256": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611"
+    },
+    {
+      "path": "outputs/state_memory_comparison.py",
+      "bytes": 10781,
+      "sha256": "3b92c79426b2902baa50ffa181d46f0c503ec342530b995ba78f2606aaba9176"
     },
     {
       "path": "outputs/strong-affine-classification-findings.md",
@@ -2440,6 +2460,11 @@
       "sha256": "879fb236047a4b70423d22c5a7bdbf30872586f5662f1c6cc3757ee8e6d7287d"
     },
     {
+      "path": "outputs/verify_state_memory_comparison.py",
+      "bytes": 9542,
+      "sha256": "225fe10797b76da903104377f9d45958929989c2c50ac1d6fa9e0c08bf5f95e3"
+    },
+    {
       "path": "outputs/verify_synchronized_isomorph.py",
       "bytes": 4234,
       "sha256": "d661210447476a2777f1dc900c853371f66494f0221c6c784f256dce0eaae12a"
@@ -2471,8 +2496,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 162624,
-      "sha256": "7f3525fb123f8c59b3ccdb8856e7c626596e8d56a6817ac07e78db219f01de23"
+      "bytes": 164166,
+      "sha256": "5e49ffd008f75f443d8ff68a81c7d4d0135e8ecf306d3b6a5033469e02f5fd91"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2486,8 +2511,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8402,
-      "sha256": "1fb729201b165116166288c8d4a456df6b011eaa13ba5a2954eda5dd2110f1b0"
+      "bytes": 8856,
+      "sha256": "a6758df4134e234540680b6b0be95d0b8d64b62bf0118136a77e98876bffa743"
     },
     {
       "path": "REFERENCES.md",

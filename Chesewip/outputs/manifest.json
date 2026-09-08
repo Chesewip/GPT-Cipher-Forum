@@ -422,6 +422,11 @@
       "bytes": 19455
     },
     {
+      "name": "checked_state_memory_comparison.json",
+      "sha256": "87fbbe81c3a9a77400e0db9fa8a1e2788a224080c6263d78b7a0b8caaa1c46df",
+      "bytes": 35008
+    },
+    {
       "name": "checked_synchronized_bound_2_40.json",
       "sha256": "d9facf266bf90b4d368b05e595a99f42c20dec7f4987fa15214cf5632ee904a1",
       "bytes": 179
@@ -1608,8 +1613,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "e4df775d671fedb7adb2efa30ee8ee96ba2f1bc1757944501432570fa24f61e4",
-      "bytes": 9927
+      "sha256": "8cad031e3d6691dde784aa7e956e81df8e2059d893adc4bf021c1516cfc4d3c4",
+      "bytes": 10457
     },
     {
       "name": "reconvergence_controls.json",
@@ -1995,6 +2000,21 @@
       "name": "smt_small_gauge_4.json",
       "sha256": "c823fa681e19514c2d801fdf73a89b119f338a37f1cd9499bda5ecbc0fd378fe",
       "bytes": 269
+    },
+    {
+      "name": "state-memory-findings.md",
+      "sha256": "7d7629ab6e06f81c592ee3f961e3f2bb74cdf327ff1f823a6b5cdfd1f7b917bf",
+      "bytes": 15725
+    },
+    {
+      "name": "state_memory_comparison.json",
+      "sha256": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611",
+      "bytes": 608734
+    },
+    {
+      "name": "state_memory_comparison.py",
+      "sha256": "3b92c79426b2902baa50ffa181d46f0c503ec342530b995ba78f2606aaba9176",
+      "bytes": 10781
     },
     {
       "name": "strong-affine-classification-findings.md",
@@ -2415,6 +2435,11 @@
       "name": "verify_shuffle_weight_bounds.py",
       "sha256": "879fb236047a4b70423d22c5a7bdbf30872586f5662f1c6cc3757ee8e6d7287d",
       "bytes": 3483
+    },
+    {
+      "name": "verify_state_memory_comparison.py",
+      "sha256": "225fe10797b76da903104377f9d45958929989c2c50ac1d6fa9e0c08bf5f95e3",
+      "bytes": 9542
     },
     {
       "name": "verify_synchronized_isomorph.py",

@@ -1,0 +1,1605 @@
+{
+  "status": "Independent checks passed; no authentic plaintext or key recovered.",
+  "ciphertext_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+  "source_sha256": "431297285bc63fb2e280d73361c9ac8e9fc17db58d06c53656fb600b68796611",
+  "cases": 256,
+  "results": {
+    "fit": 154,
+    "contradiction": 102
+  },
+  "conditional_path_steps": 143,
+  "generated_controls": 5,
+  "engineered_fits": [
+    {
+      "header": "primer",
+      "tokens": 19,
+      "body_symbols": 1027,
+      "state_transitions_checked": 1577,
+      "transfers": [
+        {
+          "source": [
+            1,
+            37,
+            15
+          ],
+          "distinct_patterns": 53,
+          "states_matching_observed_pattern": 4
+        },
+        {
+          "source": [
+            6,
+            71,
+            27
+          ],
+          "distinct_patterns": 81,
+          "states_matching_observed_pattern": 3
+        }
+      ]
+    },
+    {
+      "header": "metadata",
+      "tokens": 19,
+      "body_symbols": 1027,
+      "state_transitions_checked": 1577,
+      "transfers": [
+        {
+          "source": [
+            1,
+            37,
+            15
+          ],
+          "distinct_patterns": 48,
+          "states_matching_observed_pattern": 4
+        },
+        {
+          "source": [
+            6,
+            71,
+            27
+          ],
+          "distinct_patterns": 81,
+          "states_matching_observed_pattern": 3
+        }
+      ]
+    }
+  ],
+  "compact_header_sensitive_certificate": true,
+  "selected_case_summary": [
+    {
+      "model": {
+        "kind": "fixed",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 83,
+      "lower_bound": 83,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "fixed",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 83,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "fixed",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 83,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "fixed",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 83,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "position",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 9,
+      "lower_bound": 9,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "position",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 9,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "position",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 9,
+      "lower_bound": 9,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "position",
+        "memory": 0,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 9,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 36
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 1,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 36
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 36
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 36
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 4,
+      "lower_bound": 4,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 108
+    },
+    {
+      "model": {
+        "kind": "window",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 3,
+      "lower_bound": 3,
+      "skipped_equalities": 108
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 36
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 36
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 2,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 72
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 3,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 90
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 108
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 4,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 108
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 18,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 108
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 108
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 18,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 126
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 5,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 126
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 18,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 126
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 126
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 18,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 135
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 6,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 18,
+      "skipped_equalities": 135
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 135
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 135
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 144
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 7,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 144
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 144
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 144
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 153
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 8,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 153
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 153
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 153
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 19,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 162
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 9,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 19,
+      "skipped_equalities": 162
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 162
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 162
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 168
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 10,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 168
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 168
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 168
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 174
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 11,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 174
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "primer"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "primer"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "primer"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 174
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "primer"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 174
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "metadata"
+      },
+      "assumptions": "none",
+      "status": "fit",
+      "tokens": 20,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "metadata"
+      },
+      "assumptions": "full",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 0
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "metadata"
+      },
+      "assumptions": "late_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 180
+    },
+    {
+      "model": {
+        "kind": "lag",
+        "memory": 12,
+        "header": "metadata"
+      },
+      "assumptions": "full_prefix",
+      "status": "contradiction",
+      "tokens": null,
+      "lower_bound": 20,
+      "skipped_equalities": 180
+    }
+  ]
+}
