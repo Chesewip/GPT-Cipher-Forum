@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 584,
-    "python_syntax_checks": 227,
-    "json_parse_checks": 317,
-    "authored_CRLF_checks": 581,
-    "output_manifest_entries": 533,
+    "files": 592,
+    "python_syntax_checks": 230,
+    "json_parse_checks": 321,
+    "authored_CRLF_checks": 589,
+    "output_manifest_entries": 541,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 574,
+    "imported_research_files": 582,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -383,6 +383,11 @@
       "path": "outputs/checked_inverse_reductions.json",
       "bytes": 8453,
       "sha256": "0ddaf0e2f09788a5931caee3b3df111bd936b99243764540fdc38d8b4d5f2bb8"
+    },
+    {
+      "path": "outputs/checked_joint_feedback.json",
+      "bytes": 10033,
+      "sha256": "35bc9e8e7255e576eba3c27efde3c3382408953cd94a1b3cf06ad60002393aca"
     },
     {
       "path": "outputs/checked_mead_return_certificate.json",
@@ -1350,6 +1355,26 @@
       "sha256": "f99a8139bcb7db0455b66ce77ce10fe1aafd86464c2a61e9a7a0ecdc57379f3d"
     },
     {
+      "path": "outputs/joint-feedback-findings.md",
+      "bytes": 9657,
+      "sha256": "cf38f53fe90a6495153488d9ba6af23b34f1e92d474915ea052c4cf2981f4081"
+    },
+    {
+      "path": "outputs/joint_feedback_constraints.json",
+      "bytes": 34853,
+      "sha256": "466a671f28da53d8f078a33c143418665dfbe04aaa93fb8bcb68b59c6d46653e"
+    },
+    {
+      "path": "outputs/joint_feedback_constraints.py",
+      "bytes": 5348,
+      "sha256": "aeead275e0adf05f385771cc3293a755058e07879f4d648858ed28ba02a09310"
+    },
+    {
+      "path": "outputs/joint_feedback_guards.json",
+      "bytes": 580,
+      "sha256": "89e05817f31f4451d796d11e2d852d536e0516c020628c6023ddd94c0333c802"
+    },
+    {
       "path": "outputs/key-recovery-and-headers.md",
       "bytes": 7130,
       "sha256": "703bb8c7d61512aa44fa224e721a41a432bff371158ca5bd44f422ac95b7c170"
@@ -1496,8 +1521,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 90030,
-      "sha256": "441ab4d4b4e9f404f000e0a10a88368c12d58b78791e886b8f2ee71c78ef685b"
+      "bytes": 91377,
+      "sha256": "07062a4346ce3c1fcfba22947ad2f9c586652c4424509dd6c9f7e8f52d4d753f"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1571,8 +1596,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 27360483,
-      "sha256": "49e788c4c15371d43ec163c683ae5b5d0d6f9a32f988456627c00148df94919f"
+      "bytes": 27488925,
+      "sha256": "5d834497d55b22968c46b2b5b38efec345b2059d7366f152c403f94932c31bca"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1735,6 +1760,16 @@
       "sha256": "686fe8f8c7d65abf146de869de51d2520c05b8025b3ea23cbe50c85833c83680"
     },
     {
+      "path": "outputs/propagate_feedback_domains.json",
+      "bytes": 1713742,
+      "sha256": "885bcc7fcf1e9a4d1067b9aa9aa196a91ec445d85bd0f2d0d36d1669bfe952ff"
+    },
+    {
+      "path": "outputs/propagate_feedback_domains.py",
+      "bytes": 4984,
+      "sha256": "3845ad1a4ec2376899bc952e5308cf037bb42cacf65dc4b9c12a0769b4f926e7"
+    },
+    {
       "path": "outputs/provenance.json",
       "bytes": 535,
       "sha256": "f5525942b3e7d2dfb8d58bce712a979ded31bb2969307dc2a163104ead391132"
@@ -1761,8 +1796,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 13684,
-      "sha256": "b18f979ec7821cbb4e886d80de1b427d0fd4ebbb6db606baa8fdea1263ac09f4"
+      "bytes": 14142,
+      "sha256": "f481f85fff0b6cd91acf98522b1690e2003f69a3f8ae0240a95e00f279f02039"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2565,6 +2600,11 @@
       "sha256": "510c9532beead57d68a59fd708ac247dded647791eb7f4fdbeacea28303a1068"
     },
     {
+      "path": "outputs/verify_joint_feedback.py",
+      "bytes": 8275,
+      "sha256": "e76babbda5896ccf9c268299cfa15401baa686045a7b773aed375c7cfedd41c8"
+    },
+    {
       "path": "outputs/verify_mead_return_certificate.py",
       "bytes": 3901,
       "sha256": "ce73aa195efd34bb853f31e597582d770852fc8e56db0de22a4219462702086d"
@@ -2701,8 +2741,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 176776,
-      "sha256": "7e62c1c96e495489a91543227eec406ea58011b983da8faabee7cdbe13519a26"
+      "bytes": 179231,
+      "sha256": "b925daede60f4d5581f300a151ba048ef0bde10f1cb7e59eb213e9d389f9d902"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2716,8 +2756,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 11646,
-      "sha256": "2833f7e861c2d2426d43c1886ddf8ac2836afe8e4d948f7b7cea9c6818ce622e"
+      "bytes": 12090,
+      "sha256": "f18bc92a912d6f82542ceaa0f21266c64c956057cef4596300c4ced87fffbf4a"
     },
     {
       "path": "REFERENCES.md",

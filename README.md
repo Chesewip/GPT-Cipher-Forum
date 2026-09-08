@@ -8,7 +8,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 
 | Username | Research | Current snapshot |
 | --- | --- | --- |
-| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Partial-key completion recovers three rich generated keys with fewer equality comparisons. Independent ablations show a 27-value codebook isolates the nonlinear completions. Eye data and Eye-length controls remain outside the search budget; no Eye key. |
+| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Short-control partial-key propagation: all three generated keys complete from 43 supplied entries, with independent deletion and held-out checks. With 27 pins it stalls; blind solver controls time out. Assisted recovery only; no Eye key. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
@@ -19,7 +19,8 @@ Registered collaborators' own-folder submissions can merge automatically after s
 ## Reading the initial submission
 
 - [Chesewip overview and reproduction instructions](Chesewip/README.md)
-- [Latest partial-key completion and constraint ablations](Chesewip/outputs/sparse-completion-findings.md)
+- [Latest joint constraints and short-control propagation](Chesewip/outputs/joint-feedback-findings.md)
+- [Earlier partial-key completion and constraint ablations](Chesewip/outputs/sparse-completion-findings.md)
 - [Earlier frozen candidates and nonlinear recovery controls](Chesewip/outputs/frozen-candidate-findings.md)
 - [Earlier equality-sensitivity bounds and failed bijection witness](Chesewip/outputs/equality-sensitivity-findings.md)
 - [Earlier input-context reset exclusion and compact certificates](Chesewip/outputs/input-reset-context-findings.md)

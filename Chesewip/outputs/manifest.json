@@ -372,6 +372,11 @@
       "bytes": 8453
     },
     {
+      "name": "checked_joint_feedback.json",
+      "sha256": "35bc9e8e7255e576eba3c27efde3c3382408953cd94a1b3cf06ad60002393aca",
+      "bytes": 10033
+    },
+    {
       "name": "checked_mead_return_certificate.json",
       "sha256": "0cd06192c13d03b2dd9ff139f6b529013176edf424d23af604e3b1b148fb82ea",
       "bytes": 1430
@@ -1337,6 +1342,26 @@
       "bytes": 13216
     },
     {
+      "name": "joint-feedback-findings.md",
+      "sha256": "cf38f53fe90a6495153488d9ba6af23b34f1e92d474915ea052c4cf2981f4081",
+      "bytes": 9657
+    },
+    {
+      "name": "joint_feedback_constraints.json",
+      "sha256": "466a671f28da53d8f078a33c143418665dfbe04aaa93fb8bcb68b59c6d46653e",
+      "bytes": 34853
+    },
+    {
+      "name": "joint_feedback_constraints.py",
+      "sha256": "aeead275e0adf05f385771cc3293a755058e07879f4d648858ed28ba02a09310",
+      "bytes": 5348
+    },
+    {
+      "name": "joint_feedback_guards.json",
+      "sha256": "89e05817f31f4451d796d11e2d852d536e0516c020628c6023ddd94c0333c802",
+      "bytes": 580
+    },
+    {
       "name": "key-recovery-and-headers.md",
       "sha256": "703bb8c7d61512aa44fa224e721a41a432bff371158ca5bd44f422ac95b7c170",
       "bytes": 7130
@@ -1712,6 +1737,16 @@
       "bytes": 1889629
     },
     {
+      "name": "propagate_feedback_domains.json",
+      "sha256": "885bcc7fcf1e9a4d1067b9aa9aa196a91ec445d85bd0f2d0d36d1669bfe952ff",
+      "bytes": 1713742
+    },
+    {
+      "name": "propagate_feedback_domains.py",
+      "sha256": "3845ad1a4ec2376899bc952e5308cf037bb42cacf65dc4b9c12a0769b4f926e7",
+      "bytes": 4984
+    },
+    {
       "name": "provenance.json",
       "sha256": "f5525942b3e7d2dfb8d58bce712a979ded31bb2969307dc2a163104ead391132",
       "bytes": 535
@@ -1738,8 +1773,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "b18f979ec7821cbb4e886d80de1b427d0fd4ebbb6db606baa8fdea1263ac09f4",
-      "bytes": 13684
+      "sha256": "f481f85fff0b6cd91acf98522b1690e2003f69a3f8ae0240a95e00f279f02039",
+      "bytes": 14142
     },
     {
       "name": "reconvergence_controls.json",
@@ -2540,6 +2575,11 @@
       "name": "verify_inverse_reductions.py",
       "sha256": "510c9532beead57d68a59fd708ac247dded647791eb7f4fdbeacea28303a1068",
       "bytes": 2456
+    },
+    {
+      "name": "verify_joint_feedback.py",
+      "sha256": "e76babbda5896ccf9c268299cfa15401baa686045a7b773aed375c7cfedd41c8",
+      "bytes": 8275
     },
     {
       "name": "verify_mead_return_certificate.py",

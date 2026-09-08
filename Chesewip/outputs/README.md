@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `sparse-completion-findings.md`. Partial two-map recovery now completes the three rich generated keys with 200 or 250 equality comparisons instead of 1,000. In the nonlinear fixtures, the correct missing-label completion uses 27 input values; every wrong feedback-consistent completion needs at least 37 or 50. Independent exhaustive verification and ablations passed. Eye data and Eye-length controls remain outside the search budget; no Eye key.
+Latest: see `joint-feedback-findings.md`. A local alphabet-cap filter recovers all three Eye-length generated keys when 43 key entries are supplied, starting with only 24 or 25 known input values and using no repeated-passage assumptions. Independent deletion certificates and held-out checks pass. With 27 supplied entries it stalls; all blind simultaneous-solver controls time out. Assisted recovery only; no Eye key.
+
+Previous: see `sparse-completion-findings.md`. Partial two-map recovery now completes the three rich generated keys with 200 or 250 equality comparisons instead of 1,000. In the nonlinear fixtures, the correct missing-label completion uses 27 input values; every wrong feedback-consistent completion needs at least 37 or 50. Independent exhaustive verification and ablations passed. Eye data and Eye-length controls remain outside the search budget; no Eye key.
 
 Previous: see `frozen-candidate-findings.md`. Candidate generation now tests three explicit unknown-map feedback rules with later messages withheld from fitting. Blind permutation searches fail controls; a separate two-map method recovers the correct rule and compatible key in three richer generated examples, all passing frozen held-out codebooks. The Eye early maps remain underdetermined (rank 45 of 166); no qualifying Eye candidate. Independent verification passed.
 
@@ -53,6 +55,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_joint_feedback.py
 python verify_sparse_completion.py
 python verify_frozen_candidates.py
 python verify_equality_sensitivity.py

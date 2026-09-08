@@ -1,0 +1,348 @@
+{
+  "status": "Independent candidates, cap guards and propagation certificates passed; no Eye key.",
+  "source_hashes": {
+    "frozen_candidate_search.json": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+    "joint_feedback_constraints.json": "466a671f28da53d8f078a33c143418665dfbe04aaa93fb8bcb68b59c6d46653e",
+    "joint_feedback_guards.json": "89e05817f31f4451d796d11e2d852d536e0516c020628c6023ddd94c0333c802",
+    "propagate_feedback_domains.json": "885bcc7fcf1e9a4d1067b9aa9aa196a91ec445d85bd0f2d0d36d1669bfe952ff"
+  },
+  "controls": [
+    {
+      "name": "add",
+      "seed": 909800,
+      "joint_runs": [
+        {
+          "hidden_labels": 0,
+          "status": "sat",
+          "truth_matches": 83
+        },
+        {
+          "hidden_labels": 8,
+          "status": "sat",
+          "truth_matches": 83
+        },
+        {
+          "hidden_labels": 24,
+          "status": "sat",
+          "truth_matches": 83
+        },
+        {
+          "hidden_labels": 83,
+          "status": "unknown",
+          "truth_matches": null
+        }
+      ],
+      "propagation": [
+        {
+          "initial_singletons": 75,
+          "final_singletons": 83,
+          "initial_code_values": 27,
+          "final_code_values": 27,
+          "deleted_values": 656,
+          "deletion_reasons": {
+            "used_value": 628,
+            "alphabet_cap": 28
+          },
+          "fully_recovered": true,
+          "hidden_labels": 8,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 22
+          }
+        },
+        {
+          "initial_singletons": 59,
+          "final_singletons": 83,
+          "initial_code_values": 25,
+          "final_code_values": 27,
+          "deleted_values": 1968,
+          "deletion_reasons": {
+            "used_value": 1636,
+            "alphabet_cap": 332
+          },
+          "fully_recovered": true,
+          "hidden_labels": 24,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 22
+          }
+        },
+        {
+          "initial_singletons": 44,
+          "final_singletons": 83,
+          "initial_code_values": 24,
+          "final_code_values": 27,
+          "deleted_values": 3198,
+          "deletion_reasons": {
+            "used_value": 2043,
+            "alphabet_cap": 1155
+          },
+          "fully_recovered": true,
+          "hidden_labels": 40,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 22
+          }
+        },
+        {
+          "initial_singletons": 29,
+          "final_singletons": 29,
+          "initial_code_values": 21,
+          "final_code_values": 21,
+          "deleted_values": 1739,
+          "deletion_reasons": {
+            "used_value": 1566,
+            "alphabet_cap": 173
+          },
+          "fully_recovered": false,
+          "hidden_labels": 56
+        },
+        {
+          "initial_singletons": 2,
+          "final_singletons": 2,
+          "initial_code_values": 0,
+          "final_code_values": 0,
+          "deleted_values": 162,
+          "deletion_reasons": {
+            "used_value": 162
+          },
+          "fully_recovered": false,
+          "hidden_labels": 83
+        }
+      ]
+    },
+    {
+      "name": "square",
+      "seed": 909801,
+      "joint_runs": [
+        {
+          "hidden_labels": 0,
+          "status": "sat",
+          "truth_matches": 83
+        },
+        {
+          "hidden_labels": 8,
+          "status": "sat",
+          "truth_matches": 83
+        },
+        {
+          "hidden_labels": 24,
+          "status": "unknown",
+          "truth_matches": null
+        },
+        {
+          "hidden_labels": 83,
+          "status": "unknown",
+          "truth_matches": null
+        }
+      ],
+      "propagation": [
+        {
+          "initial_singletons": 75,
+          "final_singletons": 83,
+          "initial_code_values": 26,
+          "final_code_values": 27,
+          "deleted_values": 656,
+          "deletion_reasons": {
+            "used_value": 625,
+            "alphabet_cap": 31
+          },
+          "fully_recovered": true,
+          "hidden_labels": 8,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 25
+          }
+        },
+        {
+          "initial_singletons": 59,
+          "final_singletons": 83,
+          "initial_code_values": 25,
+          "final_code_values": 27,
+          "deleted_values": 1968,
+          "deletion_reasons": {
+            "used_value": 1614,
+            "alphabet_cap": 354
+          },
+          "fully_recovered": true,
+          "hidden_labels": 24,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 25
+          }
+        },
+        {
+          "initial_singletons": 43,
+          "final_singletons": 83,
+          "initial_code_values": 25,
+          "final_code_values": 27,
+          "deleted_values": 3280,
+          "deletion_reasons": {
+            "used_value": 2219,
+            "alphabet_cap": 1061
+          },
+          "fully_recovered": true,
+          "hidden_labels": 40,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 25
+          }
+        },
+        {
+          "initial_singletons": 27,
+          "final_singletons": 27,
+          "initial_code_values": 23,
+          "final_code_values": 23,
+          "deleted_values": 1997,
+          "deletion_reasons": {
+            "used_value": 1512,
+            "alphabet_cap": 485
+          },
+          "fully_recovered": false,
+          "hidden_labels": 56
+        },
+        {
+          "initial_singletons": 0,
+          "final_singletons": 0,
+          "initial_code_values": 0,
+          "final_code_values": 0,
+          "deleted_values": 0,
+          "deletion_reasons": {},
+          "fully_recovered": false,
+          "hidden_labels": 83
+        }
+      ]
+    },
+    {
+      "name": "inverse",
+      "seed": 909802,
+      "joint_runs": [
+        {
+          "hidden_labels": 0,
+          "status": "sat",
+          "truth_matches": 83
+        },
+        {
+          "hidden_labels": 8,
+          "status": "sat",
+          "truth_matches": 83
+        },
+        {
+          "hidden_labels": 24,
+          "status": "unknown",
+          "truth_matches": null
+        },
+        {
+          "hidden_labels": 83,
+          "status": "unknown",
+          "truth_matches": null
+        }
+      ],
+      "propagation": [
+        {
+          "initial_singletons": 75,
+          "final_singletons": 83,
+          "initial_code_values": 27,
+          "final_code_values": 27,
+          "deleted_values": 656,
+          "deletion_reasons": {
+            "used_value": 628,
+            "alphabet_cap": 28
+          },
+          "fully_recovered": true,
+          "hidden_labels": 8,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 22
+          }
+        },
+        {
+          "initial_singletons": 59,
+          "final_singletons": 83,
+          "initial_code_values": 25,
+          "final_code_values": 27,
+          "deleted_values": 1968,
+          "deletion_reasons": {
+            "used_value": 1670,
+            "alphabet_cap": 298
+          },
+          "fully_recovered": true,
+          "hidden_labels": 24,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 22
+          }
+        },
+        {
+          "initial_singletons": 43,
+          "final_singletons": 83,
+          "initial_code_values": 25,
+          "final_code_values": 27,
+          "deleted_values": 3280,
+          "deletion_reasons": {
+            "used_value": 2279,
+            "alphabet_cap": 1001
+          },
+          "fully_recovered": true,
+          "hidden_labels": 40,
+          "heldout": {
+            "outside_frozen_codebook": 0,
+            "transitions": 347,
+            "late_pair_mismatches": 0,
+            "late_comparisons": 54,
+            "distinct_residuals": 22
+          }
+        },
+        {
+          "initial_singletons": 27,
+          "final_singletons": 27,
+          "initial_code_values": 24,
+          "final_code_values": 24,
+          "deleted_values": 2458,
+          "deletion_reasons": {
+            "used_value": 1512,
+            "alphabet_cap": 946
+          },
+          "fully_recovered": false,
+          "hidden_labels": 56
+        },
+        {
+          "initial_singletons": 0,
+          "final_singletons": 0,
+          "initial_code_values": 0,
+          "final_code_values": 0,
+          "deleted_values": 0,
+          "deletion_reasons": {},
+          "fully_recovered": false,
+          "hidden_labels": 83
+        }
+      ]
+    }
+  ],
+  "reencrypted_symbols": 3081,
+  "bitvector_residue_pairs_checked": 6889
+}

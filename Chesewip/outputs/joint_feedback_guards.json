@@ -1,0 +1,27 @@
+{
+  "executed_date": "2026-09-08",
+  "source_sha256": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+  "guards": [
+    {
+      "seed": 909800,
+      "name": "add",
+      "all_key_entries_pinned": true,
+      "cap": 26,
+      "status": "unsat"
+    },
+    {
+      "seed": 909801,
+      "name": "square",
+      "all_key_entries_pinned": true,
+      "cap": 26,
+      "status": "unsat"
+    },
+    {
+      "seed": 909802,
+      "name": "inverse",
+      "all_key_entries_pinned": true,
+      "cap": 26,
+      "status": "unsat"
+    }
+  ]
+}
