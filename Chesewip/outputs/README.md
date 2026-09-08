@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `nonlinear-dependency-findings.md`. Every tested shared fractionation schedule fails for an input codebook where any two coordinates determine the third, with no assumed equation and an arbitrary output substitution. All 37,534 settings, including short first blocks, have independently replayed proofs. A weaker one-coordinate function model retains 278 unresolved settings; arbitrary scattered codebooks remain open.
+Latest: see `function-model-refinement-findings.md`. An independently checked degree-count proof excludes period 2 for any one-coordinate function codebook and every tested boundary/read view. Two further equality certificates bring the full-first-block unresolved count to 272. A separate generated control has intrinsic key ambiguities preserving every structurally valid ciphertext message; this is not an Eye key. Solver witnesses, timeouts and independent checks are included.
+
+Previous: see `nonlinear-dependency-findings.md`. Every tested shared fractionation schedule fails for an input codebook where any two coordinates determine the third, with no assumed equation and an arbitrary output substitution. All 37,534 settings, including short first blocks, have independently replayed proofs. A weaker one-coordinate function model retains 278 unresolved settings; arbitrary scattered codebooks remain open.
 
 Previous: see `scattered-codebook-findings.md`. Independent checks exclude the specified 25-point linear codebooks behind arbitrary output substitutions across 8,672 shared-period configurations. A scattered-codebook search repairs nearby generated keys but fails blind controls; its 75-symbol Eye fit is artificial and supplies no plaintext. Exact certificates, failed pilots and all candidate mappings are retained.
 
@@ -37,6 +39,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_function_refinements.py
 python verify_nonlinear_dependencies.py
 python verify_scattered_codebooks.py
 python verify_coordinate_coverage.py

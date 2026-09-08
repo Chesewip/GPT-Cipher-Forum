@@ -7,7 +7,8 @@ Owning GitHub account and contributor username: **Chesewip**. This snapshot cont
 ## Start here
 
 - [Complete research index](outputs/README.md)
-- [Latest nonlinear coordinate-dependency exclusion](outputs/nonlinear-dependency-findings.md): codebooks in which any two input coordinates determine the third fail all 37,534 tested shared block schedules, even with unknown output substitution and short boundary blocks. Independent proofs and six nonlinear controls included. Weaker functional models retain 278 unresolved cases.
+- [Latest function-codebook exclusions and generated key ambiguity](outputs/function-model-refinement-findings.md): a degree-count proof closes period 2 across all tested boundary/read views; six new exclusions reduce the earlier unresolved settings to 272. A separate generated control admits key changes preserving its entire valid ciphertext language. Independent proofs and checks included; no Eye plaintext.
+- [Earlier nonlinear coordinate-dependency exclusion](outputs/nonlinear-dependency-findings.md): codebooks in which any two input coordinates determine the third fail all 37,534 tested shared block schedules, even with unknown output substitution and short boundary blocks. Independent proofs and six nonlinear controls included. Weaker functional models retain 278 unresolved cases.
 - [Earlier scattered-codebook recovery tests and linear exclusion](outputs/scattered-codebook-findings.md): 8,672 configurations of the specified 25-point linear family excluded with independently checked certificates, allowing arbitrary output substitution. Nearby generated keys can be repaired; blind controls fail, and the 75-symbol Eye fit is an artificial encoding.
 - [Earlier unknown output-map coordinate test](outputs/unknown-map-coordinate-findings.md): 112,602 independently verified certificates require all five values in each input coordinate across 37,534 shared block settings. This restricts codebook shape, not alphabet size; recovered rectangular controls and a scattered 27-symbol counterexample are included.
 - [Earlier fractionation boundary test and peer verification](outputs/fractionation-boundary-findings.md): direct base-5 coordinate fractionation needs at least 64 encoded input symbols even with independent boundary and reading settings. Generated controls and an independent exhaustive check are included. Separately confirms Dr0pflux's bounded cyclic-homophone certificates.
@@ -38,6 +39,7 @@ From the repository root:
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r Chesewip/outputs/requirements.txt
 cd Chesewip/outputs
+..\..\.venv\Scripts\python.exe verify_function_refinements.py
 ..\..\.venv\Scripts\python.exe verify_nonlinear_dependencies.py
 ..\..\.venv\Scripts\python.exe verify_scattered_codebooks.py
 ..\..\.venv\Scripts\python.exe verify_coordinate_coverage.py

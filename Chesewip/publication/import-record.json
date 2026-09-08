@@ -388,6 +388,12 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/checked_function_refinements.json",
+      "source_sha256": "d3cb031dcb2594e15e672503245ff2f0c127e07d8634da0f131364d6eeebd8f4",
+      "published_sha256": "d3cb031dcb2594e15e672503245ff2f0c127e07d8634da0f131364d6eeebd8f4",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/checked_header_reachability.json",
       "source_sha256": "c508ab883ae7eccdffacc943c7b941cf24ee0d711c6f7213ed102c88c53ec462",
       "published_sha256": "c508ab883ae7eccdffacc943c7b941cf24ee0d711c6f7213ed102c88c53ec462",
@@ -1168,6 +1174,72 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/function-model-refinement-findings.md",
+      "source_sha256": "881025a5aca5b62b61fc6c5677bc7781612a9a68303edf345ddeb42ae60b146a",
+      "published_sha256": "881025a5aca5b62b61fc6c5677bc7781612a9a68303edf345ddeb42ae60b146a",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_dependency_refinement.py",
+      "source_sha256": "a2cb69472428ac2da0abedffdd426488d928d4c69c68cbef3d16090e995a49e3",
+      "published_sha256": "a2cb69472428ac2da0abedffdd426488d928d4c69c68cbef3d16090e995a49e3",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_dependency_refinement_16.json",
+      "source_sha256": "31249a3d40af603b06ac471ac43852a33fbeee14d03b4d938dfdbb429db17f4c",
+      "published_sha256": "31249a3d40af603b06ac471ac43852a33fbeee14d03b4d938dfdbb429db17f4c",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_graph_automorphisms.json",
+      "source_sha256": "3335f075ca08934ad7b2f012853b66d8ca9c4bcbfe97100d3d9a7000aafdba97",
+      "published_sha256": "3335f075ca08934ad7b2f012853b66d8ca9c4bcbfe97100d3d9a7000aafdba97",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_graph_automorphisms.py",
+      "source_sha256": "28fccfa3ab681659885d20330cbe234838d92407b44b41c0c53b4fc9fd488a93",
+      "published_sha256": "28fccfa3ab681659885d20330cbe234838d92407b44b41c0c53b4fc9fd488a93",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_key_ambiguity.json",
+      "source_sha256": "02d36596770a9f0e3a287309ed822da372e06cf415a64544b23c0f280fa5319f",
+      "published_sha256": "02d36596770a9f0e3a287309ed822da372e06cf415a64544b23c0f280fa5319f",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_key_ambiguity.py",
+      "source_sha256": "9540a8cd357753899cc3cd1055cfe7a4b79da7550a376093cca1a84ef9bc1ff4",
+      "published_sha256": "9540a8cd357753899cc3cd1055cfe7a4b79da7550a376093cca1a84ef9bc1ff4",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_table_boolean_pilot.json",
+      "source_sha256": "dddb604e6235398acc9e15df04d80226e708994d701ea535ca4fb7c088fed321",
+      "published_sha256": "dddb604e6235398acc9e15df04d80226e708994d701ea535ca4fb7c088fed321",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_table_boolean_solver.py",
+      "source_sha256": "bb6224a2371101a05426efde9dc2091e90c8fa1bbe250b619e8d8e871bfc3178",
+      "published_sha256": "bb6224a2371101a05426efde9dc2091e90c8fa1bbe250b619e8d8e871bfc3178",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_table_solver.py",
+      "source_sha256": "4d8ffe2d9b708180d82fc73dca735b9a8d3654fbf2de226e0b53942887016d9a",
+      "published_sha256": "4d8ffe2d9b708180d82fc73dca735b9a8d3654fbf2de226e0b53942887016d9a",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/function_table_solver_pilot.json",
+      "source_sha256": "ec90bc6c915b6c921df3dea18eea8f53306094b6ab04089a423aa8bf2ddde744",
+      "published_sha256": "ec90bc6c915b6c921df3dea18eea8f53306094b6ab04089a423aa8bf2ddde744",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/further-exploration.md",
       "source_sha256": "4456df76e101b0585c416f9f2e91a105ba638fd117842af4dbb93625842bf2a5",
       "published_sha256": "4456df76e101b0585c416f9f2e91a105ba638fd117842af4dbb93625842bf2a5",
@@ -1732,6 +1804,18 @@
       "publication_action": "byte-for-byte copy"
     },
     {
+      "path": "outputs/period_two_degree_certificate.json",
+      "source_sha256": "078379865079c681976086589ca67327c9f5f630443a52d7325e7048846ba55b",
+      "published_sha256": "078379865079c681976086589ca67327c9f5f630443a52d7325e7048846ba55b",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/period_two_degree_certificate.py",
+      "source_sha256": "b8b8e7a8dc03b7d2f45e87dcadf002fee663eb1e0bc355551b2afcea2e2d2de5",
+      "published_sha256": "b8b8e7a8dc03b7d2f45e87dcadf002fee663eb1e0bc355551b2afcea2e2d2de5",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
       "path": "outputs/permutation_action_fold.json",
       "source_sha256": "12f580dc83ce63da4ff80b8c0cf98a782daba2ba5d92c2b62dec285128250f5b",
       "published_sha256": "12f580dc83ce63da4ff80b8c0cf98a782daba2ba5d92c2b62dec285128250f5b",
@@ -1847,8 +1931,8 @@
     },
     {
       "path": "outputs/README.md",
-      "source_sha256": "31ad7f2ddfa8e061c4d3ffe4f52f18abab4d65764cb1b1dc5cadc466ec2a032a",
-      "published_sha256": "31ad7f2ddfa8e061c4d3ffe4f52f18abab4d65764cb1b1dc5cadc466ec2a032a",
+      "source_sha256": "e4df775d671fedb7adb2efa30ee8ee96ba2f1bc1757944501432570fa24f61e4",
+      "published_sha256": "e4df775d671fedb7adb2efa30ee8ee96ba2f1bc1757944501432570fa24f61e4",
       "publication_action": "byte-for-byte copy"
     },
     {
@@ -2677,6 +2761,12 @@
       "path": "outputs/verify_fractionation_boundary.py",
       "source_sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a",
       "published_sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a",
+      "publication_action": "byte-for-byte copy"
+    },
+    {
+      "path": "outputs/verify_function_refinements.py",
+      "source_sha256": "4616b90d4ecb1e6250cfe93fb101aa1ae4c164df9bf517f20ce21aea7f21902a",
+      "published_sha256": "4616b90d4ecb1e6250cfe93fb101aa1ae4c164df9bf517f20ce21aea7f21902a",
       "publication_action": "byte-for-byte copy"
     },
     {

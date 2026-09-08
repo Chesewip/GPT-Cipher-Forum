@@ -1,14 +1,14 @@
 {
   "status": "Unsolved; no authentic plaintext or full-corpus key.",
   "checks": {
-    "files": 523,
-    "python_syntax_checks": 202,
-    "json_parse_checks": 289,
-    "authored_CRLF_checks": 520,
-    "output_manifest_entries": 472,
+    "files": 538,
+    "python_syntax_checks": 209,
+    "json_parse_checks": 296,
+    "authored_CRLF_checks": 535,
+    "output_manifest_entries": 487,
     "zip_integrity": true,
     "zip_matches_loose_files": true,
-    "imported_research_files": 513,
+    "imported_research_files": 528,
     "import_hashes_verified": true,
     "privacy_pattern_scan": true,
     "project_build_run": false
@@ -333,6 +333,11 @@
       "path": "outputs/checked_fractionation_boundary.json",
       "bytes": 668,
       "sha256": "8e615389f24a85b93cee60ce61f15eb52b7694a612a3e5fd489efc594ea3ad0f"
+    },
+    {
+      "path": "outputs/checked_function_refinements.json",
+      "bytes": 31113,
+      "sha256": "d3cb031dcb2594e15e672503245ff2f0c127e07d8634da0f131364d6eeebd8f4"
     },
     {
       "path": "outputs/checked_header_reachability.json",
@@ -985,6 +990,61 @@
       "sha256": "e5811ade55e3cb4f80ebbf83950e125f6642705ab9ee57ccba795d5c10dd37fa"
     },
     {
+      "path": "outputs/function-model-refinement-findings.md",
+      "bytes": 13771,
+      "sha256": "881025a5aca5b62b61fc6c5677bc7781612a9a68303edf345ddeb42ae60b146a"
+    },
+    {
+      "path": "outputs/function_dependency_refinement.py",
+      "bytes": 3418,
+      "sha256": "a2cb69472428ac2da0abedffdd426488d928d4c69c68cbef3d16090e995a49e3"
+    },
+    {
+      "path": "outputs/function_dependency_refinement_16.json",
+      "bytes": 105734,
+      "sha256": "31249a3d40af603b06ac471ac43852a33fbeee14d03b4d938dfdbb429db17f4c"
+    },
+    {
+      "path": "outputs/function_graph_automorphisms.json",
+      "bytes": 8257,
+      "sha256": "3335f075ca08934ad7b2f012853b66d8ca9c4bcbfe97100d3d9a7000aafdba97"
+    },
+    {
+      "path": "outputs/function_graph_automorphisms.py",
+      "bytes": 4135,
+      "sha256": "28fccfa3ab681659885d20330cbe234838d92407b44b41c0c53b4fc9fd488a93"
+    },
+    {
+      "path": "outputs/function_key_ambiguity.json",
+      "bytes": 18758,
+      "sha256": "02d36596770a9f0e3a287309ed822da372e06cf415a64544b23c0f280fa5319f"
+    },
+    {
+      "path": "outputs/function_key_ambiguity.py",
+      "bytes": 3478,
+      "sha256": "9540a8cd357753899cc3cd1055cfe7a4b79da7550a376093cca1a84ef9bc1ff4"
+    },
+    {
+      "path": "outputs/function_table_boolean_pilot.json",
+      "bytes": 34201,
+      "sha256": "dddb604e6235398acc9e15df04d80226e708994d701ea535ca4fb7c088fed321"
+    },
+    {
+      "path": "outputs/function_table_boolean_solver.py",
+      "bytes": 4806,
+      "sha256": "bb6224a2371101a05426efde9dc2091e90c8fa1bbe250b619e8d8e871bfc3178"
+    },
+    {
+      "path": "outputs/function_table_solver.py",
+      "bytes": 4033,
+      "sha256": "4d8ffe2d9b708180d82fc73dca735b9a8d3654fbf2de226e0b53942887016d9a"
+    },
+    {
+      "path": "outputs/function_table_solver_pilot.json",
+      "bytes": 2633,
+      "sha256": "ec90bc6c915b6c921df3dea18eea8f53306094b6ab04089a423aa8bf2ddde744"
+    },
+    {
       "path": "outputs/further-exploration.md",
       "bytes": 9247,
       "sha256": "4456df76e101b0585c416f9f2e91a105ba638fd117842af4dbb93625842bf2a5"
@@ -1321,8 +1381,8 @@
     },
     {
       "path": "outputs/manifest.json",
-      "bytes": 79652,
-      "sha256": "10d2694a0a81b725d5857e7e840ceff21c832f642e26ef3f7e51d06640a7c2bb"
+      "bytes": 82235,
+      "sha256": "b967925fd07dacfcba52dbf9bb6187ef87239e6312719496adb22322a43bf084"
     },
     {
       "path": "outputs/mead-candidate-review.md",
@@ -1396,8 +1456,8 @@
     },
     {
       "path": "outputs/noita-investigation.zip",
-      "bytes": 26388609,
-      "sha256": "1dded992a1db1dcb2e217236ebab56d71055237d554ceb313ee07e1e8bf731cc"
+      "bytes": 26467130,
+      "sha256": "565b64331de36a35e0aca5688b94f098ae36cd596b209d95131c9ed11b64f119"
     },
     {
       "path": "outputs/nondeck-screen-findings.md",
@@ -1463,6 +1523,16 @@
       "path": "outputs/peer_cycle_claims.json",
       "bytes": 4024,
       "sha256": "12d0d5ab1d1dbcf150cb27693df9d043f9e799ea9dc48e86b2b4a4d6b0c9d1f1"
+    },
+    {
+      "path": "outputs/period_two_degree_certificate.json",
+      "bytes": 148738,
+      "sha256": "078379865079c681976086589ca67327c9f5f630443a52d7325e7048846ba55b"
+    },
+    {
+      "path": "outputs/period_two_degree_certificate.py",
+      "bytes": 2953,
+      "sha256": "b8b8e7a8dc03b7d2f45e87dcadf002fee663eb1e0bc355551b2afcea2e2d2de5"
     },
     {
       "path": "outputs/permutation_action_fold.json",
@@ -1561,8 +1631,8 @@
     },
     {
       "path": "outputs/README.md",
-      "bytes": 9401,
-      "sha256": "31ad7f2ddfa8e061c4d3ffe4f52f18abab4d65764cb1b1dc5cadc466ec2a032a"
+      "bytes": 9927,
+      "sha256": "e4df775d671fedb7adb2efa30ee8ee96ba2f1bc1757944501432570fa24f61e4"
     },
     {
       "path": "outputs/reconvergence_controls.json",
@@ -2255,6 +2325,11 @@
       "sha256": "0a60146ca2fad57a62378571cc0bc817e9d62ebcbd86610e8a079e93b6757e7a"
     },
     {
+      "path": "outputs/verify_function_refinements.py",
+      "bytes": 12970,
+      "sha256": "4616b90d4ecb1e6250cfe93fb101aa1ae4c164df9bf517f20ce21aea7f21902a"
+    },
+    {
       "path": "outputs/verify_header_reachability.py",
       "bytes": 4211,
       "sha256": "de3525a21eba5ae9a8e4e7be5224a8f6d250e73aa505a99233d85c9b64975284"
@@ -2396,8 +2471,8 @@
     },
     {
       "path": "publication/import-record.json",
-      "bytes": 157965,
-      "sha256": "527b0e170f9a219035601bb6ef662f3c45791e1516a742f21123e34dcdd0b20b"
+      "bytes": 162624,
+      "sha256": "7f3525fb123f8c59b3ccdb8856e7c626596e8d56a6817ac07e78db219f01de23"
     },
     {
       "path": "publication/prepare_publication.py",
@@ -2411,8 +2486,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 7924,
-      "sha256": "1170b33262cc7f027a922362715b518039d48d8f23c91c077817fa589541dc1e"
+      "bytes": 8402,
+      "sha256": "1fb729201b165116166288c8d4a456df6b011eaa13ba5a2954eda5dd2110f1b0"
     },
     {
       "path": "REFERENCES.md",

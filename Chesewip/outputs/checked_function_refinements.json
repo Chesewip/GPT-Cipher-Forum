@@ -1,0 +1,1697 @@
+{
+  "status": "Independent checks passed; Eye cipher unsolved.",
+  "ciphertext_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+  "degree_certificate": {
+    "excluded_settings": 24,
+    "views": 8,
+    "row_profiles_per_view": 16807,
+    "generated_controls": 3
+  },
+  "graph_refinement": {
+    "new_exclusions": [
+      [
+        1,
+        32,
+        false,
+        true
+      ],
+      [
+        1,
+        113,
+        true,
+        true
+      ]
+    ],
+    "checked_branches": 30,
+    "checked_implications": 4359
+  },
+  "remaining_full_first_block_cases": [
+    {
+      "axis": 0,
+      "period": 8,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 13,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 14,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 14,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 14,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 25,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 26,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 28,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 32,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 34,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 35,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 37,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 37,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 38,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 41,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 41,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 44,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 46,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 46,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 47,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 47,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 47,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 49,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 49,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 49,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 50,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 50,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 50,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 52,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 52,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 53,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 53,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 55,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 56,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 58,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 59,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 61,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 64,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 64,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 65,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 65,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 65,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 67,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 67,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 68,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 70,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 70,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 70,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 71,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 71,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 71,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 73,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 74,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 74,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 74,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 76,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 76,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 77,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 77,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 77,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 79,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 79,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 79,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 80,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 91,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 94,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 94,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 95,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 95,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 100,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 103,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 104,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 104,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 107,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 109,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 110,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 110,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 112,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 112,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 112,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 113,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 113,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 115,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 115,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 116,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 116,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 118,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 118,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 119,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 0,
+      "period": 119,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 120,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 121,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 0,
+      "period": 122,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 4,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 7,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 7,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 8,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 8,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 16,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 17,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 23,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 31,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 31,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 34,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 35,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 35,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 37,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 38,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 52,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 53,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 55,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 58,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 59,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 62,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 62,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 64,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 68,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 68,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 70,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 71,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 71,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 74,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 76,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 76,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 77,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 77,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 79,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 79,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 80,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 82,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 83,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 85,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 88,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 88,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 89,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 92,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 94,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 94,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 95,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 95,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 100,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 100,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 103,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 103,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 103,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 104,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 104,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 104,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 106,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 106,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 106,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 107,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 107,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 109,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 109,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 109,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 109,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 110,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 110,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 112,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 112,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 112,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 113,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 113,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 113,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 115,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 115,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 115,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 115,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 116,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 116,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 118,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 118,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 118,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 118,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 119,
+      "strip_first": false,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 119,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 119,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 119,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 120,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 120,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 121,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 121,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 1,
+      "period": 122,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 1,
+      "period": 122,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 16,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 16,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 19,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 20,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 25,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 25,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 26,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 29,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 32,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 32,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 34,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 34,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 35,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 35,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 43,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 43,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 44,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 44,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 46,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 52,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 53,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 55,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 56,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 56,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 58,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 59,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 59,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 61,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 62,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 62,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 64,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 64,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 65,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 65,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 67,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 67,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 68,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 70,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 70,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 71,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 73,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 76,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 76,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 77,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 77,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 79,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 79,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 80,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 83,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 83,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 85,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 86,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 88,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 89,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 91,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 91,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 97,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 97,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 98,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 98,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 100,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 100,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 101,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 101,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 103,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 103,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 104,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 104,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 106,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 107,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 109,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 109,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 110,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 112,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 112,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 113,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 115,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 115,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 2,
+      "period": 115,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 116,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 116,
+      "strip_first": true,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 118,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 2,
+      "period": 119,
+      "strip_first": false,
+      "reverse": true
+    },
+    {
+      "axis": 2,
+      "period": 119,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 2,
+      "period": 120,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 2,
+      "period": 121,
+      "strip_first": true,
+      "reverse": false
+    },
+    {
+      "axis": 2,
+      "period": 122,
+      "strip_first": true,
+      "reverse": false
+    }
+  ],
+  "known_table_solver_witnesses": [
+    {
+      "seed": 908210,
+      "observed_labels": 123,
+      "matching_key_entries": 79,
+      "changed_plaintext_positions": 236
+    },
+    {
+      "seed": 908211,
+      "observed_labels": 125,
+      "matching_key_entries": 125,
+      "changed_plaintext_positions": 0
+    }
+  ],
+  "inconclusive_solver_runs": 9,
+  "generated_global_ambiguity": {
+    "seed": 908210,
+    "sample_swaps_checked": 7749,
+    "valid_nonrenaming_sample_swaps": 77,
+    "selected_changed_sample_positions": 43,
+    "all_pair_memberships_checked": 15625,
+    "changed_valid_plaintext_blocks": 42,
+    "live_twin_classes": 21,
+    "live_key_permutation_lower_bound": "3522410053632"
+  },
+  "source_hashes": {
+    "ciphertext.json": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+    "one_coordinate_function_screen.json": "f7b9be714539ef7012c2294adbb51ae3ca957bce84ac77588958a44096b7f2b7",
+    "period_two_degree_certificate.json": "078379865079c681976086589ca67327c9f5f630443a52d7325e7048846ba55b",
+    "function_dependency_refinement_16.json": "31249a3d40af603b06ac471ac43852a33fbeee14d03b4d938dfdbb429db17f4c",
+    "function_table_solver_pilot.json": "ec90bc6c915b6c921df3dea18eea8f53306094b6ab04089a423aa8bf2ddde744",
+    "function_table_boolean_pilot.json": "dddb604e6235398acc9e15df04d80226e708994d701ea535ca4fb7c088fed321",
+    "function_key_ambiguity.json": "02d36596770a9f0e3a287309ed822da372e06cf415a64544b23c0f280fa5319f",
+    "function_graph_automorphisms.json": "3335f075ca08934ad7b2f012853b66d8ca9c4bcbfe97100d3d9a7000aafdba97"
+  }
+}

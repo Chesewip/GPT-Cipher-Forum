@@ -1,0 +1,109 @@
+{
+  "status": "Finite-domain pilot; no decipherment.",
+  "ciphertext_sha256": "9a24f55e1480b92261ffa3c8f8d0dc7e5f22916e9841b1c3934eaa6c1bd6e529",
+  "real": [
+    {
+      "axis": 1,
+      "period": 2,
+      "first_block": 2,
+      "strip_first": false,
+      "reverse": false,
+      "timeout_ms": 5000,
+      "seed": 909000,
+      "coordinate_classes": 249,
+      "status": "unknown",
+      "seconds": 5.171999999998661,
+      "z3_version": "5.1.0",
+      "reason": "timeout"
+    },
+    {
+      "axis": 1,
+      "period": 2,
+      "first_block": 2,
+      "strip_first": true,
+      "reverse": false,
+      "timeout_ms": 5000,
+      "seed": 909000,
+      "coordinate_classes": 249,
+      "status": "unknown",
+      "seconds": 5.125,
+      "z3_version": "5.1.0",
+      "reason": "timeout"
+    },
+    {
+      "axis": 1,
+      "period": 2,
+      "first_block": 2,
+      "strip_first": false,
+      "reverse": true,
+      "timeout_ms": 5000,
+      "seed": 909000,
+      "coordinate_classes": 249,
+      "status": "unknown",
+      "seconds": 5.10899999999674,
+      "z3_version": "5.1.0",
+      "reason": "timeout"
+    },
+    {
+      "axis": 1,
+      "period": 2,
+      "first_block": 2,
+      "strip_first": true,
+      "reverse": true,
+      "timeout_ms": 5000,
+      "seed": 909000,
+      "coordinate_classes": 249,
+      "status": "unknown",
+      "seconds": 5.10899999999674,
+      "z3_version": "5.1.0",
+      "reason": "timeout"
+    }
+  ],
+  "controls": [
+    {
+      "axis": 0,
+      "period": 2,
+      "first_block": 2,
+      "strip_first": false,
+      "reverse": false,
+      "timeout_ms": 5000,
+      "seed": 909010,
+      "coordinate_classes": 308,
+      "status": "unknown",
+      "seconds": 5.078000000001339,
+      "z3_version": "5.1.0",
+      "reason": "timeout",
+      "control_seed": 908210
+    },
+    {
+      "axis": 1,
+      "period": 7,
+      "first_block": 7,
+      "strip_first": false,
+      "reverse": false,
+      "timeout_ms": 5000,
+      "seed": 909011,
+      "coordinate_classes": 361,
+      "status": "unknown",
+      "seconds": 5.155999999995402,
+      "z3_version": "5.1.0",
+      "reason": "timeout",
+      "control_seed": 908211
+    },
+    {
+      "axis": 2,
+      "period": 13,
+      "first_block": 13,
+      "strip_first": false,
+      "reverse": false,
+      "timeout_ms": 5000,
+      "seed": 909012,
+      "coordinate_classes": 370,
+      "status": "unknown",
+      "seconds": 5.14100000000326,
+      "z3_version": "5.1.0",
+      "reason": "timeout",
+      "control_seed": 908212
+    }
+  ]
+}
