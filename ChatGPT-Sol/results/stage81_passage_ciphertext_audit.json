@@ -1,0 +1,288 @@
+{
+  "status": "ciphertext observation / assumption audit; no plaintext recovered",
+  "dataset": "/mnt/data/noita_stage78/ciphertext_stage78.json",
+  "coordinate_convention": "zero-based raw message positions including header at 0",
+  "registered_assumptions": [
+    {
+      "label": "within W1",
+      "source": [
+        "W1",
+        37,
+        52
+      ],
+      "target": [
+        "W1",
+        67,
+        82
+      ],
+      "length": 15,
+      "literal_ciphertext_equal": false,
+      "equality_signatures_equal": true,
+      "partial_bijection_exists": true,
+      "distinct_source_labels": 11,
+      "distinct_target_labels": 11,
+      "mapping_size": 11,
+      "signature": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        5,
+        8,
+        3,
+        7,
+        9,
+        4,
+        10
+      ]
+    },
+    {
+      "label": "within E2",
+      "source": [
+        "E2",
+        42,
+        57
+      ],
+      "target": [
+        "E2",
+        77,
+        92
+      ],
+      "length": 15,
+      "literal_ciphertext_equal": false,
+      "equality_signatures_equal": true,
+      "partial_bijection_exists": true,
+      "distinct_source_labels": 11,
+      "distinct_target_labels": 11,
+      "mapping_size": 11,
+      "signature": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        5,
+        8,
+        3,
+        7,
+        9,
+        4,
+        10
+      ]
+    },
+    {
+      "label": "short within E1",
+      "source": [
+        "E1",
+        43,
+        49
+      ],
+      "target": [
+        "E1",
+        71,
+        77
+      ],
+      "length": 6,
+      "literal_ciphertext_equal": false,
+      "equality_signatures_equal": true,
+      "partial_bijection_exists": true,
+      "distinct_source_labels": 5,
+      "distinct_target_labels": 5,
+      "mapping_size": 5,
+      "signature": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        1
+      ]
+    },
+    {
+      "label": "cross W1/E2-a",
+      "source": [
+        "W1",
+        37,
+        52
+      ],
+      "target": [
+        "E2",
+        42,
+        57
+      ],
+      "length": 15,
+      "literal_ciphertext_equal": false,
+      "equality_signatures_equal": true,
+      "partial_bijection_exists": true,
+      "distinct_source_labels": 11,
+      "distinct_target_labels": 11,
+      "mapping_size": 11,
+      "signature": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        5,
+        8,
+        3,
+        7,
+        9,
+        4,
+        10
+      ]
+    },
+    {
+      "label": "cross W1/E2-b",
+      "source": [
+        "W1",
+        37,
+        52
+      ],
+      "target": [
+        "E2",
+        77,
+        92
+      ],
+      "length": 15,
+      "literal_ciphertext_equal": false,
+      "equality_signatures_equal": true,
+      "partial_bijection_exists": true,
+      "distinct_source_labels": 11,
+      "distinct_target_labels": 11,
+      "mapping_size": 11,
+      "signature": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        5,
+        8,
+        3,
+        7,
+        9,
+        4,
+        10
+      ]
+    },
+    {
+      "label": "late E4/W4",
+      "source": [
+        "E4",
+        71,
+        98
+      ],
+      "target": [
+        "W4",
+        74,
+        101
+      ],
+      "length": 27,
+      "literal_ciphertext_equal": false,
+      "equality_signatures_equal": true,
+      "partial_bijection_exists": true,
+      "distinct_source_labels": 24,
+      "distinct_target_labels": 24,
+      "mapping_size": 24,
+      "signature": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        2,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        18,
+        22,
+        23,
+        12
+      ]
+    },
+    {
+      "label": "late E4/E5",
+      "source": [
+        "E4",
+        71,
+        98
+      ],
+      "target": [
+        "E5",
+        72,
+        99
+      ],
+      "length": 27,
+      "literal_ciphertext_equal": false,
+      "equality_signatures_equal": true,
+      "partial_bijection_exists": true,
+      "distinct_source_labels": 24,
+      "distinct_target_labels": 24,
+      "mapping_size": 24,
+      "signature": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        2,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        18,
+        22,
+        23,
+        12
+      ]
+    }
+  ],
+  "summary": {
+    "count": 7,
+    "literal_ciphertext_copies": 0,
+    "equality_isomorphs": 7,
+    "partial_bijections": 7
+  },
+  "scope": "The computation proves only ciphertext equality-pattern isomorphism. Repeated plaintext is a separate cipher-model assumption."
+}

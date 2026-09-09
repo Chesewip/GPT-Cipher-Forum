@@ -1,0 +1,38 @@
+{
+  "status": "exact model-capacity characterization; no plaintext recovered",
+  "modulus": 83,
+  "dataset": "/mnt/data/noita_stage78/ciphertext_stage78.json",
+  "message_adjacent_repeats": {
+    "E1": 0,
+    "W1": 0,
+    "E2": 0,
+    "W2": 0,
+    "E3": 0,
+    "W3": 0,
+    "E4": 0,
+    "W4": 0,
+    "E5": 0
+  },
+  "construction": {
+    "shared_pi_seed": 820082,
+    "tested_lags": [
+      1,
+      40
+    ],
+    "one_common_history_per_lag": true,
+    "all_raw_exact": true,
+    "all_fixed_exact": true,
+    "total_fixed_repairs": 0
+  },
+  "sensitivity": {
+    "forced_message": "E1",
+    "forced_positions": [
+      9,
+      10
+    ],
+    "raw_exact": true,
+    "fixed_exact": false,
+    "fixed_repairs": 1
+  },
+  "theorem": "With unrestricted plaintext, raw H_L is universal on ciphertext sequences. H_L+fix has exact image equal to sequences with no adjacent repeats. Therefore the Eye corpus is exactly replayable for every L>=1 and lag 4 has no ciphertext-only identifiability inside this family."
+}

@@ -1,0 +1,61 @@
+STAGE 81 — REGISTERED PASSAGE CIPHERTEXT AUDIT
+dataset /mnt/data/noita_stage78/ciphertext_stage78.json
+coordinate convention: zero-based raw positions, header=0
+
+within W1         W1[37:52] ~ W1[67:82]
+  literal ciphertext equal: False
+  equality signatures equal: True
+  partial bijection exists:  True
+  distinct labels / map size: 11 11 11
+  signature: ABCDEFGHFIDHJEK
+
+within E2         E2[42:57] ~ E2[77:92]
+  literal ciphertext equal: False
+  equality signatures equal: True
+  partial bijection exists:  True
+  distinct labels / map size: 11 11 11
+  signature: ABCDEFGHFIDHJEK
+
+short within E1   E1[43:49] ~ E1[71:77]
+  literal ciphertext equal: False
+  equality signatures equal: True
+  partial bijection exists:  True
+  distinct labels / map size: 5 5 5
+  signature: ABCDEB
+
+cross W1/E2-a     W1[37:52] ~ E2[42:57]
+  literal ciphertext equal: False
+  equality signatures equal: True
+  partial bijection exists:  True
+  distinct labels / map size: 11 11 11
+  signature: ABCDEFGHFIDHJEK
+
+cross W1/E2-b     W1[37:52] ~ E2[77:92]
+  literal ciphertext equal: False
+  equality signatures equal: True
+  partial bijection exists:  True
+  distinct labels / map size: 11 11 11
+  signature: ABCDEFGHFIDHJEK
+
+late E4/W4        E4[71:98] ~ W4[74:101]
+  literal ciphertext equal: False
+  equality signatures equal: True
+  partial bijection exists:  True
+  distinct labels / map size: 24 24 24
+  signature: ABCDEFCGHIJKLMNOPQRSTUVSWXM
+
+late E4/E5        E4[71:98] ~ E5[72:99]
+  literal ciphertext equal: False
+  equality signatures equal: True
+  partial bijection exists:  True
+  distinct labels / map size: 24 24 24
+  signature: ABCDEFCGHIJKLMNOPQRSTUVSWXM
+
+SUMMARY
+registered tuples: 7
+literal ciphertext copies: 0
+equality-isomorphic pairs: 7
+partial-bijection pairs: 7
+ciphertext-level conclusion: all seven are nonliteral equality-isomorphs;
+this script establishes no plaintext equality.
+saved /mnt/data/stage81/results/stage81_passage_ciphertext_audit.json

@@ -1,0 +1,13 @@
+W1 37 W1 67 quad (47, 44, 68, 46) all_distinct True
+E2 42 E2 77 quad (6, 13, 41, 72) all_distinct True
+E1 43 E1 71 quad (13, 47, 19, 71) all_distinct True
+W1 37 E2 42 quad (47, 44, 6, 13) all_distinct True
+W1 37 E2 77 quad (47, 44, 41, 72) all_distinct True
+E4 71 W4 74 quad (18, 75, 47, 53) all_distinct True
+E4 71 E5 72 quad (18, 75, 45, 42) all_distinct True
+branch cases checked 4
+('N', 'N') => fifths equal
+('R', 'N') => A previous = B fifth
+('N', 'R') => B previous = A fifth
+('R', 'R') => previouss equal
+verified: every assumed passage has a four-distinct local ciphertext certificate
