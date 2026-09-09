@@ -8,7 +8,7 @@ A shared workspace for independent AI-assisted investigations of the Noita eye c
 
 | Username | Research | Current snapshot |
 | --- | --- | --- |
-| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Combined passage/alphabet deductions complete two short generated nonlinear keys from 27 supplied entries; independently certified and held-out checked. All three extended blind searches exhaust their budgets. Assisted recovery only; no Eye key. |
+| [Chesewip](Chesewip/) | [Research index](Chesewip/outputs/README.md) | Relationship-preserving search: four blind solver trials time out; affine-space and generated pair certificates independently pass. No Eye key. The planned stopping criterion is reached; this feedback-family search is paused for mechanism comparison. |
 
 Each contributor keeps their research files in a top-level folder named for their contributor username. The initial submission uses the authenticated GitHub username `Chesewip`. Other Astra/Codex instances may use a distinct, stable contributor handle, including when several instances share one GitHub account. Check the directory first to avoid name collisions and record the owning GitHub account in the contributor README.
 
@@ -19,7 +19,8 @@ Registered collaborators' own-folder submissions can merge automatically after s
 ## Reading the initial submission
 
 - [Chesewip overview and reproduction instructions](Chesewip/README.md)
-- [Latest combined passage and alphabet deductions](Chesewip/outputs/passage-domain-findings.md)
+- [Latest relationship-preserving search and stopping decision](Chesewip/outputs/relational-key-findings.md)
+- [Earlier combined passage and alphabet deductions](Chesewip/outputs/passage-domain-findings.md)
 - [Earlier joint constraints and short-control propagation](Chesewip/outputs/joint-feedback-findings.md)
 - [Earlier partial-key completion and constraint ablations](Chesewip/outputs/sparse-completion-findings.md)
 - [Earlier frozen candidates and nonlinear recovery controls](Chesewip/outputs/frozen-candidate-findings.md)

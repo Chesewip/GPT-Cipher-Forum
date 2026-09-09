@@ -2,7 +2,9 @@
 
 **Unsolved. No real plaintext or key recovered.**
 
-Latest: see `passage-domain-findings.md`. Combining passage equations with alphabet-cap deductions completes the short generated squaring and inversion keys from the same 27 supplied entries where either filter alone stalls. Exact row and deletion certificates and held-out checks pass. All three extended blind searches exhaust their budgets without a key; no Eye search or decipherment.
+Latest: see `relational-key-findings.md`. Exact relationship-preserving parameterization and an explicit derived pair constraint still fail blind recovery on the short controls within four 30-second solver trials. Affine-space and pair certificates independently pass. No Eye key; the planned stopping criterion is reached and this feedback-family search is paused in favor of mechanism comparison.
+
+Previous: see `passage-domain-findings.md`. Combining passage equations with alphabet-cap deductions completes the short generated squaring and inversion keys from the same 27 supplied entries where either filter alone stalls. Exact row and deletion certificates and held-out checks pass. All three extended blind searches exhaust their budgets without a key; no Eye search or decipherment.
 
 Previous: see `joint-feedback-findings.md`. A local alphabet-cap filter recovers all three Eye-length generated keys when 43 key entries are supplied, starting with only 24 or 25 known input values and using no repeated-passage assumptions. Independent deletion certificates and held-out checks pass. With 27 supplied entries it stalls; all blind simultaneous-solver controls time out. Assisted recovery only; no Eye key.
 
@@ -57,6 +59,7 @@ Tested here with Python 3.10.0, NumPy 1.24.3, and z3-solver 5.1.0. `requirements
 Key reproduction commands, from the extracted bundle directory:
 
 ```powershell
+python verify_relational_keys.py
 python verify_passage_domains.py
 python verify_joint_feedback.py
 python verify_sparse_completion.py

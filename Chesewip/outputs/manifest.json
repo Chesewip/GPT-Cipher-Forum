@@ -437,6 +437,11 @@
       "bytes": 5523
     },
     {
+      "name": "checked_relational_keys.json",
+      "sha256": "4a0a5be43865a1ca86037bf3a0c3815d45b94ec1ee577346fbef53b76361ce96",
+      "bytes": 2329
+    },
+    {
       "name": "checked_relative_cycle_integer.json",
       "sha256": "40a56d3a9d6361564ddf8dad2a93bb72a28bb3c198a5fdbd5707b085a733e8e4",
       "bytes": 637
@@ -1798,8 +1803,8 @@
     },
     {
       "name": "README.md",
-      "sha256": "d2a1c9e28bc2164ebaf34db194024d95385c630650351c3af903c8ad7a71d656",
-      "bytes": 14570
+      "sha256": "f72c28104f2720bcd56e12480ef493583a62d66b677a38a42bbd6a0f4403fd91",
+      "bytes": 15008
     },
     {
       "name": "reconvergence_controls.json",
@@ -1880,6 +1885,26 @@
       "name": "refined_returns_20_8.json",
       "sha256": "fddadff63160134d04b426241a65896ada72cb1b5dbce35ab61edd50888e631d",
       "bytes": 8957
+    },
+    {
+      "name": "relational-key-findings.md",
+      "sha256": "c500008539b36fc11b03178c9346e3ce3261d36038c96f84516ca7cb2915522f",
+      "bytes": 9250
+    },
+    {
+      "name": "relational_key_search.json",
+      "sha256": "2fafcf8f9d11c3080ae1e9d3b749d0342b0ad2f5c1a61a4dea7257614bcc1e19",
+      "bytes": 189898
+    },
+    {
+      "name": "relational_key_search.py",
+      "sha256": "4410e03731190513819f29da8e10cbbcbdabda7025a26af76c06e58b4958b01d",
+      "bytes": 7702
+    },
+    {
+      "name": "relational_pair_cut.json",
+      "sha256": "27b3d06bb2aa80160744b6a0452ad8b15b85c63ba3c62a0075421b74b7957294",
+      "bytes": 78568
     },
     {
       "name": "relative_cycle_controls.json",
@@ -2680,6 +2705,11 @@
       "name": "verify_reduction.py",
       "sha256": "5b8448d4bc4239782d75443ed4a27cb9346cba309dbf2d4c389ee2b84a50aaa4",
       "bytes": 2454
+    },
+    {
+      "name": "verify_relational_keys.py",
+      "sha256": "a131fa03c44446b8f604442410adb545411359e5ea53eac58f8acc9c91a8ff65",
+      "bytes": 6748
     },
     {
       "name": "verify_relative_cycle_integer.py",

@@ -1,0 +1,71 @@
+{
+  "status": "Independent relational-space and pair checks passed; no blind key recovered.",
+  "source_hashes": {
+    "frozen_candidate_search.json": "bea0880052fe7f2829bc43ad6c9955ae2ce76a7e28fc7bf424bccace5865a9ab",
+    "passage_domain_search.json": "4584fdafde2c624f5bf6bde23b02fe4f961525d265ded2c54423c1fd6e507392",
+    "relational_key_search.json": "2fafcf8f9d11c3080ae1e9d3b749d0342b0ad2f5c1a61a4dea7257614bcc1e19",
+    "relational_pair_cut.json": "27b3d06bb2aa80160744b6a0452ad8b15b85c63ba3c62a0075421b74b7957294"
+  },
+  "controls": [
+    {
+      "name": "add",
+      "status": "unknown",
+      "linear_rank": 39,
+      "affine_dimension": 44,
+      "solver_parameters": 44,
+      "omitted_feedback_parameters": 0,
+      "full_linear_space_verified": true,
+      "planted_key_inside_parameterization": true,
+      "largest_linear_sum_bound": 17260,
+      "solve_seconds": 30.2029999999977
+    },
+    {
+      "name": "square",
+      "status": "unknown",
+      "linear_rank": 28,
+      "affine_dimension": 138,
+      "solver_parameters": 89,
+      "omitted_feedback_parameters": 49,
+      "full_linear_space_verified": true,
+      "planted_key_inside_parameterization": true,
+      "largest_linear_sum_bound": 27306,
+      "solve_seconds": 30.20300000000134
+    },
+    {
+      "name": "inverse",
+      "status": "unknown",
+      "linear_rank": 45,
+      "affine_dimension": 121,
+      "solver_parameters": 84,
+      "omitted_feedback_parameters": 37,
+      "full_linear_space_verified": true,
+      "planted_key_inside_parameterization": true,
+      "largest_linear_sum_bound": 34112,
+      "solve_seconds": 30.28099999999904
+    }
+  ],
+  "reencrypted_symbols": 3081,
+  "pair_cut": {
+    "name": "square",
+    "status": "unknown",
+    "linear_rank": 28,
+    "affine_dimension": 138,
+    "solver_parameters": 89,
+    "omitted_feedback_parameters": 49,
+    "full_linear_space_verified": true,
+    "planted_key_inside_parameterization": true,
+    "largest_linear_sum_bound": 27306,
+    "solve_seconds": 30.21900000000096
+  },
+  "pair_relation": {
+    "labels": [
+      20,
+      46
+    ],
+    "distinct_pairs_before": 6806,
+    "pairs_after": 82,
+    "possible_values_per_label": 82,
+    "supplied_key_entries": 0,
+    "ordered_pairs_checked": 6889
+  }
+}
